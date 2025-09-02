@@ -10,6 +10,7 @@ parse(file, { columns: true, bom: true }, (err, data) => {
     if (state === 'OBSOLETE') return;
     const [name] = key.split('_');
     const path = './language/' + name + '.csv';
+    if (english.endsWith('.') && !translation.endsWith('.')) translation += '.';
     const value = [key, english, translation].join(' | ') + '\n';
     writeFileSync(path, value, { flag: 'a' });
     console.log(state, path, key);
