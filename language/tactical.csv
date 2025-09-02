@@ -1,0 +1,13 @@
+tactical_damaged | DAMAGED | ПОВРЕЖДЕННЫЙ
+tactical_detach_all | DETACH ALL | ОТСОЕДИНИТЬ ВСЕ
+tactical_docked | --- DOCKED --- | --- ЗАБЛОКИРОВАН ---
+tactical_evasion | EVASION | ЭВАЗИОН
+tactical_fire | FIRE | ПОЖАР
+tactical_hold | HOLD | УДЕРЖИВАТЬ
+tactical_lowpower | LOW POWER | НИЗКАЯ МОЩНОСТЬ
+tactical_maneuvering | MANEUVERING | Маневрирование
+tactical_reloading | RELOADING | ПЕРЕВОЗКА
+tactical_throttle | THROTTLE | ДВИГАТЕЛЬ
+tactical_undock | UNDOCK | РАЗБЛОКИРОВАТЬ
+tactical_velocity | VELOCITY | ВЕЛОСИПЕД
+tactical_weapons | WEAPONS | ОРУЖИЕ

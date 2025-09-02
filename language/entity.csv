@@ -1,0 +1,12 @@
+entity_dead | DEAD | МЕРТВЫЙ
+entity_death_co2poisoning | Carbon Dioxide | Углекислый газ
+entity_death_dehydration | Dehydration | Обезвоживание
+entity_death_injury | Fatal Injury | Смертельная травма
+entity_death_starvation | Starvation | Голод
+entity_death_suffocation | Suffocation | Удушье
+entity_dehydrated | DEHYDRATED | ДЕГИДРАТИРОВАННЫЙ
+entity_fainted | FAINTED | СМЕРТЕЛЬНАЯ ТРАВМА
+entity_stunned | STUNNED | ОГЛУШЕННЫЙ
+entity_suffocating | SUFFOCATING | ЗАДЫХАЮЩИЙСЯ
+entity_suitrequired | SUIT REQUIRED | ТРЕБУЕТСЯ СКАФАНДР
+entity_unconscious | UNCONSCIOUS | БЕЗ СОЗНАНИЯ

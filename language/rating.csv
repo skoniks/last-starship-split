@@ -1,0 +1,14 @@
+rating_combat | Combat | Бой
+rating_criminal | Criminal | Криминал
+rating_hostilesdestroyed | HOSTILES DESTROYED | УНИЧТОЖЕННЫЕ ВРАГИ
+rating_humanitarian | Humanitarian | Гуманитарная
+rating_industry | Industry | Промышленность
+rating_logistics | Logistics | Логистика
+rating_rank | RANK *X | РАНГ *X
+rating_rankincreased | RANK INCREASED | ПОВЫШЕНИЕ РАНГА
+rating_title_combat | Combat Rating | Боевой рейтинг
+rating_title_criminal | Criminal Rating | Криминальный рейтинг
+rating_title_humanitarian | Humanitarian Rating | Гуманитарный рейтинг
+rating_title_industry | Industry Rating | Рейтинг промышленности
+rating_title_logistics | Logistics Rating | Рейтинг логистики
+rating_word | rating | рейтинг

@@ -1,0 +1,59 @@
+shipeditor_brush_box | BOX TOOL | ЗАЛИВКА
+shipeditor_brush_freehand | FREEHAND | КИСТЬ
+shipeditor_commit | CONFIRM | ПОДТВЕРДИТЬ
+shipeditor_draw | DRAW | РИСОВАТЬ
+shipeditor_erase | ERASE | СТЕРЕТЬ
+shipeditor_mode_armour | Armour | Броня
+shipeditor_mode_createship | Create Ship | Создать
+shipeditor_mode_deconstruct | Destroy | Разрушить
+shipeditor_mode_dock | Dock | Док
+shipeditor_mode_eyedropper | Eyedropper | Пипетка
+shipeditor_mode_habitation | Habitation | Каюты
+shipeditor_mode_hull | Hull | Корпус
+shipeditor_mode_interior | Floors | Полы
+shipeditor_mode_scaffold | Scaffold | Каркасы
+shipeditor_mode_spawn | Spawn | Объекты
+shipeditor_mode_walls | Walls | Стены
+shipeditor_paint | PAINT | ПОКРАСКА
+shipeditor_paint_custom | Custom Paint | Пользовательская краска
+shipeditor_paint_detailprimary | Detail Primary | Деталь основной
+shipeditor_paint_detailsecondary | Detail Secondary | Деталь вторичный
+shipeditor_paint_detailtertiary | Detail Tertiary | Деталь дополнительный
+shipeditor_paint_erase | Background Paint | Задний план
+shipeditor_paint_name | Paint Name | Название краски
+shipeditor_paint_paint | Foreground Paint | Передний план
+shipeditor_paint_primary | Base Primary | База основной
+shipeditor_paint_secondary | Base Secondary | База вторичный
+shipeditor_paint_standard | Standard Paint | Стандартная краска
+shipeditor_palettelibrary_cancel | CANCEL | ОТМЕНА
+shipeditor_palettelibrary_confirm | CONFIRM | ПОДТВЕРДИТЬ
+shipeditor_palettelibrary_createname | CREATE NEW PALETTE | СОЗДАТЬ НОВУЮ ПАЛИТРУ
+shipeditor_palettelibrary_delete | DELETE | УДАЛИТЬ
+shipeditor_palettelibrary_export | EXPORT | ЭКСПОРТ
+shipeditor_palettelibrary_import | IMPORT | ИМПОРТ
+shipeditor_palettelibrary_title_export | EXPORT PALETTES | ЭКСПОРТИРОВАТЬ ПАЛИТРЫ
+shipeditor_palettelibrary_title_import | IMPORT PALETTES | ИМПОРТИРОВАТЬ ПАЛИТРЫ
+shipeditor_palettelibrary_upload | UPLOAD | ЗАГРУЗИТЬ
+shipeditor_price_button | Cost | Стоимость
+shipeditor_shipyardrequired1 | You must visit a Shipyard | Вы должны посетить верфь
+shipeditor_shipyardrequired2 | to apply your modifications | чтобы применить свои модификации
+shipeditor_stat_Capacity | Cabins | Каюты
+shipeditor_stat_Damage | Damage | Урон
+shipeditor_stat_Mass | Mass | Масса
+shipeditor_stat_Toughness | Toughness | Прочность
+shipeditor_stat_Value | Value | Значение
+shipeditor_symmetry | SYMMETRY | СИММЕТРИЯ
+shipeditor_symmetry_leftclickdrag | [LMB] Drag | [LMB] Перетащить
+shipeditor_symmetry_rightclicktoggle | [RMB] Toggle | [RMB] Переключение
+shipeditor_symmetry_short | S | S
+shipeditor_tooltip_armour | Upgrade your hull with armour panels to absorb damage | Улучшение корпуса с помощью броневых панелей для поглощения урона
+shipeditor_tooltip_createship | Create an entirely new ship from scratch | Создать абсолютно новый корабль с нуля
+shipeditor_tooltip_deconstruct | Deconstruct your ship square by square | Разрушить свой корабль квадрат за квадратом
+shipeditor_tooltip_dock | Install a docking port. Every ship needs at least one functioning docking port. | Установка стыковочного порта. Каждому кораблю необходим хотя бы один функционирующий стыковочный порт.
+shipeditor_tooltip_eyedropper | Lets you select a paint from the exterior of your ship (can also be used by pressing the "Shift" key) | Позволяет выбрать краску с внешней стороны твоего корабля (также можно использовать, зажав клавишу "Shift")
+shipeditor_tooltip_habitation | Expand your habitation deck to support more crew and passengers | Расширение жилой палубы для размещения большего количества экипажа и пассажиров
+shipeditor_tooltip_hull | Modify the shape of your spaceship hull | Изменение формы корпуса вашего корабля
+shipeditor_tooltip_interior | Open up the interior of your spaceship to create cabins | Расширение внутренней части космического корабля
+shipeditor_tooltip_scaffold | Add scaffolding to support equipment on the exterior of your ship | Добавление каркасов для поддержки оборудования на внешней стороне корабля
+shipeditor_tooltip_spawn | Spawn equipment and resources inside your ship. (Creative Mode only) | Устанавливайте оборудование и ресурсы внутри корабля. (только в творческом режиме)
+shipeditor_tooltip_walls | Build walls inside your spaceship to partition the interior space | Создание стен внутри вашего космического корабля

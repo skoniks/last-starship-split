@@ -1,0 +1,35 @@
+rise_ai_awaken1 | MMM...M.N.NNNNN.N.NMMM.AAA.A.A.HH.HHH.HH.H.H.HH | МММ... М... М... ННННН... НМММ... АААА... ААА... ХХХ... ХХХ... ХХХ... ХХХ..
+rise_ai_awaken2 | What was that? | Что это было?
+rise_ai_awaken3 | EEE.A.A.AAO.O.OUU.UUUM.M.MM.MM.MM | EEE.A.A.AAO.O.OUU.UUUM.M.MM.MM.MM
+rise_ai_name | core.nav.ai | core.nav.ai
+rise_aicall1 | The ship's computer is coming online now. | Компьютер корабля начинает работать.
+rise_aicall2 | We should be able to get some answers. Have your crew start a data transfer so we can get the flight logs. | Мы сможем получить ответы. Пусть ваша команда начнет передачу данных, чтобы мы могли получить бортовые журналы.
+rise_explorenebula1 | The nebula is so thick, it's blocking visibility. But we are detecting something on the sensors. They're here somewhere. | Туманность настолько плотная, что закрывает видимость. Но мы что-то фиксируем на сенсорах. Они где-то здесь.
+rise_explorenebula2 | You'll have to do a sweep of the area. Take it slow, and use the sensor view in TACTICAL to try to find the ship. | Вам придется прочесать местность. Не торопитесь и используйте обзор сенсоров в TACTICAL, чтобы попытаться найти корабль.
+rise_explorenebula3 | A debris field. Ominous. | Поле обломков. Зловеще.
+rise_explorenebula3b | Keep looking, Captain. | Продолжайте искать, капитан.
+rise_explorenebula4 | Oh god. | О боже.
+rise_explorenebula5 | More wreckage. More bodies.  The ship must be somewhere nearby. | Еще обломки. Больше тел.  Корабль должен быть где-то рядом.
+rise_foundship1 | What the hell happened? | Что, черт возьми, произошло?
+rise_foundship2 | The ship didn't even manage to activate its Flight Recorder.  We must investigate. | Корабль даже не смог активировать бортовой самописец.  Мы должны провести расследование.
+rise_foundship3 | The Docking Port is still operational.  Dock your ship with the Celestial Hammer, and take a team on-board to look for survivors. | Стыковочный порт все еще работает.  Пристыкуйте свой корабль к Небесному молоту" и возьмите на борт команду для поиска выживших".
+rise_foundship4 | They're all dead. | Они все мертвы.
+rise_foundship5 | Could it have been some sort of catastrophic accident? | Может, это была какая-то катастрофа?
+rise_foundship6 | I have to know what happened, Captain. | Я должен знать, что произошло, капитан.
+rise_foundship7 | Your crew will repair the reactors and power up the ship. Once they're done, bring the ship back to spacedock. I need to do a proper forensic investigation. | Ваша команда починит реакторы и включит питание корабля. Как только они закончат, верните корабль в космодром. Мне нужно провести надлежащее судебное расследование.
+rise_objective_combat | (Recommended) Prepare for combat | (Рекомендуется) Приготовиться к бою
+rise_objective_crewhammer | Transfer three crew | Перевести три экипажа
+rise_objective_dockhammer | Dock with the Celestial Hammer | Стыковка с "Небесным молотом
+rise_objective_findship | Find the Celestial Hammer | Найти Небесный молот
+rise_objective_recovership | Transfer the ship to a Shipyard for analysis | Передать корабль на верфь для анализа
+rise_objective_repairreactors | Wait for Reactor Repair [*X/3] | Дождаться ремонта реактора [*X/3]
+rise_objective_searchhammer | Search for survivors | Искать выживших
+rise_objective_traveltohammer | Travel to the Celestial Hammer | Путешествие к Небесному молоту
+rise_part1_advert | Captain, I need your help once again. One of my ships has gone missing out on a routine patrol. I fear the worst. I want you to find the ship, and bring her home. | Капитан, мне снова нужна ваша помощь. Один из моих кораблей пропал во время обычного патрулирования. Я опасаюсь худшего. Я хочу, чтобы вы нашли корабль и вернули его домой.
+rise_part1_briefing1 | Thank you Captain. It's good to work with you once again, although I wish it was under better circumstances. | Спасибо, капитан. Я рад снова работать с вами, хотя мне хотелось бы, чтобы это произошло при более благоприятных обстоятельствах.
+rise_part1_briefing2 | The ship in question is the Celestial Hammer. She was a major player in the battle against that cloaked pirate vessel. I lost contact with her a couple of days ago. | Корабль, о котором идет речь, - Небесный молот. Она принимала активное участие в сражении с тем замаскированным пиратским судном. Я потерял с ней связь пару дней назад.
+rise_part1_briefing3 | I suspect foul play here, Captain. There's no way a ship like the Celestial Hammer would just vanish. Something must have happened, and I'm assuming the worst. | Я подозреваю здесь нечестную игру, капитан. Не может быть, чтобы такой корабль, как "Небесный молот", просто исчез. Должно быть, что-то случилось, и я предполагаю худшее.
+rise_part1_briefing4 | The ship is heavily armed. If there is foul play at hand, well, I strongly advise you prepare for a fight. | Корабль хорошо вооружен. Если речь идет о нечестной игре, то я настоятельно советую вам приготовиться к бою.
+rise_part1_title | Rise of the Machines | Восстание машин
+rise_shipname_hammer | Celestial Hammer | Небесный молот
+rise_summary | Help Cmdr Harken recover their ship | Помогите командиру Харкену восстановить их корабль

@@ -1,0 +1,10 @@
+boost_airrecyclingefficiency | Air Recycling Efficiency +*X% | Эффективность переработки воздуха +*X%
+boost_DroneSpeed | Drone Top Speed +*X% | Максимальная скорость дрона +*X%
+boost_harvestingyield | Crop Yield +*X% | Урожайность +*X%
+boost_reactorefficiency | Reactor Efficiency +*X% | Эффективность реактора +*X%
+boost_recyclingefficiency | Recycling Efficiency *X% | Эффективность переработки *X%
+boost_RobotArmSpeed | Robot Arm Speed +*X% | Скорость руки робота +*X%
+boost_SmelterEfficiency | Smelter Efficiency +*X% | Эффективность плавильной печи +*X%
+boost_TrackSpeed | Track Speed +*X% | Скорость гусениц +*X%
+boost_wasterecyclingefficiency | Waste Recycling Efficiency +*X% | Эффективность переработки отходов +*X%
+boost_waterrecyclingefficiency | Water Recycling Efficiency +*X% | Эффективность переработки воды +*X%

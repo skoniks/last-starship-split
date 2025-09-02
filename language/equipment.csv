@@ -1,0 +1,23 @@
+equipment_blocked | BLOCKED | ЗАБЛОКИРОВАН
+equipment_factory_make | Make *X | Сделать *X
+equipment_factory_refine | Refine *X | Усовершенствовать *X
+equipment_factory_stop | STOP | ОСТАНОВИТЬ
+equipment_factory_stopped | STOPPED | ОСТАНОВЛЕН
+equipment_output | OUTPUT | ВЫХОД
+equipment_power | POWER | ПИТАНИЕ
+equipment_robotarm_forcedrop | FORCE DROP | ПРИНУДИТЕЛЬНЫЙ СБРОС
+equipment_robotarm_nopickup | SELECT TYPE | ВЫБРАТЬ ТИП
+equipment_robotarm_pickupnone | NONE | НЕТ
+equipment_storagecrate_capacity | CAPACITY | ВМЕСТИМОСТЬ
+equipment_storagecrate_dumping | DUMPING | СБРОС
+equipment_storagecrate_permitcrewload | CREW LOADING | ПОГРУЗКА ЭКИПАЖА
+equipment_storagecrate_permitcrewunload | CREW UNLOADING | РАЗГРУЗКА ЭКИПАЖА
+equipment_storagecrate_quantity | STORED: *X/*Y | СОХРАНЕНО: *X/*Y
+equipment_storagecrate_refill_disable | PRIORITISE CRATE | ПРИОРИТЕТ ЯЩИКА
+equipment_storagecrate_refill_enable | PRIORITISE ZONES | ПРИОРИТЕТНЫЕ ЗОНЫ
+equipment_temperature_short | TEMP | ТЕМП
+equipment_weaponsconsole_connected | Controlled by Weapons Console | Контролируется консолью оружия
+equipment_weaponsconsole_deselect | NONE | НЕТ
+equipment_weaponsconsole_extradescription | *X Connected weapons | *X Подключенное оружие
+equipment_weaponsconsole_locked | SLOT *X LOCKED | СЛОТ *X ЗАБЛОКИРОВАН
+equipment_weaponsconsole_noselection | SELECT WEAPON | ВЫБРАТЬ ОРУЖИЕ

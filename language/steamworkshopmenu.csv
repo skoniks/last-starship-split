@@ -1,0 +1,28 @@
+steamworkshopmenu_close | Close | Закрыть
+steamworkshopmenu_loadselectedsavegame | Load | Загрузить
+steamworkshopmenu_loadselectedship | Load | Загрузить
+steamworkshopmenu_publishedsavegamelistlabel | Published Save Games | Опубликованные сохранения игр
+steamworkshopmenu_publishedshiplistlabel | Published Ships | Опубликованные корабли
+steamworkshopmenu_refreshpublishedsavegamelist | Refresh List | Обновить список
+steamworkshopmenu_refreshpublishedshiplist | Refresh List | Обновить список
+steamworkshopmenu_refreshsubscribedsavegamelist | Refresh List | Обновить список
+steamworkshopmenu_refreshsubscribedshiplist | Refresh List | Обновить список
+steamworkshopmenu_savegamelegalagreementbutton | workshop terms of service | условиями обслуживания мастерской
+steamworkshopmenu_savegamelegalagreementtext | By submitting this item, you agree to the | Отправляя этот пункт, вы соглашаетесь с
+steamworkshopmenu_savegamesectionlabel |  ========================== Save Games ========================== |  ========================== Сохранить игры ==========================
+steamworkshopmenu_shiplegalagreementbutton | workshop terms of service | условиями обслуживания мастерской
+steamworkshopmenu_shiplegalagreementtext | By submitting this item, you agree to the | Отправляя этот товар, вы соглашаетесь с
+steamworkshopmenu_shipsectionlabel |  =============================== Ships =============================== |  =============================== Корабли ===============================
+steamworkshopmenu_subscribedsavegamelistlabel | Subscribed Save Games | Игры с сохранениями по подписке
+steamworkshopmenu_subscribedshiplistlabel | Subscribed Ships | Корабли с подпиской
+steamworkshopmenu_title | Steam Workshop Menu | Меню мастерской Steam
+steamworkshopmenu_updateselectedsavegame | Update Selected | Обновить Выбрано
+steamworkshopmenu_updateselectedship | Update Selected | Обновить Выбрано
+steamworkshopmenu_uploadsavegame | Upload | Загрузить
+steamworkshopmenu_uploadsavegamedesclabel | Description | Описание
+steamworkshopmenu_uploadsavegameprogress |  = |  =
+steamworkshopmenu_uploadsavegametitlelabel | Title | Название
+steamworkshopmenu_uploadship | Upload | Загрузить
+steamworkshopmenu_uploadshipdesclabel | Description | Описание
+steamworkshopmenu_uploadshipprogress |  = |  =
+steamworkshopmenu_uploadshiptitlelabel | Title | Название

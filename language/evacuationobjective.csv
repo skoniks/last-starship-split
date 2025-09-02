@@ -1,0 +1,12 @@
+evacuationobjective_accepted1 | Every colonised planet you visit will have civilians in need of evacuation. | На каждой колонизированной планете, которую вы посетите, будут гражданские лица, нуждающиеся в эвакуации.
+evacuationobjective_accepted2 | You will need to expand your habitation deck and even upgrade to a larger ship eventually. | Вам придется расширять жилую палубу и даже переоборудовать корабль.
+evacuationobjective_award | EVACUATION REWARD | ВОЗНАГРАЖДЕНИЕ ЗА ЭВАКУАЦИЮ
+evacuationobjective_description1 | Some of our scientists don't believe the void collapse can ever be stopped. | Некоторые наши ученые не верят, что коллапс пустоты можно остановить.
+evacuationobjective_description2 | If that's true then billions of people are going to need evacuation from our home planets. | Если это так, то миллиардам людей потребуется эвакуация с наших родных планет.
+evacuationobjective_description3 | There has never been an evacuation of so many people at once. | Никогда еще не происходило одновременной эвакуации такого количества людей.
+evacuationobjective_description4 | And we don't even know where we can go that will be safe. | И мы даже не знаем, куда можно отправиться, чтобы это было безопасно.
+evacuationobjective_nextbonus | Next bonus upon evacuation of *X civilians : $*Y. | Следующий бонус после эвакуации *X гражданских лиц: $*Y.
+evacuationobjective_success | Evacuated *X civilians | Эвакуировано *X гражданских лиц
+evacuationobjective_successbonus | Evacuated *X civilians. Funding bonus $*Y. | Эвакуировано *X гражданских лиц. Финансовый бонус $*Y.
+evacuationobjective_title | SPECIAL MISSION: EVACUATION | СПЕЦИАЛЬНАЯ МИССИЯ: ЭВАКУАЦИЯ
+evacuationobjective_total | You have evacuated *X civilians from doomed home worlds. | Вы эвакуировали *X гражданских лиц с обреченных родных миров.
