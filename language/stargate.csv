@@ -27,7 +27,7 @@ stargate_part1_objective_deliver3 | Deliver [*X/*Y] STARGATE FRAMES | Поста
 stargate_part1_objective_extraassembler | Setup another assembly table | Установите еще один сборочный стол
 stargate_part1_objective_extrafabricator | Setup another fabricator | Установите еще один фабрикатор
 stargate_part1_objective_hirecrew | Hire *X crew and buy *X spacesuits | Нанять *X экипаж и купить *X скафандры
-stargate_part1_objective_makebreathable | Make the cabin breathable | Сделать кабину воздухопроницаемой
+stargate_part1_objective_makebreathable | Make the cabin breathable | Сделать салон воздухопроницаемым
 stargate_part1_objective_manufacture | Manufacture [*X/*Y] STARGATE FRAMES | Изготовить [*X/*Y] РАМКИ СТАРГАТА
 stargate_part1_objective_manufacture2 | Manufacture [*X/*Y] STARGATE FRAMES | Изготовить [*X/*Y] СТАРГЕЙТОВЫХ КАМНЕЙ
 stargate_part1_objective_manufacture3 | Manufacture [*X/*Y] STARGATE FRAMES | Изготовить [*X/*Y] STARGATE FRAMES

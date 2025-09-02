@@ -53,7 +53,7 @@ shipeditor_tooltip_dock | Install a docking port. Every ship needs at least one 
 shipeditor_tooltip_eyedropper | Lets you select a paint from the exterior of your ship (can also be used by pressing the "Shift" key) | Позволяет выбрать краску с внешней стороны твоего корабля (также можно использовать, зажав клавишу "Shift")
 shipeditor_tooltip_habitation | Expand your habitation deck to support more crew and passengers | Расширение жилой палубы для размещения большего количества экипажа и пассажиров
 shipeditor_tooltip_hull | Modify the shape of your spaceship hull | Изменение формы корпуса вашего корабля
-shipeditor_tooltip_interior | Open up the interior of your spaceship to create cabins | Расширение внутренней части космического корабля
+shipeditor_tooltip_interior | Open up the interior of your spaceship to create cabins | Расширение внутренней части (салона) космического корабля
 shipeditor_tooltip_scaffold | Add scaffolding to support equipment on the exterior of your ship | Добавление каркасов для поддержки оборудования на внешней стороне корабля
-shipeditor_tooltip_spawn | Spawn equipment and resources inside your ship. (Creative Mode only) | Устанавливайте оборудование и ресурсы внутри корабля. (только в творческом режиме)
+shipeditor_tooltip_spawn | Spawn equipment and resources inside your ship. (Creative Mode only) | Устанавливайте оборудование и ресурсы внутри корабля (только в творческом режиме)
 shipeditor_tooltip_walls | Build walls inside your spaceship to partition the interior space | Создание стен внутри вашего космического корабля

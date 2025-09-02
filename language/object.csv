@@ -1,5 +1,5 @@
 object_airduct | Airduct | Воздуховод
-object_airduct_description | Pumps oxygen into the surrounding cabin until a breathable atmosphere is achieved. Must be supplied with Oxygen through a pipe. | Нагнетает кислород в окружающую кабину, пока не будет достигнута пригодная для дыхания атмосфера. Кислород должен подаваться по трубе.
+object_airduct_description | Pumps oxygen into the surrounding cabin until a breathable atmosphere is achieved. Must be supplied with Oxygen through a pipe. | Нагнетает кислород в окружающий салон, пока не будет достигнута пригодная для дыхания атмосфера. Кислород должен подаваться по трубе.
 object_airreprocessor | Air Reprocessor | Репроцессор воздуха
 object_airreprocessor_description | Converts CO2 into breathable Oxygen. | Преобразует CO2 в пригодный для дыхания кислород.
 object_assembler | Assembly Table | Сборочный стол
