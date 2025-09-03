@@ -166,11 +166,11 @@ object_stableisotopes | Stable Isotopes | Стабильные изотопы
 object_stablezeleon | Stable Zeleon | Стабильный Зелеон
 object_stairs | Ladder | Лестница
 object_stairs_description | Crew and passengers can only access the upper habitation deck with a ladder. | Экипаж и пассажиры могут попасть на верхнюю жилую палубу только по лестнице.
-object_stargateactuator | Stargate Actuator | Привод звездных врат
-object_stargatecapacitor | Stargate Capacitor | Конденсатор звездных врат
-object_stargatereceiver | Stargate Receiver | Приемник звездных врат
-object_stargateresin | Stargate Resin | Смола для звездных врат
-object_stargatestructure | Stargate Frame | Рама звездных врат
+object_stargateactuator | Stargate Actuator | Привод Звездных Врат
+object_stargatecapacitor | Stargate Capacitor | Конденсатор Звездных Врат
+object_stargatereceiver | Stargate Receiver | Приемник Звездных Врат
+object_stargateresin | Stargate Resin | Смола Звездных Врат
+object_stargatestructure | Stargate Frame | Рама Звездных Врат
 object_storagecrate | Storage Crate | Ящик для хранения
 object_storagecrate_description | Storage crate, stores a single type of resource but at 4x the usual amount per square | Ящик для хранения, хранит один тип ресурсов, но в 4 раза больше обычного количества на квадрат
 object_supercomputer | Super Computer | Суперкомпьютер
