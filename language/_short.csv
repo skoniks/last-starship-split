@@ -1,0 +1,341 @@
+action_closedoors | Close All Doors | Закрыть все двери
+action_closevents | Close All Vents | Закрыть вентиляцию
+action_opendoors | Open All Doors | Открыть все двери
+action_openvents | Open All Vents | Открыть вентиляцию
+analyticsconsentdialog_accept | Accept | Принять
+analyticsconsentdialog_moreinfo | More Info... | Подробнее..
+analyticsconsentdialog_reject | Reject | Отклонить
+analyticsconsentdialog_text | We need to collect usage data to help us to better understand how people are playing and to help us to improve the game. \n\nWe do not collect any personally identifiable information. If you are OK with this please hit the Accept button. | Нам необходимо собирать данные об использовании игры, чтобы лучше понять, как люди играют, и помочь нам улучшить игру. \n\nМы не собираем никакой персональной информации. Если вы согласны с этим, пожалуйста, нажмите кнопку Принять.
+analyticsconsentdialog_title | Collection of Telemetry Data | Сбор телеметрических данных
+award_rewards | Rewards | Награды
+battle_title | BATTLE | БИТВА
+boost_airrecyclingefficiency | Air Recycling Efficiency +*X% | Эффективность переработки воздуха +*X%
+boost_DroneSpeed | Drone Top Speed +*X% | Максимальная скорость дрона +*X%
+boost_harvestingyield | Crop Yield +*X% | Урожайность +*X%
+boost_reactorefficiency | Reactor Efficiency +*X% | Эффективность реактора +*X%
+boost_recyclingefficiency | Recycling Efficiency *X% | Эффективность переработки *X%
+boost_RobotArmSpeed | Robot Arm Speed +*X% | Скорость руки робота +*X%
+boost_SmelterEfficiency | Smelter Efficiency +*X% | Эффективность плавильной печи +*X%
+boost_TrackSpeed | Track Speed +*X% | Скорость конвейера +*X%
+boost_wasterecyclingefficiency | Waste Recycling Efficiency +*X% | Эффективность переработки отходов +*X%
+boost_waterrecyclingefficiency | Water Recycling Efficiency +*X% | Эффективность переработки воды +*X%
+buynow_button | BUY NOW | КУПИТЬ СЕЙЧАС
+calltoarms_harken_1 | Captain, I'm the chief of security for this sector, and I need your help. | Капитан, я начальник службы безопасности этого сектора, и мне нужна ваша помощь.
+calltoarms_harken_2 | All across the sector, there are people in trouble who need our assistance. | По всему сектору есть люди, попавшие в беду, и им нужна наша помощь.
+calltoarms_harken_3 | I'm spread too thin. I can't be everywhere. You're more than capable, and I'll be there to offer advice when I can. | Я и так слишком загружен. Я не могу быть везде. Вы более чем способны справиться самостоятельно, и я буду рядом, чтобы дать совет, когда смогу.
+calltoarms_harken_4 | If you chose to help, I've marked the locations on your map, as GOLD HIGHLIGHTS. | Если вы решите помочь, я отметил эти места на вашей карте как ЗОЛОТЫЕ МАРКЕРЫ.
+calltoarms_harken_5 | Thank you, Captain. | Спасибо, капитан.
+calltoarms_harkenrailroad_1 | My name is Commander Harken, and I'm the Chief of Private Security for the sector. | Меня зовут коммандер Харкен, я начальник службы личной безопасности сектора.
+calltoarms_harkenrailroad_2 | There is a crisis underway, Captain.  Commercial vessels are going missing, all across the sector.  I suspect foul play, and I need your help to investigate. | Назревает кризис, капитан.  По всему сектору пропадают коммерческие суда.  Я подозреваю нечестную игру, и мне нужна ваша помощь в расследовании.
+calltoarms_harkenrailroad_3 | We've recieved reports of a shipwreck nearby. I believe it to be the wreckage of THE INTERSTELLAR PROSPECTOR - a large commercial vessel that went missing yesterday. | Мы получили сообщение о кораблекрушении неподалеку. Я полагаю, что это обломки THE INTERSTELLAR PROSPECTOR - большого коммерческого судна, которое пропало вчера.
+calltoarms_harkenrailroad_4 | Travel to the shipwreck and look for a Black Box Flight Recorder in the wreckage.  This device will contain a log of their final moments. | Отправляйтесь к затонувшему кораблю и найдите на его обломках бортовой самописец Черный ящик.  В этом устройстве будет храниться запись последних минут их жизни.
+calltoarms_harkenrailroad_5 | To collect the flight recorder you'll need to install a DRONE BAY and at least one LOGISTICS DRONE. You can buy them from any Shipyard or Colony. | Чтобы забрать бортовой самописец, вам потребуется установить DRONE BAY и хотя бы один LOGISTICS DRONE. Их можно купить на любой верфи или в колонии.
+calltoarms_harkenrailroad_6 | I've marked the location of the shipwreck on your map as a Gold Highlight.  Good luck, Captain. | Я отметил местоположение затонувшего корабля на вашей карте как ЗОЛОТОЙ МАРКЕР.  Удачи, капитан.
+communicator_incomingcall | INCOMING HAIL... | ВХОДЯЩИЙ СИГНАЛ..
+communicator_outgoingcall | CALLING... | ВЫЗОВ..
+debugbuildpanel_armour | Armour | Броня
+debugbuildpanel_cable | Cable | Кабель
+debugbuildpanel_damage | Damage | Повреждение
+debugbuildpanel_entity | Entity | Объект
+debugbuildpanel_equipment | Equipment | Оборудование
+debugbuildpanel_floor | Floor | Пол
+debugbuildpanel_frame | Frame | Рама
+debugbuildpanel_habitation | Habitation | Каюты
+debugbuildpanel_hull | Hull | Корпус
+debugbuildpanel_interior | Interior | Интерьер
+debugbuildpanel_pipe | Pipe | Трубы
+debugbuildpanel_scaffold | Scaffold | Каркасы
+debugbuildpanel_wall | Wall | Стена
+designation_civilian | Civilian | Гражданские
+designation_crewquarters | Crew Quarters | Каюты экипажа
+dialogcomponent_button | Button | Кнопка
+dialogcomponent_canvas | Canvas | Холст
+dialogcomponent_caption | Caption | Надпись
+dialogcomponent_checkbox | Checkbox | Чекбокс
+dialogcomponent_container | Container | Контейнер
+dialogcomponent_custom | Custom | Пользовательский
+dialogcomponent_dropdownmenu | DropDownMenu | Выпадающее меню
+dialogcomponent_iconbox | IconBox | Значок
+dialogcomponent_inputfield | InputField | Поле ввода
+dialogcomponent_inputslider | InputSlider | Ползунок
+dialogcomponent_progressbar | ProgressBar | Индикатор выполнения
+dialogcomponent_scrollbar | Scrollbar | Полоса прокрутки
+dialogcomponent_selectionlist | SelectionList | Список выбора
+dialogcomponent_selectionlistitem | SelectionListItem | Элемент списка выбора
+dialogcomponent_titlecaption | TitleCaption | Заголовок
+dialogeditor_back | Back | Назад
+dialogeditor_background | BG img | BG img
+dialogeditor_caption | Caption | Надпись
+dialogeditor_component | Component | Компонент
+dialogeditor_create | Create | Создать
+dialogeditor_front | Front | Вперед
+dialogeditor_grid | Grid | Сетка
+dialogeditor_panel | Panel | Панель
+dialogeditor_reloadlanguage | Reload Language | Перезагрузить язык
+dialogeditor_select | Select | Выберите
+dialogeditor_test | Test | Тест
+dialogeditor_title | Dialog Editor | Редактор диалогов
+dialogeditor_window | Window | Окно
+dialogposition_absolute | Absolute | Абсолютный
+dialogposition_relative | Relative | Относительный
+dialogposition_scaled | Scaled | Масштабированный
+ellipsis | ... | ...
+entity_dead | DEAD | МЕРТВ
+entity_death_co2poisoning | Carbon Dioxide | Отравление
+entity_death_dehydration | Dehydration | Обезвоживание
+entity_death_injury | Fatal Injury | Смертельная травма
+entity_death_starvation | Starvation | Голод
+entity_death_suffocation | Suffocation | Удушье
+entity_dehydrated | DEHYDRATED | ОБЕЗВОЖЕН
+entity_fainted | FAINTED | ОБМОРОК
+entity_stunned | STUNNED | ОГЛУШЕН
+entity_suffocating | SUFFOCATING | ЗАДЫХАЕТСЯ
+entity_suitrequired | SUIT REQUIRED | ТРЕБУЕТСЯ СКАФАНДР
+entity_unconscious | UNCONSCIOUS | БЕЗ СОЗНАНИЯ
+episode_awardreceived | AWARD RECEIVED | НАГРАДА ПОЛУЧЕНА
+episode_episodecompleted | EPISODE COMPLETED | ЭПИЗОД ЗАВЕРШЕН
+episode_part1 | PART 1 | ЧАСТЬ 1
+episode_part2 | PART 2 | ЧАСТЬ 2
+episode_part3 | PART 3 | ЧАСТЬ 3
+episode_part4 | PART 4 | ЧАСТЬ 4
+episode_part5 | PART 5 | ЧАСТЬ 5
+evacuationobjective_accepted1 | Every colonised planet you visit will have civilians in need of evacuation. | На каждой колонизированной планете, которую вы посетите, будут гражданские лица, нуждающиеся в эвакуации.
+evacuationobjective_accepted2 | You will need to expand your habitation deck and even upgrade to a larger ship eventually. | Вам придется расширять жилую палубу и даже переоборудовать корабль.
+evacuationobjective_award | EVACUATION REWARD | ВОЗНАГРАЖДЕНИЕ ЗА ЭВАКУАЦИЮ
+evacuationobjective_description1 | Some of our scientists don't believe the void collapse can ever be stopped. | Некоторые наши ученые не верят, что коллапс пустоты можно остановить.
+evacuationobjective_description2 | If that's true then billions of people are going to need evacuation from our home planets. | Если это так, то миллиардам людей потребуется эвакуация с наших родных планет.
+evacuationobjective_description3 | There has never been an evacuation of so many people at once. | Никогда еще не происходило одновременной эвакуации такого количества людей.
+evacuationobjective_description4 | And we don't even know where we can go that will be safe. | И мы даже не знаем, куда можно отправиться, чтобы это было безопасно.
+evacuationobjective_nextbonus | Next bonus upon evacuation of *X civilians : $*Y. | Следующий бонус после эвакуации *X гражданских лиц: $*Y.
+evacuationobjective_success | Evacuated *X civilians | Эвакуировано *X гражданских лиц
+evacuationobjective_successbonus | Evacuated *X civilians. Funding bonus $*Y. | Эвакуировано *X гражданских лиц. Финансовый бонус $*Y.
+evacuationobjective_title | SPECIAL MISSION: EVACUATION | СПЕЦИАЛЬНАЯ МИССИЯ: ЭВАКУАЦИЯ
+evacuationobjective_total | You have evacuated *X civilians from doomed home worlds. | Вы эвакуировали *X гражданских лиц с обреченных родных миров.
+factory_stockpileoutput | STOCKPILE | НАКОПИТЕЛЬ
+factory_stockpileoutput_tooltip | STOCKPILE\n\nWhen ticked, the produced items will be immediately unloaded into any cargo storage area, stockpiling the item.\n\nIf unticked, the produced item will remain until it is used somewhere, or until there is specific cargo space available. | НАКОПИТЕЛЬ\n\nКогда включено, произведенные предметы будут немедленно выгружены в любое доступное место для хранения, формируя запас.\n\nЕсли выключено, произведенные предметы останутся на месте до тех пор, пока они не будут использованы или не освободится место для хранения груза.
+feedback_button | Give Feedback | Оставить отзыв
+filedialog_title | Choose a File | Выберите файл
+format_currency | $*X | $*X
+format_per_square | *X / sq | *X / кв
+hudmode_external | EXTERNAL | ВНЕШНЯЯ
+hudmode_multisystemsimulation | MULTISYSTEM SIMULATION | МУЛЬТИСИСТЕМНОЕ МОДЕЛИРОВАНИЕ
+hudmode_tactical | TACTICAL | ТАКТИКА
+interstellar_travel | INTERSTELLAR TRAVEL | МЕЖЗВЕЗДНОЕ ПУТЕШЕСТВИЕ
+language_helpustranslate | Help Us Translate! | Помогите нам перевести!
+language_system | System | Системный
+legal_button | Legal Information | Юридическая информация
+loader_mode_load | Load | Загрузить
+loader_mode_stop | Stop | Остановка
+loader_mode_unload | Unload | Разгрузка
+logistics_tooltip_cancel_transfer | [RMB] Cancel 1 from *X | [RMB] Отменить 1 из *X
+logistics_tooltip_modifiers | Modifiers: | Модификаторы:
+logistics_tooltip_transfer | [LMB] Transfer 1 from *X | [LMB] Перевести 1 из *X
+logisticswindow_title | LOGISTICS | ЛОГИСТИКА
+missions_title | CONTRACTS | КОНТРАКТЫ
+newplayerhelp_fuelpipe | <FUEL PIPE | <ТРУБКА ДЛЯ ТОПЛИВА
+nomadobjective_accepted1 | You will need to turn your ships into a long term self sufficient fleet. | Вам нужно будет превратить свои корабли в долгосрочный самодостаточный флот.
+nomadobjective_accepted2 | Bring as many people with you as you can, and don't look back. | Заберите с собой как можно больше людей и не оглядывайтесь назад.
+nomadobjective_award | NOMAD REWARD | НАГРАДА КОЧЕВНИКА
+nomadobjective_current | You currently have *X residents within your fleet. | В настоящее время в вашем флоте *X жителей.
+nomadobjective_description1 | It's possible we won't ever be able to stop the void collapse anomaly. | Возможно, нам никогда не удастся остановить аномалию коллапса пустоты.
+nomadobjective_description2 | It may just keep expanding forever. There may be nowhere safe for us to stop. | Она может продолжать расширяться вечно. Возможно, нам не удастся найти безопасное место для остановки.
+nomadobjective_description3 | In which case we need to get used to living on self sufficient ships, indefinitely. | В таком случае нам нужно привыкнуть жить на самодостаточных кораблях бесконечно долго.
+nomadobjective_nextbonus | Next bonus when population reaches *X residents - $*Y. | Следующий бонус, когда население достигнет *X жителей - $*Y.
+nomadobjective_success | *X fleet residents | *X жителей флота
+nomadobjective_successbonus | Population has reached *X residents. Funding bonus $*Y. | Население достигло *X жителей. Финансовый бонус $*Y.
+nomadobjective_title | SPECIAL MISSION: NOMAD | СПЕЦИАЛЬНАЯ МИССИЯ: КОЧЕВНИК
+nomadobjective_total | Your highest population was *X residents within your fleet. | Наибольшая численность населения вашего флота составила *X жителей.
+opentextcrawl_1 | It is the 23rd century.  Humanity has colonised the stars. | На дворе 23 век.  Человечество колонизировало звезды.
+opentextcrawl_2 | Millions of people now live off world, sometimes hundreds of light years from Earth. | Миллионы людей теперь живут за пределами планеты, иногда в сотнях световых лет от Земли.
+opentextcrawl_3 | Word has reached Earth from one such colony. A dark anomaly has been seen, and cannot be explained. | Из одной такой колонии до Земли дошли вести. Была замечена темная аномалия, которую невозможно объяснить.
+opentextcrawl_4 | Where once there was a star, now there is nothing but a black void, slowly expanding. | Там, где когда-то была звезда, теперь лишь черная пустота, которая медленно расширяется.
+opentextcrawl_5 | Those who live nearby call it THE COLLAPSE, and believe it will eventually consume the entire galaxy. | Те, кто живет неподалеку, называют это явление КОЛЛАПСОМ и считают, что в конце концов оно поглотит всю галактику.
+opentextcrawl_6 | There are few who believe them. | Мало кто им верит.
+opentextcrawl_7 | Nevertheless, Earth has dispatched you and your crew in the science vessel PRAXIS to investigate. | Тем не менее, Земля направила вас и вашу команду на научном судне PRAXIS для расследования.
+opentextcrawl_survival_1 | It is the 23rd century.  Humanity has colonised the stars. | На дворе 23 век.  Человечество колонизировало звезды.
+opentextcrawl_survival_2 | Millions of people now live off world, sometimes hundreds of light years from Earth. | Миллионы людей теперь живут за пределами планеты, иногда в сотнях световых лет от Земли.
+opentextcrawl_survival_3 | Word has reached Earth from a distant science station. A dark anomaly has been detected, and cannot be explained. | На Землю пришло сообщение с далекой научной станции. Обнаружена темная аномалия, которую невозможно объяснить.
+opentextcrawl_survival_4 | Where once there was a star, now there is nothing but a black void, endlessly expanding and consuming everything in its path. | Там, где когда-то была звезда, теперь лишь черная пустота, бесконечно расширяющаяся и поглощающая все на своем пути.
+opentextcrawl_survival_5 | Scientists believe it will eventually consume the entire galaxy. | Ученые считают, что в конце концов она поглотит всю галактику.
+opentextcrawl_survival_6 | There is only one glimmer of hope. A STARGATE project, unfinished and unproven, offers an escape route to a distant Galaxy. | Есть только один проблеск надежды. Проект STARGATE, незаконченный и недоказанный, предлагает путь к спасению в далекой Галактике.
+opentextcrawl_survival_7 | But the scale of the catastrophe is almost too big to comprehend. Only a few will survive. | Но масштабы катастрофы почти непостижимы. Выживут лишь немногие.
+opentextcrawl_survival_8 | With a new ship and a new crew, you commit yourself to reaching the STARGATE with as many people as you can, before it's too late. | С новым кораблем и новой командой вы берете на себя обязательство добраться до STARGATE с максимальным количеством людей, пока не стало слишком поздно.
+opentextcrawlindustry_1 | It is the 23rd century.  Humanity has colonised the stars. | На дворе 23 век.  Человечество колонизировало звезды.
+opentextcrawlindustry_2 | Millions of people now live off world, sometimes hundreds of light years from Earth. | Миллионы людей теперь живут за пределами планеты, иногда в сотнях световых лет от Земли.
+opentextcrawlindustry_3 | The era of massive industrialisation of space has begun, feeding an insatiable desire for energy and metal. | Началась эпоха массовой индустриализации космоса, питающей ненасытную жажду энергии и металла.
+opentextcrawlindustry_4 | Powerful businesses control vast swathes of space, backed by untold reserves of wealth. | Могущественные компании контролируют огромные пространства космоса, опираясь на несметные запасы богатства.
+opentextcrawlindustry_5 | The CEO of one such company - the INTERSTELLAR MINING CORPORATION - has challenged humanity to build a stargate so powerful it can reach our nearest Galaxy. | Генеральный директор одной из таких компаний - INTERSTELLAR MINING CORPORATION - бросил человечеству вызов: построить настолько мощные звездные врата, чтобы они могли достичь ближайшей к нам Галактики.
+opentextcrawlindustry_6 | Trillions of dollars in funding have been set aside. | На это выделены триллионы долларов.
+opentextcrawlindustry_7 | The time is perfect for a small entrepreneurial and industrious team of miners to start a new career - and make their fortune in the stars. | Самое время для небольшой предприимчивой и трудолюбивой команды шахтеров начать новую карьеру - и сделать свое состояние на звездах.
+opentextcrawlstory_1 | It is the 23rd century.  Humanity has colonised the stars. | На дворе 23 век.  Человечество колонизировало звезды.
+opentextcrawlstory_2 | Millions now thrive on distant worlds, living hundreds of light years from Earth. | Миллионы людей живут на далеких мирах, удаленных от Земли на сотни световых лет.
+opentextcrawlstory_3 | As space becomes the new frontier, an era of unprecedented exploration and expansion unfolds. | Космос становится новым рубежом, и наступает эра беспрецедентных исследований и экспансии.
+opentextcrawlstory_4 | Powerful corporations dominate entire regions, but beyond their reach lies uncharted territory, filled with untold mysteries and boundless opportunities. | Могущественные корпорации господствуют над целыми регионами, но за пределами их влияния лежит неизведанная территория, полная невыразимых тайн и безграничных возможностей.
+opentextcrawlstory_5 | The CEO of the INTERSTELLAR MINING CORPORATION has issued a daring challenge: build a stargate powerful enough to reach our nearest galaxy. | Генеральный директор INTERSTELLAR MINING CORPORATION бросил дерзкий вызов: построить звездные врата, достаточно мощные, чтобы добраться до ближайшей галактики.
+opentextcrawlstory_6 | With trillions in funding up for grabs, the stage is set for fearless adventurers to forge their own path in the cosmos. | С триллионным финансированием на кону - вот она, сцена, на которой бесстрашные искатели приключений смогут проложить свой собственный путь в космосе.
+opentextcrawlstory_7 | Will you rise to the challenge, and chart your own course among the stars? | Примите ли вы вызов и проложите свой собственный курс среди звезд?
+order_autotradeactive | Auto Trade | Автоторговля
+order_battlestations | Battle Stations | Боевые станции
+order_exteriorwork | Exterior Work | Внешние работы
+order_fleetlogistics | Fleet Logistics | Логистика флота
+order_gather | Gather Materials | Собрать материалы
+order_mining | Mining | Добыча ископаемых
+order_none | None | Нет
+order_repairhull | Repair Hull | Ремонт корпуса
+order_salvage | Gather Salvage | Собирать утильсырье
+order_shiftwork | Shift Work | Переключить работу
+order_suitson | Suits On | Надеть костюмы
+order_weaponsactive | Weapons Free | Освободить оружие
+orders_crew | CREW | ЭКИПАЖ
+orders_doors | DOORS | ДВЕРИ
+orders_logistics | LOGISTICS | ЛОГИСТИКА
+origin_community | COMMUNITY | ОТ СООБЩЕСТВА
+origin_official | OFFICIAL | ОФИЦИАЛЬНЫЙ
+origin_shipcommunity | COMMUNITY SHIPS | КОРАБЛИ СООБЩЕСТВА
+origin_shipofficial | OFFICIAL SHIPS | ОФИЦИАЛЬНЫЕ КОРАБЛИ
+origin_shipsteam | SUBSCRIBED SHIPS ON STEAM WORKSHOP | КОРАБЛИ ЗАГРУЖЕННЫЕ ИЗ STEAM WORKSHOP
+origin_shipsteamuser | SHIPS UPLOADED TO STEAM WORKSHOP | КОРАБЛИ ЗАГРУЖЕННЫЕ В STEAM WORKSHOP
+origin_shipuser | PLAYER-MADE SHIPS | ВАШИ КОРАБЛИ
+origin_steam | SUBSCRIBED ON STEAM WORKSHOP | ПОДПИСАЛСЯ НА STEAM WORKSHOP
+origin_steamuser | UPLOADED TO STEAM WORKSHOP | ЗАГРУЖЕНО В STEAM WORKSHOP
+origin_user | PLAYER-MADE | СОЗДАНО ИГРОКОМ
+phase_title | Phase *X | Фаза *X
+powergrid_batteryhint | Install some Batteries to store reserve power from your Reactor. | Установите несколько аккумуляторов, чтобы запастись энергией из реактора.
+powergrid_category_battery | BATTERY | БАТАРЕЯ
+powergrid_category_defenses | DEFENSES | ОБОРОНА
+powergrid_category_engines | ENGINES | ДВИГАТЕЛИ
+powergrid_category_FTL | FTL | СВЕРХСВЕТСКОР
+powergrid_category_lifesupport | LIFE SUPPORT | ЖИЗНЕОБЕСПЕЧЕНИЕ
+powergrid_category_logistics | LOGISTICS | ЛОГИСТИКА
+powergrid_category_other | OTHER | ПРОЧЕЕ
+powergrid_category_reactor | REACTOR | РЕАКТОР
+powergrid_category_science | SCIENCE | НАУКА
+powergrid_category_stargate | STARGATE | ЗВЕЗДНЫЕ ВРАТА
+powergrid_category_weapons | WEAPONS | ОРУЖИЕ
+powergrid_demand | DEMAND *X Mw | ПОТРЕБЛЕНИЕ *X МВт
+powergrid_output | OUTPUT *X Mw | ВЫХОД *X МВт
+powergrid_power | POWER | ЭЛЕКТРОЭНЕРГИЯ
+powergrid_powershortagehint | Your ship cannot generate enough power. Consider installing more Reactors. | Ваш корабль не может генерировать достаточно энергии. Рассмотрите возможность установки большего количества реакторов.
+powergrid_stored | STORED *X Mw | ХРАНЕНИЕ *X МВт
+powergrid_title | POWER GRID | ЭЛЕКТРОСЕТЬ
+pressanykey | - continue - | - продолжение -
+profiler_glfinishcaption | glFinish | glFinish
+profiler_name | Name | Имя
+profiler_reset | Reset | Сброс
+profiler_timings | Timings | Тайминги
+profiler_title | Profiler | Профилировщик
+profiler_totaltime | Total | Всего
+rating_combat | Combat | Бой
+rating_criminal | Criminal | Криминал
+rating_hostilesdestroyed | HOSTILES DESTROYED | УНИЧТОЖЕННЫЕ ВРАГИ
+rating_humanitarian | Humanitarian | Гуманитарная
+rating_industry | Industry | Промышленность
+rating_logistics | Logistics | Логистика
+rating_rank | RANK *X | РАНГ *X
+rating_rankincreased | RANK INCREASED | ПОВЫШЕНИЕ РАНГА
+rating_title_combat | Combat Rating | Боевой рейтинг
+rating_title_criminal | Criminal Rating | Криминальный рейтинг
+rating_title_humanitarian | Humanitarian Rating | Гуманитарный рейтинг
+rating_title_industry | Industry Rating | Рейтинг промышленности
+rating_title_logistics | Logistics Rating | Рейтинг логистики
+rating_word | rating | рейтинг
+ratings | RATINGS | РЕЙТИНГИ
+recipe_created_in | Created in *X | Создано в *X
+recipe_duration | Duration: *X seconds | Продолжительность: *X секунд
+recipe_quantity_required | *X x *Y | *X x *Y
+recipe_resources_required | Required resources | Необходимые ресурсы
+samplebank | (Sample Bank) | (Банк образцов)
+samplebankeditor_addsample | Add Sound | Добавить звук
+samplebankeditor_title | Sample Bank Editor | Редактор банка образцов
+save_cloudsavefailed_body | The game failed to save to the cloud, the game has been saved locally instead.\n\nPlease check that you have enough storage in the Steam Cloud and try again. | Не удалось сохранить игру в облаке, вместо этого она была сохранена локально.\n\nПожалуйста, проверьте, достаточно ли у вас места в облаке Steam, и попробуйте еще раз.
+save_cloudsavefailed_header | WARNING: Cloud Save Failed | ПРЕДУПРЕЖДЕНИЕ: Облачное сохранение не удалось
+save_demofullgame_load_body | The demo of The Last Starship can only load save games saved with the Demo. | Демоверсия The Last Starship может загружать только сохранения, сохраненные в демоверсии.
+save_demofullgame_load_header | Full Game Only | Только полная версия игры
+save_episodewarning_body | Due to incompatible changes in this version, your progress in active episodes will be reset. | Из-за несовместимых изменений в этой версии ваш прогресс в активных эпизодах будет сброшен.
+save_episodewarning_header | WARNING: Episode Progress | ПРЕДУПРЕЖДЕНИЕ: Прогресс эпизода
+save_stargateresetwarning_body | Due to new phases or storylines surrounding the stargate, your stargate progress has been reset. | Из-за новых этапов или сюжетных линий, связанных со звездными вратами, ваш прогресс в звездных вратах был сброшен.
+save_stargateresetwarning_header | WARNING: Stargate Progress | ПРЕДУПРЕЖДЕНИЕ: Прогресс Звездных Врат
+save_warning_body | You have loaded a game with a future save format, you may experience that some parts of the game do not work correctly | Вы загрузили игру с будущим форматом сохранения, некоторые части игры могут работать некорректно
+save_warning_header | WARNING: Loading future save version | ПРЕДУПРЕЖДЕНИЕ: Загрузка будущей версии сохранения
+sector_start | HOME SECTOR | ДОМАШНИЙ СЕКТОР
+shipai_closerangeaggressive | AI Controlled - Close Orbit | Управляется ИИ - близкая орбита
+shipai_fastmovingjet | AI Controlled - Strafing Runs | Управляется ИИ — маневры в обстреле
+shipai_longrangesniper | AI Controlled - Long-range | Управляется ИИ — дальняя дистанция
+shipai_mediumrangeorbit | AI Controlled - Medium-range | Управляется ИИ — средняя дальность
+shipai_strategyverycloseorbit | AI Controlled - Very Close Orbit | Управляется ИИ — очень близкая орбита
+shiplibrary_affordableonly | Affordable Only | Только по доступным ценам
+shiplibrary_hullonly | [EMPTY HULL] | [EMPTY HULL]
+smelt_title | Smelt *X | Плавка *X
+soundchannelviewer_title | Sound Channels | Звуковые каналы
+sounddspeditor_title | DSP Editor | Редактор DSP
+soundeditor_attacktitle | Attack | Атака
+soundeditor_dsptitle | DSP | DSP
+soundeditor_frequencytitle | Frequency | Частота
+soundeditor_instancetitle | Instance Type | Тип экземпляра
+soundeditor_loopdelaytitle | Loop Delay | Петлевая задержка
+soundeditor_looptitle | Loop Type | Тип петли
+soundeditor_mindistancetitle | Min Distance | Мин расстояние
+soundeditor_newdsp | Add DSP | Добавить DSP
+soundeditor_nexteventtitle | Next Event | Следующее событие
+soundeditor_play | Play | Воспроизведение
+soundeditor_positiontitle | Position Type | Тип позиции
+soundeditor_releasetitle | Release | Релиз
+soundeditor_soundnametitle | Sound Name | Имя звука
+soundeditor_sourcetypetitle | Sound Type | Тип звука
+soundeditor_stop | Stop | Остановить
+soundeditor_sustaintitle | Sustain | Сустейн
+soundeditor_title | Sound Editor | Звуковой редактор
+soundeditor_volumetitle | Volume | Громкость
+soundinstanceeditor_title | Sound Instance Editor | Редактор звуковых экземпляров
+soundparametereditor_chaintitle | Chain | Цепочка
+soundparametereditor_linktitle | Linked To | Связано с
+soundparametereditor_smoothing | Smoothing | Сглаживание
+soundparametereditor_title | Sound Parameter | Параметр звука
+soundparametereditor_typetitle | Type | Тип
+soundparametereditor_updatetitle | Update Type | Тип обновления
+special_dronebatchcollection | Drone Batch Collection | Пакетный сбор с помощью дронов
+special_mininglaseraccuracy | Mining Laser Precision | Точность горного лазера
+special_stargatepart1 | Andromeda Project Phases 1, 2 | Проект Андромеда Фазы 1, 2
+special_stargatepart2 | Andromeda Project Phase 3 | Проект Андромеда Фаза 3
+special_stargatepart3 | Andromeda Project Phases 4, 5 | Проект "Андромеда" Фазы 4, 5
+speed_paused | PAUSED | ПРИОСТАНОВЛЕНО
+speed_slow | SLOW | МЕДЛЕННЫЙ
+stargatesectorwarning_harken_1 | Captain, this sector has never been visited before and it is outside of my security jurisdiction. | Капитан, этот сектор еще никто не посещал, и он находится вне юрисдикции моей службы безопасности.
+stargatesectorwarning_harken_2 | We have a full scan underway for the sector, once it's completed more locations will be marked on your map. In the systems surveyed so far we've found new resources, which may be just a glimpse into what this sector has to offer. | Мы проводим полное сканирование сектора, как только оно завершится, на твоей карте будет отмечено больше локаций. В обследованных на данный момент системах мы обнаружили новые ресурсы, которые могут быть лишь проблеском того, что может предложить этот сектор.
+stargatesectorwarning_harken_3 | Unfortunately, that means pirates will probably find their way here soon, but it seems clear for now. | К сожалению, это означает, что пираты наверняка скоро найдут сюда дорогу, но пока вроде все чисто.
+stargatesectorwarning_harken_4 | Severe weather has also been detected nearby. | Поблизости также была зафиксирована сильная непогода.
+stargatesectorwarning_harken_5 | Who knows what you may find out here. Be careful, Captain. | Кто знает, что вы можете здесь обнаружить. Будьте осторожны, капитан.
+stations_title | STATIONS | СТАНЦИИ
+steamstore_button | Visit Steam Store | Посетите магазин Steam
+tactical_damaged | DAMAGED | ПОВРЕЖДЕННЫЙ
+tactical_detach_all | DETACH ALL | ОТСОЕДИНИТЬ ВСЕ
+tactical_docked | --- DOCKED --- | --- ЗАБЛОКИРОВАН ---
+tactical_evasion | EVASION | ЭВАЗИОН
+tactical_fire | FIRE | ПОЖАР
+tactical_hold | HOLD | УДЕРЖИВАТЬ
+tactical_lowpower | LOW POWER | НИЗКАЯ МОЩНОСТЬ
+tactical_maneuvering | MANEUVERING | Маневрирование
+tactical_reloading | RELOADING | ПЕРЕВОЗКА
+tactical_throttle | THROTTLE | ДВИГАТЕЛЬ
+tactical_undock | UNDOCK | РАЗБЛОКИРОВАТЬ
+tactical_velocity | VELOCITY | ВЕЛОСИПЕД
+tactical_weapons | WEAPONS | ОРУЖИЕ
+tagline | THE LAST STARSHIP | ПОСЛЕДНИЙ ЗВЕЗДОЛЕТ
+tiddlet_boxed | Boxed | В коробке
+tiddlet_child | Baby | Малыш
+tiddlets3_summary | Assist the Institute with their experiments | Помочь Институту в проведении экспериментов
+toolsmenu_close | Close | Закрыть
+toolsmenu_dialogeditor | Dialog Editor | Редактор диалогов
+toolsmenu_spriteeditor | Sprite Editor | Редактор спрайтов
+toolsmenu_title | Tools Menu | Меню инструментов
+warning_deliveryblocked | DELIVERY BLOCKED | ДОСТАВКА ЗАБЛОКИРОВАНА
+warning_storagerequired | CREATE STORAGE ZONES | СОЗДАТЬ ЗОНЫ ХРАНЕНИЯ
+warning_suitsrequired | SPACESUITS REQUIRED | ТРЕБУЮТСЯ СКАФАНДРЫ
+warning_unbreathable | UNBREATHABLE | НЕПРИГОДЕН ДЛЯ ДЫХАНИЯ
+welfare_overlay_dehydrated | CREW DEHYDRATED | ЭКИПАЖ ОБЕЗВОЖЕН
+welfare_overlay_famished | CREW FAMISHED | ИЗГОЛОДАВШИЙСЯ ЭКИПАЖ
+welfare_overlay_hungry | CREW HUNGRY | ЭКИПАЖ ГОЛОДЕН
+welfare_overlay_severely_dehydrated | CREW SEVERELY DEHYDRATED | ЭКИПАЖ СИЛЬНО ОБЕЗВОЖЕН
+welfare_overlay_starving | CREW STARVING | ГОЛОДАЮЩИЙ ЭКИПАЖ
+welfare_overlay_thirsty | CREW THIRSTY | ИСПЫТЫВАЮЩИЙ ЖАЖДУ ЭКИПАЖ
+wishlist_button | Add to Wishlist | Добавить в список желаний
