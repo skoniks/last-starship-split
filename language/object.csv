@@ -154,8 +154,8 @@ object_smallstoragecrate_description | Small storage crate, stores a single type
 object_smalltable | Small Table | Маленький столик
 object_smalltank | Medium Tank | Средний резервуар
 object_smalltank_description | A storage tank that can store liquids and gases. | Резервуар, в котором могут храниться жидкости и газы.
-object_smelter | Smelter | Плавильня
-object_smelter_description | This industrial processing machine can melt ores into usable metal ingots. Once installed, click on it to change the ore type. | Эта промышленная машина может переплавлять руды в пригодные для использования металлические слитки. После установки нажмите на нее, чтобы изменить тип руды.
+object_smelter | Smelter | Плавильная печь
+object_smelter_description | This industrial processing machine can melt ores into usable metal ingots. Once installed, click on it to change the ore type. | Эта промышленная машина может переплавлять руды в пригодные для использования железные слитки. После установки нажмите на нее, чтобы изменить тип руды.
 object_sofa | Sofa | Диван
 object_solarpanel | Solar Panel | Солнечная панель
 object_solarpanel_description | These must be installed outside your ship, with scaffolding for support. Each panel generates 10MW. | Они должны быть установлены снаружи вашего корабля, с лесами для поддержки. Каждая панель генерирует 10 МВт.

@@ -41,7 +41,7 @@ blackhole_part2_objective_dock | Dock with Julian Martinez | Состыкова�
 blackhole_part2_objective_dronebay | Receive Drone Bay | Получить отсек для дронов
 blackhole_part2_objective_drones | Receive Logistics Drone | Получить логистический дрон
 blackhole_part2_objective_lasers | Receive 2x Mining Lasers | Получить 2x шахтерских лазера
-blackhole_part2_objective_mine | Mine Tilium Ore [*X/*Y] | Добыть Тилиевую руду [*X/*Y]
+blackhole_part2_objective_mine | Mine Tilium Ore [*X/*Y] | Добыть тилиевую руду [*X/*Y]
 blackhole_part2_objective_refine | Refine Tilium Crystals [*X/*Y] | Переработайте Тилиевые кристаллы [*X/*Y]
 blackhole_part2_objective_return | Return the Tilium Crystals to Dr. Martinez [*X/*Y] | Верните Тилиевые кристаллы доктору Мартинесу [*X/*Y]
 blackhole_part2_objective_smelter | Receive 1x Smelter | Получить 1х плавильную печь

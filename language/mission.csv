@@ -87,14 +87,14 @@ mission_industry_location | Travel to the asteroid belt | Путешествие
 mission_industry_lost | There is no more Tilium on board your ship. | На борту вашего корабля больше нет тилиума.
 mission_industry_meteorshower | WARNING: There are reports of a meteor shower in that system. (+50% pay). | ВНИМАНИЕ: Есть сообщения о метеоритном дожде в этой системе. (+50% к оплате).
 mission_industry_received | We have received *X Tilium out of a total of *Y. Total payment due $*Z. | Мы получили *X тилиума из общего количества *Y. Общая сумма платежа составляет $*Z.
-mission_industry_refined |  ==> The Tilium must first be refined in a Smelter prior to delivery. <== |  ==> Перед доставкой тилиум должен быть очищен в плавильне. <==
+mission_industry_refined |  ==> The Tilium must first be refined in a Smelter prior to delivery. <== |  ==> Перед доставкой тилиум должен быть очищен в плавильной печи. <==
 mission_industry_refined_title | Extract and refine critical resources | Добыть и переработать критически важные ресурсы
 mission_industry_refinedrequired | Then refine the mined ore in a Smelter. | Затем переработайте добытую руду в плавильной печи.
 mission_industry_requirements | This contract requires a suitable mining vessel, equipped with Mining Lasers and Logistics Drones. | Для выполнения этого контракта требуется подходящее шахтерское судно, оснащенное шахтерскими лазерами и логистическими дронами.
 mission_industry_return | Return to a colony or shipyard system to deliver the Tilium. | Вернитесь в систему колонии или верфи, чтобы доставить тилиум.
 mission_industry_shuttle | We've dispatched a shuttle to collect the Tilium Ore. | Мы отправили челнок для сбора тилиевой руды.
 mission_industry_success | Extracted *X/*Y Ore | Добытая *X/*Y руда
-mission_industry_tiliumrequired | Travel to the asteroid belt and extract *X Tilium ore. | Отправляйтесь в пояс астероидов и добывайте тилиевую руду *X.
+mission_industry_tiliumrequired | Travel to the asteroid belt and extract *X Tilium ore. | Отправляйтесь в пояс астероидов и добывайте *X тилиевой руды.
 mission_industry_title | Mining contract: Extract critical minerals | Контракт на добычу: добыть критически важную руду
 mission_missioncompleted | CONTRACT COMPLETED | ДОГОВОР ВЫПОЛНЕН
 mission_new | NEW | НОВОЕ
