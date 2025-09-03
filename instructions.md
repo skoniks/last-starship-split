@@ -47,7 +47,7 @@
 - Battery = Батарея
 - Box = Ящик
 - Broken Hop Drive = Сломанный хоп-драйв
-- Bullets = Пулеметные пули
+- Bullets = Пулеметные патроны
 - Cannon = Пушка
 - Cannon Shells = Пушечные снаряды
 - CO2 = CO2
@@ -68,7 +68,7 @@
 - Door = Дверь
 - Drone Bay = Отсек для дронов
 - Energy Cell = Энергетическая ячейка
-- Energy Cell Frame = Энергетическая ячейка каркаса
+- Energy Cell Frame = Каркас энергетической ячейки
 - Energy Transmitter = Передатчик энергии
 - Engine = Двигатель
 - Entity = Сущность
@@ -76,7 +76,7 @@
 - Explosives = Взрывчатка
 - Fabricator = Фабрикатор
 - Fighter = Истребитель
-- Flight Recorder = Регистратор полетов
+- Flight Recorder = Бортовой самописец
 - Food = Еда
 - Frame = Рама
 - FTL Charge = Сверхсветовой заряд
@@ -102,23 +102,23 @@
 - Metallic Minerals = Железная руда
 - Meteor = Метеор
 - Metreon Gas = Газ Метреона
-- Mineral Patch = Минеральный пластырь
-- Mining Laser = Горный лазер
+- Mineral Patch = Месторождение минералов
+- Mining Laser = Шахтерский лазер
 - Mission Cargo = Груз миссии
 - Motor = Двигатель
 - Munitions Bench = Верстак боеприпасов
 - Neubidium Capacitor = Конденсатор из Нейбидиума
 - Neubidium Ingot = Нейбидиумный слиток
 - Neubidium Ore = Нейбидиумная руда
-- NoType = NoType
+- NoType = Неопознанный
 - Ordnance = Боеприпасы
 - Oxygen = Кислород
 - Oxygen Loader = Погрузчик кислорода
 - Oxygen Maker = Генератор кислорода
-- Pot Plant = Горшечное растение
-- Power Coil = Катушка энергии
+- Pot Plant = Растение в горшке
+- Power Coil = Катушка питания
 - Charged Power Coil = Заряженная катушка питания
-- Power Injector = Инжектор энергии
+- Power Injector = Инжектор питания
 - Precious Metals = Драгоценные металлы
 - Precious Ore = Драгоценная руда
 - Processor = Процессор
@@ -184,9 +184,9 @@
 - Water Purifier = Очиститель воды
 - Weapons Control Centre = Центр управления оружием
 - Weapons Officer = Офицер
-- Zeleon Energy Cell = Энергетическая ячейка Зелеон
-- Zeleon Gas = Газ Зелеон
+- Zeleon Energy Cell = Энергетическая ячейка Зелеона
+- Zeleon Gas = Газ Зелеона
 
 ### ИТОГОВАЯ ЗАДАЧА:
 
-Проверь все файлы по порядку на соответствие инструкциям, если сомневаешься корректен ли перевод - уточни.
+Я буду отправлять файлы, проверяй их по порядку на соответствие инструкциям, если сомневаешься корректен ли перевод - уточни.
