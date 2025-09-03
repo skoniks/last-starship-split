@@ -5,6 +5,6 @@ boost_reactorefficiency | Reactor Efficiency +*X% | Эффективность �
 boost_recyclingefficiency | Recycling Efficiency *X% | Эффективность переработки *X%
 boost_RobotArmSpeed | Robot Arm Speed +*X% | Скорость руки робота +*X%
 boost_SmelterEfficiency | Smelter Efficiency +*X% | Эффективность плавильной печи +*X%
-boost_TrackSpeed | Track Speed +*X% | Скорость гусениц +*X%
+boost_TrackSpeed | Track Speed +*X% | Скорость конвейера +*X%
 boost_wasterecyclingefficiency | Waste Recycling Efficiency +*X% | Эффективность переработки отходов +*X%
 boost_waterrecyclingefficiency | Water Recycling Efficiency +*X% | Эффективность переработки воды +*X%

@@ -12,12 +12,12 @@ hud_direction_left | Aft | Корма
 hud_direction_right | Forward | Нос
 hud_direction_up | Port | Левый борт
 hud_disabled | Disabled | Отключено
-hud_drones_deployed | WARNING - DRONES DEPLOYED: *X | ПРЕДУПРЕЖДЕНИЕ - ЗАДЕЙСТВОВАНЫ ДРОНЫ: *X
+hud_drones_deployed | WARNING - DRONES DEPLOYED: *X | ПРЕДУПРЕЖДЕНИЕ - ЗАПУЩЕНЫ ДРОНЫ: *X
 hud_editor | EDITOR | РЕДАКТОР
 hud_enabled | Enabled | Включено
 hud_endcreativemode | Creative Mode will end | Творческий режим завершится
 hud_endcreativemode2 | When you jump to hyperspace | Когда вы перейдете в гиперпространство
-hud_endcreativemodefull | Creative Mode will end when you jump to hyperspace | Творческий режим закончится, когда вы прыгнете в гиперпространство
+hud_endcreativemodefull | Creative Mode will end when you jump to hyperspace | Творческий режим завершится, когда вы перейдете в гиперпространство
 hud_endcreativemodewarning | LEAVING CREATIVE MODE | ВЫХОД ИЗ ТВОРЧЕСКОГО РЕЖИМА
 hud_fabricateship | FABRICATE A SHIP | ИЗГОТОВИТЬ КОРАБЛЬ
 hud_ftl | FTL Drive | Сверхсветовой привод
@@ -28,7 +28,7 @@ hud_ftlexcluded | Stay | Остаться
 hud_ftlincluded | Jump | Прыжок
 hud_ftlloading | Loading... | Загрузка..
 hud_ftlnodestination | NO DESTINATION | НЕТ МЕСТА НАЗНАЧЕНИЯ
-hud_ftlshipnotviablewarning | Ship needs either hull or scaffolding to be brought into hyperspace | Для вывода корабля в гиперпространство нужен либо корпус, либо леса
+hud_ftlshipnotviablewarning | Ship needs either hull or scaffolding to be brought into hyperspace | Для перехода корабля в гиперпространство необходим либо корпус, либо строительные леса
 hud_ftlwaiting | Waiting... | Ожидание..
 hud_hyperspace | HYPERSPACE | ГИПЕРПРОСТРАНСТВО
 hud_idle | Idle | Холостой ход
@@ -37,34 +37,34 @@ hud_invalidplacement | INVALID PLACEMENT | НЕПРАВИЛЬНОЕ РАЗМЕЩ
 hud_invalidplacement_tooltip | This equipment can not function properly when installed in this position. | Это оборудование не может функционировать должным образом, если установлено в таком положении.
 hud_jump | JUMP | ПРЫЖОК
 hud_jumpgatedamage | JUMPGATE OFFLINE DUE TO DAMAGE | ПРЫЖКОВЫЕ ВРАТА ОТКЛЮЧЕНЫ ИЗ-ЗА ПОВРЕЖДЕНИЙ
-hud_jumpgatedistance | ALL SHIPS MUST ENTER JUMPGATE | ВСЕ КОРАБЛИ ДОЛЖНЫ ВОЙТИ В ПРЫЖКОВЫЕ ВОРОТА
+hud_jumpgatedistance | ALL SHIPS MUST ENTER JUMPGATE | ВСЕ КОРАБЛИ ДОЛЖНЫ ВОЙТИ В ПРЫЖКОВЫЕ ВРАТА
 hud_jumpgaterequires | JUMPGATE UNAVAILABLE | ПРЫЖКОВЫЕ ВРАТА НЕДОСТУПНЫ
 hud_jumpnextsector | JUMP TO NEXT SECTOR | ПЕРЕХОД К СЛЕДУЮЩЕМУ СЕКТОРУ
 hud_jumpthroughstargate | JUMP THROUGH STARGATE | ПРЫЖОК ЧЕРЕЗ ЗВЕЗДНЫЕ ВРАТА
-hud_last_ftl_charge | WARNING - LAST FTL CHARGE\nCANNOT BUY AT DESTINATION | ПРЕДУПРЕЖДЕНИЕ - ПОСЛЕДНИЙ ПЕРЕВОЗЧИК\nНевозможно купить в пункте назначения
-hud_layer_derelict | DERELICT | ДЕРЕЛИКТ
+hud_last_ftl_charge | WARNING - LAST FTL CHARGE\nCANNOT BUY AT DESTINATION | ПРЕДУПРЕЖДЕНИЕ - ПОСЛЕДНИЙ ЗАРЯД FTL\nНЕЛЬЗЯ КУПИТЬ В ПУНКТЕ НАЗНАЧЕНИЯ
+hud_layer_derelict | DERELICT | ЗАБРОШЕННЫЙ ОБЪЕКТ
 hud_layer_forsale | [FOR SALE] | [ПРОДАЕТСЯ]
-hud_layer_hostile | HOSTILE | ПРИЮТ
+hud_layer_hostile | HOSTILE | ВРАЖДЕБНЫЕ СИЛЫ
 hud_layer_unnaned_system | UNNAMED | БЕЗЫМЯННЫЙ
 hud_mission_collection | WARNING - MISSION COLLECTION UNDERWAY | ПРЕДУПРЕЖДЕНИЕ - ИДЕТ СБОР МИССИИ
-hud_noftl | NO FTL FOUND | НЕ НАЙДЕНА СВЕРХСВЕТОВАЯ СКОРОСТЬ
+hud_noftl | NO FTL FOUND | СВЕРХСВЕТОВОЙ ПРИВОД НЕ НАЙДЕН
 hud_noships | NO SHIPS SELECTED | КОРАБЛИ НЕ ВЫБРАНЫ
 hud_open_tooltip | [LMB] Open Window | [LMB] Открыть окно
-hud_orders | ORDERS | ОРДЕРЫ
+hud_orders | ORDERS | ЗАКАЗЫ
 hud_outofalignment | Misaligned... | Невыровненный..
 hud_overlay_atmosphere | Atmosphere | Атмосфера
 hud_overlay_cables | Cables | Кабели
 hud_overlay_creativemode | - Creative Mode - | - Творческий режим -
 hud_overlay_exterior | Exterior | Экстерьер
 hud_overlay_habitation | Habitation | Каюты
-hud_overlay_jobs | Jobs | Рабочие места
+hud_overlay_jobs | Jobs | Задачи
 hud_overlay_pipes | Pipes | Трубы
 hud_overlay_schematic | Schematic | Схема
 hud_overlay_show | Show | Показать
 hud_overlay_structure | Structure | Структура
 hud_overlay_tactical | Tactical | Тактический
 hud_overlay_walls | Walls | Стены
-hud_overlays | OVERLAYS | СОВЕТЫ
+hud_overlays | OVERLAYS | НАЛОЖЕНИЯ
 hud_panel_storagecrate_ctrlclick | [CTRL] x9999 Containers | [CTRL] x9999 Контейнеры
 hud_panel_storagecrate_leftclick | [LMB] x1 Container | [LMB] x1 контейнер
 hud_panel_storagecrate_permitload | Allow crew members to load this crate.\n\nIf disabled then only robot arms can load. | Разрешить членам экипажа загружать этот ящик.\n\nЕсли отключено, то загружать могут только руки-роботы.
@@ -76,7 +76,7 @@ hud_preparejump | Prepare Jump | Подготовка к прыжку
 hud_preparingjump | Preparing Jump | Подготовка к прыжку
 hud_ready | READY | ГОТОВНОСТЬ
 hud_readytojump | Ready to Jump | Готовность к прыжку
-hud_removefromtrack | [RMB] Remove from track | [RMB] Убрать с пути
+hud_removefromtrack | [RMB] Remove from track | [RMB] Убрать с конвейера
 hud_repairship | REPAIR | РЕМОНТ
 hud_repairyourship | You should repair the damage to your ship at a SHIPYARD. | Вы должны отремонтировать поврежденный корабль на верфи.
 hud_scoresystem_population | Population | Население
@@ -97,7 +97,7 @@ hud_shipyard_repairship | Repair Ship | Отремонтировать кора�
 hud_shipyard_selectship | Select a ship | Выбрать корабль
 hud_shipyardservices | SHIPYARD SERVICES | УСЛУГИ ВЕРФИ
 hud_spacewalking_crew | WARNING - CREW IN SPACE: *X | ПРЕДУПРЕЖДЕНИЕ - ЭКИПАЖ В КОСМОСЕ: *X
-hud_status_allocated | Allocated | Выделено
+hud_status_allocated | Allocated | Присвоено
 hud_status_inprogress | In Progress | В процессе
 hud_storage | Storage | Хранение
 hud_storage_cargo | ANY CARGO | ЛЮБОЙ ГРУЗ
@@ -114,7 +114,7 @@ hud_tooltip_boxed | [BOXED] | [BOXED]
 hud_tooltip_charge | Charge | Зарядка
 hud_tooltip_joinpipes | [LMB] Join Pipes | [LMB] Соединить трубы
 hud_tooltip_leftclickbuild | [LMB] Build | [LMB] Построить
-hud_tooltip_leftclickchangerecipe | [LMB] Cycle recipe | [LMB] Циклический рецепт
+hud_tooltip_leftclickchangerecipe | [LMB] Cycle recipe | [LMB] Сменить рецепт
 hud_tooltip_leftclickdismantle | [LMB] Dismantle | [LMB] Демонтировать
 hud_tooltip_leftclickerase | [LMB] Erase | [LMB] Стереть
 hud_tooltip_leftclickplace | [LMB] Place | [LMB] Разместить
@@ -129,9 +129,9 @@ hud_tooltip_separatepipes | [LMB] Separate Pipes | [LMB] Разделить тр
 hud_totalconsumption | TOTAL CONSUMPTION | ОБЩЕЕ ПОТРЕБЛЕНИЕ
 hud_totalproduction | TOTAL PRODUCTION | ОБЩЕЕ ПРОИЗВОДСТВО
 hud_trade | Trade | Торговля
-hud_trade_hint | You must travel to a Colony or Shipyard to trade | Чтобы торговать, вы должны отправиться в колонию или на верфь
+hud_trade_hint | You must travel to a Colony or Shipyard to trade | Чтобы торговать, вам нужно отправиться в колонию или на верфь
 hud_trade_incoming | WARNING - TRADE INCOMING | ПРЕДУПРЕЖДЕНИЕ - ИДЕТ ТОРГОВЛЯ
-hud_trade_owed | WARNING - TRADE OWED | ПРЕДУПРЕЖДЕНИЕ - ТОРГОВЛЯ ПРИЧИТАЕТСЯ
+hud_trade_owed | WARNING - TRADE OWED | ПРЕДУПРЕЖДЕНИЕ - ДОЛГ ПО ТОРГОВЛЕ
 hud_uninstall | Dismantle | Демонтировать
 hud_window_construction | CONSTRUCTION | КОНСТРУКЦИЯ
 hud_window_designation | DESIGNATION | НАЗНАЧЕНИЕ

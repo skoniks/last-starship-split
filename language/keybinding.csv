@@ -34,7 +34,7 @@ keybinding_rotateobject | Rotate Object | Повернуть объект
 keybinding_takescreenshot | Screenshot (+ {MetaCtrl}) | Скриншот (+ {MetaCtrl})
 keybinding_title_action | Action | Действие
 keybinding_title_key | Key | Ключ
-keybinding_togglemap | Toggle Map | Карта галактики
+keybinding_togglemap | Toggle Map | Карта сектора
 keybinding_togglepause | Pause | Пауза
 keybinding_toggletactical | Toggle Tactical | Тактический вид
 keybinding_zoomin | Zoom In | Приблизить

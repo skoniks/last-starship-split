@@ -21,7 +21,7 @@ newmainmenu_createnewexport | CREATE NEW EXPORT | СОЗДАТЬ НОВЫЙ ЭК
 newmainmenu_createnewsave | CREATE NEW SAVE | СОЗДАТЬ НОВОЕ СОХРАНЕНИЕ
 newmainmenu_createnewupload | CREATE NEW WORKSHOP ITEM | СОЗДАТЬ НОВЫЙ ЭЛЕМЕНТ МАСТЕРСКОЙ
 newmainmenu_createship | CREATE NEW SHIP | СОЗДАТЬ НОВЫЙ КОРАБЛЬ
-newmainmenu_darkmode | Galaxy Map Dark Mode | Темный режим карты галактики
+newmainmenu_darkmode | Galaxy Map Dark Mode | Темный режим Карты сектора
 newmainmenu_debug_freespace | Enable FreeSpace Debugging | Включить отладку в свободном пространстве
 newmainmenu_deletegame | DELETE GAME | УДАЛИТЬ ИГРУ
 newmainmenu_deleteship | DELETE SHIP | УДАЛИТЬ КОРАБЛЬ
