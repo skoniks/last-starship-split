@@ -179,7 +179,7 @@ CURRENT,object_stargatecapacitor,2624,Stargate Capacitor,Конденсатор 
 CURRENT,object_shieldedzeleoncanister,2624,Shielded Zeleon,Экранированный Зелеон
 CURRENT,object_shieldedcanistercomponent,2624,Shielded Canister,Экранированная канистра
 CURRENT,object_energycellframecomponent,2624,Energy Cell Frame,Энергетическая ячейка каркаса
-CURRENT,object_zeleonenergycell,2624,Zeleon Energy Cell,Энергетическая ячейка Zeleon
+CURRENT,object_zeleonenergycell,2624,Zeleon Energy Cell,Энергетическая ячейка Зелеон
 CURRENT,object_neubidiumcapacitor,2624,Neubidium Capacitor,Конденсатор из Нейбидиума
 CURRENT,alert_type_stargatelosingpower,2624,STARGATE LOSING POWER,ЗВЕЗДНЫЕ ВРАТА ТЕРЯЮТ ЭНЕРГИЮ
 CURRENT,alert_type_stargatelosingpower_caption,2624,*X MW / *Y MW Supplied,*X МВт / *Y МВт Поставляется

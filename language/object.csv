@@ -194,5 +194,5 @@ object_waterpurifier_description | Takes dirty water from sewage recycling or fr
 object_weaponsconsole | Weapons Control Centre | Центр управления оружием
 object_weaponsconsole_description | A terminal where a Weapons Officer can control multiple weapons at the same time. | Терминал, с которого офицер может управлять несколькими видами оружия одновременно.
 object_weaponsspecialist | Weapons Officer | Офицер
-object_zeleonenergycell | Zeleon Energy Cell | Энергетическая ячейка Zeleon
+object_zeleonenergycell | Zeleon Energy Cell | Энергетическая ячейка Зелеон
 object_zeleongas | Zeleon Gas | Газ Зелеон
