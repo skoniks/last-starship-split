@@ -1,6 +1,6 @@
 object_airduct | Airduct | Воздуховод
 object_airduct_description | Pumps oxygen into the surrounding cabin until a breathable atmosphere is achieved. Must be supplied with Oxygen through a pipe. | Нагнетает кислород в окружающий салон, пока не будет достигнута пригодная для дыхания атмосфера. Кислород должен подаваться по трубе.
-object_airreprocessor | Air Reprocessor | Репроцессор воздуха
+object_airreprocessor | Air Reprocessor | Редуктор воздуха
 object_airreprocessor_description | Converts CO2 into breathable Oxygen. | Преобразует CO2 в пригодный для дыхания кислород.
 object_assembler | Assembly Table | Сборочный стол
 object_asteroid | Asteroid | Астероид
@@ -9,11 +9,11 @@ object_battery_description | Stores any excess power available in the powergrid,
 object_box | Box | Ящик
 object_brokenhopdrive | Broken Hop Drive | Сломанный хоп-драйв
 object_brokenhopdrive_description | Broken hop drive, capable of hopping within systems | Сломанный хоп-драйв, способный прыгать внутри систем
-object_bullets | Bullets | Пули
-object_bullets_description | A box of ammo for a Gatling Gun (PDC). | Ящик патронов для пушки Гатлинга (PDC).
+object_bullets | Bullets | Пули для пулемета
+object_bullets_description | A box of ammo for a Gatling Gun (PDC). | Ящик патронов для пушки Пулемета.
 object_cannon | Cannon | Пушка
 object_cannon_description | A medium range weapon system that launches a barrage of explosive shells at the target. Cannon shells are excellent at dealing area-of-effect damage to an enemy ship, and will shred hull armour. | Оружейная система средней дальности, выпускающая шквал разрывных снарядов по цели. Пушечные снаряды отлично наносят урон по площади и разрушают броню корпуса.
-object_cannonshell | Cannon Shells | Пушечные снаряды
+object_cannonshell | Cannon Shells | Пули для пулемета
 object_carbondioxide | CO2 | CO2
 object_cargo | Cargo | Груз
 object_chair | Chair | Стул
@@ -23,7 +23,7 @@ object_civilian | Civilian | Гражданский
 object_coilcomponent | Energy Coil | Катушка энергии
 object_comet | Comet | Комета
 object_compost | Compost | Компост
-object_copperingot | Copper Ingot | Медные слитки
+object_copperingot | Copper Ingot | Медный слиток
 object_copperminerals | Copper Minerals | Медная руда
 object_crewmember | Crew | Экипаж
 object_data | Data | Данные
@@ -45,7 +45,7 @@ object_engine | Engine | Двигатель
 object_engine_description | The ship's main source of forward thrust.  Must be supplied with Fuel (via a pipe) and Power (via a cable). | Главный источник тяги корабля.  Должен получать топливо (по трубе) и энергию (по кабелю).
 object_entity | Entity | Сущность
 object_equipment | Equipment | Оборудование
-object_explosives | Explosives | Взрывчатые вещества
+object_explosives | Explosives | Взрывчатка
 object_fabricator | Fabricator | Фабрикатор
 object_fighter | Fighter | Истребитель
 object_FlightRecorder | Flight Recorder | Регистратор полетов
@@ -60,14 +60,14 @@ object_fusionreactor | Fusion Reactor | Реактор синтеза
 object_fusionreactor_description | Uses nuclear fusion of Deuterium to generate large amounts of energy. However the fusion reactor must be 'powered up' with a huge amount of energy before it will generate any power itself.\n\nGenerates a maximum power output of 500MW. | Использует ядерный синтез дейтерия для получения большого количества энергии. Однако реактор должен быть запитан огромным количеством энергии, прежде чем он сам начнет вырабатывать энергию.\n\nГенерирует максимальную мощность в 500 МВт.
 object_gascollector | Gas Collector | Газосборник
 object_gascollector_description | A large exterior vent that sucks in gases from space. Many gases found in nebulas can be used to produce useful resources like Fuel, FTL charges, and explosives. | Большое внешнее вентиляционное отверстие, всасывающее газы из космоса. Многие газы, встречающиеся в туманностях, можно использовать для производства полезных ресурсов, таких как топливо, сверхсветовые заряды и взрывчатка.
-object_gatlinggun | Gatling Gun | Пушка Гатлинга
-object_gatlinggun_description | A close range rapid-fire weapon system, primarily designed for defense against incoming fighters and ordnance.  The gatling gun excels at destroying fast-moving targets at close range, but lacks the punch to penetrate armoured targets. | Система скорострельного оружия ближнего боя, предназначенная в первую очередь для защиты от наступающих истребителей и боеприпасов.  Пушка Гатлинга отлично справляется с уничтожением быстродвижущихся целей на близком расстоянии, но не обладает достаточной мощью для пробития бронированных целей.
+object_gatlinggun | Gatling Gun | Пулемет
+object_gatlinggun_description | A close range rapid-fire weapon system, primarily designed for defense against incoming fighters and ordnance.  The gatling gun excels at destroying fast-moving targets at close range, but lacks the punch to penetrate armoured targets. | Система скорострельного оружия ближнего боя, предназначенная в первую очередь для защиты от наступающих истребителей и боеприпасов.  Пулемет отлично справляется с уничтожением быстродвижущихся целей на близком расстоянии, но не обладает достаточной мощью для пробития бронированных целей.
 object_generator | Generator | Генератор
 object_hullbreach | Hull Breach | Пролом корпуса
 object_hydroponics | Hydroponic Garden | Гидропонный сад
 object_hydroponics_description | An enclosed greenhouse device that can be used to grow crops, in order to feed your crew.  Requires compost and water, and Seeds to get things started. | Закрытое тепличное устройство, которое можно использовать для выращивания культур, чтобы прокормить команду.  Требуется компост, вода и семена для начала работы.
 object_hyperspacecollector | Hyperspace Scoop | Гиперпространственный совок
-object_hyperspacecollector_description | The Hyperspace Scoop sits at the front of a starship and faces the direction of travel. During hyperspace a strong magnetic field is projected forward, drawing in large volumes of interstellar matter. The isotopes gathered this way can be refined into FTL Fuel. | Гиперпространственный бункер располагается в передней части звездолета и обращен в направлении движения. В гиперпространстве сильное магнитное поле проецируется вперед, втягивая большие объемы межзвездной материи. Собранные таким образом изотопы могут быть переработаны в сверхсветовое топливо.
+object_hyperspacecollector_description | The Hyperspace Scoop sits at the front of a starship and faces the direction of travel. During hyperspace a strong magnetic field is projected forward, drawing in large volumes of interstellar matter. The isotopes gathered this way can be refined into FTL Fuel. | Гиперпространственный совок располагается в передней части звездолета и обращен в направлении движения. В гиперпространстве сильное магнитное поле проецируется вперед, втягивая большие объемы межзвездной материи. Собранные таким образом изотопы могут быть переработаны в сверхсветовое топливо.
 object_hyperspaceisotopes | Hyperspace Isotopes | Гиперпространственные изотопы
 object_hyperspacesensor | Hyperspace Sensor | Гиперпространственный датчик
 object_hyperspacesensorlr | Hyperspace Sensor LR | Гиперпространственный датчик LR
@@ -90,16 +90,16 @@ object_mininglaser_description | Can drill into mineral patches (found in astero
 object_missioncargo | Mission Cargo | Груз миссии
 object_motorcomponent | Motor | Двигатель
 object_munitionsfactory | Munitions Bench | Верстак боеприпасов
-object_munitionsfactory_description | A workbench where a skilled crew member can fabricate different forms of ammunition for ship weapon systems. Uses metal and explosives to produce Bullets, Railgun Slugs, Cannon Shells etc. | Верстак, на котором опытный член экипажа может изготовить различные виды боеприпасов для корабельных систем вооружения. Использует металл и взрывчатые вещества для производства пуль, пуль для рельсотронов, снарядов для пушек и т. д.
+object_munitionsfactory_description | A workbench where a skilled crew member can fabricate different forms of ammunition for ship weapon systems. Uses metal and explosives to produce Bullets, Railgun Slugs, Cannon Shells etc. | Верстак, на котором опытный член экипажа может изготовить различные виды боеприпасов для корабельных систем вооружения. Использует железные слитки и взрывчатку для производства пуль, пуль для рельсотронов, снарядов для пушек и т. д.
 object_neubidiumcapacitor | Neubidium Capacitor | Конденсатор из Нейбидиума
-object_neubidiumingot | Neubidium Ingot | Слиток Нейбидиума
-object_neubidiumore | Neubidium Ore | Руда нейбидиум
+object_neubidiumingot | Neubidium Ingot | Нейбидиумный слиток
+object_neubidiumore | Neubidium Ore | Нейбидиумная руда
 object_none | NoType | NoType
 object_ordnance | Ordnance | Боеприпасы
 object_oxygen | Oxygen | Кислород
 object_oxygenloader | Oxygen Loader | Погрузчик кислорода
 object_oxygenloader_description | Takes a pressurised canister of oxygen and pumps it into an underfloor pipe.  Use pipes to connect this to your Airduct, to supply oxygen to the cabin. | Берет баллон с кислородом под давлением и закачивает его в трубу под полом.  Используйте трубы для подключения к воздуховоду, чтобы подавать кислород в кабину.
-object_oxygenmaker | Oxygen Maker | Производитель кислорода
+object_oxygenmaker | Oxygen Maker | Генератор кислорода
 object_oxygenmaker_description | Uses electrical power to extract Oxygen from Water. | Использует электроэнергию для получения кислорода из воды.
 object_potplant | Pot Plant | Горшечное растение
 object_powercoil | Power Coil | Катушка энергии
@@ -109,15 +109,15 @@ object_preciousmetals | Precious Metals | Драгоценные металлы
 object_preciousore | Precious Ore | Драгоценная руда
 object_processorcomponent | Processor | Процессор
 object_proximitymine | Mine | Шахта
-object_railgun | Railgun | Рельсовая пушка
-object_railgun_description | An extremely accurate and long range weapon system that fires a solid slug of metal. The Railgun is a precise weapon that can penetrate through hull armour and destroy equipment inside the target ship. However, the weapon draws a huge amount of energy to recharge after each shot. | Чрезвычайно точная и дальнобойная оружейная система, стреляющая сплошным куском металла. Railgun - точное оружие, способное пробить броню корпуса и уничтожить оборудование внутри корабля-цели. Однако оружие потребляет огромное количество энергии для перезарядки после каждого выстрела.
-object_railgunshell | Railgun Slugs | Снаряды для рельсовой пушки
-object_railgunshell_description | A box of ammo for a Railgun. | Ящик снарядов для рельсовой пушки.
+object_railgun | Railgun | Рельсотрон
+object_railgun_description | An extremely accurate and long range weapon system that fires a solid slug of metal. The Railgun is a precise weapon that can penetrate through hull armour and destroy equipment inside the target ship. However, the weapon draws a huge amount of energy to recharge after each shot. | Чрезвычайно точная и дальнобойная оружейная система, стреляющая сплошным куском металла. Рельсотрон - точное оружие, способное пробить броню корпуса и уничтожить оборудование внутри корабля-цели. Однако оружие потребляет огромное количество энергии для перезарядки после каждого выстрела.
+object_railgunshell | Railgun Slugs | Снаряды для рельсотрона
+object_railgunshell_description | A box of ammo for a Railgun. | Ящик снарядов для рельсотрона.
 object_reactor | Reactor | Реактор
 object_reactor_description | Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW. | Сжигает высокоэнергетическое топливо для получения энергии. Топливо должно поступать в реактор (по трубе). Затем с помощью кабелей подключается к другому оборудованию.\nГенерирует максимальную мощность в 100 МВт.
 object_refinedmetreon | Refined Metreon | Рафинированный Метреон
-object_refinedtilium | Tilium Crystals | Кристаллы тилия
-object_refinery | Refinery | Нефтеперерабатывающий завод
+object_refinedtilium | Tilium Crystals | Тилиевые кристаллы
+object_refinery | Refinery | Химический завод
 object_refinery_description | An automatic industrial machine for refining raw chemicals and gases. | Автоматическая промышленная машина для переработки химического сырья и газов.
 object_refugee | Refugee | Беженец
 object_repairstructure | Repair Structural Damage | Ремонт структурных повреждений
@@ -135,7 +135,7 @@ object_scrubber_description | Extracts Carbon Dioxide from the atmosphere. Its o
 object_seeds | Seeds | Семена
 object_seeds_description | A small bag of mixed vegetable seeds, that you might be able to grow in a Hydroponic Garden. | Небольшой пакет смешанных семян овощей, которые вы сможете вырастить в гидропонном саду.
 object_sewage | Sewage | Отходы канализации
-object_sewagemachine | Waste Treatment Machine | Машина для переработки отходов
+object_sewagemachine | Waste Treatment Machine | Переработчик отходов
 object_sewagemachine_description | Takes sewage from the habitation deck, separates the solid and liquid waste, and partially recycles them. The device outputs dirty water and compost. | Принимает сточные воды с жилой палубы, разделяет твердые и жидкие отходы и частично перерабатывает их. Устройство выдает грязную воду и компост.
 object_sewagepipe | Sewage Pipe | Канализационная труба
 object_sewagepipe_description | This pipe extracts sewage from the habitation deck above. You can then pipe the sewage into a storage tank and (eventually) reprocess it back into water.  The Pipe MUST BE DIRECTLY UNDER THE HABITATION DECK to function. | Эта труба отводит сточные воды с жилой палубы, расположенной выше. Затем вы можете направить сточные воды в резервуар для хранения и (в конечном итоге) переработать их обратно в воду.  Для работы труба должна находиться непосредственно под жилой палубой.
@@ -147,7 +147,7 @@ object_short_cannonshell | Shells | Снаряды
 object_short_deuterium | Dtrm | Dtrm
 object_short_ftlcharge | FTL | FTL
 object_short_oxygen | O2 | O2
-object_short_railgunshell | Slugs | Пули
+object_short_railgunshell | Slugs | Снаряды
 object_shuttle | Shuttle | Челнок
 object_smallstoragecrate | Small Storage Crate | Малый ящик для хранения
 object_smallstoragecrate_description | Small storage crate, stores a single type of resource but at 4x the usual amount per square | Маленький ящик для хранения, хранит один тип ресурсов, но в 4 раза больше обычного количества на квадрат
@@ -180,8 +180,8 @@ object_tank | Huge Tank | Огромный резервуар
 object_tank_description | A massive tank that can store a great deal of liquid or gas. | Массивный резервуар, в котором может храниться большое количество жидкости или газа.
 object_telepathicsensor | Telepathic Sensor Station | Телепатическая сенсорная станция
 object_telepathicsensor_description | A sensor capable of detecting telepathic waves. | Сенсор, способный обнаруживать телепатические волны.
-object_thruster | Thruster | Подруливающее устройство
-object_thruster_description | Maneuvering thruster. Must be attached to the wall of the ship. Provides thrust to permit lateral and rotational movement. | Маневрирующее подруливающее устройство. Должен быть прикреплен к стенке корабля. Обеспечивает тягу для бокового и вращательного движения.
+object_thruster | Thruster | Маневровый двигатель
+object_thruster_description | Maneuvering thruster. Must be attached to the wall of the ship. Provides thrust to permit lateral and rotational movement. | Маневровый двигатель. Должен быть прикреплен к стенке корабля. Обеспечивает тягу для бокового и вращательного движения.
 object_tiddlet | Tiddlet | Тиддлет
 object_tiliumore | Tilium Ore | Тилиевая руда
 object_tinytank | Small Tank | Малый резервуар

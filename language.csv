@@ -86,7 +86,7 @@ CURRENT,object_potplant,2793,Pot Plant,Горшечное растение
 CURRENT,tutorial_battlestations_title,2793,BATTLE STATIONS,БОЕВЫЕ ПОСТЫ
 CURRENT,tutorial_battlestationsstart,2793,We are now going to learn how to deploy our weapons for combat.\n\nThe game has been paused for now.,Сейчас мы научимся применять оружие в бою.\n\nНа данный момент игра поставлена на паузу.
 CURRENT,tutorial_battlestationsactivate,2793,BATTLE STATIONS must be activated before your weapons can be used.\n\nThis will tell your crew to prepare for battle!,"Боевые станции должны быть активированы до того, как ты сможешь использовать оружие.\n\nЭто прикажет твоей команде приготовиться к бою!"
-CURRENT,tutorial_battlestationshighlightcrew,2793,Your crew will run to the weapons to deploy them.\n\nGatling guns don't require any crew to deploy them.,"Твоя команда будет бегать к оружию, чтобы развернуть его.\n\nГатлинг-пушки не требуют никакой команды для их развертывания."
+CURRENT,tutorial_battlestationshighlightcrew,2793,Your crew will run to the weapons to deploy them.\n\nGatling guns don't require any crew to deploy them.,"Твоя команда будет бегать к оружию, чтобы развернуть его.\n\nПулеметы не требуют никакой команды для их развертывания."
 CURRENT,tutorial_battlestationshighlightguns,2793,The gun barrels will begin to extend when they arrive.\n\nWhen the barrels are fully extended they will be ready to fire!,"Стволы пушек начнут выдвигаться, когда они прибудут на место.\n\nКогда стволы будут полностью выдвинуты, они будут готовы к стрельбе!"
 CURRENT,tutorial_battlestationssuccess,2793,"Well done, your weapons are now successfully deployed for battle!","Молодец, теперь твое оружие успешно развернуто для боя!"
 CURRENT,tutorial_stargatejump_title,2793,STARGATE JUMPING,ПРЫЖКИ ЧЕРЕЗ ЗВЕЗДНЫЕ ВРАТА
@@ -144,13 +144,13 @@ CURRENT,techtree_refining,2624,Refining,Переработка
 CURRENT,techtree_collection,2624,Collection,Добыча
 CURRENT,techtree_smelting,2624,Smelting,Плавка
 CURRENT,techtree_node_title_zeleongasrefining,2624,Zeleon Gas,Газ Зелеон
-CURRENT,techtree_node_caption_zeleongasrefining,2624,"The new gas we've observed seems to be quite unstable and is radiating high amounts of energy, our scientists need to find a safe way to collect and stabilise it.","Новый газ, который мы наблюдали, похоже, довольно нестабилен и излучает большое количество энергии, нашим ученым нужно найти безопасный способ собрать и стабилизировать его."
+CURRENT,techtree_node_caption_zeleongasrefining,2624,"The new gas we've observed seems to be quite unstable and is radiating high amounts of energy, our scientists need to find a safe way to collect and stabilise it.","Новый газ, который мы наблюдали, кажется, довольно нестабилен и излучает большое количество энергии. Нашим ученым нужно найти безопасный способ собрать и стабилизировать его."
 CURRENT,techtree_node_title_zeleonenergycontainment,2624,Zeleon Energy Containment,Содержание энергии Зелеон
-CURRENT,techtree_node_caption_zeleonenergycontainment,2624,"Stable Zeleon is a safe, energy-dense gas that could be used for advanced energy storage.","Стабильный Зелеон - это безопасный, энергоемкий газ, который можно использовать для передовых накопителей энергии."
+CURRENT,techtree_node_caption_zeleonenergycontainment,2624,"Stable Zeleon is a safe, energy-dense gas that could be used for advanced energy storage.","Стабильный Зелеон — это безопасный, энергоемкий газ, который можно использовать для передовых накопителей энергии."
 CURRENT,techtree_node_title_neubidiumprocessing,2624,Neubidium Processing,Обработка нейбидиума
-CURRENT,techtree_node_caption_neubidiumprocessing,2624,"The mineral collected from the local asteroid has never been seen before, we should investigate its uses.","Минерал, собранный с местного астероида, никогда раньше не встречался, нужно изучить его применение."
+CURRENT,techtree_node_caption_neubidiumprocessing,2624,"The mineral collected from the local asteroid has never been seen before, we should investigate its uses.","Минерал, собранный с местного астероида, никогда раньше не встречался. Нужно изучить его применение."
 CURRENT,techtree_node_title_neubidiumfabrication,2624,Neubidium Fabrication,Изготовление нейбидиума
-CURRENT,techtree_node_caption_neubidiumfabrication,2624,"Infuse energy storage with Neubidium, providing it with enhanced efficiency and improved conductive properties.","Наполни накопители энергии нейбидиумом, обеспечив им повышенную эффективность и улучшенные проводящие свойства."
+CURRENT,techtree_node_caption_neubidiumfabrication,2624,"Infuse energy storage with Neubidium, providing it with enhanced efficiency and improved conductive properties.","Наполните накопители энергии нейбидиумом, обеспечив им повышенную эффективность и улучшенные проводящие свойства."
 CURRENT,techtree_available_title,2624,RESEARCH AVAILABLE,ИССЛЕДОВАНИЕ ДОСТУПНО
 CURRENT,mission_sectorjumpgate_title,2624,SECTOR OBJECTIVE: Activate the Jumpgate,ЗАДАЧА СЕКТОРА: Активировать прыжковые врата
 CURRENT,mission_sectorjumpgate_description1,2624,The Jumpgate at the end of this sector has some requirements before it can be used.,"Джампгейт в конце этого сектора имеет некоторые требования, прежде чем его можно будет использовать."
@@ -171,8 +171,8 @@ CURRENT,mission_sectorjumpgate_hostiles,2624,Eradicate hostile blockade,Ликв
 CURRENT,mission_sectorjumpgate_hostiles2,2624,A fleet of hostile ships is attempting to blockade the jumpgate and extort money from ships passing through.,Флот враждебных кораблей пытается заблокировать джампгейт и вымогать деньги у проходящих через него кораблей.
 CURRENT,mission_sectorjumpgate_hostiles3,2624,You'll need to clear them out before we can safely activate the jumpgate.,"Тебе нужно будет зачистить их, прежде чем мы сможем безопасно активировать прыжковые врата."
 CURRENT,object_energytransmitter_description,2624,"A large piece of equipment, capable of transmitting up to 200MW to the Stargate.","Большая часть оборудования, способная передавать до 200 МВт на Звездные врата."
-CURRENT,object_neubidiumore,2624,Neubidium Ore,Руда нейбидиум
-CURRENT,object_neubidiumingot,2624,Neubidium Ingot,Слиток Нейбидиума
+CURRENT,object_neubidiumore,2624,Neubidium Ore,Нейбидиумная руда
+CURRENT,object_neubidiumingot,2624,Neubidium Ingot,Нейбидиумный слиток
 CURRENT,object_zeleongas,2624,Zeleon Gas,Газ Зелеон
 CURRENT,object_stablezeleon,2624,Stable Zeleon,Стабильный Зелеон
 CURRENT,object_stargatecapacitor,2624,Stargate Capacitor,Конденсатор звездных врат
@@ -233,8 +233,8 @@ CURRENT,blackhole_part1_intro2,2624,For years now my brother and I have been stu
 CURRENT,blackhole_part1_setup2,2624,"Thank you for offering your services, Captain.","Спасибо, что предложили свои услуги, капитан."
 CURRENT,blackhole_part1_sendingshuttle,2624,"I'm sending a shuttle to you now, Captain. Get your crew to load the Hyperspace Isotopes for me.","Я отправляю к Вам челнок, капитан. Пусть Ваша команда загрузит для меня гиперпространственные изотопы."
 CURRENT,blackhole_part1_completion1,2624,"Thank you, Captain. I now have what I need to modify this FTL drive for the Short Range Hop.","Спасибо, капитан. Теперь у меня есть все необходимое, чтобы модифицировать этот сверхсветовой привод для прыжка на короткую дистанцию."
-CURRENT,blackhole_part2_return1,2624,It looks like you have enough Tilium Crystals.  Bring the Tilium Crystals back to me to close the contract.,"Похоже, у Вас достаточно кристаллов тилиума.  Принесите Кристаллы Тилиума обратно мне, чтобы закрыть контракт."
-CURRENT,blackhole_part2_return2,2624,"I'll send the shuttle to collect the Tilium Crystals. Thank you, Captain!","Я отправлю челнок за кристаллами Тилиума. Спасибо, капитан!"
+CURRENT,blackhole_part2_return1,2624,It looks like you have enough Tilium Crystals.  Bring the Tilium Crystals back to me to close the contract.,"Похоже, у Вас достаточно Тилиевых кристаллов.  Принесите Тилиевые кристаллы обратно мне, чтобы закрыть контракт."
+CURRENT,blackhole_part2_return2,2624,"I'll send the shuttle to collect the Tilium Crystals. Thank you, Captain!","Я отправлю челнок за Тилиевыми кристаллами. Спасибо, капитан!"
 CURRENT,blackhole_part2_finished1,2624,"Excellent work, Captain.  I'll begin synthesising the FTL charges immediately.  It will take me a little while.","Отличная работа, капитан.  Я немедленно приступлю к синтезу сверхсветовых зарядов.  Это займет у меня немного времени."
 CURRENT,blackhole_part2_stargate0,2624,"Greetings, Captain.  I'm a representative of the Stargate Project.","Приветствую Вас, капитан.  Я представитель проекта ""Звездные врата""."
 CURRENT,blackhole_part2_stargate2,2624,"When the accident occurred, the younger twin Marcus was collecting vital data on black hole Qz247.  Data that is simply impossible to acquire by any other means.  Data that we need to complete the Stargate.","Когда произошел несчастный случай, младший близнец Маркус собирал важные данные о черной дыре Qz247.  Данные, которые просто невозможно получить никаким другим способом.  Данные, которые нужны нам для завершения строительства Звездных Врат."
@@ -301,7 +301,7 @@ CURRENT,dsi_part2_introcall1,2624,"Welcome back, Captain.  I've been taking a lo
 CURRENT,dsi_part2_introcall4,2624,"The first part is a Stargate Actuator.  This is something we can manufacture in our existing factory station, although it's a more complex production chain.  There won't be nearly enough resources available in the Marketplace, so we'll have to mine the local belt for minerals.","Первая часть - это актуатор звездных врат.  Это то, что мы можем изготовить на нашей существующей заводской станции, хотя это более сложная производственная цепочка.  Ресурсов, доступных на Торговой площади, будет недостаточно, поэтому нам придется добывать полезные ископаемые в местном поясе."
 CURRENT,dsi_part2_actuatorsintro5,2624,"One last thing, Captain.  I'm sure you've noticed, we aren't exactly surrounded by asteroids here.  I suggest you pair the station up with one of your FTL capable vessels, and jump them both to a suitable mining location.  You can leave the station there to do its work.","И последнее, капитан.  Уверен, вы заметили, что мы не совсем окружены астероидами.  Я предлагаю вам соединить станцию с одним из ваших кораблей со сверхсветовой скоростью и перебросить их обоих к подходящему месту добычи.  Там вы можете оставить станцию выполнять свою работу."
 CURRENT,dsi_part2_introcall9,2624,"Time is now of the essence, Captain.  All three parts need to be produced, and I'm in more of a hurry than you may realise.  Keep me informed!","Время не терпит, капитан.  Все три части должны быть изготовлены, и я спешу больше, чем ты думаешь.  Держите меня в курсе событий!"
-CURRENT,dsi_part2_resinintro5,2624,"You'll need all of that equipment to get started.  I'd recommend Collectors, Refineries, and Chemical Labs, four each at least.  You'll also want Storage Tanks to buffer the intermediate products, and an upgrade to the Power Grid.","Тебе понадобится все это оборудование, чтобы начать.  Я бы рекомендовал коллекторы, нефтеперерабатывающие заводы и химические лаборатории - по четыре штуки как минимум.  Также тебе понадобятся резервуары для хранения промежуточных продуктов и апгрейд энергосети."
+CURRENT,dsi_part2_resinintro5,2624,"You'll need all of that equipment to get started.  I'd recommend Collectors, Refineries, and Chemical Labs, four each at least.  You'll also want Storage Tanks to buffer the intermediate products, and an upgrade to the Power Grid.","Тебе понадобится все это оборудование, чтобы начать.  Я бы рекомендовал коллекторы, химические заводы и химические лаборатории - по четыре штуки как минимум.  Также тебе понадобятся резервуары для хранения промежуточных продуктов и апгрейд энергосети."
 CURRENT,dsi_part2_isotopesintro3,2624,"The final stage is to install a Loader or two, and set them to 'UNLOAD'.  This will instruct your crew to barrel up the stable isotopes and store them in the cargo hold so you can easily sell them on the Marketplace.","На последнем этапе установи пару погрузчиков и задай им режим ""UNLOAD"".  Это даст команду твоей команде собрать стабильные изотопы в бочки и хранить их в грузовом отсеке, чтобы ты мог легко продать их на Торговой площадке."
 CURRENT,dsi_part2_firstpartcomplete,2624,"Excellent work, Captain.  On time and to specification, as usual.  The Andromeda Project have enough of that item now, so you may as well stop production and save the energy and materials.","Отличная работа, капитан.  Как всегда, вовремя и в соответствии со спецификацией.  У Проекта Андромеда теперь достаточно этого товара, так что вы можете прекратить производство и сэкономить энергию и материалы."
 CURRENT,dsi_part2_thirdpartcomplete1,2624,"We are all done, Captain.  That was an incredible display of industrialised power.  There's nobody even close to us in the Marketplace, and we basically are the Andromeda Project.  They need us now.","Мы все закончили, капитан.  Это была невероятная демонстрация индустриальной мощи.  На Рынке нет никого даже близко похожего на нас, а мы, по сути, и есть Проект ""Андромеда"".  Теперь мы им нужны."
@@ -978,11 +978,11 @@ CURRENT,techtree_warning,2448,WARNING!,ВНИМАНИЕ!
 CURRENT,techtree_lose_progress,2448,Starting a new research project will lose all progress on the current one.,При запуске нового исследовательского проекта весь прогресс по текущему проекту будет потерян.
 CURRENT,techtree_stargate_warning,2448,Completing Andromeda Project phases ahead of the Deep Space Industrialists storyline will bypass those episodes.,"Завершение этапов проекта Андромеда до начала сюжетной линии ""Промышленники глубокого космоса"" позволит обойти эти эпизоды."
 CURRENT,techtree_missing_equipment,2448,This research project requires a *X to be completed,Для завершения этого исследовательского проекта требуется *X
-CURRENT,techtree_node_title_Logistics1,2448,Logistics,Логистика
+CURRENT,techtree_node_title_Logistics1,2448,Logistics,Логистика 1
 CURRENT,techtree_node_caption_Logistics1,2448,Unlocks schematics for small logistics storage,Разблокирует схемы для небольших логистических складов
-CURRENT,techtree_node_title_Logistics2,2448,Logistics Level 2,Логистика 2-го уровня
+CURRENT,techtree_node_title_Logistics2,2448,Logistics Level 2,Логистика 2
 CURRENT,techtree_node_caption_Logistics2,2448,Unlocks schematics for Medium sized storage,Разблокирует схемы для склада среднего размера
-CURRENT,techtree_node_title_Logistics3,2448,Logistics Level 3,Логистика Уровень 3
+CURRENT,techtree_node_title_Logistics3,2448,Logistics Level 3,Логистика 3
 CURRENT,techtree_node_caption_Logistics3,2448,Unlocks schematics for Large logistics storage,Разблокирует схемы для больших логистических хранилищ
 CURRENT,techtree_node_title_Automation,2448,Automation,Автоматизация
 CURRENT,techtree_node_caption_Automation,2448,Unlocks schematics for Tracks and Robot Arms,Разблокирует схемы для треков и рук роботов
@@ -990,9 +990,9 @@ CURRENT,techtree_node_title_CompactAutomation,2448,Compact Robot Arms,Компа
 CURRENT,techtree_node_caption_CompactAutomation,2448,Unlocks schematic for Short Robot Arm,Разблокирована схема для короткой руки робота
 CURRENT,techtree_node_title_SmartAutomation,2448,Smart Robot Arms,Умные руки робота
 CURRENT,techtree_node_caption_SmartAutomation,2448,Unlocks schematic for Smart Robot Arm,Открывает схему для умной руки робота
-CURRENT,techtree_node_title_Metallurgy1,2448,Metallurgy Level 1,Металлургия 1 уровень
+CURRENT,techtree_node_title_Metallurgy1,2448,Metallurgy Level 1,Металлургия 1
 CURRENT,techtree_node_caption_Metallurgy1,2448,Smelters produce 50% more output,Плавильные печи производят на 50% больше продукции
-CURRENT,techtree_node_title_Metallurgy2,2448,Metallurgy Level 2,Уровень металлургии 2
+CURRENT,techtree_node_title_Metallurgy2,2448,Metallurgy Level 2,Металлургия 2
 CURRENT,techtree_node_caption_Metallurgy2,2448,Smelters produce 100% more output,Плавильные печи производят на 100% больше продукции
 CURRENT,techtree_node_title_EnergyTransmission,2448,Energy Transmission,Передача энергии
 CURRENT,techtree_node_caption_EnergyTransmission,2448,Unlocks schematic for Energy Transmitter and Receiver,Раскрыта схема передатчика и приемника энергии
@@ -1013,15 +1013,15 @@ CURRENT,techtree_node_caption_mininglaseraccuracy,2448,Mining Lasers extract twi
 CURRENT,techtree_node_title_droneassembly,2448,Drone Assembly,Сборка дронов
 CURRENT,techtree_node_caption_droneassembly,2448,Unlocks schematics for construction of Logistics Drones,Открывает схемы для создания логистических дронов
 CURRENT,techtree_node_title_stargatepart1,2448,Andromeda Project Part 1,"Проект Андромеда, часть 1"
-CURRENT,techtree_node_caption_stargatepart1,2448,Unlocks Phase 1 and 2 of the Andromeda Project.,Открывает первую и вторую фазы проекта Андромеда.
+CURRENT,techtree_node_caption_stargatepart1,2448,Unlocks Phase 1 and 2 of the Andromeda Project.,"Открывает первую и вторую фазы проекта ""Андромеда""."
 CURRENT,techtree_node_title_stargatepart2,2448,Andromeda Project Part 2,Проект Андромеда Часть 2
-CURRENT,techtree_node_caption_stargatepart2,2448,Unlocks Phase 3 of the Andromeda Project.,Разблокирует третью фазу проекта Андромеда.
+CURRENT,techtree_node_caption_stargatepart2,2448,Unlocks Phase 3 of the Andromeda Project.,"Разблокирует третью фазу проекта ""Андромеда""."
 CURRENT,techtree_node_title_stargatepart3,2448,Andromeda Project Part 3,Проект Андромеда Часть 3
 CURRENT,techtree_node_title_deflectorbeams,2448,Deflector Beams,Дефлекторные лучи
 CURRENT,techtree_node_caption_deflectorbeams,2448,Unlocks schematics to build a defensive system that can deflect incoming cannon shells,"Открывает схемы для создания защитной системы, способной отклонять снаряды пушек"
 CURRENT,techtree_node_title_science,2448,Science,Наука
 CURRENT,techtree_node_caption_science,2448,Unlocks improvements in all areas of advanced physics,Разблокирует улучшения во всех областях продвинутой физики
-CURRENT,techtree_node_title_habitation,2448,Habitation,Каюты
+CURRENT,techtree_node_title_habitation,2448,Habitation,Жилая палуба
 CURRENT,techtree_node_caption_habitation,2448,Unlocks efficiency improvements for all areas of life support and crew survival,Разблокирует улучшения эффективности во всех областях жизнеобеспечения и выживания экипажа
 CURRENT,techtree_node_title_recycling1,2448,Recycling Efficiency 1,Эффективность переработки 1
 CURRENT,techtree_node_caption_recycling1,2448,Improves all life-support recycling to 90% efficiency,Повышает эффективность переработки всех ресурсов жизнеобеспечения до 90%
@@ -1036,7 +1036,7 @@ CURRENT,boost_wasterecyclingefficiency,2448,Waste Recycling Efficiency +*X%,Эф
 CURRENT,boost_waterrecyclingefficiency,2448,Water Recycling Efficiency +*X%,Эффективность переработки воды +*X%
 CURRENT,boost_airrecyclingefficiency,2448,Air Recycling Efficiency +*X%,Эффективность переработки воздуха +*X%
 CURRENT,boost_recyclingefficiency,2448,Recycling Efficiency *X%,Эффективность переработки *X%
-CURRENT,special_dronebatchcollection,2448,Drone Batch Collection,Пакетный сбор отходов с помощью дронов
+CURRENT,special_dronebatchcollection,2448,Drone Batch Collection,Пакетный сбор с помощью дронов
 CURRENT,special_mininglaseraccuracy,2448,Mining Laser Precision,Точность горного лазера
 CURRENT,special_stargatepart1,2448,"Andromeda Project Phases 1, 2","Проект Андромеда Фазы 1, 2"
 CURRENT,special_stargatepart2,2448,Andromeda Project Phase 3,Проект Андромеда Фаза 3
@@ -1339,10 +1339,10 @@ CURRENT,object_airduct_description,2448,Pumps oxygen into the surrounding cabin 
 CURRENT,object_battery,2448,Battery,Батарея
 CURRENT,object_battery_description,2448,"Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage.","Хранит избыточную энергию в энергосети, до 1000 МВт. Батарея будет подавать энергию при ее нехватке."
 CURRENT,object_box,2448,Box,Ящик
-CURRENT,object_bullets,2448,Bullets,Пули
-CURRENT,object_bullets_description,2448,A box of ammo for a Gatling Gun (PDC).,Ящик патронов для пушки Гатлинга (PDC).
-CURRENT,object_railgunshell,2448,Railgun Slugs,Снаряды для рельсовой пушки
-CURRENT,object_railgunshell_description,2448,A box of ammo for a Railgun.,Ящик снарядов для рельсовой пушки.
+CURRENT,object_bullets,2448,Bullets,Пули для пулемета
+CURRENT,object_bullets_description,2448,A box of ammo for a Gatling Gun (PDC).,Ящик патронов для пушки Пулемета.
+CURRENT,object_railgunshell,2448,Railgun Slugs,Снаряды для рельсотрона
+CURRENT,object_railgunshell_description,2448,A box of ammo for a Railgun.,Ящик снарядов для рельсотрона.
 CURRENT,object_cargo,2448,Cargo,Груз
 CURRENT,object_civilian,2448,Civilian,Гражданский
 CURRENT,object_refugee,2448,Refugee,Беженец
@@ -1367,8 +1367,8 @@ CURRENT,object_dronebay_description,2448,"This equipment is required to launch L
 CURRENT,object_energycell,2448,Energy Cell,Энергетическая ячейка
 CURRENT,object_energytransmitter,2448,Energy Transmitter,Передатчик энергии
 CURRENT,object_engine,2448,Engine,Двигатель
-CURRENT,object_thruster,2448,Thruster,Подруливающее устройство
-CURRENT,object_thruster_description,2448,Maneuvering thruster. Must be attached to the wall of the ship. Provides thrust to permit lateral and rotational movement.,Маневрирующее подруливающее устройство. Должен быть прикреплен к стенке корабля. Обеспечивает тягу для бокового и вращательного движения.
+CURRENT,object_thruster,2448,Thruster,Маневровый двигатель
+CURRENT,object_thruster_description,2448,Maneuvering thruster. Must be attached to the wall of the ship. Provides thrust to permit lateral and rotational movement.,Маневровый двигатель. Должен быть прикреплен к стенке корабля. Обеспечивает тягу для бокового и вращательного движения.
 CURRENT,object_entity,2448,Entity,Сущность
 CURRENT,object_equipment,2448,Equipment,Оборудование
 CURRENT,object_fighter,2448,Fighter,Истребитель
@@ -1380,11 +1380,11 @@ CURRENT,object_fusionreactor,2448,Fusion Reactor,Реактор синтеза
 CURRENT,object_fusionreactor_description,2448,Uses nuclear fusion of Deuterium to generate large amounts of energy. However the fusion reactor must be 'powered up' with a huge amount of energy before it will generate any power itself.\n\nGenerates a maximum power output of 500MW.,"Использует ядерный синтез дейтерия для получения большого количества энергии. Однако реактор должен быть запитан огромным количеством энергии, прежде чем он сам начнет вырабатывать энергию.\n\nГенерирует максимальную мощность в 500 МВт."
 CURRENT,object_weaponsconsole,2448,Weapons Control Centre,Центр управления оружием
 CURRENT,object_weaponsconsole_description,2448,A terminal where a Weapons Officer can control multiple weapons at the same time.,"Терминал, с которого офицер может управлять несколькими видами оружия одновременно."
-CURRENT,object_gatlinggun,2448,Gatling Gun,Пушка Гатлинга
-CURRENT,object_gatlinggun_description,2448,"A close range rapid-fire weapon system, primarily designed for defense against incoming fighters and ordnance.  The gatling gun excels at destroying fast-moving targets at close range, but lacks the punch to penetrate armoured targets.","Система скорострельного оружия ближнего боя, предназначенная в первую очередь для защиты от наступающих истребителей и боеприпасов.  Пушка Гатлинга отлично справляется с уничтожением быстродвижущихся целей на близком расстоянии, но не обладает достаточной мощью для пробития бронированных целей."
+CURRENT,object_gatlinggun,2448,Gatling Gun,Пулемет
+CURRENT,object_gatlinggun_description,2448,"A close range rapid-fire weapon system, primarily designed for defense against incoming fighters and ordnance.  The gatling gun excels at destroying fast-moving targets at close range, but lacks the punch to penetrate armoured targets.","Система скорострельного оружия ближнего боя, предназначенная в первую очередь для защиты от наступающих истребителей и боеприпасов.  Пулемет отлично справляется с уничтожением быстродвижущихся целей на близком расстоянии, но не обладает достаточной мощью для пробития бронированных целей."
 CURRENT,object_cannon,2448,Cannon,Пушка
 CURRENT,object_cannon_description,2448,"A medium range weapon system that launches a barrage of explosive shells at the target. Cannon shells are excellent at dealing area-of-effect damage to an enemy ship, and will shred hull armour.","Оружейная система средней дальности, выпускающая шквал разрывных снарядов по цели. Пушечные снаряды отлично наносят урон по площади и разрушают броню корпуса."
-CURRENT,object_cannonshell,2448,Cannon Shells,Пушечные снаряды
+CURRENT,object_cannonshell,2448,Cannon Shells,Пули для пулемета
 CURRENT,object_mininglaser,2448,Mining Laser,Горный лазер
 CURRENT,object_mininglaser_description,2448,Can drill into mineral patches (found in asteroid belts) to extract valuable minerals.,"Может бурить минеральные участки (в поясах астероидов), чтобы добывать ценные руды."
 CURRENT,object_deflector,2448,Deflector,Дефлектор
@@ -1409,8 +1409,8 @@ CURRENT,object_oxygen,2448,Oxygen,Кислород
 CURRENT,object_powercoil,2448,Power Coil,Катушка энергии
 CURRENT,object_powercoilcharged,2448,Charged Power Coil,Заряженная катушка питания
 CURRENT,object_powerinjector,2448,Power Injector,Инжектор энергии
-CURRENT,object_railgun,2448,Railgun,Рельсовая пушка
-CURRENT,object_railgun_description,2448,"An extremely accurate and long range weapon system that fires a solid slug of metal. The Railgun is a precise weapon that can penetrate through hull armour and destroy equipment inside the target ship. However, the weapon draws a huge amount of energy to recharge after each shot.","Чрезвычайно точная и дальнобойная оружейная система, стреляющая сплошным куском металла. Railgun - точное оружие, способное пробить броню корпуса и уничтожить оборудование внутри корабля-цели. Однако оружие потребляет огромное количество энергии для перезарядки после каждого выстрела."
+CURRENT,object_railgun,2448,Railgun,Рельсотрон
+CURRENT,object_railgun_description,2448,"An extremely accurate and long range weapon system that fires a solid slug of metal. The Railgun is a precise weapon that can penetrate through hull armour and destroy equipment inside the target ship. However, the weapon draws a huge amount of energy to recharge after each shot.","Чрезвычайно точная и дальнобойная оружейная система, стреляющая сплошным куском металла. Рельсотрон - точное оружие, способное пробить броню корпуса и уничтожить оборудование внутри корабля-цели. Однако оружие потребляет огромное количество энергии для перезарядки после каждого выстрела."
 CURRENT,object_reactor,2448,Reactor,Реактор
 CURRENT,object_reactor_description,2448,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW.,Сжигает высокоэнергетическое топливо для получения энергии. Топливо должно поступать в реактор (по трубе). Затем с помощью кабелей подключается к другому оборудованию.\nГенерирует максимальную мощность в 100 МВт.
 CURRENT,object_sciencestation,2448,Science Station,Научная станция
@@ -1437,14 +1437,14 @@ CURRENT,object_metalingot,2448,Metal Ingot,Железный слиток
 CURRENT,object_preciousore,2448,Precious Ore,Драгоценная руда
 CURRENT,object_preciousmetals,2448,Precious Metals,Драгоценные металлы
 CURRENT,object_tiliumore,2448,Tilium Ore,Тилиевая руда
-CURRENT,object_refinedtilium,2448,Tilium Crystals,Кристаллы тилия
+CURRENT,object_refinedtilium,2448,Tilium Crystals,Тилиевые кристаллы
 CURRENT,object_metallicminerals,2448,Metallic Minerals,Железная руда
 CURRENT,object_copperminerals,2448,Copper Minerals,Медная руда
-CURRENT,object_copperingot,2448,Copper Ingot,Медные слитки
+CURRENT,object_copperingot,2448,Copper Ingot,Медный слиток
 CURRENT,object_ice,2448,Water Ice,Водяной лед
 CURRENT,object_metreongas,2448,Metreon Gas,Газ Метреона
 CURRENT,object_refinedmetreon,2448,Refined Metreon,Рафинированный Метреон
-CURRENT,object_explosives,2448,Explosives,Взрывчатые вещества
+CURRENT,object_explosives,2448,Explosives,Взрывчатка
 CURRENT,object_hyperspaceisotopes,2448,Hyperspace Isotopes,Гиперпространственные изотопы
 CURRENT,object_stableisotopes,2448,Stable Isotopes,Стабильные изотопы
 CURRENT,object_seeds,2448,Seeds,Семена
@@ -1453,29 +1453,29 @@ CURRENT,object_smelter,2448,Smelter,Плавильня
 CURRENT,object_smelter_description,2448,"This industrial processing machine can melt ores into usable metal ingots. Once installed, click on it to change the ore type.","Эта промышленная машина может переплавлять руды в пригодные для использования железные слитки. После установки нажмите на нее, чтобы изменить тип руды."
 CURRENT,object_sewagepipe,2448,Sewage Pipe,Канализационная труба
 CURRENT,object_sewagepipe_description,2448,This pipe extracts sewage from the habitation deck above. You can then pipe the sewage into a storage tank and (eventually) reprocess it back into water.  The Pipe MUST BE DIRECTLY UNDER THE HABITATION DECK to function.,"Эта труба отводит сточные воды с жилой палубы, расположенной выше. Затем вы можете направить сточные воды в резервуар для хранения и (в конечном итоге) переработать их обратно в воду.  Для работы труба должна находиться непосредственно под жилой палубой."
-CURRENT,object_sewagemachine,2448,Waste Treatment Machine,Машина для переработки отходов
+CURRENT,object_sewagemachine,2448,Waste Treatment Machine,Переработчик отходов
 CURRENT,object_sewagemachine_description,2448,"Takes sewage from the habitation deck, separates the solid and liquid waste, and partially recycles them. The device outputs dirty water and compost.","Принимает сточные воды с жилой палубы, разделяет твердые и жидкие отходы и частично перерабатывает их. Устройство выдает грязную воду и компост."
 CURRENT,object_waterpurifier,2448,Water Purifier,Очиститель воды
 CURRENT,object_waterpurifier_description,2448,Takes dirty water from sewage recycling or from naturally occurring ice - and purifies it into safe drinkable water.,Забирает грязную воду из канализационных стоков или из льда естественного происхождения и очищает ее до безопасной питьевой воды.
-CURRENT,object_oxygenmaker,2448,Oxygen Maker,Производитель кислорода
+CURRENT,object_oxygenmaker,2448,Oxygen Maker,Генератор кислорода
 CURRENT,object_oxygenmaker_description,2448,Uses electrical power to extract Oxygen from Water.,Использует электроэнергию для получения кислорода из воды.
 CURRENT,object_scrubber,2448,CO2 Scrubber,Скруббер CO2
 CURRENT,object_scrubber_description,2448,Extracts Carbon Dioxide from the atmosphere. Its output must be piped into a storage tank or it will become blocked.,"Извлекает диоксид углерода из атмосферы. Его выход необходимо направить в резервуар для хранения, иначе он засорится."
-CURRENT,object_airreprocessor,2448,Air Reprocessor,Репроцессор воздуха
+CURRENT,object_airreprocessor,2448,Air Reprocessor,Редуктор воздуха
 CURRENT,object_airreprocessor_description,2448,Converts CO2 into breathable Oxygen.,Преобразует CO2 в пригодный для дыхания кислород.
 CURRENT,object_icegrinder,2448,Ice Grinder,Измельчитель льда
 CURRENT,object_icegrinder_description,2448,"Grinds giant lumps of ice into small pieces, then warms the ice until it melts into liquid. The resulting water must be filtered before it is safe to drink.","Измельчает огромные глыбы льда на мелкие кусочки, затем нагревает лед, пока он не растает в жидкости. Полученная вода должна быть отфильтрована, прежде чем ее можно пить."
 CURRENT,object_proximitymine,2448,Mine,Шахта
 CURRENT,object_gascollector,2448,Gas Collector,Газосборник
 CURRENT,object_gascollector_description,2448,"A large exterior vent that sucks in gases from space. Many gases found in nebulas can be used to produce useful resources like Fuel, FTL charges, and explosives.","Большое внешнее вентиляционное отверстие, всасывающее газы из космоса. Многие газы, встречающиеся в туманностях, можно использовать для производства полезных ресурсов, таких как топливо, сверхсветовые заряды и взрывчатка."
-CURRENT,object_refinery,2448,Refinery,Нефтеперерабатывающий завод
+CURRENT,object_refinery,2448,Refinery,Химический завод
 CURRENT,object_refinery_description,2448,An automatic industrial machine for refining raw chemicals and gases.,Автоматическая промышленная машина для переработки химического сырья и газов.
 CURRENT,object_chemicallab,2448,Chemical Lab,Химическая лаборатория
 CURRENT,object_chemicallab_description,2448,"A complex piece of scientific equipment.  Can combine multiple different chemical inputs (liquids, gases and solids) into different outputs. The user can cycle the active 'recipe' by clicking on it.","Сложное научное оборудование. Может объединять различные химические вещества (жидкости, газы и твердые вещества) в разные продукты. Пользователь может менять активный ""рецепт"", щелкая по нему."
 CURRENT,object_hyperspacecollector,2448,Hyperspace Scoop,Гиперпространственный совок
-CURRENT,object_hyperspacecollector_description,2448,"The Hyperspace Scoop sits at the front of a starship and faces the direction of travel. During hyperspace a strong magnetic field is projected forward, drawing in large volumes of interstellar matter. The isotopes gathered this way can be refined into FTL Fuel.","Гиперпространственный бункер располагается в передней части звездолета и обращен в направлении движения. В гиперпространстве сильное магнитное поле проецируется вперед, втягивая большие объемы межзвездной материи. Собранные таким образом изотопы могут быть переработаны в сверхсветовое топливо."
+CURRENT,object_hyperspacecollector_description,2448,"The Hyperspace Scoop sits at the front of a starship and faces the direction of travel. During hyperspace a strong magnetic field is projected forward, drawing in large volumes of interstellar matter. The isotopes gathered this way can be refined into FTL Fuel.","Гиперпространственный совок располагается в передней части звездолета и обращен в направлении движения. В гиперпространстве сильное магнитное поле проецируется вперед, втягивая большие объемы межзвездной материи. Собранные таким образом изотопы могут быть переработаны в сверхсветовое топливо."
 CURRENT,object_munitionsfactory,2448,Munitions Bench,Верстак боеприпасов
-CURRENT,object_munitionsfactory_description,2448,"A workbench where a skilled crew member can fabricate different forms of ammunition for ship weapon systems. Uses metal and explosives to produce Bullets, Railgun Slugs, Cannon Shells etc.","Верстак, на котором опытный член экипажа может изготовить различные виды боеприпасов для корабельных систем вооружения. Использует металл и взрывчатые вещества для производства пуль, пуль для рельсотронов, снарядов для пушек и т. д."
+CURRENT,object_munitionsfactory_description,2448,"A workbench where a skilled crew member can fabricate different forms of ammunition for ship weapon systems. Uses metal and explosives to produce Bullets, Railgun Slugs, Cannon Shells etc.","Верстак, на котором опытный член экипажа может изготовить различные виды боеприпасов для корабельных систем вооружения. Использует железные слитки и взрывчатку для производства пуль, пуль для рельсотронов, снарядов для пушек и т. д."
 CURRENT,object_hydroponics,2448,Hydroponic Garden,Гидропонный сад
 CURRENT,object_hydroponics_description,2448,"An enclosed greenhouse device that can be used to grow crops, in order to feed your crew.  Requires compost and water, and Seeds to get things started.","Закрытое тепличное устройство, которое можно использовать для выращивания культур, чтобы прокормить команду.  Требуется компост, вода и семена для начала работы."
 CURRENT,object_fabricator,2448,Fabricator,Фабрикатор
@@ -1509,7 +1509,7 @@ CURRENT,object_carbondioxide,2448,CO2,CO2
 CURRENT,object_short_oxygen,2448,O2,O2
 CURRENT,object_short_ftlcharge,2448,FTL,FTL
 CURRENT,object_short_bullets,2448,Ammo,Патроны
-CURRENT,object_short_railgunshell,2448,Slugs,Пули
+CURRENT,object_short_railgunshell,2448,Slugs,Снаряды
 CURRENT,object_short_cannonshell,2448,Shells,Снаряды
 CURRENT,object_short_deuterium,2448,Dtrm,Dtrm
 CURRENT,entity_unconscious,2448,UNCONSCIOUS,БЕЗ СОЗНАНИЯ
@@ -1819,20 +1819,20 @@ CURRENT,tutorial_tutorialskipno,2448,RESUME TUTORIAL,ВОЗОБНОВИТЬ УЧ
 CURRENT,tutorial_resin_title,2448,GAS COLLECTORS,ГАЗОВЫЕ КОЛЛЕКТОРЫ
 CURRENT,tutorial_resinstart,2448,We are now going to learn how to produce STARGATE RESIN.,"Сейчас мы узнаем, как произвести ЗВЕЗДНЫЙ РЕЗИН."
 CURRENT,tutorial_resinintro,2448,"Turning our attention back to the Stargate, the Stargate project also requires us to produce STARGATE RESIN.\n\nWe are going to use the INDUSTRIOUS to collect METREON GAS, refine it, and process it into STARGATE RESIN.","Возвращаясь к Звездным вратам, скажу, что проект Звездных врат также требует от нас производства СТАРГАТНОЙ РЕЗИНЫ.\n\nМы будем использовать ИНДУСТРИЮ для сбора газа МЕТРЕОН, его переработки и получения СТАРГАТНОЙ РЕЗИНЫ."
-CURRENT,tutorial_resinintro2,2448,Raise enough money to purchase for INDUSTRIOUS:\n\n- 1x GAS COLLECTOR\n- 1x REFINERY\n- 1x CHEMICAL LAB,"Соберите достаточно денег, чтобы купить для ИНДУСТРИИ:\n\n- 1x КОЛЛЕКТОР ГАЗА\n- 1x РЕФИНЕРИЯ\n- 1x ХИМИЧЕСКАЯ ЛАБОРИЯ"
+CURRENT,tutorial_resinintro2,2448,Raise enough money to purchase for INDUSTRIOUS:\n\n- 1x GAS COLLECTOR\n- 1x REFINERY\n- 1x CHEMICAL LAB,"Соберите достаточно денег, чтобы купить для ИНДУСТРИИ:\n\n- 1x КОЛЛЕКТОР ГАЗА\n- 1x ХИМИЧЕСКИЙ ЗАВОД\n- 1x ХИМИЧЕСКАЯ ЛАБОРИЯ"
 CURRENT,tutorial_resinselectnebula,2448,"Before we can start collecting the METREON GAS, we need to move the INDUSTRIOUS to a system containing a GAS CLOUD.\n\nUse the SECTOR MAP to select a suitable destination.","Прежде чем мы сможем начать сбор газа МЕТРЕОНА, нам нужно переместить ИНДУСТРИЮ в систему, содержащую газовое облако.\n\nИспользуйте карту сектора, чтобы выбрать подходящее место."
 CURRENT,tutorial_resinjumptonebula,2448,Close the sector map and use the FTL Window to jump the INDUSTRIOUS to the nebula.,"Закройте карту сектора и используйте окно сверхсветовой скорости, чтобы переместить INDUSTRIOUS в туманность."
-CURRENT,tutorial_resininstallgascollector,2448,"Install the GAS COLLECTOR, REFINERY and CHEMICAL LAB so that they are close to each other.","Установите газовый коллектор, нефтеперерабатывающий завод и химическую лабораторию так, чтобы они находились рядом друг с другом."
-CURRENT,tutorial_resinpowerup,2448,"Power up the GAS COLLECTOR, REFINERY and CHEMICAL LAB.","Включите газовый коллектр, нефтеперерабатывающий завод и химическую лабораторию."
+CURRENT,tutorial_resininstallgascollector,2448,"Install the GAS COLLECTOR, REFINERY and CHEMICAL LAB so that they are close to each other.","Установите газовый коллектор, химический завод и химическую лабораторию так, чтобы они находились рядом друг с другом."
+CURRENT,tutorial_resinpowerup,2448,"Power up the GAS COLLECTOR, REFINERY and CHEMICAL LAB.","Включите газовый коллектр, химический завод и химическую лабораторию."
 CURRENT,tutorial_resinrefineryrecipe,2448,Right click on the REFINERY and set its recipe to REFINE METREON GAS.,"Щелкните правой кнопкой мыши на НПЗ и установите для него рецепт ""Переработать газ МЕТРЕОНА""."
 CURRENT,tutorial_resinchemicallabrecipe,2448,Right click on the CHEMICAL LAB and set its recipe to MAKE STARGATE RESIN.,Щелкните правой кнопкой мыши на ХИМИЧЕСКОЙ ЛАБОРИИ и установите рецепт на ИЗГОТОВЛЕНИЕ СТАРГАТНОЙ РЕЗИНЫ.
-CURRENT,tutorial_resinconnectgascollector,2448,Connect the GAS COLLECTOR to the REFINERY with a PIPE.,Соедините газовый коллектор с нефтеперерабатывающим заводом с помощью трубы.
-CURRENT,tutorial_resinconnectchemicallab,2448,Connect the REFINERY to the CHEMICAL LAB with a PIPE.,Соедините трубой нефтеперерабатывающий завод с химической лабораторией.
+CURRENT,tutorial_resinconnectgascollector,2448,Connect the GAS COLLECTOR to the REFINERY with a PIPE.,Соедините газовый коллектор с химическим заводом с помощью трубы.
+CURRENT,tutorial_resinconnectchemicallab,2448,Connect the REFINERY to the CHEMICAL LAB with a PIPE.,Соедините трубой химический завод с химической лабораторией.
 CURRENT,tutorial_resinsuccess,2448,"Well done, you have started to produce STARGATE RESIN.\n\nWhen you have produced enough, travel back to any COLONY, SHIP YARD or the STARGATE system to sell it to the STARGATE PROJECT.","Молодцы, вы начали производить СТАРГАТСКИЙ РЕЗИН.\n\nКогда вы произведете достаточно, возвращайтесь в любую КОЛОНИЮ, на корабельную верфь или в систему СТАРГАТ, чтобы продать его СТАРГАТСКОМУ ПРОЕКТУ."
 CURRENT,tutorial_end_title,2448,END OF TUTORIAL,КОНЕЦ РУКОВОДСТВА
 CURRENT,tutorial_docking_title,2448,DOCKING,ДОКИНГ
 CURRENT,tutorial_dockingstart,2448,We are now going to learn how to dock your ship to another ship.,"Сейчас мы узнаем, как пристыковать свой корабль к другому кораблю."
-CURRENT,tutorial_dockingcheckthrusters,2448,"In order to be able to dock successfully, your ship needs at least four working THRUSTERS.\n\nUse a different ship, or purchase and install four thrusters at a nearby trading post.","Чтобы успешно пристыковаться, вашему кораблю нужно как минимум четыре работающих подруливающих устройства.\n\nИспользуйте другой корабль или купите и установите четыре подруливающих устройства в ближайшем торговом пункте."
+CURRENT,tutorial_dockingcheckthrusters,2448,"In order to be able to dock successfully, your ship needs at least four working THRUSTERS.\n\nUse a different ship, or purchase and install four thrusters at a nearby trading post.","Чтобы успешно пристыковаться, вашему кораблю нужно как минимум четыре работающих маневровых двигателя.\n\nИспользуйте другой корабль или купите и установите четыре маневровых двигателя в ближайшем торговом пункте."
 CURRENT,tutorial_dockingapproachship_x,2448,Use your main ship engines to get close to the *X.,"Используйте основные двигатели корабля, чтобы приблизиться к *X."
 CURRENT,tutorial_dockingzoomin,2448,Zoom in so that you can see the docking guides more clearly. They are RED diamonds extending from the docking ports.,"Увеличьте масштаб, чтобы лучше разглядеть направляющие для стыковки. Это красные бриллианты, выходящие из стыковочных портов."
 CURRENT,tutorial_dockingopenmaneuver,2448,Open the MANEUVERING THRUSTER controls.,Откройте рычаги управления РУЧНЫМИ ДВИГАТЕЛЯМИ.
@@ -1872,8 +1872,8 @@ CURRENT,tutorial_miningselecttarget,2448,Target a Tilium Ore patch by clicking o
 CURRENT,tutorial_mininggetinrange,2448,Move your ship until the mineral patch is in the range of fire.,"Перемещайте корабль так, чтобы минеральный участок оказался в зоне обстрела."
 CURRENT,tutorial_mininginstalldronebay,2448,Drones will collect mined resources.\n\nInstall a DRONE BAY so your drones can collect the Tilium Ore.,"Дроны будут собирать добытые ресурсы.\n\nУстановите DRONE BAY, чтобы ваши дроны могли собирать тилиевую руду."
 CURRENT,tutorial_miningfleetorders,2448,You also need to make sure that GATHER MATERIALS is enabled in FLEET ORDERS.,"Вам также нужно убедиться, что в FLEET ORDERS включена опция GATHER MATERIALS."
-CURRENT,tutorial_mininginstallsmelter,2448,You will need to smelt the raw Tilium Ore to crystals.\n\nInstall a SMELTER.,Вам нужно будет переплавить сырую тилиевую руду в кристаллы.\n\nУстановите SMELTER.
-CURRENT,tutorial_miningsetsmelter,2448,Right click on the SMELTER and select TILIUM ORE to smelt it into Tilium Crystals.,"Щелкните правой кнопкой мыши на SMELTER и выберите TILIUM ORE, чтобы переплавить его в кристаллы тилиума."
+CURRENT,tutorial_mininginstallsmelter,2448,You will need to smelt the raw Tilium Ore to crystals.\n\nInstall a SMELTER.,Вам нужно будет переплавить сырую тилиевую руду в Тилиевые кристаллы.\n\nУстановите SMELTER.
+CURRENT,tutorial_miningsetsmelter,2448,Right click on the SMELTER and select TILIUM ORE to smelt it into Tilium Crystals.,"Щелкните правой кнопкой мыши на SMELTER и выберите TILIUM ORE, чтобы переплавить его в Тилиевые кристаллы."
 CURRENT,tutorial_miningwaitsmelter,2448,Perfect! Now wait for your smelter to smelt the Tilium Ore.,"Отлично! Теперь подождите, пока плавильщик выплавит тилиевую руду."
 CURRENT,tutorial_buyship_title,2448,PURCHASING SHIPS,ПОКУПКА КОРАБЛЕЙ
 CURRENT,tutorial_buyshipstart,2448,We are now going to learn about selecting and buying ships.,"Сейчас мы узнаем, как выбирать и покупать корабли."
@@ -1993,7 +1993,7 @@ CURRENT,blackhole_part1_setup4,2448,"The last time, we pushed it too far.  My br
 CURRENT,blackhole_part1_setup5,2448,"I've lost all contact, and he's been down there for a long time now.  He's still showing on the sensors, and his ship is still intact.  The gravitational forces and time dilation will be extreme.  But with your help, we're going to rescue him.","Я потерял с ним связь, а он уже давно там.  Он все еще виден на сенсорах, и его корабль все еще цел.  Гравитационные силы и замедление времени будут очень сильными.  Но с вашей помощью мы его спасем."
 CURRENT,blackhole_part1_setup6,2448,There's only one way to get to him without falling into the black hole ourselves.  We're going to have to do an extremely short range HYPERSPACE HOP.,"Есть только один способ добраться до него, не провалившись в черную дыру самим.  Нам придется совершить сверхдальний гиперпространственный прыжок."
 CURRENT,blackhole_part1_setup6b,2448,"Using a modified FTL Drive you'll do one hyperspace hop toward the black hole, rescue my brother Marcus, then turn around and hop right out.  It will be dangerous, but it's the only way to avoid being dragged in ourselves.","Используя модифицированный сверхсветовой привод, вы совершите один гиперпространственный прыжок в сторону черной дыры, спасете моего брата Маркуса, а затем развернетесь и выпрыгнете прямо из нее.  Это будет опасно, но это единственный способ избежать того, чтобы нас самих затянуло внутрь."
-CURRENT,blackhole_part1_setup7,2448,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop first.","Мне нужны материалы для синтеза необходимых нам ресурсов.  Вы можете помочь мне с этим, пока я буду работать над расчетами. Мне понадобятся гиперпространственные изотопы - вы должны быть в состоянии собрать их достаточно легко, но сначала вам нужно приобрести гиперпространственный сгусток."
+CURRENT,blackhole_part1_setup7,2448,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop first.","Мне нужны материалы для синтеза необходимых нам ресурсов.  Вы можете помочь мне с этим, пока я буду работать над расчетами. Мне понадобятся гиперпространственные изотопы - вы должны быть в состоянии собрать их достаточно легко, но сначала вам нужно приобрести гиперпространственный совок."
 CURRENT,blackhole_part1_setup7b,2448,You'll then need to use a Loader to start unloading the isotopes into containers.,"Затем вам нужно будет использовать Погрузчик, чтобы начать выгрузку изотопов в контейнеры."
 CURRENT,blackhole_part1_setup8,2448,I'm building the Hyperspace FTL drive that will allow you to perform the hop.  It's going to need some modifications.  I'll need you to manufacture some parts for me. I know you have manufacturing facilities near the Stargate project.  You should be able to make these parts for me without too much trouble.,"Я строю гиперпространственный сверхсветовой привод, который позволит вам совершить прыжок.  Потребуется несколько модификаций.  Мне нужно, чтобы вы изготовили для меня некоторые детали. Я знаю, что у вас есть производственные мощности рядом с проектом Звездные врата.  Вы сможете изготовить для меня эти детали без особых проблем."
 CURRENT,blackhole_part1_setup9,2448,"Bring those materials back to me, and we can move onto phase 2.","Принесите мне эти материалы, и мы сможем перейти ко второй фазе."
@@ -2020,18 +2020,18 @@ CURRENT,blackhole_part2_setup2,2448,"I've completed work on the modified FTL dri
 CURRENT,blackhole_part2_setup3,2448,"With this FTL drive you'll be capable of performing an extremely short range FTL Hop in close proximity to the black hole.  You'll emerge directly on top of my twin brother's ship, and perform the rescue.",С этим сверхсветовым приводом вы сможете совершить сверхсветовой прыжок на очень короткое расстояние в непосредственной близости от черной дыры.  Вы выйдете прямо над кораблем моего брата-близнеца и проведете спасательную операцию.
 CURRENT,blackhole_part2_setup4,2448,You'll need to make two jumps - one in and one out.  I've checked and double checked the calculations.  I'll need your help to make two FTL charges that work with the modified FTL Hop Drive.,"Вам придется совершить два прыжка - один туда и один обратно.  Я проверил и перепроверил расчеты.  Мне понадобится ваша помощь, чтобы сделать два сверхсветовых заряда, которые будут работать с модифицированным сверхсветовым хоп-драйвом."
 CURRENT,blackhole_part2_setup5,2448,"I'll need quite a lot of Tilium Crystals for the FTL charges.  Tilium ore can be mined from just about any asteroid belt in the system - but you will need a Mining Laser to do it, and Drones to collect the mineral.","Для сверхсветовых зарядов мне понадобится довольно много кристаллов тилиума.  Тилиевую руду можно добывать практически из любого астероидного пояса в системе, но для этого вам понадобится шахтный лазер и дроны для сбора минерала."
-CURRENT,blackhole_part2_setup6,2448,You'll then need a Smelter to process the ore into Tilium Crystals.  I have most of the equipment you'll need here.  If you dock with my ship I can send it over.,"Затем вам понадобится плавильная печь, чтобы перерабатывать руду в кристаллы тилиума.  У меня здесь есть почти все необходимое оборудование.  Если вы состыкуетесь с моим кораблем, я могу прислать его."
+CURRENT,blackhole_part2_setup6,2448,You'll then need a Smelter to process the ore into Tilium Crystals.  I have most of the equipment you'll need here.  If you dock with my ship I can send it over.,"Затем вам понадобится плавильная печь, чтобы перерабатывать руду в Тилиевые кристаллы.  У меня здесь есть почти все необходимое оборудование.  Если вы состыкуетесь с моим кораблем, я могу прислать его."
 CURRENT,blackhole_part2_objective_dock,2448,Dock with Julian Martinez,Состыковаться с Джулианом Мартинесом
 CURRENT,blackhole_part2_objective_lasers,2448,Receive 2x Mining Lasers,Получить 2x шахтерских лазера
 CURRENT,blackhole_part2_objective_drones,2448,Receive Logistics Drone,Получить логистический дрон
 CURRENT,blackhole_part2_objective_dronebay,2448,Receive Drone Bay,Получить отсек для дронов
 CURRENT,blackhole_part2_objective_smelter,2448,Receive 1x Smelter,Получить 1х плавильную печь
 CURRENT,blackhole_part2_setup7,2448,Take those Mining Lasers and the drones and find an asteroid belt with some Tilium deposits.  Point the mining lasers at the Tilium and use the drones to collect the mineral.,Возьмите шахтные лазеры и дроны и найдите пояс астероидов с залежами тилиума.  Направьте шахтные лазеры на тилиум и используйте дронов для сбора минерала.
-CURRENT,blackhole_part2_setup8,2448,Once you've mined the resource you'll need to refine it into Tilium Crystals using the Smelter I've provided.,"После того как вы добыли ресурс, вам нужно будет переработать его в кристаллы тилиума с помощью плавильной печи, которую я вам предоставил."
-CURRENT,blackhole_part2_objective_totilium,2448,Travel to an asteroid belt with Tilium deposits,Отправляйтесь в пояс астероидов с залежами тилиума
-CURRENT,blackhole_part2_objective_mine,2448,Mine Tilium Ore [*X/*Y],Добыть тилиевую руду [*X/*Y]
-CURRENT,blackhole_part2_objective_refine,2448,Refine Tilium Crystals [*X/*Y],Переработайте кристаллы тилиума [*X/*Y]
-CURRENT,blackhole_part2_objective_return,2448,Return the Tilium Crystals to Dr. Martinez [*X/*Y],Верните кристаллы тилиума доктору Мартинесу [*X/*Y]
+CURRENT,blackhole_part2_setup8,2448,Once you've mined the resource you'll need to refine it into Tilium Crystals using the Smelter I've provided.,"После того как вы добыли ресурс, вам нужно будет переработать его в Тилиевые кристаллы с помощью плавильной печи, которую я вам предоставил."
+CURRENT,blackhole_part2_objective_totilium,2448,Travel to an asteroid belt with Tilium deposits,Отправляйтесь в пояс астероидов с залежами Тилиума
+CURRENT,blackhole_part2_objective_mine,2448,Mine Tilium Ore [*X/*Y],Добыть Тилиевую руду [*X/*Y]
+CURRENT,blackhole_part2_objective_refine,2448,Refine Tilium Crystals [*X/*Y],Переработайте Тилиевые кристаллы [*X/*Y]
+CURRENT,blackhole_part2_objective_return,2448,Return the Tilium Crystals to Dr. Martinez [*X/*Y],Верните Тилиевые кристаллы доктору Мартинесу [*X/*Y]
 CURRENT,blackhole_part2_finished2,2448,"I know the Stargate Project have been in touch and I know they want their data.  I get that, but let's remember the priority is safely recovering my brother.  Sometimes they take people for granted.","Я знаю, что проект Звездные врата был на связи, и я знаю, что они хотят получить свои данные.  Я это понимаю, но давайте помнить, что приоритет - безопасное возвращение моего брата.  Иногда они принимают людей как должное."
 CURRENT,blackhole_part2_finished3,2448,I'll contact you when I'm ready to begin the rescue.,"Я свяжусь с вами, когда буду готов приступить к спасению."
 CURRENT,blackhole_part2_stargate1,2448,"We heard about your involvement with the Martinez rescue mission and we wanted to offer our support.  The twins have been hugely important to the project from the beginning, and the data they have provided has enabled many of our biggest advancements.","Мы слышали о вашем участии в спасательной операции Мартинеса и хотели предложить свою поддержку.  Близнецы были очень важны для проекта с самого начала, и данные, которые они предоставили, позволили нам добиться многих значительных успехов."
@@ -2390,7 +2390,7 @@ CURRENT,tutorial_dsihighlightruinedequipment,2448,"This equipment is ruined, so 
 CURRENT,tutorial_dsiclicktodismantle,2448,Any equipment can be dismantled by left-clicking.,"Любое оборудование можно разобрать, щелкнув левой кнопкой мыши."
 CURRENT,tutorial_dsihighlightsmelter,2448,Let's use the scrap metal to produce metal ingots in the smelter. Right-click on the smelter.,Давайте используем металлолом для производства металлических слитков в плавильне. Щелкните правой кнопкой мыши на плавильне.
 CURRENT,tutorial_dsisetrecipe,2448,Right-clicking on equipment allows you to set recipes. Set the smelter recipe to scrap metal.,"Щелкнув правой кнопкой мыши на оборудовании, вы можете задать рецепты. Установите рецепт плавильной печи на металлолом."
-CURRENT,tutorial_dsisetupdone,2448,The smelter will now start producing metal ingots after it has finished heating up.,Теперь плавильня начнет производить металлические слитки после окончания нагрева.
+CURRENT,tutorial_dsisetupdone,2448,The smelter will now start producing metal ingots after it has finished heating up.,Теперь плавильня начнет производить железные слитки после окончания нагрева.
 CURRENT,tutorial_stargatewindowopenwindow,2448,Select the Stargate button in your toolbar to open the Stargate screen.,"Выберите кнопку Звездные врата на панели инструментов, чтобы открыть экран Звездные врата."
 CURRENT,tutorial_stargatewindowintro,2448,The Stargate screen displays everything you need to manufacture to complete the current phase.,"На экране Звездных врат отображается все, что вам нужно изготовить для завершения текущей фазы."
 CURRENT,tutorial_stargatewindowhighlightcomponent,2448,Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it.,"Каждый компонент, который вам нужно изготовить, находится слева.\nНаведите курсор на значок компонента, чтобы узнать, как его изготовить."
@@ -2445,14 +2445,14 @@ CURRENT,dsi_part1_objective_setsmelter,2448,Set Smelter to Scrap Metal,Уста�
 CURRENT,dsi_part1_objective_dismantleequipment,2448,Dismantle ruined equipment,Демонтировать разрушенное оборудование
 CURRENT,dsi_part1_setupstorage1,2448,"Efficiency is going to be the key to this facility turning a profit.  Set up a storage zone for scrap metal near to your Smelter, and another for the Metal Ingots that come out.  Our crew will waste a lot less time carrying goods long distances.","Эффективность будет ключом к тому, чтобы это предприятие приносило прибыль.  Установите рядом с плавильной печью зону хранения металлолома, а другую - для металлических слитков, которые получаются на выходе.  Наша команда будет тратить гораздо меньше времени на перевозку грузов на большие расстояния."
 CURRENT,dsi_part1_manufactureframes1,2448,"If I could draw your attention to this schematic issued by the Andromeda Project.  You can see it's actually quite a simple part.  This is just a structural framework, onto which they'll build everything else.","Если бы я мог обратить ваше внимание на эту схему, выпущенную Проектом Андромеда.  Вы можете видеть, что на самом деле это довольно простая деталь.  Это всего лишь структурный каркас, на котором они построят все остальное."
-CURRENT,dsi_part1_manufactureframes2,2448,"We can manufacture these parts in just two stages out of Metal Ingots.  I've left a boxed Fabricator and an Assembly Table on the station.  Set them up next to each other, ideally near to the Metal Ingots.","Мы можем изготовить эти детали всего в два этапа из металлических слитков.  Я оставил на станции фабрикатор в коробке и сборочный стол.  Установите их рядом друг с другом, в идеале - рядом со слитками металла."
+CURRENT,dsi_part1_manufactureframes2,2448,"We can manufacture these parts in just two stages out of Metal Ingots.  I've left a boxed Fabricator and an Assembly Table on the station.  Set them up next to each other, ideally near to the Metal Ingots.","Мы можем изготовить эти детали всего в два этапа из железных слитков.  Я оставил на станции фабрикатор в коробке и сборочный стол.  Установите их рядом друг с другом, в идеале - рядом со слитками металла."
 CURRENT,dsi_part1_manufactureframes3,2448,"Once they're installed, set the Fabricator to manufacture Frames, then set the Assembly Table to specialise them into finished Stargate Frames.  It's simple stuff, but eventually we will need a huge throughput.","Как только они будут установлены, настройте Фабрикатор на производство каркасов, а затем настройте Сборочный стол на их специализацию в готовые каркасы Звездных врат.  Это просто, но со временем нам понадобится огромная производительность."
 CURRENT,dsi_part1_objective_installfabricator,2448,Install Fabricator,Установить Фабрикатор
 CURRENT,dsi_part1_objective_setfabricator,2448,Set Fabricator to Frames,Установите Фабрикатор на производство каркасов
 CURRENT,dsi_part1_objective_installassemblytab,2448,Install Assembly Table,Установить сборочный стол
 CURRENT,dsi_part1_objective_setassemblytab,2448,Set Assembly Table to Stargate Frames,Настроить сборочный стол на рамы звездных врат
 CURRENT,dsi_part1_manufactureframes4,2448,"They want us to provide an initial batch of 10 Stargate Frames, for certification.  They'll inspect our work and we'll be approved as official partners in the Andromeda Project.","Они хотят, чтобы мы предоставили начальную партию из 10 каркасов Звездных врат для сертификации.  Они проверят нашу работу, и мы будем утверждены в качестве официальных партнеров проекта Андромеда."
-CURRENT,dsi_part1_manufactureframes5,2448,"It shouldn't take too long.  If you run out of metal, remember you can recycle more of the ruined equipment around the facility.","Это не займет много времени.  Если у вас закончится металл, помните, что вы можете переработать больше разрушенного оборудования вокруг объекта."
+CURRENT,dsi_part1_manufactureframes5,2448,"It shouldn't take too long.  If you run out of metal, remember you can recycle more of the ruined equipment around the facility.","Это не займет много времени.  Если у вас закончится железные слитки, помните, что вы можете переработать больше разрушенного оборудования вокруг объекта."
 CURRENT,dsi_part1_objective_manufactureframes,2448,Manufacture Stargate Frames [*X/10],Изготовить рамы звездных врат [*X/10]
 CURRENT,dsi_part1_action_deliverframes,2448,Deliver 10 Stargate Frames,Доставить 10 рамок Звездных врат
 CURRENT,dsi_part1_callfromrep1,2448,"This is a message for A.J.E FOUNDRY.  We've received your samples and can report that they have passed comfortably within our engineering tolerances.  You are formally approved as licensed industry partners, and may now manufacture all items in our design manifest.","Это сообщение для A.J.E FOUNDRY.  Мы получили ваши образцы и можем сообщить, что они прошли проверку в пределах наших инженерных допусков.  Вы официально утверждены в качестве лицензированных промышленных партнеров и теперь можете производить все изделия по нашему проекту."
@@ -2461,7 +2461,7 @@ CURRENT,dsi_part1_openstargatescreen,2448,"Excellent.  Let's have a look at the 
 CURRENT,dsi_part1_phase2_xcall1,2448,"It looks like it's just a bulk order of the part we already provided.  We need to make 200 more Stargate Frames.  We're already manufacturing them, but we'll need to scale up production or else this will take forever.","Похоже, это просто оптовый заказ уже предоставленной нами детали.  Нам нужно изготовить еще 200 каркасов Звездных врат.  Мы уже производим их, но нам нужно увеличить масштабы производства, иначе это займет целую вечность."
 CURRENT,dsi_part1_phase2_xcall2,2448,"I'm releasing some of the seed money to you.  $600,000 should be enough for you to buy all the equipment we need to scale up.  Remember this isn't a gift.  I still own this station, and all the equipment onboard.","Я выделяю вам часть стартового капитала.  600 000 долларов должно хватить на покупку всего оборудования, необходимого для расширения производства.  Помните, это не подарок.  Я по-прежнему владею этой станцией и всем оборудованием на ее борту."
 CURRENT,dsi_part1_phase2_xcall3,2448,"I suggest you buy more Smelters, more Fabricators, and more Assembly Tables.  A couple of each at least.  All that equipment will draw more juice, so you'll need to expand the power network with more Reactors and Batteries to cope.  And you'll need more crew to do the work.","Я предлагаю вам купить больше плавильных печей, больше фабрикантов и больше сборочных столов.  По крайней мере, по паре каждого.  Все это оборудование будет потреблять больше энергии, поэтому вам придется расширить энергосеть за счет реакторов и батарей.  И вам понадобится больше команды для выполнения работы."
-CURRENT,dsi_part1_phase2_xcall4,2448,"If you run out of Metal Ingots, you should be able to buy raw materials from the open Marketplace.  You can usually buy more Scrap Metal, but you'll also find Metallic Minerals for sale which can also be smelted into Metal Ingots.","Если у вас закончатся металлические слитки, вы сможете купить сырье на открытом рынке.  Обычно вы можете купить больше металлолома, но вы также найдете на продажу железную руду, которые также можно переплавить в металлические слитки."
+CURRENT,dsi_part1_phase2_xcall4,2448,"If you run out of Metal Ingots, you should be able to buy raw materials from the open Marketplace.  You can usually buy more Scrap Metal, but you'll also find Metallic Minerals for sale which can also be smelted into Metal Ingots.","Если у вас закончатся железные слитки, вы сможете купить сырье на открытом рынке.  Обычно вы можете купить больше металлолома, но вы также найдете на продажу железную руду, которые также можно переплавить в железные слитки."
 CURRENT,dsi_part1_objective_scaleupproduction,2448,Scale up production,Увеличить производство
 CURRENT,dsi_part1_objective_smeltmetallicminerals,2448,Start smelting Metallic Minerals [*X/200],Начните выплавлять Железную руду [*X/200]
 CURRENT,dsi_part1_objective_produceframes,2448,Produce 200 Stargate Frames [*X/200],Произвести 200 каркасов звездных врат [*X/200]
@@ -2502,7 +2502,7 @@ CURRENT,dsi_part2_action_askaboutisotopes,2448,Ask about Stable Isotopes,Спр�
 CURRENT,dsi_part2_resinintro1,2448,There is a ship for sale here that's perfect for our gas collection enterprise.  Let's buy it and add it to the fleet.,"Здесь продается корабль, который идеально подходит для нашего предприятия по сбору газа.  Давайте купим его и добавим к флоту."
 CURRENT,dsi_part2_resinintro2,2448,"Gas collection is a slow process.  Our aim should be to place this vessel within a dense metreon nebula, slowly absorbing the gas and refining it over time.  Once we're in the nebula we won't be able to easily upgrade the ship, so we'll want to set it up as much as possible in advance.","Сбор газа - это медленный процесс.  Наша цель - поместить это судно в плотную метроновую туманность, медленно поглощая газ и очищая его со временем.  Как только мы окажемся в туманности, мы не сможем легко модернизировать корабль, так что нам нужно будет настроить его как можно лучше заранее."
 CURRENT,dsi_part2_resinintro3,2448,I'll send over more seed money and you can outfit the ship as you see best.,"Я пришлю еще стартовый капитал, и вы сможете оборудовать корабль так, как сочтете нужным."
-CURRENT,dsi_part2_resinintro4,2448,"The process of making Stargate Resin starts with a Gas Collector bringing in the Metreon Gas.  We then pipe that into a Refinery to produce Refined Metreon, then into a Chemical Lab where the Stargate Resin can be synthesised.","Процесс изготовления смолы Звездных врат начинается с того, что в газосборник поступает газ Метреон.  Затем мы направляем его на нефтеперерабатывающий завод для получения очищенного Метреона, а затем в химическую лабораторию, где синтезируется смола Звездных врат."
+CURRENT,dsi_part2_resinintro4,2448,"The process of making Stargate Resin starts with a Gas Collector bringing in the Metreon Gas.  We then pipe that into a Refinery to produce Refined Metreon, then into a Chemical Lab where the Stargate Resin can be synthesised.","Процесс изготовления смолы Звездных врат начинается с того, что в газосборник поступает газ Метреон.  Затем мы направляем его на химический завод для получения очищенного Метреона, а затем в химическую лабораторию, где синтезируется смола Звездных врат."
 CURRENT,dsi_part2_resinintro6,2448,"You may need to shop around a bit, if the local trade post doesn't have everything you need.","Возможно, вам придется немного походить по магазинам, если в местном торговом пункте не окажется всего, что вам нужно."
 CURRENT,dsi_part2_resinintro7,2448,"Once the ship is ready, pair it up with one of your FTL capable vessels, and jump into a nearby nebula to begin the process of gas collection.","Когда корабль будет готов, соедините его с одним из ваших кораблей со сверхсветовыми возможностями и прыгайте в ближайшую туманность, чтобы начать процесс сбора газа."
 CURRENT,dsi_part2_objective_traveltonebula,2448,Transport the Gas Collector to a Nebula,Транспортировка газосборника в туманность
@@ -2510,7 +2510,7 @@ CURRENT,dsi_part2_objective_collectgas,2448,Begin collecting Metreon Gas [*X/100
 CURRENT,dsi_part2_objective_refinegas,2448,Begin refining Metreon [*X/100],Начать переработку Метреона [*X/100]
 CURRENT,dsi_part2_action_buyship,2448,Buy gas fuselage,Купить газовый фюзеляж
 CURRENT,dsi_part2_isotopesintro1,2448,We need to produce 100 Stable Isotopes. This is a chemical compound we must synthesise and deliver in barrels to the Andromeda Project.,"Нам нужно произвести 100 стабильных изотопов. Это химическое соединение, которое мы должны синтезировать и доставить в бочках в проект Андромеда."
-CURRENT,dsi_part2_isotopesintro2,2448,"It's not too complex.  It starts with a Hyperspace Scoop, or several ideally, that you can fit to your vessels.  Every time you make an FTL jump you'll collect more as you pass through deep space at light speed.  You can then pipe those isotopes into a Refinery and convert them into Stable Isotopes.","Это не слишком сложно.  Начнем с гиперпространственного совка, или, в идеале, нескольких, которые вы можете установить на свои корабли.  Каждый раз, когда вы совершаете сверхсветовой прыжок, вы будете собирать больше, проходя через глубокий космос со скоростью света.  Затем вы сможете направить эти изотопы на нефтеперерабатывающий завод и превратить их в стабильные изотопы."
+CURRENT,dsi_part2_isotopesintro2,2448,"It's not too complex.  It starts with a Hyperspace Scoop, or several ideally, that you can fit to your vessels.  Every time you make an FTL jump you'll collect more as you pass through deep space at light speed.  You can then pipe those isotopes into a Refinery and convert them into Stable Isotopes.","Это не слишком сложно.  Начнем с гиперпространственного совка, или, в идеале, нескольких, которые вы можете установить на свои корабли.  Каждый раз, когда вы совершаете сверхсветовой прыжок, вы будете собирать больше, проходя через глубокий космос со скоростью света.  Затем вы сможете направить эти изотопы на химический завод и превратить их в стабильные изотопы."
 CURRENT,dsi_part2_objective_installscoop,2448,Install Hyperspace Scoop,Установите Гиперпространственный совок
 CURRENT,dsi_part2_objective_collectisotopes,2448,Begin collecting Hyperspace Isotopes [*X/100],Начать сбор гиперпространственных изотопов [*X/100]
 CURRENT,dsi_part2_objective_unloadisotopes,2448,Begin unloading barrels of Stable Isotopes [*X/10],Начать разгрузку бочек со стабильными изотопами [*X/10]
