@@ -10,7 +10,7 @@ object_box | Box | Ящик
 object_brokenhopdrive | Broken Hop Drive | Сломанный хоп-драйв
 object_brokenhopdrive_description | Broken hop drive, capable of hopping within systems | Сломанный хоп-драйв, способный прыгать внутри систем
 object_bullets | Bullets | Пулеметные пули
-object_bullets_description | A box of ammo for a Gatling Gun (PDC). | Ящик патронов для пушки Пулемета.
+object_bullets_description | A box of ammo for a Gatling Gun (PDC). | Ящик патронов для Пулемета.
 object_cannon | Cannon | Пушка
 object_cannon_description | A medium range weapon system that launches a barrage of explosive shells at the target. Cannon shells are excellent at dealing area-of-effect damage to an enemy ship, and will shred hull armour. | Оружейная система средней дальности, выпускающая шквал разрывных снарядов по цели. Пушечные снаряды отлично наносят урон по площади и разрушают броню корпуса.
 object_cannonshell | Cannon Shells | Пушечные снаряды
@@ -30,7 +30,7 @@ object_data | Data | Данные
 object_deflector | Deflector | Дефлектор
 object_deflector_description | A defensive system that uses a deflector beam to divert incoming rocket shells | Защитная система, использующая отклоняющий луч, чтобы отвести от себя летящие ракетные снаряды
 object_deuterium | Deuterium | Дейтерий
-object_deuterium_description | Fuel for a Fusion Reactor. | Топливо для термоядерного реактора.
+object_deuterium_description | Fuel for a Fusion Reactor. | Топливо для реактора синтеза.
 object_dockingport | Docking Port | Стыковочный порт
 object_dockingport_description | Provides an access point to the ship so that shuttle craft can dock and undock. | Обеспечивает точку доступа к кораблю, чтобы челноки могли причаливать и отчаливать.
 object_door | Door | Дверь
@@ -90,7 +90,7 @@ object_mininglaser_description | Can drill into mineral patches (found in astero
 object_missioncargo | Mission Cargo | Груз миссии
 object_motorcomponent | Motor | Двигатель
 object_munitionsfactory | Munitions Bench | Верстак боеприпасов
-object_munitionsfactory_description | A workbench where a skilled crew member can fabricate different forms of ammunition for ship weapon systems. Uses metal and explosives to produce Bullets, Railgun Slugs, Cannon Shells etc. | Верстак, на котором опытный член экипажа может изготовить различные виды боеприпасов для корабельных систем вооружения. Использует железные слитки и взрывчатку для производства пуль, пуль для рельсотронов, снарядов для пушек и т. д.
+object_munitionsfactory_description | A workbench where a skilled crew member can fabricate different forms of ammunition for ship weapon systems. Uses metal and explosives to produce Bullets, Railgun Slugs, Cannon Shells etc. | Верстак, на котором опытный член экипажа может изготовить различные виды боеприпасов для корабельных систем вооружения. Использует металл и взрывчатку для производства пуль, рельсотронных снарядов, пушечных снарядов и т. д.
 object_neubidiumcapacitor | Neubidium Capacitor | Конденсатор из Нейбидиума
 object_neubidiumingot | Neubidium Ingot | Нейбидиумный слиток
 object_neubidiumore | Neubidium Ore | Нейбидиумная руда
@@ -155,7 +155,7 @@ object_smalltable | Small Table | Маленький столик
 object_smalltank | Medium Tank | Средний резервуар
 object_smalltank_description | A storage tank that can store liquids and gases. | Резервуар, в котором могут храниться жидкости и газы.
 object_smelter | Smelter | Плавильня
-object_smelter_description | This industrial processing machine can melt ores into usable metal ingots. Once installed, click on it to change the ore type. | Эта промышленная машина может переплавлять руды в пригодные для использования железные слитки. После установки нажмите на нее, чтобы изменить тип руды.
+object_smelter_description | This industrial processing machine can melt ores into usable metal ingots. Once installed, click on it to change the ore type. | Эта промышленная машина может переплавлять руды в пригодные для использования металлические слитки. После установки нажмите на нее, чтобы изменить тип руды.
 object_sofa | Sofa | Диван
 object_solarpanel | Solar Panel | Солнечная панель
 object_solarpanel_description | These must be installed outside your ship, with scaffolding for support. Each panel generates 10MW. | Они должны быть установлены снаружи вашего корабля, с лесами для поддержки. Каждая панель генерирует 10 МВт.

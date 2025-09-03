@@ -38,7 +38,7 @@ alert_type_powercut_tooltip | Your reactor has cut out. It is likely the fuel su
 alert_type_severely_dehydrated | CREW SEVERELY DEHYDRATED | ЭКИПАЖ СИЛЬНО ОБЕЗВОЖЕН
 alert_type_stargatelosingpower | STARGATE LOSING POWER | ЗВЕЗДНЫЕ ВРАТА ТЕРЯЮТ ЭНЕРГИЮ
 alert_type_stargatelosingpower_caption | *X MW / *Y MW Supplied | *X МВт / *Y МВт Поставляется
-alert_type_stargatelosingpower_tooltip | The stargate isn't being supplied with enough power. Use energy transmitters to supply the Stargate with power. | Звездные врата не получают достаточно энергии. Используй передатчики энергии, чтобы снабдить Звездные врата энергией.
+alert_type_stargatelosingpower_tooltip | The stargate isn't being supplied with enough power. Use energy transmitters to supply the Stargate with power. | Звездные врата не получают достаточно энергии. Используйте передатчики энергии, чтобы снабдить Звездные врата энергией.
 alert_type_starving | CREW STARVING | ЭКИПАЖ УМИРАЕТ ОТ ГОЛОДА
 alert_type_suffocating | CREW SUFFOCATING | ЭКИПАЖ ЗАДЫХАЕТСЯ
 alert_type_suffocating_caption | *X suffocating | *X удушье

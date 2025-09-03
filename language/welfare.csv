@@ -1,6 +1,6 @@
 welfare_overlay_dehydrated | CREW DEHYDRATED | ЭКИПАЖ ОБЕЗВОЖЕН
-welfare_overlay_famished | CREW FAMISHED | ОБЕЗВОЖЕННЫЙ ЭКИПАЖ
+welfare_overlay_famished | CREW FAMISHED | ИЗГОЛОДАВШИЙСЯ ЭКИПАЖ
 welfare_overlay_hungry | CREW HUNGRY | ЭКИПАЖ ГОЛОДЕН
 welfare_overlay_severely_dehydrated | CREW SEVERELY DEHYDRATED | ЭКИПАЖ СИЛЬНО ОБЕЗВОЖЕН
 welfare_overlay_starving | CREW STARVING | ГОЛОДАЮЩИЙ ЭКИПАЖ
-welfare_overlay_thirsty | CREW THIRSTY | ЭКИПАЖ ГОЛОДНЫЙ
+welfare_overlay_thirsty | CREW THIRSTY | ИСПЫТЫВАЮЩИЙ ЖАЖДУ ЭКИПАЖ

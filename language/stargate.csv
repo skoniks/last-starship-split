@@ -7,7 +7,7 @@ stargate_help | To submit completed parts to the stargate project, sell them at 
 stargate_jumping | JUMP IN PROGRESS | ПРЫЖОК...
 stargate_newsystems_harken_1 | Captain, our sector scan has found new systems in the sector. | Капитан, наше сканирование сектора обнаружило в нем новые системы.
 stargate_newsystems_harken_2 | Unfortunately it seems pirates have gotten to them first, and have set up their own shipyards around the Neubidium deposits in the system. | К сожалению, похоже, пираты добрались до них первыми и создали собственные верфи вокруг месторождений нейбидиума в системе.
-stargate_newsystems_harken_3 | Be prepared for combat if you're going to visit. Good luck, Captain. | Будь готов к бою, если собираешься наведаться в гости. Удачи, капитан.
+stargate_newsystems_harken_3 | Be prepared for combat if you're going to visit. Good luck, Captain. | Будьте готовы к бою, если собираетесь наведаться в гости. Удачи, капитан.
 stargate_part1_accept | ACCEPT | ПРИНЯТЬ
 stargate_part1_action_deliverframes | Deliver *X Stargate Frames | Поставка *X рамы звездных врат
 stargate_part1_completion | Well done on completing the frame of the Stargate. There is still a lot of work to do. | Молодцы, что закончили работу над каркасом Звездных врат. Осталось еще много работы.
@@ -22,13 +22,13 @@ stargate_part1_manufacturing5 | We've made a start.  We can scale up this design
 stargate_part1_manufacturing6 | We should be able to get by just buying the raw materials we need through the Trade system.  If there isn't enough metallic minerals available then you'll have to send your other ship around the Sector to pickup the resources you need from other stations. | Мы должны быть в состоянии просто покупать необходимое нам сырье через систему торговли.  Если не хватит металлических минералов, придется отправить второй корабль по сектору, чтобы забрать нужные ресурсы с других станций.
 stargate_part1_objective_buystation | Buy the industrial station | Купить промышленную станцию
 stargate_part1_objective_deliver | Deliver [*X/*Y] STARGATE FRAMES | Поставить [*X/*Y] STARGATE FRAMES
-stargate_part1_objective_deliver2 | Deliver [*X/*Y] STARGATE FRAMES | Доставить [*X/*Y] СТАРГЕЙТОВЫХ КАМНЕЙ
-stargate_part1_objective_deliver3 | Deliver [*X/*Y] STARGATE FRAMES | Поставка [*X/*Y] STARGATE FRAMES
+stargate_part1_objective_deliver2 | Deliver [*X/*Y] STARGATE FRAMES | Доставить [*X/*Y] РАМЫ ЗВЕЗДНЫХ ВРАТ
+stargate_part1_objective_deliver3 | Deliver [*X/*Y] STARGATE FRAMES | Доставить [*X/*Y] РАМЫ ЗВЕЗДНЫХ ВРАТ
 stargate_part1_objective_extraassembler | Setup another assembly table | Установите еще один сборочный стол
 stargate_part1_objective_extrafabricator | Setup another fabricator | Установите еще один фабрикатор
 stargate_part1_objective_hirecrew | Hire *X crew and buy *X spacesuits | Нанять *X экипаж и купить *X скафандры
 stargate_part1_objective_makebreathable | Make the cabin breathable | Сделать салон воздухопроницаемым
-stargate_part1_objective_manufacture | Manufacture [*X/*Y] STARGATE FRAMES | Изготовить [*X/*Y] РАМКИ СТАРГАТА
+stargate_part1_objective_manufacture | Manufacture [*X/*Y] STARGATE FRAMES | Изготовить [*X/*Y] РАМЫ ЗВЕЗДНЫХ ВРАТ
 stargate_part1_objective_manufacture2 | Manufacture [*X/*Y] STARGATE FRAMES | Изготовить [*X/*Y] СТАРГЕЙТОВЫХ КАМНЕЙ
 stargate_part1_objective_manufacture3 | Manufacture [*X/*Y] STARGATE FRAMES | Изготовить [*X/*Y] STARGATE FRAMES
 stargate_part1_objective_powerstation | Power the station | Запитать станцию

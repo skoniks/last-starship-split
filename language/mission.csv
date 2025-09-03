@@ -175,7 +175,7 @@ mission_sectordestroy_desc3 | Terminate any enemy vessels you find at those loca
 mission_sectordestroy_map | Destroy hostiles [*X/*Y] | Уничтожьте врагов [*X/*Y]
 mission_sectordestroy_payment | A payment of $*X will be made after each location is cleared, for a total of $*Y. | После зачистки каждой локации будет произведена оплата в размере $*X, итого $*Y.
 mission_sectordestroy_progress | Cleared *X out of *Y systems | Очистили *X от *Y систем
-mission_sectordestroy_system | You have destroyed the enemy forces in system S*X. Payment of $*Y is coming your way. | Ты уничтожил вражеские силы в системе S*X. Тебя ожидает выплата в размере $*Y.
+mission_sectordestroy_system | You have destroyed the enemy forces in system S*X. Payment of $*Y is coming your way. | Вы уничтожили вражеские силы в системе S*X. Вас ожидает выплата в размере $*Y.
 mission_sectordestroy_title | SECTOR OBJECTIVE: Destroy all hostile forces | СЕКТОРНАЯ ЦЕЛЬ: Уничтожить все вражеские силы
 mission_sectorevacuate_arrived | *X passengers out of *Y have made it safely to their destination. Total payment $*Z. | *X пассажиров из *Y благополучно добрались до места назначения. Общая сумма оплаты $*Z.
 mission_sectorevacuate_description | There are *X civilians stranded in the sector, with no means to escape the coming catastrophe. | В секторе застряло *X гражданских лиц, у которых нет возможности спастись от грядущей катастрофы.
@@ -194,7 +194,7 @@ mission_sectorjumpgate_damage | The Jumpgate is damaged, and must be repaired an
 mission_sectorjumpgate_description1 | The Jumpgate at the end of this sector has some requirements before it can be used. | Джампгейт в конце этого сектора имеет некоторые требования, прежде чем его можно будет использовать.
 mission_sectorjumpgate_hostiles | Eradicate hostile blockade | Ликвидируй вражескую блокаду
 mission_sectorjumpgate_hostiles2 | A fleet of hostile ships is attempting to blockade the jumpgate and extort money from ships passing through. | Флот враждебных кораблей пытается заблокировать джампгейт и вымогать деньги у проходящих через него кораблей.
-mission_sectorjumpgate_hostiles3 | You'll need to clear them out before we can safely activate the jumpgate. | Тебе нужно будет зачистить их, прежде чем мы сможем безопасно активировать прыжковые врата.
+mission_sectorjumpgate_hostiles3 | You'll need to clear them out before we can safely activate the jumpgate. | Вам нужно будет зачистить их, прежде чем мы сможем безопасно активировать прыжковые врата.
 mission_sectorjumpgate_map | Activate the Jumpgate | Активировать прыжковые врата
 mission_sectorjumpgate_materialprovided | Provided *X/*Y R*Z | Предоставлено *X/*Y R*Z
 mission_sectorjumpgate_materials | We need some maintainence supplies before the jumpgate can be used. | Прежде чем использовать прыжковые врата, нам нужны некоторые ремонтные материалы.
@@ -220,8 +220,8 @@ mission_sectorprotect_friendlykilled | Unfortunately the ship has been destroyed
 mission_sectorprotect_kills | *X of the *Y enemy ships have been destroyed. | *X из *Y вражеских кораблей были уничтожены.
 mission_sectorprotect_map | Investigate Distress Call | Расследовать сигнал бедствия
 mission_sectorprotect_map_initial | Investigate Distress Call | Расследовать сигнал бедствия
-mission_sectorprotect_offer1 | Thank you, Captain! We would never have survived without your assistance. | Спасибо тебе, капитан! Мы бы никогда не выжили без твоей помощи.
-mission_sectorprotect_offer2 | If you'd be interested, we'd be honoured to join forces with your fleet. | Если тебе это интересно, мы сочтем за честь объединить усилия с твоим флотом.
+mission_sectorprotect_offer1 | Thank you, Captain! We would never have survived without your assistance. | Спасибо вам, капитан! Мы бы никогда не выжили без вашей помощи.
+mission_sectorprotect_offer2 | If you'd be interested, we'd be honoured to join forces with your fleet. | Если вам это интересно, мы сочтем за честь объединить усилия с вашим флотом.
 mission_sectorprotect_offer3 | Choose your reward, Captain | Выберите свою награду, капитан
 mission_sectorprotect_sos1 | To any vessel, we are under attack!  Please help, we won't last much longer! | Любое судно, нас атакуют!  Пожалуйста, помогите, мы долго не протянем!
 mission_sectorprotect_success | RESCUE COMPLETED | СПАСЕНИЕ ЗАВЕРШЕНО

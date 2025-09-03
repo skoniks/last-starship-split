@@ -3,10 +3,10 @@ order_battlestations | Battle Stations | Боевые станции
 order_exteriorwork | Exterior Work | Внешние работы
 order_fleetlogistics | Fleet Logistics | Логистика флота
 order_gather | Gather Materials | Собрать материалы
-order_mining | Mining | Добыча
+order_mining | Mining | Добыча ископаемых
 order_none | None | Нет
 order_repairhull | Repair Hull | Ремонт корпуса
 order_salvage | Gather Salvage | Собирать утильсырье
 order_shiftwork | Shift Work | Переключить работу
-order_suitson | Suits On | Костюмы
-order_weaponsactive | Weapons Free | Оружие бесплатно
+order_suitson | Suits On | Надеть костюмы
+order_weaponsactive | Weapons Free | Освободить оружие
