@@ -9,11 +9,11 @@ object_battery_description | Stores any excess power available in the powergrid,
 object_box | Box | Ящик
 object_brokenhopdrive | Broken Hop Drive | Сломанный хоп-драйв
 object_brokenhopdrive_description | Broken hop drive, capable of hopping within systems | Сломанный хоп-драйв, способный прыгать внутри систем
-object_bullets | Bullets | Пули для пулемета
+object_bullets | Bullets | Пулеметные пули
 object_bullets_description | A box of ammo for a Gatling Gun (PDC). | Ящик патронов для пушки Пулемета.
 object_cannon | Cannon | Пушка
 object_cannon_description | A medium range weapon system that launches a barrage of explosive shells at the target. Cannon shells are excellent at dealing area-of-effect damage to an enemy ship, and will shred hull armour. | Оружейная система средней дальности, выпускающая шквал разрывных снарядов по цели. Пушечные снаряды отлично наносят урон по площади и разрушают броню корпуса.
-object_cannonshell | Cannon Shells | Пули для пулемета
+object_cannonshell | Cannon Shells | Пушечные снаряды
 object_carbondioxide | CO2 | CO2
 object_cargo | Cargo | Груз
 object_chair | Chair | Стул
@@ -111,7 +111,7 @@ object_processorcomponent | Processor | Процессор
 object_proximitymine | Mine | Шахта
 object_railgun | Railgun | Рельсотрон
 object_railgun_description | An extremely accurate and long range weapon system that fires a solid slug of metal. The Railgun is a precise weapon that can penetrate through hull armour and destroy equipment inside the target ship. However, the weapon draws a huge amount of energy to recharge after each shot. | Чрезвычайно точная и дальнобойная оружейная система, стреляющая сплошным куском металла. Рельсотрон - точное оружие, способное пробить броню корпуса и уничтожить оборудование внутри корабля-цели. Однако оружие потребляет огромное количество энергии для перезарядки после каждого выстрела.
-object_railgunshell | Railgun Slugs | Снаряды для рельсотрона
+object_railgunshell | Railgun Slugs | Рельсотронные снаряды
 object_railgunshell_description | A box of ammo for a Railgun. | Ящик снарядов для рельсотрона.
 object_reactor | Reactor | Реактор
 object_reactor_description | Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW. | Сжигает высокоэнергетическое топливо для получения энергии. Топливо должно поступать в реактор (по трубе). Затем с помощью кабелей подключается к другому оборудованию.\nГенерирует максимальную мощность в 100 МВт.

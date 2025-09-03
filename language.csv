@@ -1339,9 +1339,9 @@ CURRENT,object_airduct_description,2448,Pumps oxygen into the surrounding cabin 
 CURRENT,object_battery,2448,Battery,Батарея
 CURRENT,object_battery_description,2448,"Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage.","Хранит избыточную энергию в энергосети, до 1000 МВт. Батарея будет подавать энергию при ее нехватке."
 CURRENT,object_box,2448,Box,Ящик
-CURRENT,object_bullets,2448,Bullets,Пули для пулемета
+CURRENT,object_bullets,2448,Bullets,Пулеметные пули
 CURRENT,object_bullets_description,2448,A box of ammo for a Gatling Gun (PDC).,Ящик патронов для пушки Пулемета.
-CURRENT,object_railgunshell,2448,Railgun Slugs,Снаряды для рельсотрона
+CURRENT,object_railgunshell,2448,Railgun Slugs,Рельсотронные снаряды
 CURRENT,object_railgunshell_description,2448,A box of ammo for a Railgun.,Ящик снарядов для рельсотрона.
 CURRENT,object_cargo,2448,Cargo,Груз
 CURRENT,object_civilian,2448,Civilian,Гражданский
@@ -1384,7 +1384,7 @@ CURRENT,object_gatlinggun,2448,Gatling Gun,Пулемет
 CURRENT,object_gatlinggun_description,2448,"A close range rapid-fire weapon system, primarily designed for defense against incoming fighters and ordnance.  The gatling gun excels at destroying fast-moving targets at close range, but lacks the punch to penetrate armoured targets.","Система скорострельного оружия ближнего боя, предназначенная в первую очередь для защиты от наступающих истребителей и боеприпасов.  Пулемет отлично справляется с уничтожением быстродвижущихся целей на близком расстоянии, но не обладает достаточной мощью для пробития бронированных целей."
 CURRENT,object_cannon,2448,Cannon,Пушка
 CURRENT,object_cannon_description,2448,"A medium range weapon system that launches a barrage of explosive shells at the target. Cannon shells are excellent at dealing area-of-effect damage to an enemy ship, and will shred hull armour.","Оружейная система средней дальности, выпускающая шквал разрывных снарядов по цели. Пушечные снаряды отлично наносят урон по площади и разрушают броню корпуса."
-CURRENT,object_cannonshell,2448,Cannon Shells,Пули для пулемета
+CURRENT,object_cannonshell,2448,Cannon Shells,Пушечные снаряды
 CURRENT,object_mininglaser,2448,Mining Laser,Горный лазер
 CURRENT,object_mininglaser_description,2448,Can drill into mineral patches (found in asteroid belts) to extract valuable minerals.,"Может бурить минеральные участки (в поясах астероидов), чтобы добывать ценные руды."
 CURRENT,object_deflector,2448,Deflector,Дефлектор
