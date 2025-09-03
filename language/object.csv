@@ -9,7 +9,7 @@ object_battery_description | Stores any excess power available in the powergrid,
 object_box | Box | Ящик
 object_brokenhopdrive | Broken Hop Drive | Сломанный хоп-драйв
 object_brokenhopdrive_description | Broken hop drive, capable of hopping within systems | Сломанный хоп-драйв, способный прыгать внутри систем
-object_bullets | Bullets | Пулеметные пули
+object_bullets | Bullets | Пулеметные патроны
 object_bullets_description | A box of ammo for a Gatling Gun (PDC). | Ящик патронов для Пулемета.
 object_cannon | Cannon | Пушка
 object_cannon_description | A medium range weapon system that launches a barrage of explosive shells at the target. Cannon shells are excellent at dealing area-of-effect damage to an enemy ship, and will shred hull armour. | Оружейная система средней дальности, выпускающая шквал разрывных снарядов по цели. Пушечные снаряды отлично наносят урон по площади и разрушают броню корпуса.
@@ -38,7 +38,7 @@ object_door_description | A heavy pressure door that can be used to seal off are
 object_dronebay | Drone Bay | Отсек для дронов
 object_dronebay_description | This equipment is required to launch Logistics Drones from your ship. Drones can gather resources and salvage from space, then bring it back to the ship through the Drone Bay. One Drone Bay can launch multiple Drones. | Это оборудование необходимо для запуска логистических дронов с вашего корабля. Дроны могут собирать ресурсы и материалы в космосе, а затем возвращать их на корабль через отсек для дронов. Один отсек может запускать несколько дронов.
 object_energycell | Energy Cell | Энергетическая ячейка
-object_energycellframecomponent | Energy Cell Frame | Энергетическая ячейка каркаса
+object_energycellframecomponent | Energy Cell Frame | Каркас энергетической ячейки
 object_energytransmitter | Energy Transmitter | Передатчик энергии
 object_energytransmitter_description | A large piece of equipment, capable of transmitting up to 200MW to the Stargate. | Большая часть оборудования, способная передавать до 200 МВт на Звездные врата.
 object_engine | Engine | Двигатель
@@ -48,7 +48,7 @@ object_equipment | Equipment | Оборудование
 object_explosives | Explosives | Взрывчатка
 object_fabricator | Fabricator | Фабрикатор
 object_fighter | Fighter | Истребитель
-object_FlightRecorder | Flight Recorder | Регистратор полетов
+object_FlightRecorder | Flight Recorder | Бортовой самописец
 object_food | Food | Еда
 object_framecomponent | Frame | Рама
 object_ftlcharge | FTL Charge | Сверхсветовой заряд
@@ -84,8 +84,8 @@ object_metalingot | Metal Ingot | Железный слиток
 object_metallicminerals | Metallic Minerals | Железная руда
 object_meteor | Meteor | Метеор
 object_metreongas | Metreon Gas | Газ Метреона
-object_mineralpatch | Mineral Patch | Минеральный пластырь
-object_mininglaser | Mining Laser | Горный лазер
+object_mineralpatch | Mineral Patch | Месторождение минералов
+object_mininglaser | Mining Laser | Шахтерский лазер
 object_mininglaser_description | Can drill into mineral patches (found in asteroid belts) to extract valuable minerals. | Может бурить минеральные участки (в поясах астероидов), чтобы добывать ценные руды.
 object_missioncargo | Mission Cargo | Груз миссии
 object_motorcomponent | Motor | Двигатель
@@ -94,17 +94,17 @@ object_munitionsfactory_description | A workbench where a skilled crew member ca
 object_neubidiumcapacitor | Neubidium Capacitor | Конденсатор из Нейбидиума
 object_neubidiumingot | Neubidium Ingot | Нейбидиумный слиток
 object_neubidiumore | Neubidium Ore | Нейбидиумная руда
-object_none | NoType | NoType
+object_none | NoType | Неопознанный
 object_ordnance | Ordnance | Боеприпасы
 object_oxygen | Oxygen | Кислород
 object_oxygenloader | Oxygen Loader | Погрузчик кислорода
 object_oxygenloader_description | Takes a pressurised canister of oxygen and pumps it into an underfloor pipe.  Use pipes to connect this to your Airduct, to supply oxygen to the cabin. | Берет баллон с кислородом под давлением и закачивает его в трубу под полом.  Используйте трубы для подключения к воздуховоду, чтобы подавать кислород в кабину.
 object_oxygenmaker | Oxygen Maker | Генератор кислорода
 object_oxygenmaker_description | Uses electrical power to extract Oxygen from Water. | Использует электроэнергию для получения кислорода из воды.
-object_potplant | Pot Plant | Горшечное растение
-object_powercoil | Power Coil | Катушка энергии
+object_potplant | Pot Plant | Растение в горшке
+object_powercoil | Power Coil | Катушка питания
 object_powercoilcharged | Charged Power Coil | Заряженная катушка питания
-object_powerinjector | Power Injector | Инжектор энергии
+object_powerinjector | Power Injector | Инжектор питания
 object_preciousmetals | Precious Metals | Драгоценные металлы
 object_preciousore | Precious Ore | Драгоценная руда
 object_processorcomponent | Processor | Процессор
@@ -194,5 +194,5 @@ object_waterpurifier_description | Takes dirty water from sewage recycling or fr
 object_weaponsconsole | Weapons Control Centre | Центр управления оружием
 object_weaponsconsole_description | A terminal where a Weapons Officer can control multiple weapons at the same time. | Терминал, с которого офицер может управлять несколькими видами оружия одновременно.
 object_weaponsspecialist | Weapons Officer | Офицер
-object_zeleonenergycell | Zeleon Energy Cell | Энергетическая ячейка Зелеон
+object_zeleonenergycell | Zeleon Energy Cell | Энергетическая ячейка Зелеона
 object_zeleongas | Zeleon Gas | Газ Зелеон

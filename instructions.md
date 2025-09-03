@@ -9,176 +9,184 @@
 
 ### Инструкции:
 
-1. **Требования к переводу:**
+**Требования к переводу:**
 
-   - Если в оригинальном тексте слово заканчивается точкой, то перевод тоже должен заканчиваться точкой.
-   - Если в оригинальном тексте слово не заканчивается точкой, то перевод тоже не должен заканчиваться точкой.
-   - Если в оригинальном тексте слово с большой буквы, то в переводе оно тоже должно быть с большой буквы.
-   - Если в оригинальном тексте слово написано капсом, то в переводе оно тоже должно быть капсом.
-   - Обращение к игроку должно быть вежливым, заменяя "ты/тебя" на "вы/вас".
+- Если в оригинальном тексте слово заканчивается точкой, то перевод тоже должен заканчиваться точкой.
+- Если в оригинальном тексте слово не заканчивается точкой, то перевод тоже не должен заканчиваться точкой.
+- Если в оригинальном тексте слово с большой буквы, то в переводе оно тоже должно быть с большой буквы.
+- Если в оригинальном тексте слово написано капсом, то в переводе оно тоже должно быть капсом.
+- Обращение к игроку должно быть вежливым, заменяя "ты/тебя" на "вы/вас".
 
-2. **Пример:**
+**Пример корректного перевода:**
 
-   - Оригинал: "SECTOR MAP" → Перевод: "КАРТА СЕКТОРА".
-   - Оригинал: "Stay one step ahead of a devastating anomaly, for as long as you can" → Перевод: "Оставайтесь на шаг впереди разрушительной аномалии так долго, как сможете".
+- Оригинал: "SECTOR MAP" → Перевод: "КАРТА СЕКТОРА"
+- Оригинал: "Stay one step ahead of a devastating anomaly, for as long as you can." → Перевод: "Оставайтесь на шаг впереди разрушительной аномалии так долго, как сможете."
+- Оригинал: "Set Smelter to Scrap Metal" → Перевод: "Настроить Плавильную печь на переработку Металлолома"
 
-3. **Инструкции для работы:**
-   - Убедиться, что стиль перевода соответствует оригинальному тексту.
-   - Убедиться, что названия объектов, построек, предметов и т.п. единые и согласованные.
-   - Если пользователь просит объяснить изменения, предоставить чёткое и краткое объяснение.
-   - Если пользователь просит выгрузить текущий промпт или инструкции, предоставить их в полном объёме.
+**Пример неверного перевода:**
 
-# ОБЪЕКТЫ
+- Оригинал: "To collect the flight recorder you'll need to install a DRONE BAY and at least one LOGISTICS DRONE. You can buy them from any Shipyard or Colony." → Перевод: "Чтобы забрать бортовой самописец, вам потребуется установить DRONE BAY и хотя бы один LOGISTICS DRONE. Их можно купить на любой верфи или в колонии."
 
-Для начала вот список основных названий объектов корректность соблюдения которых в дальнейшем надо будет проверить:
+В примере видно, что DRONE BAY и LOGISTICS DRONE не переведены, это нужно исправить.
 
-object_airduct | Airduct | Воздуховод
-object_airreprocessor | Air Reprocessor | Редуктор воздуха
-object_assembler | Assembly Table | Сборочный стол
-object_asteroid | Asteroid | Астероид
-object_battery | Battery | Батарея
-object_box | Box | Ящик
-object_brokenhopdrive | Broken Hop Drive | Сломанный хоп-драйв
-object_bullets | Bullets | Пулеметные пули
-object_cannon | Cannon | Пушка
-object_cannonshell | Cannon Shells | Пушечные снаряды
-object_carbondioxide | CO2 | CO2
-object_cargo | Cargo | Груз
-object_chair | Chair | Стул
-object_chemicallab | Chemical Lab | Химическая лаборатория
-object_civilian | Civilian | Гражданский
-object_coilcomponent | Energy Coil | Катушка энергии
-object_comet | Comet | Комета
-object_compost | Compost | Компост
-object_copperingot | Copper Ingot | Медный слиток
-object_copperminerals | Copper Minerals | Медная руда
-object_crewmember | Crew | Экипаж
-object_data | Data | Данные
-object_deflector | Deflector | Дефлектор
-object_deuterium | Deuterium | Дейтерий
-object_dockingport | Docking Port | Стыковочный порт
-object_door | Door | Дверь
-object_dronebay | Drone Bay | Отсек для дронов
-object_energycell | Energy Cell | Энергетическая ячейка
-object_energycellframecomponent | Energy Cell Frame | Энергетическая ячейка каркаса
-object_energytransmitter | Energy Transmitter | Передатчик энергии
-object_engine | Engine | Двигатель
-object_entity | Entity | Сущность
-object_equipment | Equipment | Оборудование
-object_explosives | Explosives | Взрывчатка
-object_fabricator | Fabricator | Фабрикатор
-object_fighter | Fighter | Истребитель
-object_FlightRecorder | Flight Recorder | Регистратор полетов
-object_food | Food | Еда
-object_framecomponent | Frame | Рама
-object_ftlcharge | FTL Charge | Сверхсветовой заряд
-object_ftldrive | FTL Drive | Сверхсветовой привод
-object_fuel | Fuel | Топливо
-object_fuelloader | Fuel Loader | Погрузчик топлива
-object_fusionreactor | Fusion Reactor | Реактор синтеза
-object_gascollector | Gas Collector | Газосборник
-object_gatlinggun | Gatling Gun | Пулемет
-object_generator | Generator | Генератор
-object_hullbreach | Hull Breach | Пролом корпуса
-object_hydroponics | Hydroponic Garden | Гидропонный сад
-object_hyperspacecollector | Hyperspace Scoop | Гиперпространственный совок
-object_hyperspaceisotopes | Hyperspace Isotopes | Гиперпространственные изотопы
-object_hyperspacesensor | Hyperspace Sensor | Гиперпространственный датчик
-object_hyperspacesensorlr | Hyperspace Sensor LR | Гиперпространственный датчик LR
-object_ice | Water Ice | Водяной лед
-object_icegrinder | Ice Grinder | Измельчитель льда
-object_lenscomponent | Lens | Объектив
-object_loader | Loader | Погрузчик
-object_logisticsdrone | Logistics Drone | Логистический дрон
-object_metalingot | Metal Ingot | Железный слиток
-object_metallicminerals | Metallic Minerals | Железная руда
-object_meteor | Meteor | Метеор
-object_metreongas | Metreon Gas | Газ Метреона
-object_mineralpatch | Mineral Patch | Минеральный пластырь
-object_mininglaser | Mining Laser | Горный лазер
-object_missioncargo | Mission Cargo | Груз миссии
-object_motorcomponent | Motor | Двигатель
-object_munitionsfactory | Munitions Bench | Верстак боеприпасов
-object_neubidiumcapacitor | Neubidium Capacitor | Конденсатор из Нейбидиума
-object_neubidiumingot | Neubidium Ingot | Нейбидиумный слиток
-object_neubidiumore | Neubidium Ore | Нейбидиумная руда
-object_none | NoType | NoType
-object_ordnance | Ordnance | Боеприпасы
-object_oxygen | Oxygen | Кислород
-object_oxygenloader | Oxygen Loader | Погрузчик кислорода
-object_oxygenmaker | Oxygen Maker | Генератор кислорода
-object_potplant | Pot Plant | Горшечное растение
-object_powercoil | Power Coil | Катушка энергии
-object_powercoilcharged | Charged Power Coil | Заряженная катушка питания
-object_powerinjector | Power Injector | Инжектор энергии
-object_preciousmetals | Precious Metals | Драгоценные металлы
-object_preciousore | Precious Ore | Драгоценная руда
-object_processorcomponent | Processor | Процессор
-object_proximitymine | Mine | Шахта
-object_railgun | Railgun | Рельсотрон
-object_railgunshell | Railgun Slugs | Рельсотронные снаряды
-object_reactor | Reactor | Реактор
-object_refinedmetreon | Refined Metreon | Рафинированный Метреон
-object_refinedtilium | Tilium Crystals | Тилиевые кристаллы
-object_refinery | Refinery | Химический завод
-object_refugee | Refugee | Беженец
-object_repairstructure | Repair Structural Damage | Ремонт структурных повреждений
-object_robotarm | Robot Arm | Рука робота
-object_robotarmshort | Short Robot Arm | Короткая рука робота
-object_robotarmsmart | Smart Robot Arm | Умная рука робота
-object_ruinedequipment | Ruined Equipment | Разрушенное оборудование
-object_sciencestation | Science Station | Научная станция
-object_scientist | Scientist | Ученый
-object_scrapmetal | Scrap Metal | Металлолом
-object_scrubber | CO2 Scrubber | Скруббер CO2
-object_seeds | Seeds | Семена
-object_sewage | Sewage | Отходы канализации
-object_sewagemachine | Waste Treatment Machine | Переработчик отходов
-object_sewagepipe | Sewage Pipe | Канализационная труба
-object_shieldedcanistercomponent | Shielded Canister | Экранированная канистра
-object_shieldedzeleoncanister | Shielded Zeleon | Экранированный Зелеон
-object_ShipWreckage | Ship Wreckage | Обломки корабля
-object_short_bullets | Ammo | Патроны
-object_short_cannonshell | Shells | Снаряды
-object_short_deuterium | Dtrm | Dtrm
-object_short_ftlcharge | FTL | FTL
-object_short_oxygen | O2 | O2
-object_short_railgunshell | Slugs | Снаряды
-object_shuttle | Shuttle | Челнок
-object_smallstoragecrate | Small Storage Crate | Малый ящик для хранения
-object_smalltable | Small Table | Маленький столик
-object_smalltank | Medium Tank | Средний резервуар
-object_smelter | Smelter | Плавильня
-object_sofa | Sofa | Диван
-object_solarpanel | Solar Panel | Солнечная панель
-object_spacesuit | Spacesuit | Космический скафандр
-object_spacesuitpod | Spacesuit Pod | Капсула для скафандра
-object_stableisotopes | Stable Isotopes | Стабильные изотопы
-object_stablezeleon | Stable Zeleon | Стабильный Зелеон
-object_stairs | Ladder | Лестница
-object_stargateactuator | Stargate Actuator | Привод звездных врат
-object_stargatecapacitor | Stargate Capacitor | Конденсатор звездных врат
-object_stargatereceiver | Stargate Receiver | Приемник звездных врат
-object_stargateresin | Stargate Resin | Смола для звездных врат
-object_stargatestructure | Stargate Frame | Рама звездных врат
-object_storagecrate | Storage Crate | Ящик для хранения
-object_supercomputer | Super Computer | Суперкомпьютер
-object_table | Table | Стол
-object_tank | Huge Tank | Огромный резервуар
-object_telepathicsensor | Telepathic Sensor Station | Телепатическая сенсорная станция
-object_thruster | Thruster | Маневровый двигатель
-object_tiddlet | Tiddlet | Тиддлет
-object_tiliumore | Tilium Ore | Тилиевая руда
-object_tinytank | Small Tank | Малый резервуар
-object_track | Track | Конвейер
-object_wastewater | Waste Water | Сточные воды
-object_water | Water | Вода
-object_waterpurifier | Water Purifier | Очиститель воды
-object_weaponsconsole | Weapons Control Centre | Центр управления оружием
-object_weaponsspecialist | Weapons Officer | Офицер
-object_zeleonenergycell | Zeleon Energy Cell | Энергетическая ячейка Зелеон
-object_zeleongas | Zeleon Gas | Газ Зелеон
+**Инструкции для работы:**
 
-# ДОПОЛНИТЕЛЬНО
+- Убедиться, что стиль перевода соответствует оригинальному тексту.
+- Убедиться, что названия объектов, построек, предметов и т.п. единые и согласованные.
+- Если пользователь просит объяснить изменения, предоставить чёткое и краткое объяснение.
+- Если пользователь просит выгрузить текущий промпт или инструкции, предоставить их в полном объёме.
 
-Обрабатывай файл по частям блоками, не останавливайся до конца файла.
+### НАИМЕНОВАНИЯ:
+
+Вот список основных названий объектов:
+
+- Airduct = Воздуховод
+- Air Reprocessor = Редуктор воздуха
+- Assembly Table = Сборочный стол
+- Asteroid = Астероид
+- Battery = Батарея
+- Box = Ящик
+- Broken Hop Drive = Сломанный хоп-драйв
+- Bullets = Пулеметные пули
+- Cannon = Пушка
+- Cannon Shells = Пушечные снаряды
+- CO2 = CO2
+- Cargo = Груз
+- Chair = Стул
+- Chemical Lab = Химическая лаборатория
+- Civilian = Гражданский
+- Energy Coil = Катушка энергии
+- Comet = Комета
+- Compost = Компост
+- Copper Ingot = Медный слиток
+- Copper Minerals = Медная руда
+- Crew = Экипаж
+- Data = Данные
+- Deflector = Дефлектор
+- Deuterium = Дейтерий
+- Docking Port = Стыковочный порт
+- Door = Дверь
+- Drone Bay = Отсек для дронов
+- Energy Cell = Энергетическая ячейка
+- Energy Cell Frame = Энергетическая ячейка каркаса
+- Energy Transmitter = Передатчик энергии
+- Engine = Двигатель
+- Entity = Сущность
+- Equipment = Оборудование
+- Explosives = Взрывчатка
+- Fabricator = Фабрикатор
+- Fighter = Истребитель
+- Flight Recorder = Регистратор полетов
+- Food = Еда
+- Frame = Рама
+- FTL Charge = Сверхсветовой заряд
+- FTL Drive = Сверхсветовой привод
+- Fuel = Топливо
+- Fuel Loader = Погрузчик топлива
+- Fusion Reactor = Реактор синтеза
+- Gas Collector = Газосборник
+- Gatling Gun = Пулемет
+- Generator = Генератор
+- Hull Breach = Пролом корпуса
+- Hydroponic Garden = Гидропонный сад
+- Hyperspace Scoop = Гиперпространственный совок
+- Hyperspace Isotopes = Гиперпространственные изотопы
+- Hyperspace Sensor = Гиперпространственный датчик
+- Hyperspace Sensor LR = Гиперпространственный датчик LR
+- Water Ice = Водяной лед
+- Ice Grinder = Измельчитель льда
+- Lens = Объектив
+- Loader = Погрузчик
+- Logistics Drone = Логистический дрон
+- Metal Ingot = Железный слиток
+- Metallic Minerals = Железная руда
+- Meteor = Метеор
+- Metreon Gas = Газ Метреона
+- Mineral Patch = Минеральный пластырь
+- Mining Laser = Горный лазер
+- Mission Cargo = Груз миссии
+- Motor = Двигатель
+- Munitions Bench = Верстак боеприпасов
+- Neubidium Capacitor = Конденсатор из Нейбидиума
+- Neubidium Ingot = Нейбидиумный слиток
+- Neubidium Ore = Нейбидиумная руда
+- NoType = NoType
+- Ordnance = Боеприпасы
+- Oxygen = Кислород
+- Oxygen Loader = Погрузчик кислорода
+- Oxygen Maker = Генератор кислорода
+- Pot Plant = Горшечное растение
+- Power Coil = Катушка энергии
+- Charged Power Coil = Заряженная катушка питания
+- Power Injector = Инжектор энергии
+- Precious Metals = Драгоценные металлы
+- Precious Ore = Драгоценная руда
+- Processor = Процессор
+- Mine = Шахта
+- Railgun = Рельсотрон
+- Railgun Slugs = Рельсотронные снаряды
+- Reactor = Реактор
+- Refined Metreon = Рафинированный Метреон
+- Tilium Crystals = Тилиевые кристаллы
+- Refinery = Химический завод
+- Refugee = Беженец
+- Repair Structural Damage = Ремонт структурных повреждений
+- Robot Arm = Рука робота
+- Short Robot Arm = Короткая рука робота
+- Smart Robot Arm = Умная рука робота
+- Ruined Equipment = Разрушенное оборудование
+- Science Station = Научная станция
+- Scientist = Ученый
+- Scrap Metal = Металлолом
+- CO2 Scrubber = Скруббер CO2
+- Seeds = Семена
+- Sewage = Отходы канализации
+- Waste Treatment Machine = Переработчик отходов
+- Sewage Pipe = Канализационная труба
+- Shielded Canister = Экранированная канистра
+- Shielded Zeleon = Экранированный Зелеон
+- Ship Wreckage = Обломки корабля
+- Ammo = Патроны
+- Shells = Снаряды
+- Dtrm = Dtrm
+- FTL = FTL
+- O2 = O2
+- Slugs = Снаряды
+- Shuttle = Челнок
+- Small Storage Crate = Малый ящик для хранения
+- Small Table = Маленький столик
+- Medium Tank = Средний резервуар
+- Smelter = Плавильная печь
+- Sofa = Диван
+- Solar Panel = Солнечная панель
+- Spacesuit = Космический скафандр
+- Spacesuit Pod = Капсула для скафандра
+- Stable Isotopes = Стабильные изотопы
+- Stable Zeleon = Стабильный Зелеон
+- Ladder = Лестница
+- Stargate Actuator = Привод Звездных Врат
+- Stargate Capacitor = Конденсатор Звездных Врат
+- Stargate Receiver = Приемник Звездных Врат
+- Stargate Resin = Смола Звездных Врат
+- Stargate Frame = Рама Звездных Врат
+- Storage Crate = Ящик для хранения
+- Super Computer = Суперкомпьютер
+- Table = Стол
+- Huge Tank = Огромный резервуар
+- Telepathic Sensor Station = Телепатическая сенсорная станция
+- Thruster = Маневровый двигатель
+- Tiddlet = Тиддлет
+- Tilium Ore = Тилиевая руда
+- Small Tank = Малый резервуар
+- Track = Конвейер
+- Waste Water = Сточные воды
+- Water = Вода
+- Water Purifier = Очиститель воды
+- Weapons Control Centre = Центр управления оружием
+- Weapons Officer = Офицер
+- Zeleon Energy Cell = Энергетическая ячейка Зелеон
+- Zeleon Gas = Газ Зелеон
+
+### ИТОГОВАЯ ЗАДАЧА:
+
+Проверь все файлы по порядку на соответствие инструкциям, если сомневаешься корректен ли перевод - уточни.
