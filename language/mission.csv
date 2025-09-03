@@ -61,7 +61,7 @@ mission_difficulty_short | DIFFICULTY *X | СЛОЖНОСТЬ *X
 mission_episode_1 | EPISODE 1 | ЭПИЗОД 1
 mission_failed | FAILED | ПРОВАЛИЛСЯ
 mission_flightready_description1 | All ships must pass basic flight ready certification before being allowed on operations. | Все корабли должны пройти базовую сертификацию готовности к полету, прежде чем их допустят к полетам.
-mission_flightready_description2 | A ship requires each of the following capabilities in order to be certified 'Flight Ready': | Чтобы получить сертификат Готовность к полету, корабль должен обладать каждым из следующих качеств:
+mission_flightready_description2 | A ship requires each of the following capabilities in order to be certified 'Flight Ready': | Чтобы получить сертификат 'Готовность к полету', корабль должен обладать каждым из следующих качеств:
 mission_flightready_engines | Engines capable of propulsion | Двигатели, способные приводить в движение
 mission_flightready_engines_help | Engines for propulsion.  Test fire your engines (From the TACTICAL view) to certify them. | Двигатели для приведения в движение.  Проведите испытательный пуск двигателей (с ТАКТИЧЕСКОЙ точки зрения), чтобы сертифицировать их.
 mission_flightready_ftl | An FTL Drive capable of Hyperspace jumps | Сверхсветовой привод, способный совершать гиперпространственные прыжки

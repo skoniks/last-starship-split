@@ -18,7 +18,7 @@ object_carbondioxide | CO2 | CO2
 object_cargo | Cargo | Груз
 object_chair | Chair | Стул
 object_chemicallab | Chemical Lab | Химическая лаборатория
-object_chemicallab_description | A complex piece of scientific equipment.  Can combine multiple different chemical inputs (liquids, gases and solids) into different outputs. The user can cycle the active 'recipe' by clicking on it. | Сложное научное оборудование. Может объединять различные химические вещества (жидкости, газы и твердые вещества) в разные продукты. Пользователь может менять активный "рецепт", щелкая по нему.
+object_chemicallab_description | A complex piece of scientific equipment.  Can combine multiple different chemical inputs (liquids, gases and solids) into different outputs. The user can cycle the active 'recipe' by clicking on it. | Сложное научное оборудование. Может объединять различные химические вещества (жидкости, газы и твердые вещества) в разные продукты. Пользователь может менять активный 'рецепт', щелкая по нему.
 object_civilian | Civilian | Гражданский
 object_coilcomponent | Energy Coil | Катушка энергии
 object_comet | Comet | Комета
@@ -57,7 +57,7 @@ object_fuel | Fuel | Топливо
 object_fuelloader | Fuel Loader | Погрузчик топлива
 object_fuelloader_description | Takes a canister of Fuel, and pumps it into an underfloor pipe. Use pipes to connect this to your Reactor and your Engines. | Берет канистру с топливом и закачивает его в трубу под полом. Используйте трубы, чтобы соединить его с реактором и двигателями.
 object_fusionreactor | Fusion Reactor | Реактор синтеза
-object_fusionreactor_description | Uses nuclear fusion of Deuterium to generate large amounts of energy. However the fusion reactor must be 'powered up' with a huge amount of energy before it will generate any power itself.\n\nGenerates a maximum power output of 500MW. | Использует ядерный синтез дейтерия для получения большого количества энергии. Однако реактор должен быть запитан огромным количеством энергии, прежде чем он сам начнет вырабатывать энергию.\n\nГенерирует максимальную мощность в 500 МВт.
+object_fusionreactor_description | Uses nuclear fusion of Deuterium to generate large amounts of energy. However the fusion reactor must be 'powered up' with a huge amount of energy before it will generate any power itself.\n\nGenerates a maximum power output of 500MW. | Использует ядерный синтез дейтерия для получения большого количества энергии. Однако реактор должен быть 'запитан' огромным количеством энергии, прежде чем он сам начнет вырабатывать энергию.\n\nГенерирует максимальную мощность в 500 МВт.
 object_gascollector | Gas Collector | Газосборник
 object_gascollector_description | A large exterior vent that sucks in gases from space. Many gases found in nebulas can be used to produce useful resources like Fuel, FTL charges, and explosives. | Большое внешнее вентиляционное отверстие, всасывающее газы из космоса. Многие газы, встречающиеся в туманностях, можно использовать для производства полезных ресурсов, таких как топливо, сверхсветовые заряды и взрывчатка.
 object_gatlinggun | Gatling Gun | Пулемет

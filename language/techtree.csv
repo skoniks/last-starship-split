@@ -41,9 +41,9 @@ techtree_node_caption_recycling2 | Brings all life-support recycling up to 100% 
 techtree_node_caption_robotarmspeed | Doubles the speed of all Robot Arms | Удваивает скорость всех рук робота
 techtree_node_caption_science | Unlocks improvements in all areas of advanced physics | Разблокирует улучшения во всех областях продвинутой физики
 techtree_node_caption_SmartAutomation | Unlocks schematic for Smart Robot Arm | Открывает схему для умной руки робота
-techtree_node_caption_stargatepart1 | Unlocks Phase 1 and 2 of the Andromeda Project. | Открывает первую и вторую фазы проекта "Андромеда".
-techtree_node_caption_stargatepart2 | Unlocks Phase 3 of the Andromeda Project. | Разблокирует третью фазу проекта "Андромеда".
-techtree_node_caption_stargatepart3 | Unlocks Phases 4 and 5 of the Andromeda Project. | Разблокирует четвертую и пятую фазы проекта "Андромеда".
+techtree_node_caption_stargatepart1 | Unlocks Phase 1 and 2 of the Andromeda Project. | Открывает первую и вторую фазы проекта Андромеда.
+techtree_node_caption_stargatepart2 | Unlocks Phase 3 of the Andromeda Project. | Разблокирует третью фазу проекта Андромеда.
+techtree_node_caption_stargatepart3 | Unlocks Phases 4 and 5 of the Andromeda Project. | Разблокирует четвертую и пятую фазы проекта Андромеда.
 techtree_node_caption_trackspeed1 | Doubles the speed of all Tracks | Удваивает скорость всех треков
 techtree_node_caption_trackspeed2 | Triples the speed of all Tracks | Увеличивает скорость всех гусениц в три раза
 techtree_node_caption_zeleonenergycontainment | Stable Zeleon is a safe, energy-dense gas that could be used for advanced energy storage. | Стабильный Зелеон — это безопасный, энергоемкий газ, который можно использовать для передовых накопителей энергии.
@@ -84,7 +84,7 @@ techtree_researched | RESEARCHED | ИССЛЕДОВАНО
 techtree_researchPoints | Research Points: | Очки исследований:
 techtree_rewards | Rewards: | Награды:
 techtree_smelting | Smelting | Плавка
-techtree_stargate_warning | Completing Andromeda Project phases ahead of the Deep Space Industrialists storyline will bypass those episodes. | Завершение этапов проекта Андромеда до начала сюжетной линии "Промышленники глубокого космоса" позволит обойти эти эпизоды.
+techtree_stargate_warning | Completing Andromeda Project phases ahead of the Deep Space Industrialists storyline will bypass those episodes. | Завершение этапов проекта Андромеда до начала сюжетной линии Промышленники глубокого космоса позволит обойти эти эпизоды.
 techtree_title | RESEARCH | ИССЛЕДОВАНИЕ
 techtree_unavailable | REQUIREMENTS NOT MET | ТРЕБОВАНИЯ НЕ ВЫПОЛНЕНЫ
 techtree_unlocks | Unlocks: | Разблокировки:

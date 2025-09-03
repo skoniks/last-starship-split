@@ -50,7 +50,7 @@ shipeditor_tooltip_armour | Upgrade your hull with armour panels to absorb damag
 shipeditor_tooltip_createship | Create an entirely new ship from scratch | Создать абсолютно новый корабль с нуля
 shipeditor_tooltip_deconstruct | Deconstruct your ship square by square | Разрушить свой корабль квадрат за квадратом
 shipeditor_tooltip_dock | Install a docking port. Every ship needs at least one functioning docking port. | Установка стыковочного порта. Каждому кораблю необходим хотя бы один функционирующий стыковочный порт.
-shipeditor_tooltip_eyedropper | Lets you select a paint from the exterior of your ship (can also be used by pressing the "Shift" key) | Позволяет выбрать краску с внешней стороны твоего корабля (также можно использовать, зажав клавишу "Shift")
+shipeditor_tooltip_eyedropper | Lets you select a paint from the exterior of your ship (can also be used by pressing the "Shift" key) | Позволяет выбрать краску с внешней стороны твоего корабля (также можно использовать, зажав клавишу Shift)
 shipeditor_tooltip_habitation | Expand your habitation deck to support more crew and passengers | Расширение жилой палубы для размещения большего количества экипажа и пассажиров
 shipeditor_tooltip_hull | Modify the shape of your spaceship hull | Изменение формы корпуса вашего корабля
 shipeditor_tooltip_interior | Open up the interior of your spaceship to create cabins | Расширение внутренней части (салона) космического корабля
