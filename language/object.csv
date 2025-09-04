@@ -131,14 +131,14 @@ object_sciencestation_description | A workstation for a scientist to conduct val
 object_scientist | Scientist | Ученый
 object_scrapmetal | Scrap Metal | Металлолом
 object_scrubber | CO2 Scrubber | Скруббер CO2
-object_scrubber_description | Extracts Carbon Dioxide from the atmosphere. Its output must be piped into a storage tank or it will become blocked. | Извлекает диоксид углерода из атмосферы. Его выход необходимо направить в резервуар для хранения, иначе он засорится.
+object_scrubber_description | Extracts Carbon Dioxide from the atmosphere. Its output must be piped into a storage tank or it will become blocked. | Извлекает диоксид углерода из атмосферы. Его выход необходимо направить в Резервуар для хранения, иначе он засорится.
 object_seeds | Seeds | Семена
 object_seeds_description | A small bag of mixed vegetable seeds, that you might be able to grow in a Hydroponic Garden. | Небольшой пакет смешанных семян овощей, которые вы сможете вырастить в Гидропонном саду.
 object_sewage | Sewage | Отходы канализации
 object_sewagemachine | Waste Treatment Machine | Переработчик отходов
 object_sewagemachine_description | Takes sewage from the habitation deck, separates the solid and liquid waste, and partially recycles them. The device outputs dirty water and compost. | Принимает сточные воды с жилой палубы, разделяет твердые и жидкие отходы и частично перерабатывает их. Устройство выдает грязную Воду и Компост.
 object_sewagepipe | Sewage Pipe | Канализационная труба
-object_sewagepipe_description | This pipe extracts sewage from the habitation deck above. You can then pipe the sewage into a storage tank and (eventually) reprocess it back into water.  The Pipe MUST BE DIRECTLY UNDER THE HABITATION DECK to function. | Эта труба отводит сточные воды с жилой палубы, расположенной выше. Затем вы можете направить сточные воды в резервуар для хранения и (в конечном итоге) переработать их обратно в Воду.  Для работы труба должна находиться непосредственно под жилой палубой.
+object_sewagepipe_description | This pipe extracts sewage from the habitation deck above. You can then pipe the sewage into a storage tank and (eventually) reprocess it back into water.  The Pipe MUST BE DIRECTLY UNDER THE HABITATION DECK to function. | Эта труба отводит сточные воды с жилой палубы, расположенной выше. Затем вы можете направить сточные воды в Резервуар для хранения и (в конечном итоге) переработать их обратно в Воду.  Для работы труба должна находиться непосредственно под жилой палубой.
 object_shieldedcanistercomponent | Shielded Canister | Экранированная канистра
 object_shieldedzeleoncanister | Shielded Zeleon | Экранированный Зелеон
 object_ShipWreckage | Ship Wreckage | Обломки корабля
@@ -155,7 +155,7 @@ object_smalltable | Small Table | Маленький столик
 object_smalltank | Medium Tank | Средний резервуар
 object_smalltank_description | A storage tank that can store liquids and gases. | Резервуар, в котором могут храниться жидкости и газы.
 object_smelter | Smelter | Плавильная печь
-object_smelter_description | This industrial processing machine can melt ores into usable metal ingots. Once installed, click on it to change the ore type. | Эта промышленная машина может переплавлять руды в пригодные для использования железные слитки. После установки нажмите на нее, чтобы изменить тип руды.
+object_smelter_description | This industrial processing machine can melt ores into usable metal ingots. Once installed, click on it to change the ore type. | Эта промышленная машина может переплавлять руды в пригодные для использования Железные слитки. После установки нажмите на нее, чтобы изменить тип руды.
 object_sofa | Sofa | Диван
 object_solarpanel | Solar Panel | Солнечная панель
 object_solarpanel_description | These must be installed outside your ship, with scaffolding for support. Each panel generates 10MW. | Они должны быть установлены снаружи вашего корабля, с лесами для поддержки. Каждая панель генерирует 10 МВт.

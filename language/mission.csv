@@ -3,7 +3,7 @@ mission_accepted | Accepted | Принято
 mission_acceptonlayer | Accept and assign to *X | Принять и назначить на *X
 mission_arenaprep_summary | Prepare your ship and crew for the upcoming battle!\nUnpausing the game will begin combat. | Подготовьте свой корабль и экипаж к предстоящему сражению!\nНе приостанавливая игру, вы начнете бой.
 mission_arenaprep_title | Prepare for battle! | Приготовьтесь к бою!
-mission_arenaprep_useeditor | OPTIONAL: Use the ship editor to prepare | ВАРИАНТ: Используйте редактор кораблей для подготовки
+mission_arenaprep_useeditor | OPTIONAL: Use the ship editor to prepare | ДОПОЛНИТЕЛЬНО: Используйте редактор кораблей для подготовки
 mission_assignedto | (Assigned to *X) | (Назначен на *X)
 mission_assignedtolayer | Accepted and assigned to L*X | Принято и назначено на L*X
 mission_bypassed | BYPASSED | ПРОЙДЕН
@@ -40,7 +40,7 @@ mission_deliver | Deliver | Доставить
 mission_delivered | DELIVERED | ДОСТАВЛЕНО
 mission_delivery_alldelivered | All cargo has been supplied. Good luck. | Весь груз доставлен. Удачи.
 mission_delivery_delivery | Supplied *X out of *Y items. | Поставлено *X из *Y предметов.
-mission_delivery_description | I've got *X boxes of supplies that need delivering. | У меня есть *X ящиков с припасами, которые нужно доставить.
+mission_delivery_description | I've got *X boxes of supplies that need delivering. | У меня есть *X контейнеров с припасами, которые нужно доставить.
 mission_delivery_descriptionfurther | The destination is *Y Sector Jumps away, in Sector *X. | Пункт назначения находится в *Y секторах прыжков, в секторе *X.
 mission_delivery_destination | The destination is in this Sector, at Star System S*X. | Пункт назначения находится в этом секторе, в звездной системе S*X.
 mission_delivery_location | Travel to the delivery system | Путешествие к системе доставки
@@ -63,10 +63,10 @@ mission_failed | FAILED | ПРОВАЛИЛСЯ
 mission_flightready_description1 | All ships must pass basic flight ready certification before being allowed on operations. | Все корабли должны пройти базовую сертификацию готовности к полету, прежде чем их допустят к полетам.
 mission_flightready_description2 | A ship requires each of the following capabilities in order to be certified 'Flight Ready': | Чтобы получить сертификат 'Готовность к полету', корабль должен обладать каждым из следующих качеств:
 mission_flightready_engines | Engines capable of propulsion | Двигатели, способные приводить в движение
-mission_flightready_engines_help | Engines for propulsion.  Test fire your engines (From the TACTICAL view) to certify them. | Двигатели для приведения в движение.  Проведите испытательный пуск двигателей (с ТАКТИЧЕСКОЙ точки зрения), чтобы сертифицировать их.
+mission_flightready_engines_help | Engines for propulsion.  Test fire your engines (From the TACTICAL view) to certify them. | Двигатели для приведения в движение.  Проведите испытательный пуск Двигателей (с ТАКТИЧЕСКОЙ точки зрения), чтобы сертифицировать их.
 mission_flightready_ftl | An FTL Drive capable of Hyperspace jumps | Сверхсветовой привод, способный совершать гиперпространственные прыжки
 mission_flightready_ftljump | Jump to the marked destination | Прыжок к отмеченному месту назначения
-mission_flightready_ftljump_help | An FTL Drive.  Test your new FTL engine by making a jump to the destination marked on the map. | Сверхсветовой привод.  Испытайте свой новый сверхсветовой двигатель, совершив прыжок к месту назначения, отмеченному на карте.
+mission_flightready_ftljump_help | An FTL Drive.  Test your new FTL engine by making a jump to the destination marked on the map. | Сверхсветовой привод.  Испытайте свой новый Сверхсветовой двигатель, совершив прыжок к месту назначения, отмеченному на карте.
 mission_flightready_lifesupport | Life support to make the interior habitable [*X%] | Жизнеобеспечение, чтобы сделать интерьер пригодным для жизни [*X%]
 mission_flightready_lifesupport_help | Life support to make the cabin breathable.  Use an Airduct to pressurise the cabin, connected to an Oxygen Loader to supply the air. | Сделайте салон пригодным для дыхания.  Используйте Воздуховод для нагнетания давления в салон, подключенный к Погрузчику кислорода для подачи воздуха.
 mission_flightready_movement | Test the engines from the TACTICAL screen | Проверьте Двигатели на экране ТАКТИКА
@@ -150,11 +150,11 @@ mission_requires_stock | Contract requires *X | Контракт требует 
 mission_requires_stock_count | Contract requires *Y *X | Контракт требует *Y *X
 mission_rescue_accepted | We've marked the location of the wrecked ship on your map. Please hurry! | Мы отметили местоположение разбитого корабля на вашей карте. Пожалуйста, поторопитесь!
 mission_rescue_allrescued | All crew have been rescued from the ship! Drop them off at the nearest starbase or colony. | Все члены экипажа спасены с корабля! Высадите их на ближайшей звездной базе или колонии.
-mission_rescue_description1 | A ship has become stranded with engine troubles, and the crew need an immediate rescue. | Корабль сел на мель из-за проблем с двигателем, и экипаж нуждается в немедленном спасении.
+mission_rescue_description1 | A ship has become stranded with engine troubles, and the crew need an immediate rescue. | Корабль сел на мель из-за проблем с Двигателем, и экипаж нуждается в немедленном спасении.
 mission_rescue_description2 | The damaged ship is nearby in system S*X. Hurry! | Поврежденный корабль находится неподалеку, в системе S*X. Поторопись!
 mission_rescue_description2b | The ship is in the next sector. | Корабль находится в следующем секторе.
 mission_rescue_description3 | There are *X crew on board, and they must be dropped off safely somewhere nearby. | На борту находится *X экипажа, и их нужно высадить в безопасном месте поблизости.
-mission_rescue_destroyed | The ship engine core exploded. | Ядро двигателя корабля взорвалось.
+mission_rescue_destroyed | The ship engine core exploded. | Ядро Двигателя корабля взорвалось.
 mission_rescue_hostiles | There are hostile forces in the area. (+50% pay) | В районе присутствуют враждебные силы. (+50 % к зарплате)
 mission_rescue_location | Travel to the stranded ship | Путешествие к севшему на мель кораблю
 mission_rescue_lost | *X crew did not arrive safely. | Экипаж *X не добрался до безопасного места.
@@ -165,7 +165,7 @@ mission_rescue_rescued | *X crew out of *Y have been rescued and are on board. |
 mission_rescue_spin | The ship is spinning out of control. It will be very challenging to dock. (+25% pay) | Корабль выходит из-под контроля. Причалить будет очень сложно. (+25 % к зарплате)
 mission_rescue_thrust | The ship is moving - you will need some skill to dock safely. (+25% pay) | Корабль движется - вам понадобится сноровка, чтобы безопасно причалить. (+25 % к зарплате)
 mission_rescue_timed | The ship engines will explode very soon. (+25% pay). | Двигатели корабля взорвутся очень скоро. (+25% к зарплате).
-mission_rescue_timer | The ship engine core will explode in just *X seconds!! | Ядро двигателя корабля взорвется через *X секунд!
+mission_rescue_timer | The ship engine core will explode in just *X seconds!! | Ядро Двигателя корабля взорвется через *X секунд!
 mission_rescue_title | Rescue civilians from wrecked ship | Спасение гражданских лиц с потерпевшего крушение корабля
 mission_reward | PAYMENT | ОПЛАТА
 mission_sectordestory_success | HOSTILES ELIMINATED | ВРАГИ УНИЧТОЖЕНЫ
@@ -243,7 +243,7 @@ mission_sectorrescue_success | RESCUE COMPLETED | СПАСЕНИЕ ЗАВЕРШ�
 mission_sectorrescue_thrust | The ship is moving - you will need some skill to dock safely. (+25% pay) | Корабль движется - вам потребуется определенная сноровка, чтобы безопасно причалить. (+25 % к зарплате)
 mission_sectorrescue_thrusters | NB. YOU WILL NEED AT LEAST FOUR THRUSTERS TO MANOEUVRE INTO POSITION. | NB. ДЛЯ МАНЕВРИРОВАНИЯ НА МЕСТЕ ВАМ ПОНАДОБИТСЯ НЕ МЕНЕЕ ЧЕТЫРЕХ МАНЕВРОВЫХ ДВИГАТЕЛЕЙ.
 mission_sectorrescue_timed | The ship engines will explode very soon. (+25% pay). | Двигатели корабля очень скоро взорвутся. (+25% к зарплате).
-mission_sectorrescue_timer | The ship engine core will explode in just *X seconds!! | Ядро двигателя корабля взорвется через *X секунд!
+mission_sectorrescue_timer | The ship engine core will explode in just *X seconds!! | Ядро Двигателя корабля взорвется через *X секунд!
 mission_sectorrescue_title | SECTOR OBJECTIVE: Rescue civilians from wrecked ship | ЦЕЛЬ СЕКТОРА: Спасти гражданских лиц с потерпевшего крушение корабля
 mission_show_completed | SHOW COMPLETED | ПОКАЗАТЬ ПРОЙДЕННОЕ
 mission_showonmap | SHOW ON MAP | ПОКАЗАТЬ НА КАРТЕ

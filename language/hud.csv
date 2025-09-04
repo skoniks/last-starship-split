@@ -66,7 +66,7 @@ hud_overlay_tactical | Tactical | Тактический
 hud_overlay_walls | Walls | Стены
 hud_overlays | OVERLAYS | НАЛОЖЕНИЯ
 hud_panel_storagecrate_ctrlclick | [CTRL] x9999 Containers | [CTRL] x9999 Контейнеры
-hud_panel_storagecrate_leftclick | [LMB] x1 Container | [LMB] x1 контейнер
+hud_panel_storagecrate_leftclick | [LMB] x1 Container | [LMB] x1 Контейнер
 hud_panel_storagecrate_permitload | Allow crew members to load this crate.\n\nIf disabled then only robot arms can load. | Разрешить членам экипажа загружать этот Ящик.\n\nЕсли отключено, то загружать могут только Руки робота.
 hud_panel_storagecrate_permitunload | Allow crew members to unload from this crate.\n\nIf disabled then only robot arms can unload. | Разрешить членам экипажа выгружать из этого Ящика.\n\nЕсли отключено, то выгружать могут только Руки робота.
 hud_panel_storagecrate_quantity | The number of items or stacks of the chosen type that is being stored. | Количество предметов или штабелей выбранного типа, которые хранятся.
@@ -76,7 +76,7 @@ hud_preparejump | Prepare Jump | Подготовка к прыжку
 hud_preparingjump | Preparing Jump | Подготовка к прыжку
 hud_ready | READY | ГОТОВНОСТЬ
 hud_readytojump | Ready to Jump | Готовность к прыжку
-hud_removefromtrack | [RMB] Remove from track | [RMB] Убрать с конвейера
+hud_removefromtrack | [RMB] Remove from track | [RMB] Убрать с Конвейера
 hud_repairship | REPAIR | РЕМОНТ
 hud_repairyourship | You should repair the damage to your ship at a SHIPYARD. | Вы должны отремонтировать поврежденный корабль на ВЕРФИ.
 hud_scoresystem_population | Population | Население

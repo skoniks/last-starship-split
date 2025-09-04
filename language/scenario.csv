@@ -1,7 +1,7 @@
 scenario_armour | Armour: *X% | Броня: *X%
 scenario_carrierfrigate | A huge community fuselage built by Zion - perfect for any career the Captain desires. The ship benefits from a huge cabin capacity, but is very slow and heavy. | Огромный обширный салон, построенный Сионом, идеально подходит для любой карьеры, которую пожелает капитан. Корабль обладает огромной вместимостью кают, но очень медленный и тяжелый.
 scenario_carrierfrigate_title | Carrier Frigate | Несущий фрегат
-scenario_crabclaw | A truly massive ship designed with heavy industry, science and logistics in mind.  Big, slow, and heavy - requiring a massive power grid and engine array. | По-настоящему массивный корабль, созданный с учетом требований тяжелой промышленности, науки и логистики.  Большой, медленный и тяжелый, требующий огромной энергосистемы и двигательной установки.
+scenario_crabclaw | A truly massive ship designed with heavy industry, science and logistics in mind.  Big, slow, and heavy - requiring a massive power grid and engine array. | По-настоящему массивный корабль, созданный с учетом требований тяжелой промышленности, науки и логистики.  Большой, медленный и тяжелый, требующий огромной энергосистемы и нескольких Двигателей.
 scenario_crabclaw_title | The Crab Claw | Клешня краба
 scenario_funds | FUNDS | ФОНДЫ
 scenario_habitation | Cabins: *X | Каюты: *X
