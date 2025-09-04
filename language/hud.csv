@@ -141,9 +141,9 @@ hud_window_logistics | LOGISTICS | ЛОГИСТИКА
 hud_window_missions | CONTRACTS | КОНТРАКТЫ
 hud_window_orders | ORDERS | ЗАКАЗЫ
 hud_window_power | POWERGRID | ЭЛЕКТРОСЕТЬ
-hud_window_score | SCORE | СКОРАЯ ПОМОЩЬ
+hud_window_score | SCORE | СЧЕТ
 hud_window_sectormap | SECTOR MAP ({ToggleMap}) | КАРТА СЕКТОРА ({ToggleMap})
-hud_window_shipyard | SHIPYARD | ШИПЯРД
+hud_window_shipyard | SHIPYARD | ВЕРФЬ
 hud_window_stargate | STARGATE | ЗВЕЗДНЫЕ ВРАТА
 hud_window_storage | STORAGE ZONES | ЗОНЫ ХРАНЕНИЯ
 hud_window_techtree | RESEARCH | ИССЛЕДОВАНИЕ

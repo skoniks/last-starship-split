@@ -1,7 +1,7 @@
 mission_accept | Accept | Принять
 mission_accepted | Accepted | Принято
 mission_acceptonlayer | Accept and assign to *X | Принять и назначить на *X
-mission_arenaprep_summary | Prepare your ship and crew for the upcoming battle!\nUnpausing the game will begin combat. | Подготовьте свой корабль и команду к предстоящему сражению!\nНе приостанавливая игру, вы начнете бой.
+mission_arenaprep_summary | Prepare your ship and crew for the upcoming battle!\nUnpausing the game will begin combat. | Подготовьте свой корабль и экипаж к предстоящему сражению!\nНе приостанавливая игру, вы начнете бой.
 mission_arenaprep_title | Prepare for battle! | Приготовьтесь к бою!
 mission_arenaprep_useeditor | OPTIONAL: Use the ship editor to prepare | ВАРИАНТ: Используйте редактор кораблей для подготовки
 mission_assignedto | (Assigned to *X) | (Назначен на *X)

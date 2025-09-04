@@ -65,7 +65,7 @@ object_gatlinggun_description | A close range rapid-fire weapon system, primaril
 object_generator | Generator | Генератор
 object_hullbreach | Hull Breach | Пролом корпуса
 object_hydroponics | Hydroponic Garden | Гидропонный сад
-object_hydroponics_description | An enclosed greenhouse device that can be used to grow crops, in order to feed your crew.  Requires compost and water, and Seeds to get things started. | Закрытое тепличное устройство, которое можно использовать для выращивания культур, чтобы прокормить команду.  Требуется компост, вода и семена для начала работы.
+object_hydroponics_description | An enclosed greenhouse device that can be used to grow crops, in order to feed your crew.  Requires compost and water, and Seeds to get things started. | Закрытое тепличное устройство, которое можно использовать для выращивания культур, чтобы прокормить экипаж.  Требуется компост, вода и семена для начала работы.
 object_hyperspacecollector | Hyperspace Scoop | Гиперпространственный совок
 object_hyperspacecollector_description | The Hyperspace Scoop sits at the front of a starship and faces the direction of travel. During hyperspace a strong magnetic field is projected forward, drawing in large volumes of interstellar matter. The isotopes gathered this way can be refined into FTL Fuel. | Гиперпространственный совок располагается в передней части звездолета и обращен в направлении движения. В гиперпространстве сильное магнитное поле проецируется вперед, втягивая большие объемы межзвездной материи. Собранные таким образом изотопы могут быть переработаны в сверхсветовое топливо.
 object_hyperspaceisotopes | Hyperspace Isotopes | Гиперпространственные изотопы
@@ -195,4 +195,4 @@ object_weaponsconsole | Weapons Control Centre | Центр управления
 object_weaponsconsole_description | A terminal where a Weapons Officer can control multiple weapons at the same time. | Терминал, с которого офицер может управлять несколькими видами оружия одновременно.
 object_weaponsspecialist | Weapons Officer | Офицер
 object_zeleonenergycell | Zeleon Energy Cell | Энергетическая ячейка Зелеона
-object_zeleongas | Zeleon Gas | Газ Зелеон
+object_zeleongas | Zeleon Gas | Газ Зелеона

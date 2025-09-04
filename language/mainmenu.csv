@@ -3,7 +3,7 @@ mainmenu_createship | DEVELOPER Create Ship | РАЗРАБОТЧИК Созда�
 mainmenu_exportship | Export Ship | Экспорт корабля
 mainmenu_gamemode_creative | Creative | Creative
 mainmenu_gamemode_creative_tooltip | You have unlimited resources to build any ship you want | У вас есть неограниченные ресурсы, чтобы построить любой корабль.
-mainmenu_gamemode_freeroam | Free Roam | Свободный бродяга
+mainmenu_gamemode_freeroam | Free Roam | Свободное перемещение
 mainmenu_gamemode_freeroam_locked | Build a flight-ready ship in Creative Mode to unlock | Постройте готовый к полету корабль в творческом режиме, чтобы разблокировать
 mainmenu_gamemode_freeroam_tooltip | You are free to persue any career at your own pace. No anomaly, no stargate. | Вы можете свободно выбирать любую карьеру в своем темпе. Нет аномалий, нет звездных врат.
 mainmenu_gamemode_industry | BOLDLY GO | СМЕЛО ВПЕРЕД
@@ -13,7 +13,7 @@ mainmenu_gamemode_industry_tooltip_old | Your aim is to research and build a sta
 mainmenu_gamemode_survival | Survival | Выживание
 mainmenu_gamemode_survival_locked | Complete any story episode in 'Boldly Go' to unlock | Завершите любой сюжетный эпизод в 'СМЕЛО ВПЕРЕД', чтобы разблокировать
 mainmenu_gamemode_survival_tooltip | Stay one step ahead of a devastating anomaly, for as long as you can | Оставайтесь на шаг впереди разрушительной аномалии так долго, как сможете
-mainmenu_gamemode_unlocked | UNLOCKED | UNLOCKED
+mainmenu_gamemode_unlocked | UNLOCKED | РАЗБЛОКИРОВАНО
 mainmenu_gamemode_unlocked_freeroam | Game Mode: Free Roam | Режим игры: Свободное перемещение
 mainmenu_gamemode_unlocked_survival | Game Mode: Survival | Игровой режим: Выживание
 mainmenu_importfriendly | Import Friendly Ship | Импортировать дружественный корабль
@@ -36,4 +36,4 @@ mainmenu_steamworkshop | Steam Workshop | Мастерская Steam
 mainmenu_survival_caption | Stay one step ahead of a devastating anomaly that consumes everything in its path, and save as many as you can before it's too late | Будьте на шаг впереди разрушительной аномалии, которая поглощает все на своем пути, и спасите как можно больше людей, пока не стало слишком поздно.
 mainmenu_title | Main Menu | Главное меню
 mainmenu_tools | Developer Tools | Инструменты разработчика
-mainmenu_tweet | Tweet My Starship! | Tweet Мой звездолет!
+mainmenu_tweet | Tweet My Starship! | Твитнуть мой звездолет!

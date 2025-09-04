@@ -17,7 +17,7 @@ alert_type_hostilesinbound | HOSTILES INBOUND | ВРАГИ ПРИБЛИЖАЮТ�
 alert_type_hostilesinbound_caption | *X seconds | *X секунд
 alert_type_hullbreach | HULL BREACH | ПРОБОИНА В КОРПУСЕ
 alert_type_hullbreach_caption | Repair *X% | Ремонт *X%
-alert_type_hullbreach_tooltip | There is a hole in your ship hull and the cabin is depressurising. Your crew will fix the breach, but you should consider closing your Door Vents to seal off the area. | В корпусе вашего корабля образовалась дыра, и салон разгерметизировался. Ваша команда устранит пробоину, но вам следует закрыть вентиляцию, чтобы загерметизировать зону.
+alert_type_hullbreach_tooltip | There is a hole in your ship hull and the cabin is depressurising. Your crew will fix the breach, but you should consider closing your Door Vents to seal off the area. | В корпусе вашего корабля образовалась дыра, и салон разгерметизировался. Ваш экипаж устранит пробоину, но вам следует закрыть вентиляцию, чтобы загерметизировать зону.
 alert_type_hungry | CREW HUNGRY | ЭКИПАЖ ИСПЫТЫВАЕТ ГОЛОД
 alert_type_lowbattery | BATTERY LOW | НИЗКИЙ ЗАРЯД БАТАРЕИ
 alert_type_lowbattery_caption | *X% | *X%

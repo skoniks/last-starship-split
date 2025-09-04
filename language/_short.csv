@@ -3,7 +3,7 @@ action_closevents | Close All Vents | Закрыть вентиляцию
 action_opendoors | Open All Doors | Открыть все двери
 action_openvents | Open All Vents | Открыть вентиляцию
 analyticsconsentdialog_accept | Accept | Принять
-analyticsconsentdialog_moreinfo | More Info... | Подробнее..
+analyticsconsentdialog_moreinfo | More Info... | Подробнее...
 analyticsconsentdialog_reject | Reject | Отклонить
 analyticsconsentdialog_text | We need to collect usage data to help us to better understand how people are playing and to help us to improve the game. \n\nWe do not collect any personally identifiable information. If you are OK with this please hit the Accept button. | Нам необходимо собирать данные об использовании игры, чтобы лучше понять, как люди играют, и помочь нам улучшить игру. \n\nМы не собираем никакой персональной информации. Если вы согласны с этим, пожалуйста, нажмите кнопку Принять.
 analyticsconsentdialog_title | Collection of Telemetry Data | Сбор телеметрических данных
@@ -151,7 +151,7 @@ opentextcrawl_3 | Word has reached Earth from one such colony. A dark anomaly ha
 opentextcrawl_4 | Where once there was a star, now there is nothing but a black void, slowly expanding. | Там, где когда-то была звезда, теперь лишь черная пустота, которая медленно расширяется.
 opentextcrawl_5 | Those who live nearby call it THE COLLAPSE, and believe it will eventually consume the entire galaxy. | Те, кто живет неподалеку, называют это явление КОЛЛАПСОМ и считают, что в конце концов оно поглотит всю галактику.
 opentextcrawl_6 | There are few who believe them. | Мало кто им верит.
-opentextcrawl_7 | Nevertheless, Earth has dispatched you and your crew in the science vessel PRAXIS to investigate. | Тем не менее, Земля направила вас и вашу команду на научном судне PRAXIS для расследования.
+opentextcrawl_7 | Nevertheless, Earth has dispatched you and your crew in the science vessel PRAXIS to investigate. | Тем не менее, Земля направила вас и ваш экипаж на научном судне PRAXIS для расследования.
 opentextcrawl_survival_1 | It is the 23rd century.  Humanity has colonised the stars. | На дворе 23 век.  Человечество колонизировало звезды.
 opentextcrawl_survival_2 | Millions of people now live off world, sometimes hundreds of light years from Earth. | Миллионы людей теперь живут за пределами планеты, иногда в сотнях световых лет от Земли.
 opentextcrawl_survival_3 | Word has reached Earth from a distant science station. A dark anomaly has been detected, and cannot be explained. | На Землю пришло сообщение с далекой научной станции. Обнаружена темная аномалия, которую невозможно объяснить.
@@ -204,7 +204,7 @@ powergrid_batteryhint | Install some Batteries to store reserve power from your 
 powergrid_category_battery | BATTERY | БАТАРЕЯ
 powergrid_category_defenses | DEFENSES | ОБОРОНА
 powergrid_category_engines | ENGINES | ДВИГАТЕЛИ
-powergrid_category_FTL | FTL | СВЕРХСВЕТСКОР
+powergrid_category_FTL | FTL | СВЕРХСВЕТОВОЙ
 powergrid_category_lifesupport | LIFE SUPPORT | ЖИЗНЕОБЕСПЕЧЕНИЕ
 powergrid_category_logistics | LOGISTICS | ЛОГИСТИКА
 powergrid_category_other | OTHER | ПРОЧЕЕ
@@ -264,7 +264,7 @@ shipai_longrangesniper | AI Controlled - Long-range | Управляется И�
 shipai_mediumrangeorbit | AI Controlled - Medium-range | Управляется ИИ — средняя дальность
 shipai_strategyverycloseorbit | AI Controlled - Very Close Orbit | Управляется ИИ — очень близкая орбита
 shiplibrary_affordableonly | Affordable Only | Только по доступным ценам
-shiplibrary_hullonly | [EMPTY HULL] | [EMPTY HULL]
+shiplibrary_hullonly | [EMPTY HULL] | [ПУСТОЙ КОРПУС]
 smelt_title | Smelt *X | Плавка *X
 soundchannelviewer_title | Sound Channels | Звуковые каналы
 sounddspeditor_title | DSP Editor | Редактор DSP
