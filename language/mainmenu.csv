@@ -2,10 +2,10 @@ mainmenu_abandongame | Abandon Game | Бросить игру
 mainmenu_createship | DEVELOPER Create Ship | РАЗРАБОТЧИК Создать корабль
 mainmenu_exportship | Export Ship | Экспорт корабля
 mainmenu_gamemode_creative | Creative | Творческий режим
-mainmenu_gamemode_creative_tooltip | You have unlimited resources to build any ship you want | У вас есть неограниченные ресурсы, чтобы построить любой корабль.
+mainmenu_gamemode_creative_tooltip | You have unlimited resources to build any ship you want | У вас есть неограниченные ресурсы, чтобы построить любой корабль, какой захотите
 mainmenu_gamemode_freeroam | Free Roam | Свободное перемещение
-mainmenu_gamemode_freeroam_locked | Build a flight-ready ship in Creative Mode to unlock | Постройте готовый к полету корабль в творческом режиме, чтобы разблокировать
-mainmenu_gamemode_freeroam_tooltip | You are free to persue any career at your own pace. No anomaly, no stargate. | Вы можете свободно выбирать любую карьеру в своем темпе. Нет аномалий, нет звездных врат.
+mainmenu_gamemode_freeroam_locked | Build a flight-ready ship in Creative Mode to unlock | Постройте готовый к полету корабль в Творческом режиме, чтобы разблокировать
+mainmenu_gamemode_freeroam_tooltip | You are free to persue any career at your own pace. No anomaly, no stargate. | Вы можете свободно выбирать любую карьеру в своем темпе. Никаких аномалий, никаких Звездных врат.
 mainmenu_gamemode_industry | BOLDLY GO | СМЕЛО ВПЕРЕД
 mainmenu_gamemode_industry_old | STARGATE | ЗВЕЗДНЫЕ ВРАТА
 mainmenu_gamemode_industry_tooltip | Embark on a new journey through our story-driven sci-fi episodes | Отправляйтесь в новое путешествие через наши сюжетные научно-фантастические эпизоды
@@ -33,7 +33,7 @@ mainmenu_savegame | Save Game | Сохранить игру
 mainmenu_stargate_caption | Forge your own path through story driven episodes all around the sector, and take part in the construction of a galactic mega project | Проложите свой путь через сюжетные эпизоды по всему сектору и примите участие в строительстве галактического мегапроекта
 mainmenu_stargate_caption_old | Take part in the construction of a galactic megaproject - a STARGATE with enough range to reach our nearest neighbouring galaxy ANDROMEDA | Примите участие в строительстве галактического мегапроекта - звездных врат с радиусом действия, достаточным для достижения ближайшей соседней галактики Андромеды
 mainmenu_steamworkshop | Steam Workshop | Мастерская Steam
-mainmenu_survival_caption | Stay one step ahead of a devastating anomaly that consumes everything in its path, and save as many as you can before it's too late | Будьте на шаг впереди разрушительной аномалии, которая поглощает все на своем пути, и спасите как можно больше людей, пока не стало слишком поздно.
+mainmenu_survival_caption | Stay one step ahead of a devastating anomaly that consumes everything in its path, and save as many as you can before it's too late | Будьте на шаг впереди разрушительной аномалии, которая поглощает все на своем пути, и спасите как можно больше людей, пока не стало слишком поздно
 mainmenu_title | Main Menu | Главное меню
 mainmenu_tools | Developer Tools | Инструменты разработчика
 mainmenu_tweet | Tweet My Starship! | Твитнуть мой звездолет!

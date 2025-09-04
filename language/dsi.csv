@@ -96,7 +96,7 @@ dsi_part2_objective_collectgas | Begin collecting Metreon Gas [*X/100] | Нач�
 dsi_part2_objective_collectisotopes | Begin collecting Hyperspace Isotopes [*X/100] | Начать сбор гиперпространственных изотопов [*X/100]
 dsi_part2_objective_copperingots | Begin smelting Copper Ingots [*X/100] | Начать выплавку Медных слитков [*X/100]
 dsi_part2_objective_installdrones | Install logistics drones | Установить Логистические дроны
-dsi_part2_objective_installengines | OPTIONAL: Install engines in the A.J.E Foundry | ВАРИАНТ: Установить Двигатели в литейном цехе A.J.E
+dsi_part2_objective_installengines | OPTIONAL: Install engines in the A.J.E Foundry | ДОПОЛНИТЕЛЬНО: Установить Двигатели в литейном цехе A.J.E
 dsi_part2_objective_installlasers | Install mining lasers | Установить Шахтерские лазеры
 dsi_part2_objective_installscoop | Install Hyperspace Scoop | Установить Гиперпространственный совок
 dsi_part2_objective_isotopes | Manufacture Stable Isotopes [*X/100] | Производство стабильных изотопов [*X/100]

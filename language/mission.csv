@@ -190,23 +190,23 @@ mission_sectorevacuate_received | *X out of *Y civilians have been collected. | 
 mission_sectorevacuate_requirements | Your ship will need enough free cabins in your habitation deck. | На вашем корабле должно быть достаточно свободных кают в жилой палубе.
 mission_sectorevacuate_requirements2 | (You can expand your hab deck at a Shipyard using the Ship Editor) | (Вы можете расширить жилую палубу на верфи с помощью редактора кораблей)
 mission_sectorevacuate_title | SECTOR OBJECTIVE: Evacuate stranded civilians | ЦЕЛЬ СЕКТОРА: Эвакуировать гражданских лиц, оказавшихся в затруднительном положении
-mission_sectorjumpgate_damage | The Jumpgate is damaged, and must be repaired and re-aligned. | Джампгейт поврежден, его нужно отремонтировать и заново выровнять.
+mission_sectorjumpgate_damage | The Jumpgate is damaged, and must be repaired and re-aligned. | Прыжковые врата повреждены, их нужно отремонтировать и заново выровнять.
 mission_sectorjumpgate_description1 | The Jumpgate at the end of this sector has some requirements before it can be used. | Джампгейт в конце этого сектора имеет некоторые требования, прежде чем его можно будет использовать.
 mission_sectorjumpgate_hostiles | Eradicate hostile blockade | Ликвидируй вражескую блокаду
 mission_sectorjumpgate_hostiles2 | A fleet of hostile ships is attempting to blockade the jumpgate and extort money from ships passing through. | Флот враждебных кораблей пытается заблокировать джампгейт и вымогать деньги у проходящих через него кораблей.
 mission_sectorjumpgate_hostiles3 | You'll need to clear them out before we can safely activate the jumpgate. | Вам нужно будет зачистить их, прежде чем мы сможем безопасно активировать прыжковые врата.
-mission_sectorjumpgate_map | Activate the Jumpgate | Активировать прыжковые врата
+mission_sectorjumpgate_map | Activate the Jumpgate | Активировать Прыжковые врата
 mission_sectorjumpgate_materialprovided | Provided *X/*Y R*Z | Предоставлено *X/*Y R*Z
 mission_sectorjumpgate_materials | We need some maintainence supplies before the jumpgate can be used. | Прежде чем использовать прыжковые врата, нам нужны некоторые ремонтные материалы.
-mission_sectorjumpgate_materialsrequired | We require *X R*Y | Мы требуем, чтобы *X R*Y
+mission_sectorjumpgate_materialsrequired | We require *X R*Y | Нам требуется *X R*Y
 mission_sectorjumpgate_paythetoll | Pay the transit fee (*X) | Оплатить транзитный сбор (*X)
 mission_sectorjumpgate_provide | Provide Materials | Предоставь материалы
-mission_sectorjumpgate_ready | The Jumpgate is now ready for use. | Теперь Jumpgate готовы к использованию.
-mission_sectorjumpgate_ready2 | Please maneuver all fleet ships into the jumpgate and align for transit. | Пожалуйста, маневрируйте всеми кораблями флота в джампгейт и выровняйтесь для транзита.
+mission_sectorjumpgate_ready | The Jumpgate is now ready for use. | Теперь Прыжковые врата готовы к использованию.
+mission_sectorjumpgate_ready2 | Please maneuver all fleet ships into the jumpgate and align for transit. | Пожалуйста, направьте все корабли флота в Прыжковые врата и подготовьтесь к транзиту.
 mission_sectorjumpgate_repair | Repair the jumpgate | Отремонтировать прыжковые ворота
 mission_sectorjumpgate_repaired | Thank you, the Jumpgate has been repaired and re-aligned. | Спасибо, прыжковые врата были отремонтированы и заново выровнены.
 mission_sectorjumpgate_title | SECTOR OBJECTIVE: Activate the Jumpgate | ЗАДАЧА СЕКТОРА: Активировать прыжковые врата
-mission_sectorjumpgate_toll | There is a TRANSIT FEE to pay for use of the Jumpgate. This money covers the operating costs and energy consumption of such a massive facility. | За использование джампгейта взимается плата за проезд. Эти деньги покрывают эксплуатационные расходы и энергопотребление такого огромного сооружения.
+mission_sectorjumpgate_toll | There is a TRANSIT FEE to pay for use of the Jumpgate. This money covers the operating costs and energy consumption of such a massive facility. | За использование Прыжковых врат взимается плата за проезд. Эти деньги покрывают эксплуатационные расходы и энергопотребление такого огромного сооружения.
 mission_sectorjumpgate_tollpaid | Thank you, payment received for transit. | Спасибо, оплата получена за транзит.
 mission_sectorprotect_accepted | We've marked the location of the ship on your map. Please hurry! | Мы отметили местоположение корабля на вашей карте. Пожалуйста, поторопитесь!
 mission_sectorprotect_action_payment | TAKE CASH REWARD | ВЗЯТЬ ДЕНЕЖНОЕ ВОЗНАГРАЖДЕНИЕ

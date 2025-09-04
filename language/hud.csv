@@ -28,7 +28,7 @@ hud_ftlexcluded | Stay | Остаться
 hud_ftlincluded | Jump | Прыжок
 hud_ftlloading | Loading... | Загрузка..
 hud_ftlnodestination | NO DESTINATION | НЕТ МЕСТА НАЗНАЧЕНИЯ
-hud_ftlshipnotviablewarning | Ship needs either hull or scaffolding to be brought into hyperspace | Для перехода корабля в гиперпространство необходим либо корпус, либо строительные леса
+hud_ftlshipnotviablewarning | Ship needs either hull or scaffolding to be brought into hyperspace | Для перехода корабля в гиперпространство необходим либо корпус, либо каркасы
 hud_ftlwaiting | Waiting... | Ожидание..
 hud_hyperspace | HYPERSPACE | ГИПЕРПРОСТРАНСТВО
 hud_idle | Idle | Холостой ход

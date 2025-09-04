@@ -6,7 +6,7 @@ stargate_energy_required | REQUIRED: *X MW | ТРЕБУЕТСЯ: *X MW
 stargate_help | To submit completed parts to the stargate project, sell them at any trade outpost in the sector | Чтобы сдать готовые детали в проект Звездных Врат, продайте их на любом торговом посту в секторе
 stargate_jumping | JUMP IN PROGRESS | ПРЫЖОК...
 stargate_newsystems_harken_1 | Captain, our sector scan has found new systems in the sector. | Капитан, наше сканирование сектора обнаружило в нем новые системы.
-stargate_newsystems_harken_2 | Unfortunately it seems pirates have gotten to them first, and have set up their own shipyards around the Neubidium deposits in the system. | К сожалению, похоже, пираты добрались до них первыми и создали собственные верфи вокруг месторождений нейбидиума в системе.
+stargate_newsystems_harken_2 | Unfortunately it seems pirates have gotten to them first, and have set up their own shipyards around the Neubidium deposits in the system. | К сожалению, похоже, пираты добрались до них первыми и создали собственные верфи вокруг месторождений Нейбидиума в системе.
 stargate_newsystems_harken_3 | Be prepared for combat if you're going to visit. Good luck, Captain. | Будьте готовы к бою, если собираетесь наведаться в гости. Удачи, капитан.
 stargate_part1_accept | ACCEPT | ПРИНЯТЬ
 stargate_part1_action_deliverframes | Deliver *X Stargate Frames | Поставка *X Рам Звездных Врат

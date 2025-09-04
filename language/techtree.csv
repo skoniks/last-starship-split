@@ -34,7 +34,7 @@ techtree_node_caption_Logistics3 | Unlocks schematics for Large logistics storag
 techtree_node_caption_Metallurgy1 | Smelters produce 50% more output | Плавильные печи производят на 50% больше продукции
 techtree_node_caption_Metallurgy2 | Smelters produce 100% more output | Плавильные печи производят на 100% больше продукции
 techtree_node_caption_mininglaseraccuracy | Mining Lasers extract twice as many minerals per shot | Шахтерские лазеры добывают в два раза больше минералов за выстрел
-techtree_node_caption_neubidiumfabrication | Infuse energy storage with Neubidium, providing it with enhanced efficiency and improved conductive properties. | Наполните накопители энергии нейбидиумом, обеспечив им повышенную эффективность и улучшенные проводящие свойства.
+techtree_node_caption_neubidiumfabrication | Infuse energy storage with Neubidium, providing it with enhanced efficiency and improved conductive properties. | Наполните накопители энергии Нейбидиумом, обеспечив им повышенную эффективность и улучшенные проводящие свойства.
 techtree_node_caption_neubidiumprocessing | The mineral collected from the local asteroid has never been seen before, we should investigate its uses. | Минерал, собранный с местного астероида, никогда раньше не встречался. Нужно изучить его применение.
 techtree_node_caption_recycling1 | Improves all life-support recycling to 90% efficiency | Повышает эффективность переработки всех ресурсов жизнеобеспечения до 90%
 techtree_node_caption_recycling2 | Brings all life-support recycling up to 100% efficiency | Повышает эффективность переработки всех ресурсов жизнеобеспечения до 100%
@@ -65,7 +65,7 @@ techtree_node_title_Logistics3 | Logistics Level 3 | Логистика 3
 techtree_node_title_Metallurgy1 | Metallurgy Level 1 | Металлургия 1
 techtree_node_title_Metallurgy2 | Metallurgy Level 2 | Металлургия 2
 techtree_node_title_mininglaseraccuracy | Mining Laser Precision | Точность Шахтерских лазеров
-techtree_node_title_neubidiumfabrication | Neubidium Fabrication | Изготовление нейбидиума
+techtree_node_title_neubidiumfabrication | Neubidium Fabrication | Изготовление Нейбидиума
 techtree_node_title_neubidiumprocessing | Neubidium Processing | Обработка нейбидиума
 techtree_node_title_recycling1 | Recycling Efficiency 1 | Эффективность переработки 1
 techtree_node_title_recycling2 | Recycling Efficiency 2 | Эффективность переработки 2

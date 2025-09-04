@@ -16,9 +16,9 @@ settings_language | Language | Язык
 settings_mastervolume | Master Volume | Общая громкость
 settings_music | Music | Музыка
 settings_musicvolume | Music Volume | Громкость музыки
-settings_other | OTHER | ДРУГОE
+settings_other | OTHER | ДРУГОЕ
 settings_resolution | Resolution | Разрешение
 settings_sound | SOUND | ЗВУК
 settings_translatorassist | Translator Assist (Ctrl, Alt) | Помощник переводчика (Ctrl, Alt)
-settings_translatorassist_description | Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key. | Включает функции, помогающие переводчикам, например Alt для раскрытия английского языка и Ctrl для раскрытия фразового ключа.
+settings_translatorassist_description | Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key. | Включает функции, помогающие переводчикам, например Alt для раскрытия английского языка и Ctrl для раскрытия ключа фразы.
 settings_uibounce | UI Highlight Bounce | Подсветка с эффектом отскока

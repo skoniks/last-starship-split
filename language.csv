@@ -2,11 +2,11 @@
 NEW,settings_accentinsensitivesearch,2803,Accent Insensitive Search,Поиск без акцента
 NEW,settings_accentinsensitivesearch_description,2803,"When searching in lists, ignore accented characters, e.g. ""é"" will match ""e""","При поиске в списках игнорирует акцентированные символы, например, ""é"" будет соответствовать ""e"""
 NEW,settings_translatorassist,2803,"Translator Assist (Ctrl, Alt)","Помощник переводчика (Ctrl, Alt)"
-NEW,settings_translatorassist_description,2803,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.","Включает функции, помогающие переводчикам, например Alt для раскрытия английского языка и Ctrl для раскрытия фразового ключа."
+NEW,settings_translatorassist_description,2803,"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.","Включает функции, помогающие переводчикам, например Alt для раскрытия английского языка и Ctrl для раскрытия ключа фразы."
 CURRENT,settings_sound,2793,SOUND,ЗВУК
 CURRENT,settings_appearance,2793,APPEARANCE,ВНЕШНИЙ ВИД
 CURRENT,settings_keybindings,2793,KEYBOARD,КЛАВИАТУРА
-CURRENT,settings_other,2793,OTHER,ДРУГОE
+CURRENT,settings_other,2793,OTHER,ДРУГОЕ
 CURRENT,settings_uibounce,2793,UI Highlight Bounce,Подсветка с эффектом отскока
 CURRENT,keybinding_title_action,2793,Action,Действие
 CURRENT,keybinding_title_key,2793,Key,Ключ
@@ -109,17 +109,17 @@ CURRENT,origin_steam,2793,SUBSCRIBED ON STEAM WORKSHOP,ПОДПИСАЛСЯ НА
 CURRENT,origin_steamuser,2793,UPLOADED TO STEAM WORKSHOP,ЗАГРУЖЕНО В STEAM WORKSHOP
 CURRENT,special_stargatepart3,2793,"Andromeda Project Phases 4, 5","Проект Андромеда Фазы 4, 5"
 CURRENT,tutorial_powerreactoractive,2793,The REACTOR is activated! We are now generating power for our ship.,Реактор активирован! Теперь мы вырабатываем энергию для нашего корабля.
-CURRENT,dsi_part2_objective_installengines,2793,OPTIONAL: Install engines in the A.J.E Foundry,ВАРИАНТ: Установить Двигатели в литейном цехе A.J.E
+CURRENT,dsi_part2_objective_installengines,2793,OPTIONAL: Install engines in the A.J.E Foundry,ДОПОЛНИТЕЛЬНО: Установить Двигатели в литейном цехе A.J.E
 CURRENT,settings_exitsaves_tooltip,2675,"When enabled, the current game will be saved when abandoned or when the game is quit in a file called exitsave.\n\nCAUTION: This file will be overwritten on every exit.","Если эта функция включена, то текущая игра будет сохраняться при выходе из нее или при завершении игры в файл под названием exitsave.\n\n ВНИМАНИЕ: Этот файл будет перезаписываться при каждом выходе."
 CURRENT,settings_dynamiclighting,2675,Use Dynamic Lighting,Использовать динамическое освещение
 CURRENT,newmainmenu_exitsaves,2675,Exit-saves,Сохранения при выходе
-CURRENT,hud_ftlshipnotviablewarning,2675,Ship needs either hull or scaffolding to be brought into hyperspace,"Для перехода корабля в гиперпространство необходим либо корпус, либо строительные леса"
+CURRENT,hud_ftlshipnotviablewarning,2675,Ship needs either hull or scaffolding to be brought into hyperspace,"Для перехода корабля в гиперпространство необходим либо корпус, либо каркасы"
 CURRENT,trade_cancelautotrade,2675,CANCEL AUTO-TRADE,ОТМЕНИТЬ АВТОТОРГОВЛЮ
 CURRENT,hud_collector_tooltip_totalgathered,2675,TOTAL GATHERED,ВСЕГО ДОБЫТО
 CURRENT,save_cloudsavefailed_header,2639,WARNING: Cloud Save Failed,ПРЕДУПРЕЖДЕНИЕ: Облачное сохранение не удалось
 CURRENT,save_cloudsavefailed_body,2639,"The game failed to save to the cloud, the game has been saved locally instead.\n\nPlease check that you have enough storage in the Steam Cloud and try again.","Не удалось сохранить игру в облаке, вместо этого она была сохранена локально.\n\nПожалуйста, проверьте, достаточно ли у вас места в облаке Steam, и попробуйте еще раз."
 CURRENT,mission_type_sectorjumpgate,2639,Jumpgate (Sector),Джампгейт (сектор)
-CURRENT,stargate_newsystems_harken_2,2639,"Unfortunately it seems pirates have gotten to them first, and have set up their own shipyards around the Neubidium deposits in the system.","К сожалению, похоже, пираты добрались до них первыми и создали собственные верфи вокруг месторождений нейбидиума в системе."
+CURRENT,stargate_newsystems_harken_2,2639,"Unfortunately it seems pirates have gotten to them first, and have set up their own shipyards around the Neubidium deposits in the system.","К сожалению, похоже, пираты добрались до них первыми и создали собственные верфи вокруг месторождений Нейбидиума в системе."
 CURRENT,settings_arraytextures,2624,Use Array Textures,Использовать массивы текстур
 CURRENT,newmainmenu_arena_shipquantity,2624,Quantity,Количество
 CURRENT,newmainmenu_arena_combatratings,2624,COMBAT RATINGS,БОЕВОЙ РЕЙТИНГ
@@ -149,23 +149,23 @@ CURRENT,techtree_node_title_zeleonenergycontainment,2624,Zeleon Energy Containme
 CURRENT,techtree_node_caption_zeleonenergycontainment,2624,"Stable Zeleon is a safe, energy-dense gas that could be used for advanced energy storage.","Стабильный Зелеон — это безопасный, энергоемкий газ, который можно использовать для передовых накопителей энергии."
 CURRENT,techtree_node_title_neubidiumprocessing,2624,Neubidium Processing,Обработка нейбидиума
 CURRENT,techtree_node_caption_neubidiumprocessing,2624,"The mineral collected from the local asteroid has never been seen before, we should investigate its uses.","Минерал, собранный с местного астероида, никогда раньше не встречался. Нужно изучить его применение."
-CURRENT,techtree_node_title_neubidiumfabrication,2624,Neubidium Fabrication,Изготовление нейбидиума
-CURRENT,techtree_node_caption_neubidiumfabrication,2624,"Infuse energy storage with Neubidium, providing it with enhanced efficiency and improved conductive properties.","Наполните накопители энергии нейбидиумом, обеспечив им повышенную эффективность и улучшенные проводящие свойства."
+CURRENT,techtree_node_title_neubidiumfabrication,2624,Neubidium Fabrication,Изготовление Нейбидиума
+CURRENT,techtree_node_caption_neubidiumfabrication,2624,"Infuse energy storage with Neubidium, providing it with enhanced efficiency and improved conductive properties.","Наполните накопители энергии Нейбидиумом, обеспечив им повышенную эффективность и улучшенные проводящие свойства."
 CURRENT,techtree_available_title,2624,RESEARCH AVAILABLE,ИССЛЕДОВАНИЕ ДОСТУПНО
 CURRENT,mission_sectorjumpgate_title,2624,SECTOR OBJECTIVE: Activate the Jumpgate,ЗАДАЧА СЕКТОРА: Активировать прыжковые врата
 CURRENT,mission_sectorjumpgate_description1,2624,The Jumpgate at the end of this sector has some requirements before it can be used.,"Джампгейт в конце этого сектора имеет некоторые требования, прежде чем его можно будет использовать."
-CURRENT,mission_sectorjumpgate_damage,2624,"The Jumpgate is damaged, and must be repaired and re-aligned.","Джампгейт поврежден, его нужно отремонтировать и заново выровнять."
-CURRENT,mission_sectorjumpgate_toll,2624,There is a TRANSIT FEE to pay for use of the Jumpgate. This money covers the operating costs and energy consumption of such a massive facility.,За использование джампгейта взимается плата за проезд. Эти деньги покрывают эксплуатационные расходы и энергопотребление такого огромного сооружения.
-CURRENT,mission_sectorjumpgate_map,2624,Activate the Jumpgate,Активировать прыжковые врата
+CURRENT,mission_sectorjumpgate_damage,2624,"The Jumpgate is damaged, and must be repaired and re-aligned.","Прыжковые врата повреждены, их нужно отремонтировать и заново выровнять."
+CURRENT,mission_sectorjumpgate_toll,2624,There is a TRANSIT FEE to pay for use of the Jumpgate. This money covers the operating costs and energy consumption of such a massive facility.,За использование Прыжковых врат взимается плата за проезд. Эти деньги покрывают эксплуатационные расходы и энергопотребление такого огромного сооружения.
+CURRENT,mission_sectorjumpgate_map,2624,Activate the Jumpgate,Активировать Прыжковые врата
 CURRENT,mission_sectorjumpgate_paythetoll,2624,Pay the transit fee (*X),Оплатить транзитный сбор (*X)
 CURRENT,mission_sectorjumpgate_repair,2624,Repair the jumpgate,Отремонтировать прыжковые ворота
 CURRENT,mission_sectorjumpgate_materials,2624,We need some maintainence supplies before the jumpgate can be used.,"Прежде чем использовать прыжковые врата, нам нужны некоторые ремонтные материалы."
-CURRENT,mission_sectorjumpgate_materialsrequired,2624,We require *X R*Y,"Мы требуем, чтобы *X R*Y"
+CURRENT,mission_sectorjumpgate_materialsrequired,2624,We require *X R*Y,"Нам требуется *X R*Y"
 CURRENT,mission_sectorjumpgate_materialprovided,2624,Provided *X/*Y R*Z,Предоставлено *X/*Y R*Z
 CURRENT,mission_sectorjumpgate_tollpaid,2624,"Thank you, payment received for transit.","Спасибо, оплата получена за транзит."
 CURRENT,mission_sectorjumpgate_repaired,2624,"Thank you, the Jumpgate has been repaired and re-aligned.","Спасибо, прыжковые врата были отремонтированы и заново выровнены."
-CURRENT,mission_sectorjumpgate_ready,2624,The Jumpgate is now ready for use.,Теперь Jumpgate готовы к использованию.
-CURRENT,mission_sectorjumpgate_ready2,2624,Please maneuver all fleet ships into the jumpgate and align for transit.,"Пожалуйста, маневрируйте всеми кораблями флота в джампгейт и выровняйтесь для транзита."
+CURRENT,mission_sectorjumpgate_ready,2624,The Jumpgate is now ready for use.,Теперь Прыжковые врата готовы к использованию.
+CURRENT,mission_sectorjumpgate_ready2,2624,Please maneuver all fleet ships into the jumpgate and align for transit.,"Пожалуйста, направьте все корабли флота в Прыжковые врата и подготовьтесь к транзиту."
 CURRENT,mission_sectorjumpgate_provide,2624,Provide Materials,Предоставь материалы
 CURRENT,mission_sectorjumpgate_hostiles,2624,Eradicate hostile blockade,Ликвидируй вражескую блокаду
 CURRENT,mission_sectorjumpgate_hostiles2,2624,A fleet of hostile ships is attempting to blockade the jumpgate and extort money from ships passing through.,Флот враждебных кораблей пытается заблокировать джампгейт и вымогать деньги у проходящих через него кораблей.
@@ -221,7 +221,7 @@ CURRENT,tutorial_wrapup3,2624,"Many different types of contract are now availabl
 CURRENT,tutorial_miningsuccess,2624,"Well done, you have produced Tilium Cystals.","Молодец, вы получили Тилиевые кристаллы."
 CURRENT,calltoarms_harkenrailroad_2,2624,"There is a crisis underway, Captain.  Commercial vessels are going missing, all across the sector.  I suspect foul play, and I need your help to investigate.","Назревает кризис, капитан.  По всему сектору пропадают коммерческие суда.  Я подозреваю нечестную игру, и мне нужна ваша помощь в расследовании."
 CURRENT,calltoarms_harkenrailroad_6,2624,"I've marked the location of the shipwreck on your map as a Gold Highlight.  Good luck, Captain.","Я отметил местоположение затонувшего корабля на вашей карте как ЗОЛОТОЙ МАРКЕР.  Удачи, капитан."
-CURRENT,wolf_part1_sendingwreckage,2624,"They're sending the recovered wreckage to your ship The L*X now, Captain. It will arrive soon by Shuttle. You'll need to store it somewhere onboard.","Сейчас они отправляют найденные Обломки корабля на ваш корабль L*X, капитан. Скоро он прибудет на Челноке. Вам нужно будет хранить его где-нибудь на борту."
+CURRENT,wolf_part1_sendingwreckage,2624,"They're sending the recovered wreckage to your ship The L*X now, Captain. It will arrive soon by Shuttle. You'll need to store it somewhere onboard.","Сейчас они отправляют найденные Обломки корабля на ваш корабль L*X, капитан. Скоро они прибудут на Челноке. Вам нужно будет хранить их где-нибудь на борту."
 CURRENT,wolf_part1_sendingshuttle,2624,"Standby while I dock my ship with yours, Captain, to collect the items you've recovered so far. Thank you for your efforts.","Приготовьтесь, пока я состыкую свой корабль с вашим, капитан, чтобы забрать предметы, которые вы уже успели добыть. Спасибо вам за ваши усилия."
 CURRENT,wolf_part1_completion5,2624,"We need to find a way to track them down, and destroy them.  We will be in touch soon, Captain.","Нам нужно найти способ выследить их и уничтожить.  Мы скоро свяжемся с вами, капитан."
 CURRENT,wolf_part2_setup1,2624,"Thank you for coming, Captain.","Спасибо, что пришли, капитан."
@@ -493,17 +493,17 @@ CURRENT,mainmenu_legal,2448,Privacy / Legal,Конфиденциальность
 CURRENT,mainmenu_gamemode_survival,2448,Survival,Выживание
 CURRENT,mainmenu_gamemode_survival_tooltip,2448,"Stay one step ahead of a devastating anomaly, for as long as you can","Оставайтесь на шаг впереди разрушительной аномалии так долго, как сможете"
 CURRENT,mainmenu_gamemode_freeroam,2448,Free Roam,Свободное перемещение
-CURRENT,mainmenu_gamemode_freeroam_tooltip,2448,"You are free to persue any career at your own pace. No anomaly, no stargate.","Вы можете свободно выбирать любую карьеру в своем темпе. Нет аномалий, нет звездных врат."
-CURRENT,mainmenu_gamemode_freeroam_locked,2448,Build a flight-ready ship in Creative Mode to unlock,"Постройте готовый к полету корабль в творческом режиме, чтобы разблокировать"
+CURRENT,mainmenu_gamemode_freeroam_tooltip,2448,"You are free to persue any career at your own pace. No anomaly, no stargate.","Вы можете свободно выбирать любую карьеру в своем темпе. Никаких аномалий, никаких Звездных врат."
+CURRENT,mainmenu_gamemode_freeroam_locked,2448,Build a flight-ready ship in Creative Mode to unlock,"Постройте готовый к полету корабль в Творческом режиме, чтобы разблокировать"
 CURRENT,mainmenu_gamemode_creative,2448,Creative,Творческий режим
-CURRENT,mainmenu_gamemode_creative_tooltip,2448,You have unlimited resources to build any ship you want,"У вас есть неограниченные ресурсы, чтобы построить любой корабль."
+CURRENT,mainmenu_gamemode_creative_tooltip,2448,You have unlimited resources to build any ship you want,"У вас есть неограниченные ресурсы, чтобы построить любой корабль, какой захотите"
 CURRENT,mainmenu_gamemode_industry_old,2448,STARGATE,ЗВЕЗДНЫЕ ВРАТА
 CURRENT,mainmenu_gamemode_industry_tooltip_old,2448,Your aim is to research and build a stargate to Andromeda,Ваша цель - исследовать и построить звездные врата в Андромеду
 CURRENT,mainmenu_stargate_caption_old,2448,Take part in the construction of a galactic megaproject - a STARGATE with enough range to reach our nearest neighbouring galaxy ANDROMEDA,"Примите участие в строительстве галактического мегапроекта - звездных врат с радиусом действия, достаточным для достижения ближайшей соседней галактики Андромеды"
 CURRENT,mainmenu_gamemode_industry,2448,BOLDLY GO,СМЕЛО ВПЕРЕД
 CURRENT,mainmenu_gamemode_industry_tooltip,2448,Embark on a new journey through our story-driven sci-fi episodes,Отправляйтесь в новое путешествие через наши сюжетные научно-фантастические эпизоды
 CURRENT,mainmenu_stargate_caption,2448,"Forge your own path through story driven episodes all around the sector, and take part in the construction of a galactic mega project",Проложите свой путь через сюжетные эпизоды по всему сектору и примите участие в строительстве галактического мегапроекта
-CURRENT,mainmenu_survival_caption,2448,"Stay one step ahead of a devastating anomaly that consumes everything in its path, and save as many as you can before it's too late","Будьте на шаг впереди разрушительной аномалии, которая поглощает все на своем пути, и спасите как можно больше людей, пока не стало слишком поздно."
+CURRENT,mainmenu_survival_caption,2448,"Stay one step ahead of a devastating anomaly that consumes everything in its path, and save as many as you can before it's too late","Будьте на шаг впереди разрушительной аномалии, которая поглощает все на своем пути, и спасите как можно больше людей, пока не стало слишком поздно"
 CURRENT,mainmenu_gamemode_unlocked,2448,UNLOCKED,РАЗБЛОКИРОВАНО
 CURRENT,mainmenu_gamemode_unlocked_freeroam,2448,Game Mode: Free Roam,Режим игры: Свободное перемещение
 CURRENT,mainmenu_gamemode_unlocked_survival,2448,Game Mode: Survival,Игровой режим: Выживание
@@ -613,8 +613,8 @@ CURRENT,scenario_funds,2448,FUNDS,ФОНДЫ
 CURRENT,scenario_praxis,2448,"A tiny and fast science vessel with all necessary equipment for interstellar adventure, and provisioned with enough supplies for a small crew.","Миниатюрное и быстрое научное судно, оснащенное всем необходимым для межзвездных приключений и снабженное достаточным количеством припасов для небольшого экипажа."
 CURRENT,scenario_sleek,2448,"A more complex setup. A large and capable ship with plenty of room for upgrades, but with a heavier and slower hull.","Более сложная конфигурация. Большой и способный корабль с большим количеством возможностей для модернизации, но с более тяжелым и медленным корпусом."
 CURRENT,scenario_innershapes,2448,"Another large vessel well suited to combat and dangerous operations.  The forward hull is encased in heavy armour, making the ship much tougher, but also slower and less maneuverable.","Еще одно крупное судно, хорошо подходящее для боевых и опасных операций.  Носовая часть корпуса заключена в тяжелую броню, что делает корабль намного прочнее, но при этом медленнее и менее маневренным."
-CURRENT,scenario_largelogistics,2448,"A modular and easily expanded ship design, ideal for interstellar logistics and mining operations. With cabin space for over 50 crew or passengers.","Модульная и легко расширяемая конструкция корабля, идеально подходящая для межзвездной логистики и добычи полезных ископаемых. Салон вмещает более 50 членов экипажа или пассажиров."
-CURRENT,scenario_carrierfrigate,2448,"A huge community fuselage built by Zion - perfect for any career the Captain desires. The ship benefits from a huge cabin capacity, but is very slow and heavy.","Огромный корабль, построенный Сионом, идеально подходит для любой карьеры, которую пожелает капитан. Корабль обладает огромной вместимостью салона, но очень медленный и тяжелый."
+CURRENT,scenario_largelogistics,2448,"A modular and easily expanded ship design, ideal for interstellar logistics and mining operations. With cabin space for over 50 crew or passengers.","Модульная и легко расширяемая конструкция корабля, идеально подходящая для межзвездной логистики и добычи полезных ископаемых. С каютами для более чем 50 членов экипажа или пассажиров."
+CURRENT,scenario_carrierfrigate,2448,"A huge community fuselage built by Zion - perfect for any career the Captain desires. The ship benefits from a huge cabin capacity, but is very slow and heavy.","Огромный обширный салон, построенный Сионом, идеально подходит для любой карьеры, которую пожелает капитан. Корабль обладает огромной вместимостью кают, но очень медленный и тяжелый."
 CURRENT,scenario_procyoncruiser,2448,"A community ship built by Orion Industries - a perfect balance of form and function. Decent cabin space and room for equipment, but small and light enough to be fast and nimble.","Общественный корабль, построенный компанией Orion Industries, - идеальный баланс формы и функциональности. Приличный салон и место для оборудования, но достаточно маленький и легкий, чтобы быть быстрым и проворным."
 CURRENT,scenario_shipyard,2448,"The absolute minimum ship fuselage, but you are docked at a fully operational Shipyard with a generous starting budget to build whatever ship you want from scratch.","Абсолютный минимум корабля, но вы пристыкованы к полностью действующей Верфи с щедрым стартовым бюджетом, чтобы построить любой корабль с нуля."
 CURRENT,scenario_industry,2448,The Stargate Project demands your help! Industry and Automation take centre stage as you manufacture parts for a megaproject stargate to the Andromeda Galaxy.,"Проект ЗВЕЗДНЫЕ ВРАТА требует вашей помощи! Промышленность и автоматизация выходят на первый план, когда вы производите детали для мегапроекта ЗВЕЗДНЫХ ВРАТ в галактику Андромеды."
@@ -1915,7 +1915,7 @@ CURRENT,wolf_part1_setupcall1b,2448,"We are in the grip of a major crisis.  Comm
 CURRENT,wolf_part1_setupcall2,2448,"I'm sending you the coordinates of two more stricken vessels, pinpointing their last known locations before they went dark.  We need you to travel to the wreckage of each of these ships, and collect whatever evidence you can.","Я отправляю вам координаты еще двух пострадавших кораблей, указывая их последнее известное местоположение перед тем, как они погрузились в темноту.  Нам нужно, чтобы вы отправились к обломкам каждого из этих кораблей и собрали все возможные доказательства."
 CURRENT,wolf_part1_setupcall3,2448,"The primary objective is the safe recovery of their Black Box Flight Recorders, which will contain a log of their final moments.","Главной задачей является безопасное извлечение Бортовых самописцев Черных ящиков, которые будут содержать запись их последних мгновений."
 CURRENT,wolf_part1_setupcall4,2448,Here are the co-ordinates of the two shipwrecks we need you to visit.,"Вот координаты двух затонувших кораблей, которые нам нужно посетить."
-CURRENT,wolf_part1_setupcall5,2448,"The fourth vessel to be targeted managed to send out a distress call. Local security forces responded too late, and found nothing but the destroyed fuselage with a presumed loss of all crew.","Четвертое судно, ставшее объектом нападения, успело подать сигнал бедствия. Местные силы безопасности отреагировали слишком поздно и не нашли ничего, кроме разрушенного фюзеляжа с предположительной гибелью всего экипажа."
+CURRENT,wolf_part1_setupcall5,2448,"The fourth vessel to be targeted managed to send out a distress call. Local security forces responded too late, and found nothing but the destroyed fuselage with a presumed loss of all crew.","Четвертое судно, ставшее объектом нападения, успело подать сигнал бедствия. Местные силы безопасности отреагировали слишком поздно и не нашли ничего, кроме разрушенного корабля с предположительной гибелью всего экипажа."
 CURRENT,wolf_part1_setupcall5b,2448,"This is the only image they managed to send, before their transmission went dead.","Это единственное изображение, которое они успели отправить, прежде чем их передача оборвалась."
 CURRENT,wolf_part1_setupcall6,2448,"The wreckage - which is the forensic evidence of their fate - was collected and taken back to System S*X, where it's currently sitting in storage.  We need you to send a ship to collect the wreckage, and bring it to us along with the recovered black box modules.","Обломки, которые являются судебным доказательством их судьбы, были собраны и доставлены обратно в систему S*X, где они в настоящее время находятся на хранении.  Нам нужно, чтобы вы послали корабль за обломками и доставили их нам вместе с восстановленными модулями черного ящика."
 CURRENT,wolf_part1_setupcall7,2448,"Bring all the recovered wreckage and the black box flight recorders back to me for analysis on board my ship The Vanguard, to complete the contract.","Принесите все найденные Обломки корабля и Бортовые самописцы черного ящика мне для анализа на борту моего корабля UMC Авангард, чтобы завершить контракт."
