@@ -1,6 +1,6 @@
-action_closedoors | Close All Doors | Закрыть все двери
+action_closedoors | Close All Doors | Закрыть все Двери
 action_closevents | Close All Vents | Закрыть вентиляцию
-action_opendoors | Open All Doors | Открыть все двери
+action_opendoors | Open All Doors | Открыть все Двери
 action_openvents | Open All Vents | Открыть вентиляцию
 analyticsconsentdialog_accept | Accept | Принять
 analyticsconsentdialog_moreinfo | More Info... | Подробнее...
@@ -10,13 +10,13 @@ analyticsconsentdialog_title | Collection of Telemetry Data | Сбор теле�
 award_rewards | Rewards | Награды
 battle_title | BATTLE | БИТВА
 boost_airrecyclingefficiency | Air Recycling Efficiency +*X% | Эффективность переработки воздуха +*X%
-boost_DroneSpeed | Drone Top Speed +*X% | Максимальная скорость дрона +*X%
+boost_DroneSpeed | Drone Top Speed +*X% | Максимальная скорость Дрона +*X%
 boost_harvestingyield | Crop Yield +*X% | Урожайность +*X%
-boost_reactorefficiency | Reactor Efficiency +*X% | Эффективность реактора +*X%
+boost_reactorefficiency | Reactor Efficiency +*X% | Эффективность Реактора +*X%
 boost_recyclingefficiency | Recycling Efficiency *X% | Эффективность переработки *X%
-boost_RobotArmSpeed | Robot Arm Speed +*X% | Скорость руки робота +*X%
-boost_SmelterEfficiency | Smelter Efficiency +*X% | Эффективность плавильной печи +*X%
-boost_TrackSpeed | Track Speed +*X% | Скорость конвейера +*X%
+boost_RobotArmSpeed | Robot Arm Speed +*X% | Скорость Руки робота +*X%
+boost_SmelterEfficiency | Smelter Efficiency +*X% | Эффективность Плавильной печи +*X%
+boost_TrackSpeed | Track Speed +*X% | Скорость Конвейера +*X%
 boost_wasterecyclingefficiency | Waste Recycling Efficiency +*X% | Эффективность переработки отходов +*X%
 boost_waterrecyclingefficiency | Water Recycling Efficiency +*X% | Эффективность переработки воды +*X%
 buynow_button | BUY NOW | КУПИТЬ СЕЙЧАС
@@ -28,8 +28,8 @@ calltoarms_harken_5 | Thank you, Captain. | Спасибо, капитан.
 calltoarms_harkenrailroad_1 | My name is Commander Harken, and I'm the Chief of Private Security for the sector. | Меня зовут коммандер Харкен, я начальник службы личной безопасности сектора.
 calltoarms_harkenrailroad_2 | There is a crisis underway, Captain.  Commercial vessels are going missing, all across the sector.  I suspect foul play, and I need your help to investigate. | Назревает кризис, капитан.  По всему сектору пропадают коммерческие суда.  Я подозреваю нечестную игру, и мне нужна ваша помощь в расследовании.
 calltoarms_harkenrailroad_3 | We've recieved reports of a shipwreck nearby. I believe it to be the wreckage of THE INTERSTELLAR PROSPECTOR - a large commercial vessel that went missing yesterday. | Мы получили сообщение о кораблекрушении неподалеку. Я полагаю, что это обломки THE INTERSTELLAR PROSPECTOR - большого коммерческого судна, которое пропало вчера.
-calltoarms_harkenrailroad_4 | Travel to the shipwreck and look for a Black Box Flight Recorder in the wreckage.  This device will contain a log of their final moments. | Отправляйтесь к затонувшему кораблю и найдите на его обломках бортовой самописец.  В этом устройстве будет храниться запись последних минут их жизни.
-calltoarms_harkenrailroad_5 | To collect the flight recorder you'll need to install a DRONE BAY and at least one LOGISTICS DRONE. You can buy them from any Shipyard or Colony. | Чтобы забрать бортовой самописец, вам потребуется установить ОТСЕК ДЛЯ ДРОНОВ и хотя бы один ЛОГИСТИЧЕСКИЙ ДРОН. Их можно купить на любой верфи или в колонии.
+calltoarms_harkenrailroad_4 | Travel to the shipwreck and look for a Black Box Flight Recorder in the wreckage.  This device will contain a log of their final moments. | Отправляйтесь к затонувшему кораблю и найдите на его обломках Бортовой самописец.  В этом устройстве будет храниться запись последних минут их жизни.
+calltoarms_harkenrailroad_5 | To collect the flight recorder you'll need to install a DRONE BAY and at least one LOGISTICS DRONE. You can buy them from any Shipyard or Colony. | Чтобы забрать Бортовой самописец, вам потребуется установить ОТСЕК ДЛЯ ДРОНОВ и хотя бы один ЛОГИСТИЧЕСКИЙ ДРОН. Их можно купить на любой верфи или в колонии.
 calltoarms_harkenrailroad_6 | I've marked the location of the shipwreck on your map as a Gold Highlight.  Good luck, Captain. | Я отметил местоположение затонувшего корабля на вашей карте как ЗОЛОТОЙ МАРКЕР.  Удачи, капитан.
 communicator_incomingcall | INCOMING HAIL... | ВХОДЯЩИЙ СИГНАЛ..
 communicator_outgoingcall | CALLING... | ВЫЗОВ..
@@ -90,7 +90,7 @@ entity_dehydrated | DEHYDRATED | ОБЕЗВОЖЕН
 entity_fainted | FAINTED | ОБМОРОК
 entity_stunned | STUNNED | ОГЛУШЕН
 entity_suffocating | SUFFOCATING | ЗАДЫХАЕТСЯ
-entity_suitrequired | SUIT REQUIRED | ТРЕБУЕТСЯ СКАФАНДР
+entity_suitrequired | SUIT REQUIRED | НЕТ СКАФАНДРА
 entity_unconscious | UNCONSCIOUS | БЕЗ СОЗНАНИЯ
 episode_awardreceived | AWARD RECEIVED | НАГРАДА ПОЛУЧЕНА
 episode_episodecompleted | EPISODE COMPLETED | ЭПИЗОД ЗАВЕРШЕН
@@ -132,7 +132,7 @@ logistics_tooltip_modifiers | Modifiers: | Модификаторы:
 logistics_tooltip_transfer | [LMB] Transfer 1 from *X | [LMB] Перевести 1 из *X
 logisticswindow_title | LOGISTICS | ЛОГИСТИКА
 missions_title | CONTRACTS | КОНТРАКТЫ
-newplayerhelp_fuelpipe | <FUEL PIPE | <ТРУБКА ДЛЯ ТОПЛИВА
+newplayerhelp_fuelpipe | <FUEL PIPE | <ТОПЛИВНАЯ ТРУБА
 nomadobjective_accepted1 | You will need to turn your ships into a long term self sufficient fleet. | Вам нужно будет превратить свои корабли в долгосрочный самодостаточный флот.
 nomadobjective_accepted2 | Bring as many people with you as you can, and don't look back. | Заберите с собой как можно больше людей и не оглядывайтесь назад.
 nomadobjective_award | NOMAD REWARD | НАГРАДА КОЧЕВНИКА
@@ -157,9 +157,9 @@ opentextcrawl_survival_2 | Millions of people now live off world, sometimes hund
 opentextcrawl_survival_3 | Word has reached Earth from a distant science station. A dark anomaly has been detected, and cannot be explained. | На Землю пришло сообщение с далекой научной станции. Обнаружена темная аномалия, которую невозможно объяснить.
 opentextcrawl_survival_4 | Where once there was a star, now there is nothing but a black void, endlessly expanding and consuming everything in its path. | Там, где когда-то была звезда, теперь лишь черная пустота, бесконечно расширяющаяся и поглощающая все на своем пути.
 opentextcrawl_survival_5 | Scientists believe it will eventually consume the entire galaxy. | Ученые считают, что в конце концов она поглотит всю галактику.
-opentextcrawl_survival_6 | There is only one glimmer of hope. A STARGATE project, unfinished and unproven, offers an escape route to a distant Galaxy. | Есть только один проблеск надежды. Проект STARGATE, незаконченный и недоказанный, предлагает путь к спасению в далекой Галактике.
+opentextcrawl_survival_6 | There is only one glimmer of hope. A STARGATE project, unfinished and unproven, offers an escape route to a distant Galaxy. | Есть только один проблеск надежды. Проект ЗВЕЗДНЫЕ ВРАТА, незаконченный и недоказанный, предлагает путь к спасению в далекой Галактике.
 opentextcrawl_survival_7 | But the scale of the catastrophe is almost too big to comprehend. Only a few will survive. | Но масштабы катастрофы почти непостижимы. Выживут лишь немногие.
-opentextcrawl_survival_8 | With a new ship and a new crew, you commit yourself to reaching the STARGATE with as many people as you can, before it's too late. | С новым кораблем и новой командой вы берете на себя обязательство добраться до STARGATE с максимальным количеством людей, пока не стало слишком поздно.
+opentextcrawl_survival_8 | With a new ship and a new crew, you commit yourself to reaching the STARGATE with as many people as you can, before it's too late. | С новым кораблем и новым экипажем вы берете на себя обязательство добраться до ЗВЕЗДНЫХ ВРАТ с максимальным количеством людей, пока не стало слишком поздно.
 opentextcrawlindustry_1 | It is the 23rd century.  Humanity has colonised the stars. | На дворе 23 век.  Человечество колонизировало звезды.
 opentextcrawlindustry_2 | Millions of people now live off world, sometimes hundreds of light years from Earth. | Миллионы людей теперь живут за пределами планеты, иногда в сотнях световых лет от Земли.
 opentextcrawlindustry_3 | The era of massive industrialisation of space has begun, feeding an insatiable desire for energy and metal. | Началась эпоха массовой индустриализации космоса, питающей ненасытную жажду энергии и металла.
@@ -200,7 +200,7 @@ origin_steam | SUBSCRIBED ON STEAM WORKSHOP | ПОДПИСАЛСЯ НА STEAM WO
 origin_steamuser | UPLOADED TO STEAM WORKSHOP | ЗАГРУЖЕНО В STEAM WORKSHOP
 origin_user | PLAYER-MADE | СОЗДАНО ИГРОКОМ
 phase_title | Phase *X | Фаза *X
-powergrid_batteryhint | Install some Batteries to store reserve power from your Reactor. | Установите несколько аккумуляторов, чтобы запастись энергией из реактора.
+powergrid_batteryhint | Install some Batteries to store reserve power from your Reactor. | Установите несколько Батарей, чтобы запастись энергией из Реактора.
 powergrid_category_battery | BATTERY | БАТАРЕЯ
 powergrid_category_defenses | DEFENSES | ОБОРОНА
 powergrid_category_engines | ENGINES | ДВИГАТЕЛИ
@@ -215,7 +215,7 @@ powergrid_category_weapons | WEAPONS | ОРУЖИЕ
 powergrid_demand | DEMAND *X Mw | ПОТРЕБЛЕНИЕ *X МВт
 powergrid_output | OUTPUT *X Mw | ВЫХОД *X МВт
 powergrid_power | POWER | ЭЛЕКТРОЭНЕРГИЯ
-powergrid_powershortagehint | Your ship cannot generate enough power. Consider installing more Reactors. | Ваш корабль не может генерировать достаточно энергии. Рассмотрите возможность установки большего количества реакторов.
+powergrid_powershortagehint | Your ship cannot generate enough power. Consider installing more Reactors. | Ваш корабль не может генерировать достаточно энергии. Рассмотрите возможность установки большего количества Реакторов.
 powergrid_stored | STORED *X Mw | ХРАНЕНИЕ *X МВт
 powergrid_title | POWER GRID | ЭЛЕКТРОСЕТЬ
 pressanykey | - continue - | - продолжение -
@@ -293,8 +293,8 @@ soundparametereditor_smoothing | Smoothing | Сглаживание
 soundparametereditor_title | Sound Parameter | Параметр звука
 soundparametereditor_typetitle | Type | Тип
 soundparametereditor_updatetitle | Update Type | Тип обновления
-special_dronebatchcollection | Drone Batch Collection | Пакетный сбор с помощью дронов
-special_mininglaseraccuracy | Mining Laser Precision | Точность горного лазера
+special_dronebatchcollection | Drone Batch Collection | Пакетный сбор с помощью Дронов
+special_mininglaseraccuracy | Mining Laser Precision | Точность Шахтерского лазера
 special_stargatepart1 | Andromeda Project Phases 1, 2 | Проект Андромеда Фазы 1, 2
 special_stargatepart2 | Andromeda Project Phase 3 | Проект Андромеда Фаза 3
 special_stargatepart3 | Andromeda Project Phases 4, 5 | Проект Андромеда Фазы 4, 5
@@ -330,7 +330,7 @@ toolsmenu_spriteeditor | Sprite Editor | Редактор спрайтов
 toolsmenu_title | Tools Menu | Меню инструментов
 warning_deliveryblocked | DELIVERY BLOCKED | ДОСТАВКА ЗАБЛОКИРОВАНА
 warning_storagerequired | CREATE STORAGE ZONES | СОЗДАТЬ ЗОНЫ ХРАНЕНИЯ
-warning_suitsrequired | SPACESUITS REQUIRED | ТРЕБУЮТСЯ СКАФАНДРЫ
+warning_suitsrequired | SPACESUITS REQUIRED | ТРЕБУЮТСЯ КОСМИЧЕСКИЕ СКАФАНДРЫ
 warning_unbreathable | UNBREATHABLE | НЕПРИГОДЕН ДЛЯ ДЫХАНИЯ
 welfare_overlay_dehydrated | CREW DEHYDRATED | ЭКИПАЖ ОБЕЗВОЖЕН
 welfare_overlay_famished | CREW FAMISHED | ИЗГОЛОДАВШИЙСЯ ЭКИПАЖ

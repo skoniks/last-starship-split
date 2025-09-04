@@ -50,7 +50,7 @@ newmainmenu_settings | SETTINGS | НАСТРОЙКИ
 newmainmenu_shipeditor | CREATIVE MODE | ТВОРЧЕСКИЙ РЕЖИМ
 newmainmenu_slowcombat | Slow during combat | Замедление во время боя
 newmainmenu_steamcloud | STEAM CLOUD | STEAM CLOUD
-newmainmenu_steamworkshop | STEAM WORKSHOP | МАСТЕРСКАЯ НА ПАРОВОЙ ТЯГЕ
+newmainmenu_steamworkshop | STEAM WORKSHOP | STEAM WORKSHOP
 newmainmenu_tooltip_changeship | [LMB] Change ship | [LMB] Сменить корабль
 newmainmenu_tooltip_removeship | [RMB] Remove ship | [RMB] Убрать корабль
 newmainmenu_tooltip_selectship | [LMB] Select | [LMB] Выбрать
