@@ -1,7 +1,7 @@
 wolf_character_harken | Commander Harken | Командор Харкен
-wolf_chawolf_part2_objective_rescue | Rescue the crew of the UMC Orion Sentinel [*X/40] | Спасти экипаж UMC Страж Ориона [*X/40]
+wolf_character_harken_short | CMDR HARKEN | КОМАНДОР ХАРКЕН
 wolf_part2_objective_thrusters | Fit four manoeuvering thrusters to your vessel [*X/4] | Установить четыре маневровых движителя на ваше судно [*X/4]
-wolf_part2_objective_visitharken | Travel to Commander Harken | Путешествие к командиру Харкенуter_harken_short | CMDR HARKEN | КОМАНДОР ХАРКЕН
+wolf_part2_objective_visitharken | Travel to Commander Harken | Путешествие к Командору Харкену
 wolf_character_ryker | Captain Amelia Ryker | Капитан Амелия Райкер
 wolf_episode_title | Wolf In Sheep's Clothing | Волк в овечьей шкуре
 wolf_part1_action_collectwreckage | Collect Wreckage | Собрать обломки
@@ -17,7 +17,7 @@ wolf_part1_dronehint | Your ship will need a drone bay and drones to collect the
 wolf_part1_firstrecorder | You've recovered the flight recorder! Bring it to me. I'm onboard The Vanguard - sending our location now. | Вы нашли Бортовой самописец! Принесите его мне. Я на борту UMC Авангард - передаю наше местоположение.
 wolf_part1_firstwreckage | Once you've collected all the Ship Wreckage, bring it to me along with the Flight Recorders. I'm onboard The Vanguard - sending our location now. | Как только вы соберете все Обломки корабля, доставьте их мне вместе с Бортовыми самописцами. Я нахожусь на борту UMC Авангард - передаю наше местоположение.
 wolf_part1_flightrecordercount | You've delivered *X/*Y of the Flight Recorders | Вы доставили *X/*Y Бортовых самописцев
-wolf_part1_intro1 | My name is Commander Harken, and I'm the Chief of Private Security for the sector. | Меня зовут коммандер Харкен, я начальник личной охраны сектора.
+wolf_part1_intro1 | My name is Commander Harken, and I'm the Chief of Private Security for the sector. | Меня зовут Командор Харкен, я начальник личной охраны сектора.
 wolf_part1_intro2 | You have found the remains of the Interstellar Prospector. Please bring its Black Box Flight Recorder to me, and I will explain more. | Вы нашли останки Межзвездного старателя. Пожалуйста, принесите мне его бортовой самописец Черный ящик, и я все объясню.
 wolf_part1_intro3 | In order to collect the Flight Recorder you will need Drones, launched from a Drone Bay on your ship.  If you don't already have this equipment, you'll need to buy at least one DRONE BAY, and at least one LOGISTICS DRONE, from any colony or shipyard. | Для того чтобы забрать Бортовой самописец, вам понадобятся дроны, запускаемые из Отсека для дронов на вашем корабле.  Если у вас еще нет этого оборудования, вам нужно купить хотя бы один Отсек для дронов и хотя бы один Логистический дрон в любой колонии или на верфи.
 wolf_part1_objective_drones | Install a Drone Bay and at least one Logistics Drone | Установите Отсек для дронов и хотя бы один Логистический дрон
@@ -25,9 +25,9 @@ wolf_part1_objective_recoverbox1 | Recover Flight Recorder from UMC Interstellar
 wolf_part1_objective_recoverbox2 | Recover Flight Recorder from UMC Infinite Horizon | Восстановить Бортовой самописец с UMC Бесконечный горизонт
 wolf_part1_objective_recoverbox3 | Recover Flight Recorder from UMC Celestial Hauler | Восстановите Бортовой самописец с UMC Небесный перевозчик
 wolf_part1_objective_recoverwreckage | Collect the wreckage of UMC Stellar Horizon from System S*X [*Y/*Z] | Соберите Обломки корабля UMC Stellar Horizon из системы S*X [*Y/*Z]
-wolf_part1_objective_returnfirstrecorder | Return the Flight Recorder to Commander Harken | Верните Бортовой самописец командиру Харкену
-wolf_part1_objective_returnrecorders | Return the Flight Recorders to Commander Harken [*Y/*Z] | Вернуть Бортовые самописцы командиру Харкену [*Y/*Z]
-wolf_part1_objective_returnwreckage | Return the Wreckage to Commander Harken [*Y/*Z] | Вернуть Обломки корабля командиру Харкену [*Y/*Z]
+wolf_part1_objective_returnfirstrecorder | Return the Flight Recorder to Commander Harken | Верните Бортовой самописец Командору Харкену
+wolf_part1_objective_returnrecorders | Return the Flight Recorders to Commander Harken [*Y/*Z] | Вернуть Бортовые самописцы Командору Харкену [*Y/*Z]
+wolf_part1_objective_returnwreckage | Return the Wreckage to Commander Harken [*Y/*Z] | Вернуть Обломки корабля Командору Харкену [*Y/*Z]
 wolf_part1_objective_scavenger | Recover the Flight Recorder from Scavenger Vessel | Восстановить Бортовой самописец с судна Рейф-падальщик
 wolf_part1_recorderhint | The flight recorder should be near the derelict L*X. Move towards it so that your drones can pick it up. | Бортовой самописец должен быть рядом с заброшенным L*X. Двигайтесь к нему, чтобы ваши дроны могли подобрать его.
 wolf_part1_recoverwreckage | WRECKAGE | ОБЛОМКИ
@@ -69,7 +69,7 @@ wolf_part2_objective_dropoff | Drop off the survivors at any shipyard or colony 
 wolf_part2_objective_escape | Get to a safe distance before the Orion Sentinel explodes | Уйти на безопасное расстояние до того, как Страж Ориона взорвется
 wolf_part2_objective_rescue | Rescue the crew of the UMC Orion Sentinel [*X/40] | Спасти экипаж UMC Страж Ориона [*X/40]
 wolf_part2_objective_thrusters | Fit four manoeuvering thrusters to your vessel [*X/4] | Установить четыре маневровых движителя на ваше судно [*X/4]
-wolf_part2_objective_visitharken | Travel to Commander Harken | Путешествие к командиру Харкену
+wolf_part2_objective_visitharken | Travel to Commander Harken | Путешествие к Командору Харкену
 wolf_part2_rescued | Rescued *X/*Y crew | Спасенный экипаж *X/*Y
 wolf_part2_setup1 | Thank you for coming, Captain. | Спасибо, что пришли, капитан.
 wolf_part2_setup2 | We have been attempting to track the pirate vessel down, but to no avail. We keep arriving at the scene to find destroyed ships with no trace of the pirates. We need you to- | Мы пытались выследить пиратское судно, но безуспешно. Прибывая на место, мы находим разрушенные корабли без следов пиратов. Нам нужно, чтобы вы..
@@ -103,7 +103,7 @@ wolf_part3_objective_chargeemp | Charge the EMP [*X%] | Зарядить ЭМИ 
 wolf_part3_objective_destroypirate | Destroy the Pirate Ship | Уничтожить пиратский корабль
 wolf_part3_objective_dockastral | Dock with the Astral Temptress and crew the ship [*X/*Y] | Пристыкуйтесь к Астральной искусительнице и возьмите корабль в экипаж [*X/*Y]
 wolf_part3_objective_getclose | Let the pirates come close | Пусть пираты подойдут поближе
-wolf_part3_objective_gotoharken | Travel to Commander Harken's ship | Отправляйтесь на корабль командира Харкена
+wolf_part3_objective_gotoharken | Travel to Commander Harken's ship | Отправляйтесь на корабль Командора Харкена
 wolf_part3_objective_installweapons | Install cannons and connect them to the power grid. [*X/*Y] | Установите пушки и подключите их к энергосети. [*X/*Y]
 wolf_part3_objective_jumparound | Jump the Astral Temptress to empty systems until attacked | Прыгайте на Астральной искусительнице в пустые системы, пока на нее не нападут
 wolf_part3_objective_survive | Survive until the strike force arrives | Выжить до прибытия ударной группы
