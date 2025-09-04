@@ -1,7 +1,7 @@
 mainmenu_abandongame | Abandon Game | Бросить игру
 mainmenu_createship | DEVELOPER Create Ship | РАЗРАБОТЧИК Создать корабль
 mainmenu_exportship | Export Ship | Экспорт корабля
-mainmenu_gamemode_creative | Creative | Creative
+mainmenu_gamemode_creative | Creative | Творческий режим
 mainmenu_gamemode_creative_tooltip | You have unlimited resources to build any ship you want | У вас есть неограниченные ресурсы, чтобы построить любой корабль.
 mainmenu_gamemode_freeroam | Free Roam | Свободное перемещение
 mainmenu_gamemode_freeroam_locked | Build a flight-ready ship in Creative Mode to unlock | Постройте готовый к полету корабль в творческом режиме, чтобы разблокировать

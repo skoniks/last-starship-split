@@ -40,7 +40,7 @@ trade_profit | Profit | Прибыль
 trade_remove | REMOVE | УДАЛИТЬ
 trade_sacking | Sacking *X | Увольнение *X
 trade_sell | SELL | ПРОДАВАТЬ
-trade_sell_ship | SELL SHIP | ПРОДАТЬ ОТПРАВИТЬ
+trade_sell_ship | SELL SHIP | ПРОДАТЬ КОРАБЛЬ
 trade_selling | Selling *X | Продажа *X
 trade_showoutofstock | Show out of stock | Показать нет в наличии
 trade_shuttleinbound | SHUTTLE INBOUND | ПРИБЛИЖАЕТСЯ ЧЕЛНОК

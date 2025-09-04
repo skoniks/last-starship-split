@@ -35,7 +35,7 @@ shipeditor_palettelibrary_title_export | EXPORT PALETTES | ЭКСПОРТИРО�
 shipeditor_palettelibrary_title_import | IMPORT PALETTES | ИМПОРТИРОВАТЬ ПАЛИТРЫ
 shipeditor_palettelibrary_upload | UPLOAD | ЗАГРУЗИТЬ
 shipeditor_price_button | Cost | Стоимость
-shipeditor_shipyardrequired1 | You must visit a Shipyard | Вы должны посетить верфь
+shipeditor_shipyardrequired1 | You must visit a Shipyard | Вы должны посетить Верфь
 shipeditor_shipyardrequired2 | to apply your modifications | чтобы применить свои модификации
 shipeditor_stat_Capacity | Cabins | Каюты
 shipeditor_stat_Damage | Damage | Урон
@@ -50,7 +50,7 @@ shipeditor_tooltip_armour | Upgrade your hull with armour panels to absorb damag
 shipeditor_tooltip_createship | Create an entirely new ship from scratch | Создать абсолютно новый корабль с нуля
 shipeditor_tooltip_deconstruct | Deconstruct your ship square by square | Разрушить свой корабль квадрат за квадратом
 shipeditor_tooltip_dock | Install a docking port. Every ship needs at least one functioning docking port. | Установка стыковочного порта. Каждому кораблю необходим хотя бы один функционирующий стыковочный порт.
-shipeditor_tooltip_eyedropper | Lets you select a paint from the exterior of your ship (can also be used by pressing the "Shift" key) | Позволяет выбрать краску с внешней стороны твоего корабля (также можно использовать, зажав клавишу "Shift")
+shipeditor_tooltip_eyedropper | Lets you select a paint from the exterior of your ship (can also be used by pressing the "Shift" key) | Позволяет выбрать краску с внешней стороны вашего корабля (также можно использовать, зажав клавишу "Shift")
 shipeditor_tooltip_habitation | Expand your habitation deck to support more crew and passengers | Расширение жилой палубы для размещения большего количества экипажа и пассажиров
 shipeditor_tooltip_hull | Modify the shape of your spaceship hull | Изменение формы корпуса вашего корабля
 shipeditor_tooltip_interior | Open up the interior of your spaceship to create cabins | Расширение внутренней части (салона) космического корабля

@@ -29,8 +29,8 @@ newmainmenu_editship | EDIT SHIP | РЕДАКТИРОВАТЬ КОРАБЛЬ
 newmainmenu_exitsaves | Exit-saves | Сохранения при выходе
 newmainmenu_exportship | EXPORT SHIP | ЭКСПОРТ КОРАБЛЯ
 newmainmenu_filter | SEARCH... | ПОИСК..
-newmainmenu_importfriendly | IMPORT FRIENDLY | ДРУЖЕСТВЕННЫЙ ИМПОРТ
-newmainmenu_importhostile | IMPORT HOSTILE | ИМПОРТ ПОСТОЯННЫЙ
+newmainmenu_importfriendly | IMPORT FRIENDLY | ИМПОРТ СОЮЗНИКА
+newmainmenu_importhostile | IMPORT HOSTILE | ИМПОРТ ПРОТИВНИКА
 newmainmenu_includedocked | INCLUDE DOCKED SHIPS IN EXPORT | ВКЛЮЧИТЬ ПРИСТЫКОВАННЫЕ КОРАБЛИ В ЭКСПОРТ
 newmainmenu_loadgame | LOAD GAME | ЗАГРУЗИТЬ ИГРУ
 newmainmenu_loadgamedev | LOAD GAME (DEV) | ЗАГРУЗИТЬ ИГРУ (DEV)

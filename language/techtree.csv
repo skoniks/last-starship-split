@@ -17,13 +17,13 @@ techtree_editor_save | SAVE CHANGES | СОХРАНИТЬ ИЗМЕНЕНИЯ
 techtree_in_progress | RESEARCH IN PROGRESS | ИССЛЕДОВАНИЕ В ПРОЦЕССЕ
 techtree_lose_progress | Starting a new research project will lose all progress on the current one. | При запуске нового исследовательского проекта весь прогресс по текущему проекту будет потерян.
 techtree_missing_equipment | This research project requires a *X to be completed | Для завершения этого исследовательского проекта требуется *X
-techtree_node_caption_Automation | Unlocks schematics for Tracks and Robot Arms | Разблокирует схемы для треков и рук роботов
-techtree_node_caption_CompactAutomation | Unlocks schematic for Short Robot Arm | Разблокирована схема для короткой руки робота
+techtree_node_caption_Automation | Unlocks schematics for Tracks and Robot Arms | Разблокирует схемы для Конвейеров и Рук робота
+techtree_node_caption_CompactAutomation | Unlocks schematic for Short Robot Arm | Разблокирована схема для Короткой руки робота
 techtree_node_caption_deflectorbeams | Unlocks schematics to build a defensive system that can deflect incoming cannon shells | Открывает схемы для создания защитной системы, способной отклонять снаряды пушек
-techtree_node_caption_droneassembly | Unlocks schematics for construction of Logistics Drones | Открывает схемы для создания логистических дронов
-techtree_node_caption_droneintelligence | Upgrades drones so they collect minerals in batches, greatly speeding up the process | Модернизирует дронов, чтобы они собирали руду партиями, значительно ускоряя процесс
-techtree_node_caption_dronespeed1 | Increases the top speed of Drones by 50% | Увеличивает максимальную скорость дронов на 50%
-techtree_node_caption_dronespeed2 | Increases the top speed of Drones by 100% | Увеличивает максимальную скорость дронов на 100%
+techtree_node_caption_droneassembly | Unlocks schematics for construction of Logistics Drones | Открывает схемы для создания Логистических дронов
+techtree_node_caption_droneintelligence | Upgrades drones so they collect minerals in batches, greatly speeding up the process | Модернизирует Дронов, чтобы они собирали руду партиями, значительно ускоряя процесс
+techtree_node_caption_dronespeed1 | Increases the top speed of Drones by 50% | Увеличивает максимальную скорость Дронов на 50%
+techtree_node_caption_dronespeed2 | Increases the top speed of Drones by 100% | Увеличивает максимальную скорость Дронов на 100%
 techtree_node_caption_EnergyTransmission | Unlocks schematic for Energy Transmitter and Receiver | Раскрыта схема передатчика и приемника энергии
 techtree_node_caption_habitation | Unlocks efficiency improvements for all areas of life support and crew survival | Разблокирует улучшения эффективности во всех областях жизнеобеспечения и выживания экипажа
 techtree_node_caption_hydroponics1 | Improves crop yield to produce more food per cycle | Повышает урожайность культур, чтобы производить больше еды за цикл
@@ -33,19 +33,19 @@ techtree_node_caption_Logistics2 | Unlocks schematics for Medium sized storage |
 techtree_node_caption_Logistics3 | Unlocks schematics for Large logistics storage | Разблокирует схемы для больших логистических хранилищ
 techtree_node_caption_Metallurgy1 | Smelters produce 50% more output | Плавильные печи производят на 50% больше продукции
 techtree_node_caption_Metallurgy2 | Smelters produce 100% more output | Плавильные печи производят на 100% больше продукции
-techtree_node_caption_mininglaseraccuracy | Mining Lasers extract twice as many minerals per shot | Горные лазеры добывают в два раза больше минералов за выстрел
+techtree_node_caption_mininglaseraccuracy | Mining Lasers extract twice as many minerals per shot | Шахтерские лазеры добывают в два раза больше минералов за выстрел
 techtree_node_caption_neubidiumfabrication | Infuse energy storage with Neubidium, providing it with enhanced efficiency and improved conductive properties. | Наполните накопители энергии нейбидиумом, обеспечив им повышенную эффективность и улучшенные проводящие свойства.
 techtree_node_caption_neubidiumprocessing | The mineral collected from the local asteroid has never been seen before, we should investigate its uses. | Минерал, собранный с местного астероида, никогда раньше не встречался. Нужно изучить его применение.
 techtree_node_caption_recycling1 | Improves all life-support recycling to 90% efficiency | Повышает эффективность переработки всех ресурсов жизнеобеспечения до 90%
 techtree_node_caption_recycling2 | Brings all life-support recycling up to 100% efficiency | Повышает эффективность переработки всех ресурсов жизнеобеспечения до 100%
-techtree_node_caption_robotarmspeed | Doubles the speed of all Robot Arms | Удваивает скорость всех рук робота
+techtree_node_caption_robotarmspeed | Doubles the speed of all Robot Arms | Удваивает скорость всех Рук робота
 techtree_node_caption_science | Unlocks improvements in all areas of advanced physics | Разблокирует улучшения во всех областях продвинутой физики
-techtree_node_caption_SmartAutomation | Unlocks schematic for Smart Robot Arm | Открывает схему для умной руки робота
+techtree_node_caption_SmartAutomation | Unlocks schematic for Smart Robot Arm | Открывает схему для Умной руки робота
 techtree_node_caption_stargatepart1 | Unlocks Phase 1 and 2 of the Andromeda Project. | Открывает первую и вторую фазы проекта Андромеда.
 techtree_node_caption_stargatepart2 | Unlocks Phase 3 of the Andromeda Project. | Разблокирует третью фазу проекта Андромеда.
 techtree_node_caption_stargatepart3 | Unlocks Phases 4 and 5 of the Andromeda Project. | Разблокирует четвертую и пятую фазы проекта Андромеда.
-techtree_node_caption_trackspeed1 | Doubles the speed of all Tracks | Удваивает скорость всех треков
-techtree_node_caption_trackspeed2 | Triples the speed of all Tracks | Увеличивает скорость всех гусениц в три раза
+techtree_node_caption_trackspeed1 | Doubles the speed of all Tracks | Удваивает скорость всех Конвейеров
+techtree_node_caption_trackspeed2 | Triples the speed of all Tracks | Увеличивает скорость всех Конвейеров в три раза
 techtree_node_caption_zeleonenergycontainment | Stable Zeleon is a safe, energy-dense gas that could be used for advanced energy storage. | Стабильный Зелеон — это безопасный, энергоемкий газ, который можно использовать для передовых накопителей энергии.
 techtree_node_caption_zeleongasrefining | The new gas we've observed seems to be quite unstable and is radiating high amounts of energy, our scientists need to find a safe way to collect and stabilise it. | Новый газ, который мы наблюдали, кажется, довольно нестабилен и излучает большое количество энергии. Нашим ученым нужно найти безопасный способ собрать и стабилизировать его.
 techtree_node_title_Automation | Automation | Автоматизация
@@ -64,7 +64,7 @@ techtree_node_title_Logistics2 | Logistics Level 2 | Логистика 2
 techtree_node_title_Logistics3 | Logistics Level 3 | Логистика 3
 techtree_node_title_Metallurgy1 | Metallurgy Level 1 | Металлургия 1
 techtree_node_title_Metallurgy2 | Metallurgy Level 2 | Металлургия 2
-techtree_node_title_mininglaseraccuracy | Mining Laser Precision | Точность шахтерских лазеров
+techtree_node_title_mininglaseraccuracy | Mining Laser Precision | Точность Шахтерских лазеров
 techtree_node_title_neubidiumfabrication | Neubidium Fabrication | Изготовление нейбидиума
 techtree_node_title_neubidiumprocessing | Neubidium Processing | Обработка нейбидиума
 techtree_node_title_recycling1 | Recycling Efficiency 1 | Эффективность переработки 1

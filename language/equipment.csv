@@ -16,7 +16,7 @@ equipment_storagecrate_quantity | STORED: *X/*Y | СОХРАНЕНО: *X/*Y
 equipment_storagecrate_refill_disable | PRIORITISE CRATE | ПРИОРИТЕТ ЯЩИКА
 equipment_storagecrate_refill_enable | PRIORITISE ZONES | ПРИОРИТЕТНЫЕ ЗОНЫ
 equipment_temperature_short | TEMP | ТЕМП
-equipment_weaponsconsole_connected | Controlled by Weapons Console | Контролируется консолью оружия
+equipment_weaponsconsole_connected | Controlled by Weapons Console | Контролируется Центром управления оружием
 equipment_weaponsconsole_deselect | NONE | НЕТ
 equipment_weaponsconsole_extradescription | *X Connected weapons | *X Подключенное оружие
 equipment_weaponsconsole_locked | SLOT *X LOCKED | СЛОТ *X ЗАБЛОКИРОВАН

@@ -3,7 +3,7 @@ alert_type_autotradeinactive | AUTO-TRADE INACTIVE | АВТОТОРГОВЛЯ Н
 alert_type_autotradeinactive_tooltip | One or more of your auto-orders have been made inactive. This may be because you owe a large payment to X. | Один или несколько ваших автозаказов стали неактивными. Это может быть связано с тем, что вы задолжали крупный платеж X.
 alert_type_co2 | CO2 WARNING | ПРЕДУПРЕЖДЕНИЕ О СО2
 alert_type_co2_caption | *X% Fatal | *X% Критический
-alert_type_co2_tooltip | There is a dangerous build up of CO2 inside your ship. If it reaches 100%, your crew will suffocate. Consider buying a CO2 Scrubber and connecting it to a storage tank. | Внутри вашего корабля наблюдается опасное скопление CO2. Если оно достигнет 100%, ваш экипаж задохнется. Подумайте о покупке Скраббера CO2 и подключении его к Резервуару для хранения.
+alert_type_co2_tooltip | There is a dangerous build up of CO2 inside your ship. If it reaches 100%, your crew will suffocate. Consider buying a CO2 Scrubber and connecting it to a storage tank. | Внутри вашего корабля наблюдается опасное скопление CO2. Если оно достигнет 100%, ваш экипаж задохнется. Подумайте о покупке Скруббера CO2 и подключении его к Резервуару для хранения.
 alert_type_crewoverworked | HIRE MORE CREW | НАНЯТЬ БОЛЬШЕ ЭКИПАЖА
 alert_type_dead | DEATHS | УМЕРШИЕ
 alert_type_dead_caption | *X dead | *X мертв

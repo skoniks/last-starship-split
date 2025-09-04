@@ -67,10 +67,10 @@ hud_overlay_walls | Walls | Стены
 hud_overlays | OVERLAYS | НАЛОЖЕНИЯ
 hud_panel_storagecrate_ctrlclick | [CTRL] x9999 Containers | [CTRL] x9999 Контейнеры
 hud_panel_storagecrate_leftclick | [LMB] x1 Container | [LMB] x1 контейнер
-hud_panel_storagecrate_permitload | Allow crew members to load this crate.\n\nIf disabled then only robot arms can load. | Разрешить членам экипажа загружать этот ящик.\n\nЕсли отключено, то загружать могут только руки-роботы.
-hud_panel_storagecrate_permitunload | Allow crew members to unload from this crate.\n\nIf disabled then only robot arms can unload. | Разрешить членам экипажа выгружать из этого ящика.\n\nЕсли отключено, то выгружать могут только руки робота.
+hud_panel_storagecrate_permitload | Allow crew members to load this crate.\n\nIf disabled then only robot arms can load. | Разрешить членам экипажа загружать этот Ящик.\n\nЕсли отключено, то загружать могут только Руки робота.
+hud_panel_storagecrate_permitunload | Allow crew members to unload from this crate.\n\nIf disabled then only robot arms can unload. | Разрешить членам экипажа выгружать из этого Ящика.\n\nЕсли отключено, то выгружать могут только Руки робота.
 hud_panel_storagecrate_quantity | The number of items or stacks of the chosen type that is being stored. | Количество предметов или штабелей выбранного типа, которые хранятся.
-hud_panel_storagecrate_selecttype | The type that the storage crate will be storing. | Тип, который будет храниться в этом ящике.
+hud_panel_storagecrate_selecttype | The type that the storage crate will be storing. | Тип, который будет храниться в этом Ящике для хранения.
 hud_panel_storagecrate_shiftclick | [SHIFT] x5 Containers | [SHIFT] x5 Контейнеров
 hud_preparejump | Prepare Jump | Подготовка к прыжку
 hud_preparingjump | Preparing Jump | Подготовка к прыжку
@@ -78,7 +78,7 @@ hud_ready | READY | ГОТОВНОСТЬ
 hud_readytojump | Ready to Jump | Готовность к прыжку
 hud_removefromtrack | [RMB] Remove from track | [RMB] Убрать с конвейера
 hud_repairship | REPAIR | РЕМОНТ
-hud_repairyourship | You should repair the damage to your ship at a SHIPYARD. | Вы должны отремонтировать поврежденный корабль на верфи.
+hud_repairyourship | You should repair the damage to your ship at a SHIPYARD. | Вы должны отремонтировать поврежденный корабль на ВЕРФИ.
 hud_scoresystem_population | Population | Население
 hud_scoresystem_sectorjump | Sector Jump | Прыжок в сектор
 hud_sellship | SELL YOUR SHIP | ПРОДАТЬ СВОЙ КОРАБЛЬ
@@ -110,7 +110,7 @@ hud_storagecrate_tooltip_remaining | Quantity Remaining: *X | Оставшеес
 hud_storagecrate_tooltip_storing | Storing *X | Хранение *X
 hud_tactical | TACTICAL ({ToggleTactical}) | ТАКТИЧЕСКИЙ ВИД ({ToggleTactical})
 hud_techtree_tooltip | Researching: | Исследование:
-hud_tooltip_boxed | [BOXED] | [BOXED]
+hud_tooltip_boxed | [BOXED] | [В КОРОБКЕ]
 hud_tooltip_charge | Charge | Зарядка
 hud_tooltip_joinpipes | [LMB] Join Pipes | [LMB] Соединить трубы
 hud_tooltip_leftclickbuild | [LMB] Build | [LMB] Построить
@@ -129,7 +129,7 @@ hud_tooltip_separatepipes | [LMB] Separate Pipes | [LMB] Разделить тр
 hud_totalconsumption | TOTAL CONSUMPTION | ОБЩЕЕ ПОТРЕБЛЕНИЕ
 hud_totalproduction | TOTAL PRODUCTION | ОБЩЕЕ ПРОИЗВОДСТВО
 hud_trade | Trade | Торговля
-hud_trade_hint | You must travel to a Colony or Shipyard to trade | Чтобы торговать, вам нужно отправиться в колонию или на верфь
+hud_trade_hint | You must travel to a Colony or Shipyard to trade | Чтобы торговать, вам нужно отправиться в Колонию или на Верфь
 hud_trade_incoming | WARNING - TRADE INCOMING | ПРЕДУПРЕЖДЕНИЕ - ИДЕТ ТОРГОВЛЯ
 hud_trade_owed | WARNING - TRADE OWED | ПРЕДУПРЕЖДЕНИЕ - ДОЛГ ПО ТОРГОВЛЕ
 hud_uninstall | Dismantle | Демонтировать
