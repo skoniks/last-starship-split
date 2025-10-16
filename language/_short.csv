@@ -282,7 +282,7 @@ format_per_square | *X / sq | *X / кв
 
 
 
-ftl_galacticjump | This will be the final journey of your fleet.\nBe prepared for a long journey to the Andromeda galaxy, and save as many as you can! | Это будет последнее путешествие твоего флота.\nБудь готов к долгому путешествию в галактику Андромеды и спаси как можно больше людей!
+ftl_galacticjump | This will be the final journey of your fleet.\nBe prepared for a long journey to the Andromeda galaxy, and save as many as you can! | Это будет последнее путешествие вашего флота.\nБудьте готовы к долгому путешествию в галактику Андромеды и спасите как можно больше людей!
 
 
 
@@ -698,7 +698,7 @@ special_stargatepart2 | Andromeda Project Phase 3 | Проект Андроме�
 
 special_stargatepart3 | Andromeda Project Phases 4, 5 | Проект Андромеда Фазы 4, 5
 
-special_tracksplitter | Splitter Tracks | Разделтиели
+special_tracksplitter | Splitter Tracks | Разделители
 
 
 
@@ -742,11 +742,11 @@ stargate_warming_up | WARMING UP | РАЗОГРЕВ
 
 
 
-stargatesectorwarning_harken_1 | Captain, the new sector needs to be surveyed before your sector map is populated with systems. We have a full scan underway for the sector, once it's completed more locations will be marked on your map. | Капитан, новый сектор нужно обследовать, прежде чем на твоей карте появятся системы. Мы проводим полное сканирование сектора, как только оно завершится, на твоей карте будет отмечено больше локаций.
+stargatesectorwarning_harken_1 | Captain, the new sector needs to be surveyed before your sector map is populated with systems. We have a full scan underway for the sector, once it's completed more locations will be marked on your map. | Капитан, новый сектор нужно обследовать, прежде чем на вашей карте появятся системы. Мы проводим полное сканирование сектора, как только оно завершится, на вашей карте будет отмечено больше локаций.
 
-stargatesectorwarning_harken_2 | In the systems surveyed so far we've found new resources and severe weather systems, which may be just a glimpse into what awaits us in this sector. | В исследованных на данный момент системах мы обнаружили новые ресурсы и суровые погодные системы, что может быть лишь проблеском того, что нас ждет в этом секторе.
+stargatesectorwarning_harken_2 | In the systems surveyed so far we've found new resources and severe weather systems, which may be just a glimpse into what awaits us in this sector. | В исследованных на данный момент системах мы обнаружили новые ресурсы и суровые погодные системы, что может быть лишь проблеском того, что вас ждет в этом секторе.
 
-stargatesectorwarning_harken_3 | Who knows what you may find out here. Be careful, Captain. | Кто знает, что ты можешь здесь обнаружить. Будьте осторожны, капитан.
+stargatesectorwarning_harken_3 | Who knows what you may find out here. Be careful, Captain. | Кто знает, что вы можете здесь обнаружить. Будьте осторожны, капитан.
 
 
 
@@ -796,7 +796,7 @@ survey_type_storm | Storm | Шторм
 
 survivalend_quitmessage | After a long and perilous journey, the survivors emerged into a new and uncharted galaxy.  Those left behind faced a desperate, nomadic life.  But those that made the jump face an even more uncertain future.  Humanity's survival remains on a knife edge... | После долгого и опасного путешествия выжившие попали в новую, неизведанную галактику.  Тем, кто остался позади, предстояла отчаянная кочевая жизнь.  Но те, кто совершил прыжок, столкнулись с еще более неопределенным будущим.  Выживание человечества остается на острие ножа...
 
-survivalend_quitmessage1 | We hope you enjoyed playing the demo of The Last Starship. Your journey has just begun!  Unlock the full game to explore more Story Episodes, Survival Mode, Arena Mode, a full Ship Editor and more! | Надеемся, тебе понравилось играть в демоверсию игры The Last Starship. Твое путешествие только началось!  Разблокируй полную версию игры, чтобы узнать больше сюжетных эпизодов, режим выживания, режим арены, полноценный редактор кораблей и многое другое!
+survivalend_quitmessage1 | We hope you enjoyed playing the demo of The Last Starship. Your journey has just begun!  Unlock the full game to explore more Story Episodes, Survival Mode, Arena Mode, a full Ship Editor and more! | Надеемся, вам понравилось играть в демоверсию игры The Last Starship. Ваше путешествие только началось!  Разблокируйте полную версию игры, чтобы узнать больше сюжетных эпизодов, режим выживания, режим арены, полноценный редактор кораблей и многое другое!
 
 
 

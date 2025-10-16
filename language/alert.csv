@@ -26,7 +26,7 @@ alert_type_emp | EMP | ЭМИ
 
 alert_type_emp_caption | *X piece(s) disabled | *X элемент(ов) отключены
 
-alert_type_emp_tooltip | Your ship has been struck by lightning, temporarily disabling some of your equipment. | В твой корабль ударила молния, временно выведя из строя часть оборудования.
+alert_type_emp_tooltip | Your ship has been struck by lightning, temporarily disabling some of your equipment. | В ваш корабль ударила молния, временно выведя из строя часть оборудования.
 
 alert_type_famished | CREW FAMISHED | ЭКИПАЖ СИЛЬНО ГОЛОДЕН
 

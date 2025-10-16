@@ -18,7 +18,7 @@ object_box | Box | Ящик
 
 object_brokenhopdrive | Broken Hop Drive | Сломанный Хоп-Драйв
 
-object_brokenhopdrive_description | Broken hop drive, capable of hopping within systems | Сломанный Хоп-драйв, способный прыгать внутри систем
+object_brokenhopdrive_description | Broken hop drive, capable of hopping within systems | Сломанный Хоп-Драйв, способный прыгать внутри систем
 
 object_bullets | Bullets | Пулеметные Патроны
 
@@ -66,7 +66,7 @@ object_deflector_description | A defensive system that uses a deflector beam to 
 
 object_deuterium | Deuterium | Дейтерий
 
-object_deuterium_description | Fuel for a Fusion Reactor. | Топливо для реактора синтеза.
+object_deuterium_description | Fuel for a Fusion Reactor. | Топливо для Реактора Синтеза.
 
 object_dockingport | Docking Port | Стыковочный Порт
 
@@ -78,7 +78,7 @@ object_door_description | A heavy pressure door that can be used to seal off are
 
 object_dronebay | Drone Bay | Отсек Для Дронов
 
-object_dronebay_description | This equipment is required to launch Logistics Drones from your ship. Drones can gather resources and salvage from space, then bring it back to the ship through the Drone Bay. One Drone Bay can launch multiple Drones. | Это оборудование необходимо для запуска Логистических дронов с вашего корабля. Дроны могут собирать ресурсы и материалы в космосе, а затем возвращать их на корабль через Отсек для дронов. Один Отсек для дронов может запускать несколько дронов.
+object_dronebay_description | This equipment is required to launch Logistics Drones from your ship. Drones can gather resources and salvage from space, then bring it back to the ship through the Drone Bay. One Drone Bay can launch multiple Drones. | Это оборудование необходимо для запуска Логистических Дронов с вашего корабля. Дроны могут собирать ресурсы и материалы в космосе, а затем возвращать их на корабль через Отсек Для Дронов. Один Отсек Для Дронов может запускать несколько Дронов.
 
 object_emptycomputegridcomponent | Empty Compute Grid | Пустая Вычислительная Сеть
 
@@ -128,7 +128,7 @@ object_fusionreactor_description | Uses nuclear fusion of Deuterium to generate 
 
 object_gascollector | Gas Collector | Газосборник
 
-object_gascollector_description | A large exterior vent that sucks in gases from space. Many gases found in nebulas can be used to produce useful resources like Fuel, FTL charges, and explosives. | Большое внешнее вентиляционное отверстие, всасывающее газы из космоса. Многие газы, встречающиеся в туманностях, можно использовать для производства полезных ресурсов, таких как топливо, сверхсветовые заряды и взрывчатка.
+object_gascollector_description | A large exterior vent that sucks in gases from space. Many gases found in nebulas can be used to produce useful resources like Fuel, FTL charges, and explosives. | Большое внешнее вентиляционное отверстие, всасывающее газы из космоса. Многие газы, встречающиеся в туманностях, можно использовать для производства полезных ресурсов, таких как Топливо, Сверхсветовые Заряды и Взрывчатка.
 
 object_gatlinggun | Gatling Gun | Пулемет
 
@@ -166,7 +166,7 @@ object_lenscomponent | Lens | Объектив
 
 object_lightningrod | Lightning Rod | Громоотвод
 
-object_lightningrod_description | These are installed in the exterior wall of your ship, reducing the damaging effects of lightning and providing more control over where the lightning strikes. They cannot be repaired, but they will queue the installation of their replacement, when destroyed by lightning. | Они устанавливаются во внешнюю стену твоего корабля, уменьшая разрушительное воздействие молнии и обеспечивая больший контроль над тем, куда она ударяет. Их нельзя отремонтировать, но при разрушении молнией они будут стоять в очереди на установку своей замены.
+object_lightningrod_description | These are installed in the exterior wall of your ship, reducing the damaging effects of lightning and providing more control over where the lightning strikes. They cannot be repaired, but they will queue the installation of their replacement, when destroyed by lightning. | Они устанавливаются во внешнюю стену вашего корабля, уменьшая разрушительное воздействие молнии и обеспечивая больший контроль над тем, куда она ударяет. Их нельзя отремонтировать, но при разрушении молнией они будут стоять в очереди на установку своей замены.
 
 object_loader | Loader | Погрузчик
 
@@ -174,7 +174,7 @@ object_loader_description | This is a general purpose version of the Fuel Loader
 
 object_logisticsdrone | Logistics Drone | Логистический Дрон
 
-object_logisticsdrone_description | An incredibly useful semi-intelligent robot, capable of gathering salvage from deep space. Can also perform minor repairs to a damaged hull. Must be launched from a Drone Bay. | Невероятно полезный полуразумный робот, способный собирать груз в глубоком космосе. Также может выполнять мелкий ремонт поврежденного корпуса. Должен запускаться из Отсека для дронов.
+object_logisticsdrone_description | An incredibly useful semi-intelligent robot, capable of gathering salvage from deep space. Can also perform minor repairs to a damaged hull. Must be launched from a Drone Bay. | Невероятно полезный полуразумный робот, способный собирать груз в глубоком космосе. Также может выполнять мелкий ремонт поврежденного корпуса. Должен запускаться из Отсека Для Дронов.
 
 object_metalingot | Metal Ingot | Железный Слиток
 
@@ -196,7 +196,7 @@ object_motorcomponent | Motor | Двигатель
 
 object_munitionsfactory | Munitions Bench | Верстак Боеприпасов
 
-object_munitionsfactory_description | A workbench where a skilled crew member can fabricate different forms of ammunition for ship weapon systems. Uses metal and explosives to produce Bullets, Railgun Slugs, Cannon Shells etc. | Верстак, на котором опытный член экипажа может изготовить различные виды боеприпасов для корабельных систем вооружения. Использует металл и взрывчатку для производства пуль, рельсотронных снарядов, пушечных снарядов и т. д.
+object_munitionsfactory_description | A workbench where a skilled crew member can fabricate different forms of ammunition for ship weapon systems. Uses metal and explosives to produce Bullets, Railgun Slugs, Cannon Shells etc. | Верстак, на котором опытный член экипажа может изготовить различные виды боеприпасов для корабельных систем вооружения. Использует металл и взрывчатку для производства Пулеметных Патронов, Рельсотронных Снарядов, Пушечных Снарядов и т. д.
 
 object_neubidiumcapacitor | Neubidium Capacitor | Нейбидиумный Конденсатор
 
@@ -242,7 +242,7 @@ object_quantumwafercomponent | Quantum Wafer | Квантовая Пластин
 
 object_radiationblocker | Radiation Blocker | Блокатор Радиации
 
-object_radiationblocker_description | Radiation blocker, significantly reduces all radiation passing through it. Place between your crew and equipment that emit radiation. | Блокатор радиации, значительно снижающий все проходящие через него излучения. Помести его между своим экипажем и оборудованием, которое излучает радиацию.
+object_radiationblocker_description | Radiation blocker, significantly reduces all radiation passing through it. Place between your crew and equipment that emit radiation. | Блокатор радиации, значительно снижающий все проходящие через него излучения. Поместите его между вашим экипажем и оборудованием, которое излучает радиацию.
 
 object_radiationemitter | Radiation Emitter | Излучатель Радиации
 
@@ -254,7 +254,7 @@ object_railgun_description | An extremely accurate and long range weapon system 
 
 object_railgunshell | Railgun Slugs | Рельсотронные Снаряды
 
-object_railgunshell_description | A box of ammo for a Railgun. | Ящик снарядов для рельсотрона.
+object_railgunshell_description | A box of ammo for a Railgun. | Ящик снарядов для Рельсотрона.
 
 object_reactor | Reactor | Реактор
 
@@ -422,7 +422,7 @@ object_waterpurifier_description | Takes dirty water from sewage recycling or fr
 
 object_weaponsconsole | Weapons Control Centre | Центр Управления Оружием
 
-object_weaponsconsole_description | A terminal where a Weapons Officer can control multiple weapons at the same time. | Терминал, с которого офицер может управлять несколькими видами оружия одновременно.
+object_weaponsconsole_description | A terminal where a Weapons Officer can control multiple weapons at the same time. | Терминал, с которого Оружейный Офицер может управлять несколькими видами оружия одновременно.
 
 object_weaponsspecialist | Weapons Officer | Оружейный Офицер
 
