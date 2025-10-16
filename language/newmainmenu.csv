@@ -50,7 +50,7 @@ newmainmenu_darkmode | Galaxy Map Dark Mode | Темный режим Карты
 
 newmainmenu_debug_freespace | Enable FreeSpace Debugging | Включить отладку в свободном пространстве
 
-newmainmenu_defensiveenemies | Defensive Enemies | Защитные враги
+newmainmenu_defensiveenemies | Defensive Enemies | Мирные враги
 
 newmainmenu_defensiveenemiestooltip | Hostile ships will only target you once you have targeted them first. | Вражеские корабли будут нацеливаться на вас только после того, как вы нацелитесь на них первыми.
 
@@ -114,7 +114,7 @@ newmainmenu_settings | SETTINGS | НАСТРОЙКИ
 
 newmainmenu_shipeditor | CREATIVE MODE | ТВОРЧЕСКИЙ РЕЖИМ
 
-newmainmenu_showautosaves | AUTOSAVES | АВТОСОХРАНЕНИЯ
+newmainmenu_showautosaves | AUTOSAVES | СОХРАНЕНИЯ
 
 newmainmenu_slowcombat | Slow during combat | Замедление во время боя
 

@@ -1,6 +1,6 @@
 tutorial_air_title | OXYGEN | КИСЛОРОД
 
-tutorial_aircables | The <b>AIRDUCT</b> needs to be powered from the <b>REACTOR</b>.  Select <b>CABLES</b> from the <b>CONSTRUCTION</b> menu. | <b>ВОЗДУХОВОД</b> должен быть запитан от <b>РЕАКТОРА</b>. Выберите <b>КАБЕЛИ</b> в меню <b>КОНСТРУКЦИЯ</b>.
+tutorial_aircables | The <b>AIRDUCT</b> needs to be powered from the <b>REACTOR</b>.  Select <b>CABLES</b> from the <b>CONSTRUCTION</b> menu. | <b>ВОЗДУХОВОД</b> должен быть запитан от <b>РЕАКТОРА</b>. Выберите <b>КАБЕЛИ</b> в меню <b>СТРОИТЕЛЬСТВО</b>.
 
 tutorial_aircabletoreactor | Drag a power cable from the <b>REACTOR</b> to the <b>AIRDUCT</b>, connecting the red circles.\n\nPOWER <b>CABLES</b> are used to connect reactors to any equipment that needs power.\n\nPOWER <b>CABLES</b> are red and must connect red circles on equipment. | Перетащите кабель питания от <b>РЕАКТОРА</b> к <b>ВОЗДУХОВОДУ</b>, соединив красные круги.\n\n<b>КАБЕЛИ</b> питания используются для подключения Реакторов к любому Оборудованию, которому требуется питание.\n\n<b>КАБЕЛИ</b> питания красного цвета и должны соединять красные круги на Оборудовании.
 
@@ -10,7 +10,7 @@ tutorial_airinstallairduct | We now need to provide a breathable atmosphere for 
 
 tutorial_airinstallairloader | The <b>AIRDUCT</b> needs <b>OXYGEN</b>, in the same way as the <b>REACTOR</b> needs <b>FUEL</b>. We can use an <b>OXYGEN LOADER</b> to provide <b>OXYGEN</b>.\n\nInstall an <b>OXYGEN LOADER</b> near the <b>AIRDUCT</b>. | <b>ВОЗДУХОВОДУ</b> нужен <b>КИСЛОРОД</b>, так же как и <b>РЕАКТОРУ</b> нужно <b>ТОПЛИВО</b>. Мы можем использовать <b>ПОГРУЗЧИК КИСЛОРОДА</b> для обеспечения <b>КИСЛОРОДА</b>.\n\nУстановите <b>ПОГРУЗЧИК КИСЛОРОДА</b> рядом с <b>ВОЗДУХОВОДОМ</b>.
 
-tutorial_airpipes | We need to connect the <b>OXYGEN LOADER</b> into the <b>AIRDUCT</b> using <b>PIPES</b>.\n\nSelect <b>PIPES</b> from the <b>CONSTRUCTION</b> menu. | Нам нужно соединить <b>ПОГРУЗЧИК КИСЛОРОДА</b> с <b>ВОЗДУХОВОДОМ</b> с помощью <b>ТРУБ</b>.\n\nВыберите <b>ТРУБЫ</b> из меню <b>КОНСТРУКЦИЯ</b>.
+tutorial_airpipes | We need to connect the <b>OXYGEN LOADER</b> into the <b>AIRDUCT</b> using <b>PIPES</b>.\n\nSelect <b>PIPES</b> from the <b>CONSTRUCTION</b> menu. | Нам нужно соединить <b>ПОГРУЗЧИК КИСЛОРОДА</b> с <b>ВОЗДУХОВОДОМ</b> с помощью <b>ТРУБ</b>.\n\nВыберите <b>ТРУБЫ</b> из меню <b>СТРОИТЕЛЬСТВО</b>.
 
 tutorial_airpipetoairduct | Drag a <b>PIPE</b> from the <b>OXYGEN LOADER</b> to the <b>AIRDUCT</b>, connecting the <b>BLUE</b> circles. | Перетащите <b>ТРУБУ</b> из <b>ПОГРУЗЧИКА КИСЛОРОДА</b> в <b>ВОЗДУХОВОД</b>, соединив <b>СИНИЕ</b> круги.
 
@@ -84,7 +84,7 @@ tutorial_dockingzoomin | Zoom in so that you can see the docking guides more cle
 
 tutorial_dsiclicktodismantle | Any equipment can be dismantled by left-clicking. | Любое оборудование можно разобрать, щелкнув левой кнопкой мыши.
 
-tutorial_dsiclosedismantle | We can stop dismantling by clicking the dismantle button again or by closing the construction menu.\n\nClose the menu by clicking the <b>CONSTRUCTION</b> button or by pressing <b>ESC</b>. | Мы можем остановить демонтаж, снова нажав на кнопку демонтажа или закрыв меню строительства.\n\nЗакройте меню, нажав на кнопку <b>КОНСТРУКЦИЯ</b> или нажав <b>ESC</b>.
+tutorial_dsiclosedismantle | We can stop dismantling by clicking the dismantle button again or by closing the construction menu.\n\nClose the menu by clicking the <b>CONSTRUCTION</b> button or by pressing <b>ESC</b>. | Мы можем остановить демонтаж, снова нажав на кнопку демонтажа или закрыв меню строительства.\n\nЗакройте меню, нажав на кнопку <b>СТРОИТЕЛЬСТВО</b> или нажав <b>ESC</b>.
 
 tutorial_dsidismantle | Dismantling equipment removes it from your ship and places it in a box so you can install it later. | Демонтируя оборудование, вы снимаете его с корабля и кладете в коробку, чтобы установить позже.
 
@@ -228,7 +228,7 @@ tutorial_ftlselectpropulsion | The items we need are listed under <b>PROPULSION<
 
 tutorial_ftlstoragedone | The crew will move all the <b>FTL</b> Charges into this zone. | Экипаж переместит все <b>сверхсветовые</b> заряды в эту зону.
 
-tutorial_ftlstoragetoolbar | We can make things more efficient for our crew by telling them to store <b>FTL</b> Charges near the <b>FTL</b> drive.\n\nSelect <b>STORAGE</b> from the <b>CONSTRUCTION</b> toolbar, then select <b>FTL</b> Charges from the list. | Мы можем сделать работу экипажа более эффективной, приказав ему хранить <b>сверхсветовые</b> заряды рядом со <b>сверхсветовым</b> накопителем.\n\nВыберите <b>STORAGE</b> на панели инструментов <b>КОНСТРУКЦИЯ</b>, затем выберите <b>FTL</b> Charges из списка.
+tutorial_ftlstoragetoolbar | We can make things more efficient for our crew by telling them to store <b>FTL</b> Charges near the <b>FTL</b> drive.\n\nSelect <b>STORAGE</b> from the <b>CONSTRUCTION</b> toolbar, then select <b>FTL</b> Charges from the list. | Мы можем сделать работу экипажа более эффективной, приказав ему хранить <b>сверхсветовые</b> заряды рядом со <b>сверхсветовым</b> накопителем.\n\nВыберите <b>STORAGE</b> на панели инструментов <b>СТРОИТЕЛЬСТВО</b>, затем выберите <b>FTL</b> Charges из списка.
 
 tutorial_ftlstorageworld | Now drag out a storage zone near to the <b>FTL</b> drive. | Теперь перетащите зону хранения рядом со <b>сверхсветовым</b> накопителем.
 
@@ -304,7 +304,7 @@ tutorial_power_title | INSTALLING POWER | УСТАНОВКА ПИТАНИЯ
 
 tutorial_power_titlecomplete | POWER INSTALLED | УСТАНОВКА ПИТАНИЯ
 
-tutorial_powerinstallmenu | Let's begin by installing a <b>REACTOR</b>, to generate power for our ship.\n\nClick into the <b>CONSTRUCTION</b> menu, then click <b>INSTALL</b>. | Начнем с установки <b>РЕАКТОРА</b>, который будет вырабатывать энергию для нашего корабля.\n\nЗаходим в меню <b>CONSTRUCTION</b>, затем нажимаем <b>INSTALL</b>.
+tutorial_powerinstallmenu | Let's begin by installing a <b>REACTOR</b>, to generate power for our ship.\n\nClick into the <b>CONSTRUCTION</b> menu, then click <b>INSTALL</b>. | Начнем с установки <b>РЕАКТОРА</b>, который будет вырабатывать энергию для нашего корабля.\n\nЗаходим в меню <b>СТРОИТЕЛЬСТВО</b>, затем нажимаем <b>УСТАНОВИТЬ</b>.
 
 tutorial_powerpipeconnect | Drag a pipe from the <b>FUEL LOADER</b> to the <b>REACTOR</b>, connecting the yellow pipe circles.\n\nFUEL <b>PIPES</b> are used to connect the output from one piece of equipment into the input of another.\n\nFUEL <b>PIPES</b> are yellow and must connect the yellow circles on equipment. | Перетащите трубу от <b>ЗАГРУЗЧИКА ТОПЛИВА</b> к <b>РЕАКТОРУ</b>, соединив желтые круги на трубе.\n\n<b>ТРУБЫ</b> используются для соединения выхода одного оборудования с входом другого.\n\n<b>ТРУБЫ</b> желтого цвета и должны соединять желтые круги на оборудовании.
 
@@ -320,7 +320,7 @@ tutorial_powerreactorpowerup | The <b>REACTOR</b> is starting up. | The <b>РЕ�
 
 tutorial_powerselectloader | The <b>REACTOR</b> needs <b>FUEL</b>, and we use a <b>FUEL LOADER</b> to pump it to the <b>REACTOR</b>.\n\nSelect the <b>FUEL LOADER</b> from the Construction menu. | <b>Реактору</b> нужно <b>топливо</b>, и мы используем <b>погрузчик топлива</b>, чтобы закачать его в <b>реактор</b>.\n\nВыберите <b>погрузчик топлива</b> из меню Строительство.
 
-tutorial_powerselectpipes | We need to connect the <b>FUEL LOADER</b> to the <b>REACTOR</b>, using a Pipe.\n\nSelect <b>PIPES</b> from the Construction Menu. | Нам нужно соединить <b>загрузчик топлива</b> с <b>реактором</b> с помощью трубы.\n\nВыберите <b>ТРУБЫ</b> из меню КОНСТРУКЦИЯ.
+tutorial_powerselectpipes | We need to connect the <b>FUEL LOADER</b> to the <b>REACTOR</b>, using a Pipe.\n\nSelect <b>PIPES</b> from the Construction Menu. | Нам нужно соединить <b>загрузчик топлива</b> с <b>реактором</b> с помощью трубы.\n\nВыберите <b>ТРУБЫ</b> из меню СТРОИТЕЛЬСТВО.
 
 tutorial_powerselectreactor | This is all the boxed equipment you have available on-board.\n\nSelect <b>REACTOR</b> from the list. | Здесь находится все имеющееся у вас на борту оборудование.\n\nВыберите <b>РЕАКТОР</b> из списка.
 
@@ -394,7 +394,7 @@ tutorial_smeltersscrapmetal | Right click on the <b>SMELTER</b> and set its mate
 
 tutorial_smeltersstoragedone | The crew will move all the <b>SCRAP METAL</b> into this zone. | Экипаж переместит весь <b>МЕТАЛЛОЛОМ</b> в эту зону.
 
-tutorial_smeltersstoragetoolbar | We can make things more efficient for our crew by telling them to store <b>SCRAP METAL</b> near to the <b>SMELTER</b>.\n\nSelect <b>STORAGE</b> from the <b>CONSTRUCTION</b> toolbar, then select <b>SCRAP METAL</b> from the list. | Мы можем сделать все более эффективным для нашей команды, сказав им хранить <b>МЕТАЛЛОЛОМ</b> рядом с <b>ПЛАВИЛЬНОЙ ПЕЧЬЮ</b>.\n\nВыберите <b>ХРАНИЛИЩЕ</b> на панели инструментов <b>КОНСТРУКЦИЯ</b>, затем выберите <b>МЕТАЛЛОЛОМ</b> из списка.
+tutorial_smeltersstoragetoolbar | We can make things more efficient for our crew by telling them to store <b>SCRAP METAL</b> near to the <b>SMELTER</b>.\n\nSelect <b>STORAGE</b> from the <b>CONSTRUCTION</b> toolbar, then select <b>SCRAP METAL</b> from the list. | Мы можем сделать все более эффективным для нашей команды, сказав им хранить <b>МЕТАЛЛОЛОМ</b> рядом с <b>ПЛАВИЛЬНОЙ ПЕЧЬЮ</b>.\n\nВыберите <b>ХРАНИЛИЩЕ</b> на панели инструментов <b>СТРОИТЕЛЬСТВО</b>, затем выберите <b>МЕТАЛЛОЛОМ</b> из списка.
 
 tutorial_smeltersstorageworld | Now drag out a storage zone near to the <b>SMELTER</b>. | Теперь перетащите зону хранения рядом с <b>ПЛАВИЛЬНОЙ ПЕЧЬЮ</b>.
 

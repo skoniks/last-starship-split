@@ -6,7 +6,7 @@ settings_analytics | Analytics | Аналитика
 
 settings_analytics_tooltip | We need to collect usage data to help us to better understand how people are playing and to help us to improve the game. \n\nWe do not collect any personally identifiable information.\n\nTo find out more visit Legal Information (bottom of the screen) | Нам необходимо собирать данные об использовании игры, чтобы лучше понять, как люди играют, и помочь нам улучшить игру. \n\nМы не собираем никакой персональной информации.\n\nЧтобы узнать больше, посетите раздел Юридическая информация (внизу экрана)
 
-settings_appearance | APPEARANCE | ВНЕШНИЙ ВИД
+settings_appearance | APPEARANCE | ИНТЕРФЕЙС
 
 settings_arraytextures | Use Array Textures | Использовать массивы текстур
 
@@ -16,7 +16,7 @@ settings_autosaveonftl | Auto-save when leaving FTL | Автосохранени
 
 settings_autosaveontimeinterval | Auto-save on time interval | Автосохранение по временному интервалу
 
-settings_autosaves | AUTOSAVES | АВТОСОХРАНЕНИЯ
+settings_autosaves | AUTOSAVES | СОХРАНЕНИЯ
 
 settings_credit_tooltip | With thanks to: | Благодарности:
 
@@ -32,7 +32,7 @@ settings_hud | Show HUD | Показать HUD
 
 settings_hudscale | UI Scale | Шкала интерфейса
 
-settings_keybindings | KEYBOARD | КЛАВИАТУРА
+settings_keybindings | KEYBOARD | УПРАВЛЕНИЕ
 
 settings_language | Language | Язык
 
@@ -48,7 +48,7 @@ settings_other | OTHER | ДРУГОЕ
 
 settings_resolution | Resolution | Разрешение
 
-settings_sound | SOUND | ЗВУК
+settings_sound | SOUND | ГРОМКОСТЬ
 
 settings_translatorassist | Translator Assist (Ctrl, Alt) | Помощник переводчика (Ctrl, Alt)
 
