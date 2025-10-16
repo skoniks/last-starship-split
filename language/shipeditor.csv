@@ -158,7 +158,7 @@ shipeditor_tooltip_paintfloor | Toggle painting the floor tiles of your ship | �
 
 shipeditor_tooltip_painthabitation | Toggle painting the exterior panels of the habitation quarters of your ship | Переключитесь на покраску внешних панелей жилых кают вашего корабля
 
-sshipeditor_tooltip_painthull | Toggle painting the exterior panels of the hull of your ship | Переключитесь на покраску внешних панелей корпуса вашего корабля
+shipeditor_tooltip_painthull | Toggle painting the exterior panels of the hull of your ship | Переключитесь на покраску внешних панелей корпуса вашего корабля
 
 shipeditor_tooltip_paintscaffold | Toggle painting the scaffolding on your ship | Переключитесь на покраску строительных лесов на своем корабле
 
