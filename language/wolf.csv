@@ -24,7 +24,7 @@ wolf_part1_completion5 | We need to find a way to track them down, and destroy t
 
 wolf_part1_completion6 | In the mean time, we suggest you tend to your ships. If you've taken damage, you can repair the hull at any SHIPYARD. Use the funds we've sent to upgrade your defenses. | Тем временем мы предлагаем вам заняться своими кораблями. Если вы получили повреждения, вы можете отремонтировать корпус в любой ВЕРФИ. Используйте средства, которые мы прислали, чтобы укрепить вашу оборону.
 
-wolf_part1_dronehint | Your ship will need a drone bay and drones to collect the flight recorder. | Вашему кораблю понадобится Отсек для дронов и дроны, чтобы забрать Бортовой самописец.
+wolf_part1_dronehint | Your ship will need a drone bay and drones to collect the flight recorder. | Вашему кораблю понадобится Отсек Для Дронов и дроны, чтобы забрать Бортовой самописец.
 
 wolf_part1_firstrecorder | You've recovered the flight recorder! Bring it to me. I'm onboard The Vanguard - sending our location now. | Вы нашли Бортовой самописец! Принесите его мне. Я на борту UMC Авангард - передаю наше местоположение.
 
@@ -36,9 +36,9 @@ wolf_part1_intro1 | My name is Commander Harken, and I'm the Chief of Private Se
 
 wolf_part1_intro2 | You have found the remains of the Interstellar Prospector. Please bring its Black Box Flight Recorder to me, and I will explain more. | Вы нашли останки Межзвездного старателя. Пожалуйста, принесите мне его бортовой самописец Черный ящик, и я все объясню.
 
-wolf_part1_intro3 | In order to collect the Flight Recorder you will need Drones, launched from a Drone Bay on your ship.  If you don't already have this equipment, you'll need to buy at least one DRONE BAY, and at least one LOGISTICS DRONE, from any colony or shipyard. | Для того чтобы забрать Бортовой самописец, вам понадобятся дроны, запускаемые из Отсека для дронов на вашем корабле.  Если у вас еще нет этого оборудования, вам нужно купить хотя бы один Отсек для дронов и хотя бы один Логистический дрон в любой колонии или на верфи.
+wolf_part1_intro3 | In order to collect the Flight Recorder you will need Drones, launched from a Drone Bay on your ship.  If you don't already have this equipment, you'll need to buy at least one DRONE BAY, and at least one LOGISTICS DRONE, from any colony or shipyard. | Для того чтобы забрать Бортовой самописец, вам понадобятся дроны, запускаемые из Отсека Для Дронов на вашем корабле.  Если у вас еще нет этого оборудования, вам нужно купить хотя бы один ОТСЕК ДЛЯ ДРОНОВ и хотя бы один ЛОГИСТИЧЕСКИЙ ДРОН в любой колонии или на верфи.
 
-wolf_part1_objective_drones | Install a Drone Bay and at least one Logistics Drone | Установите Отсек для дронов и хотя бы один Логистический дрон
+wolf_part1_objective_drones | Install a Drone Bay and at least one Logistics Drone | Установите Отсек Для Дронов и хотя бы один Логистический Дрон
 
 wolf_part1_objective_recoverbox1 | Recover Flight Recorder from UMC Interstellar Prospector | Восстановите Бортовой самописец с UMC Межзвездный старатель
 
@@ -92,7 +92,7 @@ wolf_part1_setupcall7 | Bring all the recovered wreckage and the black box fligh
 
 wolf_part1_title | A Wolf in Sheep's Clothing | Волк в овечьей шкуре
 
-wolf_part1_wreckagecount | You've delivered *X/*Y of the Ship Wreckage | Вы доставили *X/*Y обломков корабля
+wolf_part1_wreckagecount | You've delivered *X/*Y of the Ship Wreckage | Вы доставили *X/*Y Обломков Корабля
 
 wolf_part2_advertisement | Captain. We're ready to continue our hunt for the pirate vessel. Please meet me at the marked location. | Капитан. Мы готовы продолжить охоту на пиратское судно. Пожалуйста, встретьтесь со мной в отмеченном месте.
 
@@ -106,7 +106,7 @@ wolf_part2_debrief4 | Thank you, Captain.  Protect your fleet, and wait for our 
 
 wolf_part2_distress1 | This is Captain Amelia Ryker of the UMC vessel Orion Sentinel.  We are under attack!  They appeared out of nowhere and fired on us without warning, and won't respond to any of my communications. | Это капитан Амелия Райкер с корабля UMC Страж Ориона.  На нас напали!  Они появились из ниоткуда и открыли по нам огонь без предупреждения, и не отвечают ни на одно мое сообщение.
 
-wolf_part2_distress2 | I'm trying to hold them off, but I need help.  My engines are damaged.  Ships systems have failed.  Please hurry, I have 40 crew onboard! | Я пытаюсь сдержать их, но мне нужна помощь.  Мои Двигатели повреждены.  Системы корабля вышли из строя.  Пожалуйста, поторопитесь, у меня на борту 40 человек!
+wolf_part2_distress2 | I'm trying to hold them off, but I need help.  My engines are damaged.  Ships systems have failed.  Please hurry, I have 40 crew onboard! | Я пытаюсь сдержать их, но мне нужна помощь.  Мои двигатели повреждены.  Системы корабля вышли из строя.  Пожалуйста, поторопитесь, у меня на борту 40 человек экипажа!
 
 wolf_part2_dropoff1 | Well done, Captain.  Your intervention prevented a further loss of life.  And now we know the pirate vessel is crewed by cowards, a fact that we intend to use to our advantage. | Отличная работа, капитан.  Ваше вмешательство предотвратило новые жертвы.  И теперь мы знаем, что на пиратском судне работают одни трусы, и этот факт мы намерены использовать в своих интересах.
 
@@ -118,13 +118,13 @@ wolf_part2_inperson_distress2 | We won't last much longer. | Мы долго н�
 
 wolf_part2_inperson_distress3 | It looks like they turned and ran when they saw you arrive, Captain.  But my ship is on the brink. The Reactor won't hold out much longer. | Похоже, они повернулись и убежали, когда увидели, что вы прибыли, капитан.  Но мой корабль на грани. Реактор долго не продержится.
 
-wolf_part2_inperson_distress4 | To rescue my crew you'll need to get close and initiate docking procedures. Use your manoeuvering thrusters to align your docking port with ours, in TACTICAL mode. | Чтобы спасти мой экипаж, вам нужно подойти поближе и начать процедуру стыковки. Используйте свои Маневровые двигатели, чтобы совместить ваш стыковочный порт с нашим, в режиме ТАКТИКА.
+wolf_part2_inperson_distress4 | To rescue my crew you'll need to get close and initiate docking procedures. Use your manoeuvering thrusters to align your docking port with ours, in TACTICAL mode. | Чтобы спасти мой экипаж, вам нужно подойти поближе и начать процедуру стыковки. Используйте свои маневровые двигатели, чтобы совместить ваш стыковочный порт с нашим, в режиме ТАКТИКА.
 
 wolf_part2_inperson_distress5 | I'll get the crew ready to evacuate. Please hurry! | Я подготовлю экипаж к эвакуации. Пожалуйста, поторопитесь!
 
 wolf_part2_inperson_distress6 | The Reactor is reaching critical levels, Captain.  I can't stop it from overloading. | Реактор достигает критического уровня, капитан.  Я не могу остановить его перегрузку.
 
-wolf_part2_inperson_distress7 | I'll try and buy you a few more seconds, but it's going to go critical any moment.  Get to a safe distance as soon as you can, Captain.  Save my crew! | Я постараюсь выиграть для вас еще несколько секунд, но в любой момент он может стать критическим.  Уходите на безопасное расстояние как можно скорее, капитан.  Спасите мою команду!
+wolf_part2_inperson_distress7 | I'll try and buy you a few more seconds, but it's going to go critical any moment.  Get to a safe distance as soon as you can, Captain.  Save my crew! | Я постараюсь выиграть для вас еще несколько секунд, но в любой момент он может стать критическим.  Уходите на безопасное расстояние как можно скорее, капитан.  Спасите мой экипаж!
 
 wolf_part2_objective_dock | Dock with the UMC Orion Sentinel | Стыковка с UMC Страж Ориона
 
@@ -134,11 +134,11 @@ wolf_part2_objective_escape | Get to a safe distance before the Orion Sentinel e
 
 wolf_part2_objective_rescue | Rescue the crew of the UMC Orion Sentinel [*X/40] | Спасти экипаж UMC Страж Ориона [*X/40]
 
-wolf_part2_objective_thrusters | Fit four manoeuvering thrusters to your vessel [*X/4] | Установить четыре маневровых движителя на ваше судно [*X/4]
+wolf_part2_objective_thrusters | Fit four manoeuvering thrusters to your vessel [*X/4] | Установить четыре Маневровых Двигателя на ваше судно [*X/4]
 
 wolf_part2_objective_visitharken | Travel to Commander Harken | Путешествие к Командору Харкену
 
-wolf_part2_rescued | Rescued *X/*Y crew | Спасенный экипаж *X/*Y
+wolf_part2_rescued | Rescued *X/*Y crew | Спасено *X/*Y экипажа
 
 wolf_part2_setup1 | Thank you for coming, Captain. | Спасибо, что пришли, капитан.
 
@@ -146,7 +146,7 @@ wolf_part2_setup2 | We have been attempting to track the pirate vessel down, but
 
 wolf_part2_setup3 | This is now an urgent humanitarian rescue situation. If we respond quickly enough, we may just be lucky and find a crew we can rescue. | Сейчас это срочная гуманитарная спасательная ситуация. Если мы отреагируем достаточно быстро, нам может повезти, и мы найдем экипаж, который сможем спасти.
 
-wolf_part2_setup4 | You'll need to acquire at least four Manoeuvring thrusters to dock with Captain Ryker's ship. | Чтобы состыковаться с кораблем капитана Райкера, вам потребуется приобрести как минимум четыре маневровых движителя.
+wolf_part2_setup4 | You'll need to acquire at least four Manoeuvring thrusters to dock with Captain Ryker's ship. | Чтобы состыковаться с кораблем капитана Райкера, вам потребуется приобрести как минимум четыре Маневровых Двигателя.
 
 wolf_part2_setup5 | Time is running out.  Send a ship to the Orion Sentinel and provide whatever aid you can, before it's too late. | Время на исходе.  Отправьте корабль к Стражу Ориона и окажите посильную помощь, пока не стало слишком поздно.
 
@@ -160,11 +160,11 @@ wolf_part3_advertisement1 | Captain, we have hatched a plan that we believe will
 
 wolf_part3_advertisement2 | Please come to see us and we will explain the mission objectives. | Пожалуйста, зайдите к нам, и мы объясним вам цели миссии.
 
-wolf_part3_combat1 | Captain, we're on our way.  Mobilise your crew and install those weapon systems ASAP. | Капитан, мы на подходе.  Мобилизуйте команду и установите системы вооружения как можно скорее.
+wolf_part3_combat1 | Captain, we're on our way.  Mobilise your crew and install those weapon systems ASAP. | Капитан, мы на подходе.  Мобилизуйте экипаж и установите системы вооружения как можно скорее.
 
 wolf_part3_combat2 | The cavalry are coming.  Hold them off for just a few moments. | Кавалерия приближается.  Задержите их на несколько мгновений.
 
-wolf_part3_combat3 | Unfortunately it seems we have arrived too late. Your crew's sacrifice will not be forgotten. | К сожалению, похоже, мы прибыли слишком поздно. Жертва вашей команды не будет забыта.
+wolf_part3_combat3 | Unfortunately it seems we have arrived too late. Your crew's sacrifice will not be forgotten. | К сожалению, похоже, мы прибыли слишком поздно. Жертва вашего экипажа не будет забыта.
 
 wolf_part3_combat4 | Target that explosion and fire! | Нацельтесь на этот взрыв и стреляйте!
 
@@ -182,7 +182,7 @@ wolf_part3_emp1 | We've found them! This is our shot. | Мы нашли их! Э
 
 wolf_part3_emp2 | Charge the EMP weapon and get ready to hit them where it really hurts. Let them come in close. Really close. | Зарядите ЭМИ-оружие и приготовьтесь ударить по ним, как следует. Пусть они подойдут вплотную. Очень близко.
 
-wolf_part3_emp3 | They're in range! Trigger the EMP from your FTL drive now! | Они в зоне досягаемости! Запускайте ЭМИ со Сверхсветового двигателя!
+wolf_part3_emp3 | They're in range! Trigger the EMP from your FTL drive now! | Они в зоне досягаемости! Запускайте ЭМИ со сверхсветового привода!
 
 wolf_part3_emptysystem1 | This system is exactly the kind where the pirates might attack. | Эта система как раз такая, где пираты могут напасть.
 
@@ -230,7 +230,7 @@ wolf_part3_setup3 | Look busy, look like you're going somewhere, and bait them o
 
 wolf_part3_setup4 | What they won't realise is you'll be carrying several tons of advanced military grade weapon systems, ready to be installed and activated the moment they come in close. | Чего они не поймут, так это того, что вы будете нести несколько тонн передовых систем вооружения военного класса, готовых к установке и активации в тот момент, когда они подойдут поближе.
 
-wolf_part3_setup5 | We have one final trick, to buy you some time before the cavalry arrives.  We can reverse the energy field in the ship's FTL drive, and trigger a massive burst of EMP energy.  Enough to disable their FTL and prevent any chance of escape. | У нас есть последний трюк, чтобы выиграть время до прибытия кавалерии.  Мы можем изменить энергетическое поле в сверхсветовом приводе корабля и вызвать мощный всплеск ЭМИ-энергии.  Этого будет достаточно, чтобы отключить их Сверхсветовые двигатели и предотвратить любые шансы на побег.
+wolf_part3_setup5 | We have one final trick, to buy you some time before the cavalry arrives.  We can reverse the energy field in the ship's FTL drive, and trigger a massive burst of EMP energy.  Enough to disable their FTL and prevent any chance of escape. | У нас есть последний трюк, чтобы выиграть время до прибытия кавалерии.  Мы можем изменить энергетическое поле в сверхсветовом приводе корабля и вызвать мощный всплеск ЭМИ-энергии.  Этого будет достаточно, чтобы отключить их сверхсветовой привод и предотвратить любые шансы на побег.
 
 wolf_part3_setup6 | Your own ship will lose power too - but in the calamity that follows, you'll have time to fit your weapon systems and prepare for a tough fight. | Ваш корабль тоже потеряет энергию - но во время последующей катастрофы у вас будет время установить системы вооружения и подготовиться к тяжелой битве.
 

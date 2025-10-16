@@ -42,9 +42,9 @@ trade_confirm | CONFIRM | ПОДТВЕРДИТЬ
 
 trade_cost | Cost | Стоимость
 
-trade_dangercivilians | Civilians are offering larger sums than normal for safe transit out of the sector | Гражданские лица предлагают большие суммы, чем обычно, за безопасный выезд из сектора
+trade_dangercivilians | Civilians are offering larger sums than normal for safe transit out of the sector | Гражданские лица предлагают более крупные суммы, чем обычно, за безопасный транзит из сектора
 
-trade_dangerdeflation | Prices for hardware and crew are lower than normal, due to panic | Цены на оборудование и экипаж ниже, чем обычно, из-за паники
+trade_dangerdeflation | Prices for hardware and crew are lower than normal, due to panic | Цены на оборудование и экипаж ниже обычных из-за паники
 
 trade_dangerproximity | Shortages of critical resources have made prices higher than normal | Из-за нехватки критически важных ресурсов цены стали выше обычного
 
@@ -78,7 +78,7 @@ trade_profit | Profit | Прибыль
 
 trade_remove | REMOVE | УДАЛИТЬ
 
-trade_sack | SACK | SACK
+trade_sack | SACK | УВОЛИТЬ
 
 trade_sacking | Sacking *X | Увольнение *X
 
@@ -118,7 +118,7 @@ trade_tooltip_remove_rmb | [RMB] Remove | [RMB] Удалить
 
 trade_tooltip_reset | [RMB] Reset | [RMB] Сброс
 
-trade_tooltip_sack | [LMB] Sack | [LMB] Мешок
+trade_tooltip_sack | [LMB] Sack | [LMB] Уволить
 
 trade_tooltip_sell | [LMB] Sell | [LMB] Продать
 

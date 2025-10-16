@@ -16,19 +16,19 @@ shipeditor_equipment_autobuyenable | Auto Buy *X | Автопокупка *X
 
 shipeditor_equipment_available | Trading Post has *X available | На сайте Trading Post есть *X 
 
-shipeditor_equipment_expected | You will be missing *X when ongoing deliveries/logistics complete | Ты будешь пропускать *X, когда текущие поставки/логистика завершатся
+shipeditor_equipment_expected | You will be missing *X when ongoing deliveries/logistics complete | Вы будете пропускать *X, когда текущие поставки/логистика завершатся
 
 shipeditor_equipment_expectedcost | Expected Future Cost: *X | Ожидаемая будущая стоимость: *X
 
 shipeditor_equipment_immediatecost | Immediate Cost: *X | Непосредственная стоимость: *X
 
-shipeditor_equipment_incoming | You have *X incoming | У тебя есть входящий *X 
+shipeditor_equipment_incoming | You have *X incoming | У вас есть входящий *X
 
 shipeditor_equipment_manualbuy | Buy All Available | Купить все доступное
 
-shipeditor_equipment_missing | You require *X | Тебе требуется *X
+shipeditor_equipment_missing | You require *X | Вам требуется *X
 
-shipeditor_equipment_outgoing | You have *X outgoing | У тебя есть *X 
+shipeditor_equipment_outgoing | You have *X outgoing | У вас есть *X
 
 shipeditor_equipment_title | Missing Equipment | Отсутствующее оборудование
 
@@ -144,9 +144,9 @@ shipeditor_tooltip_deconstruct | Deconstruct your ship square by square | Раз
 
 shipeditor_tooltip_dock | Install a docking port. Every ship needs at least one functioning docking port. | Установка стыковочного порта. Каждому кораблю необходим хотя бы один функционирующий стыковочный порт.
 
-shipeditor_tooltip_equipment | Queue the installation of equipment inside your ship. | Поставь в очередь установку оборудования внутри твоего корабля.
+shipeditor_tooltip_equipment | Queue the installation of equipment inside your ship. | Поставьте в очередь установку Оборудования внутри вашего корабля.
 
-shipeditor_tooltip_eyedropper | Lets you select a paint from the exterior of your ship (can also be used by pressing the "{AltTool}" key) | Позволяет выбрать краску для внешнего вида твоего корабля (также можно использовать клавишу "{AltTool}")
+shipeditor_tooltip_eyedropper | Lets you select a paint from the exterior of your ship (can also be used by pressing the "{AltTool}" key) | Позволяет выбрать краску для внешнего вида вашего корабля (также можно использовать клавишу "{AltTool}")
 
 shipeditor_tooltip_habitation | Expand your habitation deck to support more crew and passengers | Расширение жилой палубы для размещения большего количества экипажа и пассажиров
 
@@ -154,23 +154,23 @@ shipeditor_tooltip_hull | Modify the shape of your spaceship hull | Измене
 
 shipeditor_tooltip_interior | Open up the interior of your spaceship to create cabins | Расширение внутренней части (салона) космического корабля
 
-shipeditor_tooltip_paintfloor | Toggle painting the floor tiles of your ship | Переключись на покраску напольных плиток своего корабля
+shipeditor_tooltip_paintfloor | Toggle painting the floor tiles of your ship | Переключитесь на покраску напольных плиток вашего корабля
 
 shipeditor_tooltip_painthabitation | Toggle painting the exterior panels of the habitation quarters of your ship | Переключитесь на покраску внешних панелей жилых кают вашего корабля
 
-shipeditor_tooltip_painthull | Toggle painting the exterior panels of the hull of your ship | Переключись на покраску внешних панелей корпуса своего корабля
+sshipeditor_tooltip_painthull | Toggle painting the exterior panels of the hull of your ship | Переключитесь на покраску внешних панелей корпуса вашего корабля
 
 shipeditor_tooltip_paintscaffold | Toggle painting the scaffolding on your ship | Переключитесь на покраску строительных лесов на своем корабле
 
-shipeditor_tooltip_paintstencils | Change the colour of decals applied to the walls of your ship | Измени цвет декалей, нанесенных на стены твоего корабля
+shipeditor_tooltip_paintstencils | Change the colour of decals applied to the walls of your ship | Измените цвет декалей, нанесенных на стены вашего корабля
 
-shipeditor_tooltip_paintwalls | Toggle painting the base colour of the walls of your ship | Переключи покраску основного цвета стен твоего корабля
+shipeditor_tooltip_paintwalls | Toggle painting the base colour of the walls of your ship | Переключите покраску основного цвета стен вашего корабля
 
 shipeditor_tooltip_scaffold | Add scaffolding to support equipment on the exterior of your ship | Добавление каркасов для поддержки оборудования на внешней стороне корабля
 
 shipeditor_tooltip_spawn | Spawn equipment and resources inside your ship. (Creative Mode only) | Устанавливайте оборудование и ресурсы внутри корабля (только в творческом режиме)
 
-shipeditor_tooltip_stencils | Apply or remove decals on the walls of your ship | Наноси или удаляй декали на стены своего корабля
+shipeditor_tooltip_stencils | Apply or remove decals on the walls of your ship | Наносите или удаляйте декали на стены вашего корабля
 
 shipeditor_tooltip_walls | Build walls inside your spaceship to partition the interior space | Создание стен внутри вашего космического корабля
 

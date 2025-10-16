@@ -24,9 +24,9 @@ rise_explorenebula5 | More wreckage. More bodies.  The ship must be somewhere ne
 
 rise_foundship1 | What the hell happened? | Что, черт возьми, произошло?
 
-rise_foundship2 | The ship didn't even manage to activate its Flight Recorder.  We must investigate. | Корабль даже не смог активировать Бортовой самописец.  Мы должны провести расследование.
+rise_foundship2 | The ship didn't even manage to activate its Flight Recorder.  We must investigate. | Корабль даже не смог активировать Бортовой Самописец.  Мы должны провести расследование.
 
-rise_foundship3 | The Docking Port is still operational.  Dock your ship with the Celestial Hammer, and take a team on-board to look for survivors. | Стыковочный порт все еще работает.  Пристыкуйте свой корабль к Небесному молоту и возьмите на борт экипаж для поиска выживших.
+rise_foundship3 | The Docking Port is still operational.  Dock your ship with the Celestial Hammer, and take a team on-board to look for survivors. | Стыковочный Порт все еще работает.  Пристыкуйте свой корабль к Небесному молоту и возьмите на борт команду для поиска выживших.
 
 rise_foundship4 | They're all dead. | Они все мертвы.
 
@@ -38,7 +38,7 @@ rise_foundship7 | Your crew will repair the reactors and power up the ship. Once
 
 rise_objective_combat | (Recommended) Prepare for combat | (Рекомендуется) Приготовиться к бою
 
-rise_objective_crewhammer | Transfer three crew | Перевести три экипажа
+rise_objective_crewhammer | Transfer three crew | Перевести трех членов экипажа
 
 rise_objective_dockhammer | Dock with the Celestial Hammer | Стыковка с Небесным молотом
 

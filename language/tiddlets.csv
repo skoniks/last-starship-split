@@ -8,9 +8,9 @@ tiddlets_objective_deadcount | *X Dead tiddlets on board | *X Мертвые Т�
 
 tiddlets_objective_delivertiddlets | Deliver the Tiddlets to the Institute for Interstellar Lifeforms | Доставить Тиддлетов в Институт межзвездных форм жизни
 
-tiddlets_objective_drone | Purchase at least one Logistics Drone | Приобретите хотя бы один Логистический дрон
+tiddlets_objective_drone | Purchase at least one Logistics Drone | Приобретите хотя бы один Логистический Дрон
 
-tiddlets_objective_dronebay | Install at least one Drone Bay | Установите хотя бы один Отсек для дронов
+tiddlets_objective_dronebay | Install at least one Drone Bay | Установите хотя бы один Отсек Для Дронов
 
 tiddlets_objective_investigate | Investigate asteroid S*X | Исследовать астероид S*X
 
@@ -76,7 +76,7 @@ tiddlets_part1_sendingshuttle | You managed to bring them back? Amazing! I'll be
 
 tiddlets_part1_setup1 | I should introduce myself. My name is Artemis Toppingbury, and I'm a professor at the Institute of Interstellar Lifeforms.  We've been trying to find a live Tiddlet for years now. | Я должен представиться. Меня зовут Артемис Топпингбери, я профессор Института межзвездных форм жизни.  Мы уже несколько лет пытаемся найти живого Тиддлета.
 
-tiddlets_part1_setup2 | This is a massive breakthrough. Bring the Tiddlets on board, carefully, using a Logistics Drone. Once you have them, meet me at the Institute for Interstellar Lifeforms.  We're at Starbase S*X. | Это огромный прорыв. Аккуратно доставьте Тиддлетов на борт с помощью Логистического дрона. Как только они будут у вас, встретьтесь со мной в Институте межзвездных форм жизни.  Мы находимся на Звездной базе S*X.
+tiddlets_part1_setup2 | This is a massive breakthrough. Bring the Tiddlets on board, carefully, using a Logistics Drone. Once you have them, meet me at the Institute for Interstellar Lifeforms.  We're at Starbase S*X. | Это огромный прорыв. Аккуратно доставьте Тиддлетов на борт с помощью Логистического Дрона. Как только они будут у вас, встретьтесь со мной в Институте межзвездных форм жизни.  Мы находимся на Звездной базе S*X.
 
 tiddlets_part1_setup3 | Now we know where to look, we may be able to find more of them in deep space. | Теперь мы знаем, где искать, и, возможно, сможем найти еще больше таких существ в глубоком космосе.
 
@@ -146,13 +146,13 @@ tiddlets_part2_objective_visitinstitute | Travel to the Institute for Interstell
 
 tiddlets_part2_return1 | *X of the Tiddlets appear to have perished. | *X Тиддлетов, похоже, погибло.
 
-tiddlets_part2_return2 | That's such a horrible thing to witness.\nWe can't allow this sort of experiment to be done again, doctor. It's so unethical. | Это такой ужас,\nМы не можем допустить, чтобы подобные эксперименты проводились снова, доктор. Это так неэтично.
+tiddlets_part2_return2 | That's such a horrible thing to witness.\nWe can't allow this sort of experiment to be done again, doctor. It's so unethical. | Это такой ужас.\nМы не можем допустить, чтобы подобные эксперименты проводились снова, доктор. Это так неэтично.
 
 tiddlets_part2_return3 | The sensor data suggests the telepathic mating ritual does begin during the longer jump.  But the telepathic energy induced between them produces so much heat at their core that they ultimately catch fire and burn out from the inside. | Данные сенсоров показывают, что телепатический брачный ритуал начинается во время более длительного прыжка.  Но телепатическая энергия, возникающая между ними, вызывает такой сильный жар в их сердцевине, что в конце концов они загораются и выгорают изнутри.
 
 tiddlets_part2_return4 | One can only imagine what that must feel like. | Можно только представить, каково это.
 
-tiddlets_part2_return5 | There's something else.  There's a reading showing up on the sensors, deep inside the core of the dead tiddlets.\nBring them all back to me, Captain. I think we've done enough for today. | Есть кое-что еще.  На сенсорах появились показания глубоко внутри ядра мертвых Тиддлетов.\nПриведите их всех ко мне, капитан. Думаю, на сегодня мы сделали достаточно.
+tiddlets_part2_return5 | There's something else.  There's a reading showing up on the sensors, deep inside the core of the dead tiddlets.\nBring them all back to me, Captain. I think we've done enough for today. | Есть кое-что еще.  На сенсорах появились показания глубоко внутри ядра мертвых тиддлетов.\nПриведите их всех ко мне, капитан. Думаю, на сегодня мы сделали достаточно.
 
 tiddlets_part2_setup1 | Welcome back, Captain! I must say, the corridors at the Institute have been alive with excitement over this wondrous new lifeform. My paper has already been provisionally accepted into all the top nature journals, which makes me so proud. | С возвращением, капитан! Должен сказать, что в коридорах института царит оживление по поводу этой дивной новой формы жизни. Моя статья уже предварительно принята во все ведущие журналы о природе, чем я очень горжусь.
 
@@ -164,7 +164,7 @@ tiddlets_part2_setup4 | We're going to send you a batch of Toppingbury Tiddlets,
 
 tiddlets_part2_setup5 | We're also sending you a pair of specially modified science stations, with a sensor attuned to their telepathic reproductive process. I wrote the firmware myself. We will be able to see deep into their minds when this magical process takes place. | Мы также отправляем вам пару специально модифицированных научных станций с датчиком, настроенным на их телепатический репродуктивный процесс. Я сам написал прошивку. Мы сможем заглянуть глубоко в их сознание, когда будет происходить этот волшебный процесс.
 
-tiddlets_part2_setup6 | We need you to take the tiddlets on a series of specific hyperspace jumps. We will be recording the effect on their reproductive process and on their physiology. All... well, most of these experiments can be done hopefully without any harm coming to the creatures. | Нам нужно, чтобы вы взяли Тиддлетов на серию специфических гиперпространственных прыжков. Мы будем записывать, как это повлияет на их репродуктивный процесс и физиологию. Все... ну, большинство этих экспериментов можно будет провести, надеюсь, без какого-либо вреда для существ.
+tiddlets_part2_setup6 | We need you to take the tiddlets on a series of specific hyperspace jumps. We will be recording the effect on their reproductive process and on their physiology. All... well, most of these experiments can be done hopefully without any harm coming to the creatures. | Нам нужно, чтобы вы взяли тиддлетов на серию специфических гиперпространственных прыжков. Мы будем записывать, как это повлияет на их репродуктивный процесс и физиологию. Все... ну, большинство этих экспериментов можно будет провести, надеюсь, без какого-либо вреда для существ.
 
 tiddlets_part2_setup7 | We need to zero in on exactly how long the Tiddlets can survive in hyperspace. This will regrettably require you to jump beyond the safe distance, and to record the effect on their telepathic process. Some of the Tiddlets may be lost in the process of this experiment. | Нам нужно точно определить, как долго Тиддлеты смогут выживать в гиперпространстве. Это, к сожалению, потребует от вас прыжков за пределы безопасного расстояния и регистрации влияния на их телепатический процесс. Некоторые Тиддлеты могут быть потеряны в процессе этого эксперимента.
 
@@ -180,7 +180,7 @@ tiddlets_part2_shortjump2 | We'd like to see the effect of a very short hop.  We
 
 tiddlets_part2_title | The Trouble with Tiddlets, Part 2 | Неприятности с Тиддлетами, часть 2
 
-tiddlets_part3_action_localhop | Activate Hop Drive | Активировать Хоп-драйв
+tiddlets_part3_action_localhop | Activate Hop Drive | Активировать Хоп-Драйв
 
 tiddlets_part3_action_localhop_info1 | Charging... | Зарядка..
 
@@ -188,7 +188,7 @@ tiddlets_part3_action_localhop_info2 | No Charge Loaded | Заряд не заг
 
 tiddlets_part3_action_localhop_info3 | No Charges on Ship | Зарядов на корабле нет
 
-tiddlets_part3_action_localhop_info4 | No Hop Drive Found | Хоп-драйв не найден
+tiddlets_part3_action_localhop_info4 | No Hop Drive Found | Хоп-Драйв не найден
 
 tiddlets_part3_advert | Captain, there have been several developments with the Tiddlet Research Program. We are in need of a competent starship pilot once again.  Please visit us at the Institute for Interstellar lifeforms and I can tell you more. | Капитан, в исследовательской программе Тиддлетов произошло несколько событий. Нам снова нужен компетентный пилот звездолета.  Пожалуйста, посетите нас в Институте межзвездных форм жизни, и я расскажу вам больше.
 
@@ -226,11 +226,11 @@ tiddlets_part3_bonus_caption | Bonus received | Получен бонус
 
 tiddlets_part3_bonus_title | SALES BONUS | БОНУС ЗА ПРОДАЖУ
 
-tiddlets_part3_brokenhopdrive1 | It looks like that last jump fried the hop drive.  Not great, given what we paid for it. | Похоже, последний прыжок поджарил Хоп-драйв.  Не очень хорошо, учитывая, сколько мы за него заплатили.
+tiddlets_part3_brokenhopdrive1 | It looks like that last jump fried the hop drive.  Not great, given what we paid for it. | Похоже, последний прыжок поджарил Хоп-Драйв.  Не очень хорошо, учитывая, сколько мы за него заплатили.
 
-tiddlets_part3_brokenhopdrive2 | No matter.  I'm certain my engineers can repair it.  In any case, I want the hop drive to be installed on the farm ship directly. | Неважно.  Я уверен, что мои инженеры смогут его починить.  В любом случае, я хочу, чтобы Хоп-драйв был установлен непосредственно на фермерском корабле.
+tiddlets_part3_brokenhopdrive2 | No matter.  I'm certain my engineers can repair it.  In any case, I want the hop drive to be installed on the farm ship directly. | Неважно.  Я уверен, что мои инженеры смогут его починить.  В любом случае, я хочу, чтобы Хоп-Драйв был установлен непосредственно на фермерском корабле.
 
-tiddlets_part3_brokenhopdrive3 | Dismantle the Hop Drive, Captain, and I'll send a shuttle to collect it.  I want you to replace the Hop Drive with a conventional FTL drive, for the final part of the experiment.  I'll send a replacement FTL drive in the delivery shuttle. | Демонтируйте Хоп-драйв, капитан, и я пришлю за ним Челнок.  Я хочу, чтобы вы заменили Хоп-драйв на обычный Сверхсветовой привод для финальной части эксперимента.  Я отправлю сменный Сверхсветовой привод на Челноке.
+tiddlets_part3_brokenhopdrive3 | Dismantle the Hop Drive, Captain, and I'll send a shuttle to collect it.  I want you to replace the Hop Drive with a conventional FTL drive, for the final part of the experiment.  I'll send a replacement FTL drive in the delivery shuttle. | Демонтируйте Хоп-Драйв, капитан, и я пришлю за ним Челнок.  Я хочу, чтобы вы заменили Хоп-Драйв на обычный Сверхсветовой привод для финальной части эксперимента.  Я отправлю сменный Сверхсветовой привод на Челноке.
 
 tiddlets_part3_deliverdrive | Deliver Drive | Доставить привод
 
@@ -256,7 +256,7 @@ tiddlets_part3_martinez_b3 | Of course, you already know that, because it happen
 
 tiddlets_part3_martinez_b4 | I hope it was worth it for you, Captain. | Надеюсь, это стоило того, капитан.
 
-tiddlets_part3_martinez_b5 | The ship is up for sale.  I can't bear to be on-board any longer.  The price is $1M.  But I suppose you did help to build the hop drive, so I'll let you have it for $800k. | Корабль выставлен на продажу.  Я не могу больше находиться на борту.  Цена - $1M.  Но, полагаю, вы помогли создать Хоп-драйв, так что я отдам его вам за 800 тысяч долларов.
+tiddlets_part3_martinez_b5 | The ship is up for sale.  I can't bear to be on-board any longer.  The price is $1M.  But I suppose you did help to build the hop drive, so I'll let you have it for $800k. | Корабль выставлен на продажу.  Я не могу больше находиться на борту.  Цена - $1M.  Но, полагаю, вы помогли создать Хоп-Драйв, так что я отдам его вам за 800 тысяч долларов.
 
 tiddlets_part3_martinez_c1 | Why are you here? | Почему вы здесь?
 
@@ -278,7 +278,7 @@ tiddlets_part3_martinez_purchase | Buy ship for *X | Купить корабль
 
 tiddlets_part3_morehops | Excellent.  It's working, as I knew it would.  Give us three more hops, Captain. | Превосходно.  Работает, как я и знал.  Дайте нам еще три прыжка, капитан.
 
-tiddlets_part3_objective_activate | Activate the Hop Drive | Активировать Хоп-драйв
+tiddlets_part3_objective_activate | Activate the Hop Drive | Активировать Хоп-Драйв
 
 tiddlets_part3_objective_artemis1 | OPTIONAL: Take the Tiddlets to Professor Toppingbury instead | ДОПОЛНИТЕЛЬНО: Вместо этого отведите Тиддлетов к профессору Топпингбери
 
@@ -286,9 +286,9 @@ tiddlets_part3_objective_batteryfarm | Battery farm 500 Tiddlets | Батаре�
 
 tiddlets_part3_objective_blackhole | Travel to the Blackhole S*X | Путешествие в черную дыру S*X
 
-tiddlets_part3_objective_broken1 | Dismantle the Hop Drive | Демонтировать Хоп-драйв
+tiddlets_part3_objective_broken1 | Dismantle the Hop Drive | Демонтировать Хоп-Драйв
 
-tiddlets_part3_objective_broken2 | Deliver the Hop Drive | Доставить Хоп-драйв
+tiddlets_part3_objective_broken2 | Deliver the Hop Drive | Доставить Хоп-Драйв
 
 tiddlets_part3_objective_broken3 | Receive FTL Drive | Получить Сверхсветовой привод
 
@@ -346,11 +346,11 @@ tiddlets_part3_swanson_c2 | I'll send the funds to Dr. Martinez now.  Bring the 
 
 tiddlets_part3_swanson_debriefa1 | Well done, Captain.  Everything has worked exactly as I predicted, and we now have an excellent harvest on the farm ship.  More importantly, you've shown the way. | Отличная работа, капитан.  Все сработало именно так, как я предсказывал, и теперь у нас на фермерском корабле отличный урожай.  Что еще важнее, вы показали путь.
 
-tiddlets_part3_swanson_debriefa2 | I think I can take it from here, Captain.  My engineers tell me they'll have the Hop Drive fitted to the farm ship in just a few days.  In fact, we are close to automating the entire Tiddlet Harvest process with this one ship. | Думаю, дальше я сам справлюсь, капитан.  Мои инженеры говорят, что установят Хоп-драйв на фермерский корабль всего за несколько дней.  На самом деле мы близки к тому, чтобы автоматизировать весь процесс сбора урожая Тиддлетов с помощью этого одного корабля.
+tiddlets_part3_swanson_debriefa2 | I think I can take it from here, Captain.  My engineers tell me they'll have the Hop Drive fitted to the farm ship in just a few days.  In fact, we are close to automating the entire Tiddlet Harvest process with this one ship. | Думаю, дальше я сам справлюсь, капитан.  Мои инженеры говорят, что установят Хоп-Драйв на фермерский корабль всего за несколько дней.  На самом деле мы близки к тому, чтобы автоматизировать весь процесс сбора урожая Тиддлетов с помощью этого одного корабля.
 
 tiddlets_part3_swanson_debriefa3 | I knew we could rely on you, Captain.  Thank you for showing the highest degrees of professionalism. | Я знал, что мы можем на вас положиться, капитан.  Спасибо, что проявили высшую степень профессионализма.
 
-tiddlets_part3_swanson_debriefa4 | As for the rescue ship, we don't need it anymore.  It was the Hop Drive we wanted.  You can keep it if you want, or sell it. | Что касается спасательного корабля, то он нам больше не нужен.  Это был тот самый Хоп-драйв, который мы хотели.  Вы можете оставить его себе, если хотите, или продать.
+tiddlets_part3_swanson_debriefa4 | As for the rescue ship, we don't need it anymore.  It was the Hop Drive we wanted.  You can keep it if you want, or sell it. | Что касается спасательного корабля, то он нам больше не нужен.  Это был тот самый Хоп-Драйв, который мы хотели.  Вы можете оставить его себе, если хотите, или продать.
 
 tiddlets_part3_swanson_debriefa5 | I'll be in touch if your services are required in the future. | Я свяжусь с вами, если ваши услуги понадобятся в будущем.
 
@@ -378,9 +378,9 @@ tiddlets_part3_swanson_random4 | Again! | Снова!
 
 tiddlets_part3_swanson_return1 | Our plan is simple, Captain.  We found during your excellent field work that the Tiddlets will still reproduce, even with an incredibly short FTL jump. | Наш план прост, капитан.  Во время вашей замечательной полевой работы мы обнаружили, что Тиддлеты продолжают размножаться даже при невероятно коротком сверхсветовом прыжке.
 
-tiddlets_part3_swanson_return2 | The ship you just purchased has a specially modified FTL Hop Drive.  We can use it to make very short jumps and trigger the hyperspace reproductive process among the Tiddlets. | На корабле, который вы только что приобрели, установлен специально модифицированный сверхсветовой Хоп-драйв.  Мы можем использовать его для совершения очень коротких прыжков и запуска гиперпространственного процесса репродукции среди Тиддлетов.
+tiddlets_part3_swanson_return2 | The ship you just purchased has a specially modified FTL Hop Drive.  We can use it to make very short jumps and trigger the hyperspace reproductive process among the Tiddlets. | На корабле, который вы только что приобрели, установлен специально модифицированный сверхсветовой Хоп-Драйв.  Мы можем использовать его для совершения очень коротких прыжков и запуска гиперпространственного процесса репродукции среди Тиддлетов.
 
-tiddlets_part3_swanson_return3 | We want you to pair the Hop Drive ship with our Tiddlet Farm vessel, and activate the short range hop drive.  You won't even need to leave the system.  If our calculations are correct, we should see an instant result. | Мы хотим, чтобы вы соединили корабль с Хоп-драйвом с нашим судном с фермы Тиддлетов и активировали Хоп-драйв малой дальности.  Вам даже не придется покидать систему.  Если наши расчеты верны, мы должны увидеть мгновенный результат.
+tiddlets_part3_swanson_return3 | We want you to pair the Hop Drive ship with our Tiddlet Farm vessel, and activate the short range hop drive.  You won't even need to leave the system.  If our calculations are correct, we should see an instant result. | Мы хотим, чтобы вы соединили корабль с Хоп-драйвом с нашим судном с фермы Тиддлетов и активировали Хоп-Драйв малой дальности.  Вам даже не придется покидать систему.  Если наши расчеты верны, мы должны увидеть мгновенный результат.
 
 tiddlets_part3_title | The Trouble with Tiddlets, Part 3 | Неприятности с Тиддлетами, часть 3
 
@@ -408,7 +408,7 @@ tiddlets_part4_debrief_artemis2 | Captain, these recent events have made me reco
 
 tiddlets_part4_debrief_swanson1 | Thank God. | Слава Богу.
 
-tiddlets_part4_debrief_swanson2 | It looks like the Hop Drive burned through all the jump charges. It's over. | Похоже, Хоп-драйв сжег все прыжковые заряды. Все кончено.
+tiddlets_part4_debrief_swanson2 | It looks like the Hop Drive burned through all the jump charges. It's over. | Похоже, Хоп-Драйв сжег все прыжковые заряды. Все кончено.
 
 tiddlets_part4_objective_rescue | Rescue the crew of the farm ship | Спасите экипаж фермерского корабля
 
@@ -422,11 +422,11 @@ tiddlets_part4_random_swanson3 | Oh god... they're in the reactor room! | О б�
 
 tiddlets_part4_random_tiddlet | ftftffftftftft | ftftffftftftft
 
-tiddlets_part4_rescue_swanson1 | Captain, I don't know what happened. It's the Hop Drive. My engineers told me they tested it fully! | Капитан, я не знаю, что случилось. Это Хоп-драйв. Мои инженеры сказали мне, что полностью его протестировали!
+tiddlets_part4_rescue_swanson1 | Captain, I don't know what happened. It's the Hop Drive. My engineers told me they tested it fully! | Капитан, я не знаю, что случилось. Это Хоп-Драйв. Мои инженеры сказали мне, что полностью его протестировали!
 
 tiddlets_part4_rescue_swanson2 | There's something wrong with it. We can't stop jumping. They've replicated... so many times. They're EVERYWHERE! | С ним что-то не так. Мы не можем остановить прыжок. Они повторялись... так много раз. Они повсюду!
 
-tiddlets_part4_rescue_swanson3 | Oh God. There's so many of them! They're in the engines... the life support... they're almost in the reac- | О Боже. Их так много! Они в Двигателях... в системе жизнеобеспечения... они почти в реа..
+tiddlets_part4_rescue_swanson3 | Oh God. There's so many of them! They're in the engines... the life support... they're almost in the reac- | О Боже. Их так много! Они в двигателях... в системе жизнеобеспечения... они почти в реа-
 
 tiddlets_part4_rescue_swanson4 | Get away from that console! Shoo! | Отойдите от консоли! Кыш!
 

@@ -16,7 +16,7 @@ settings_autosaveonftl | Auto-save when leaving FTL | Автосохранени
 
 settings_autosaveontimeinterval | Auto-save on time interval | Автосохранение по временному интервалу
 
-settings_autosaves | AUTOSAVES | АВТОЗАВРЫ
+settings_autosaves | AUTOSAVES | АВТОСОХРАНЕНИЯ
 
 settings_credit_tooltip | With thanks to: | Благодарности:
 
@@ -52,7 +52,7 @@ settings_sound | SOUND | ЗВУК
 
 settings_translatorassist | Translator Assist (Ctrl, Alt) | Помощник переводчика (Ctrl, Alt)
 
-settings_translatorassist_description | Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key. Enables the translation editing window ({TranslatorWindow}). | Включи функции, помогающие переводчикам, например Alt для раскрытия английского языка и Ctrl для раскрытия фразовой клавиши. Включает окно редактирования перевода ({TranslatorWindow}).
+settings_translatorassist_description | Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key. Enables the translation editing window ({TranslatorWindow}). | Включите функции, помогающие переводчикам, например Alt для отображения английского языка и Ctrl для отображения ключа фразы. Включает окно редактирования перевода ({TranslatorWindow}).
 
 settings_uibounce | UI Highlight Bounce | Подсветка с эффектом отскока
 

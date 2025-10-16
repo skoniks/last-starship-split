@@ -1,6 +1,6 @@
 mainmenu_abandongame | Abandon Game | Бросить игру
 
-mainmenu_arena_caption | Create epic space battles between fleets of ships and watch the carnage unfold. | Создавай эпические космические сражения между флотами кораблей и наблюдай за разворачивающейся бойней.
+mainmenu_arena_caption | Create epic space battles between fleets of ships and watch the carnage unfold. | Создавайте эпические космические сражения между флотами кораблей и наблюдайте за разворачивающейся бойней.
 
 mainmenu_createship | DEVELOPER Create Ship | РАЗРАБОТЧИК Создать корабль
 
@@ -8,7 +8,7 @@ mainmenu_exportship | Export Ship | Экспорт корабля
 
 mainmenu_gamemode_arena | Arena | Арена
 
-mainmenu_gamemode_arena_tooltip | Create epic space battles between fleets of ships and watch the carnage unfold. | Создавай эпические космические сражения между флотами кораблей и наблюдай за разворачивающейся бойней.
+mainmenu_gamemode_arena_tooltip | Create epic space battles between fleets of ships and watch the carnage unfold. | Создавайте эпические космические сражения между флотами кораблей и наблюдайте за разворачивающейся бойней.
 
 mainmenu_gamemode_creative | Creative | Творческий режим
 
@@ -18,7 +18,7 @@ mainmenu_gamemode_freeroam | Free Roam | Свободное перемещени
 
 mainmenu_gamemode_freeroam_locked | Build a flight-ready ship in Creative Mode to unlock | Постройте готовый к полету корабль в Творческом режиме, чтобы разблокировать
 
-mainmenu_gamemode_freeroam_tooltip | You are free to persue any career at your own pace. No anomaly, no stargate. | Вы можете свободно выбирать любую карьеру в своем темпе. Никаких аномалий, никаких Звездных врат.
+mainmenu_gamemode_freeroam_tooltip | You are free to persue any career at your own pace. No anomaly, no stargate. | Вы можете свободно выбирать любую карьеру в своем темпе. Никаких аномалий, никаких Звездных Врат.
 
 mainmenu_gamemode_industry | BOLDLY GO | СМЕЛО ВПЕРЕД
 
@@ -26,7 +26,7 @@ mainmenu_gamemode_industry_old | STARGATE | ЗВЕЗДНЫЕ ВРАТА
 
 mainmenu_gamemode_industry_tooltip | Embark on a new journey through our story-driven sci-fi episodes | Отправляйтесь в новое путешествие через наши сюжетные научно-фантастические эпизоды
 
-mainmenu_gamemode_industry_tooltip_old | Your aim is to research and build a stargate to Andromeda | Ваша цель - исследовать и построить звездные врата в Андромеду
+mainmenu_gamemode_industry_tooltip_old | Your aim is to research and build a stargate to Andromeda | Ваша цель - исследовать и построить Звездные Врата в Андромеду
 
 mainmenu_gamemode_survival | Survival | Выживание
 
@@ -70,7 +70,7 @@ mainmenu_savegame | Save Game | Сохранить игру
 
 mainmenu_stargate_caption | Forge your own path through story driven episodes all around the sector, and take part in the construction of a galactic mega project | Проложите свой путь через сюжетные эпизоды по всему сектору и примите участие в строительстве галактического мегапроекта
 
-mainmenu_stargate_caption_old | Take part in the construction of a galactic megaproject - a STARGATE with enough range to reach our nearest neighbouring galaxy ANDROMEDA | Примите участие в строительстве галактического мегапроекта - звездных врат с радиусом действия, достаточным для достижения ближайшей соседней галактики Андромеды
+mainmenu_stargate_caption_old | Take part in the construction of a galactic megaproject - a STARGATE with enough range to reach our nearest neighbouring galaxy ANDROMEDA | Примите участие в строительстве галактического мегапроекта - ЗВЕЗДНЫХ ВРАТ с радиусом действия, достаточным для достижения ближайшей соседней галактики Андромеды
 
 mainmenu_steamworkshop | Steam Workshop | Мастерская Steam
 

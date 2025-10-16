@@ -150,23 +150,23 @@ mission_flightready_power_help | A reactor to generate power. Use a Fuel Loader 
 
 mission_flightready_title | Make your new ship ready for flight | Подготовьте свой новый корабль к полету
 
-mission_fortress_accept | We have marked the location of the fortress on your map. Good luck, Captain. | Мы отметили местоположение крепости на твоей карте. Удачи, капитан.
+mission_fortress_accept | We have marked the location of the fortress on your map. Good luck, Captain. | Мы отметили местоположение крепости на вашей карте. Удачи, капитан.
 
 mission_fortress_description1 | Hostiles have set up a fortress within the sector. It appears to be where they are fabricating their ships. | Враги устроили крепость в этом секторе. Похоже, там они изготавливают свои корабли.
 
 mission_fortress_description2 | The fortress is giving them significant power across the sector and must be dealt with. | Крепость дает им значительную власть во всем секторе, и с ней нужно бороться.
 
-mission_fortress_description3 | Travel to the fortress, destroy it, and eliminate any remaining hostiles | Отправляйся в крепость, разрушь ее и уничтожь всех оставшихся врагов
+mission_fortress_description3 | Travel to the fortress, destroy it, and eliminate any remaining hostiles | Отправляйтесь в крепость, разрушьте ее и уничтожьте всех оставшихся врагов
 
-mission_fortress_destroyfortress | Destroy the fortress | Уничтожь крепость
+mission_fortress_destroyfortress | Destroy the fortress | Уничтожьте крепость
 
-mission_fortress_destroyhostiles | Eliminate any remaining hostiles | Уничтожь всех оставшихся врагов
+mission_fortress_destroyhostiles | Eliminate any remaining hostiles | Уничтожьте всех оставшихся врагов
 
-mission_fortress_objective | Travel to the fortress | Отправляйся в крепость
+mission_fortress_objective | Travel to the fortress | Отправляйтесь в крепость
 
 mission_fortress_success | The fortress assault was successful. | Штурм крепости прошел успешно.
 
-mission_fortress_title | Destroy a hostile fortress | Уничтожь вражескую крепость
+mission_fortress_title | Destroy a hostile fortress | Уничтожьте вражескую крепость
 
 mission_illegal | ILLEGAL ACTIVITY | НЕЗАКОННАЯ ДЕЯТЕЛЬНОСТЬ
 
@@ -174,7 +174,7 @@ mission_industry_accepted1 | We've marked the asteroid belt location on your map
 
 mission_industry_description | There is huge demand for FTL fuel cells, to power the evacuation ships. | Существует огромный спрос на сверхсветовые топливные элементы для питания эвакуационных кораблей.
 
-mission_industry_description2 | We can manufacture FTL Fuel, but we need Tilium ore that can only be found in certain asteroid belts. | Мы можем производить сверхсветовое топливо, но нам нужна тилиевая руда, которую можно найти только в определенных астероидных поясах.
+mission_industry_description2 | We can manufacture FTL Fuel, but we need Tilium ore that can only be found in certain asteroid belts. | Мы можем производить Сверхсветовое Топливо, но нам нужна Тилиевая Руда, которую можно найти только в определенных астероидных поясах.
 
 mission_industry_description3 | Luckily there is just such an asteroid belt nearby, within this sector, in system S*X. | К счастью, как раз такой пояс астероидов есть неподалеку, в пределах этого сектора, в системе S*X.
 
@@ -182,19 +182,19 @@ mission_industry_description3b | The nearest asteroid belt is in the next sector
 
 mission_industry_description4 | Then drop the Ore off at any trading post to collect payment. | Затем сдайте руду в любой торговый пункт, чтобы получить оплату.
 
-mission_industry_gathered | You have *X Tilium ore on this ship (We need *Y) | У вас есть *X тилиевой руды на этом корабле (нам нужно *Y)
+mission_industry_gathered | You have *X Tilium ore on this ship (We need *Y) | У вас есть *X Тилиевой Руды на этом корабле (нам нужно *Y)
 
 mission_industry_hostiles | WARNING: There are hostile forces camped out near the asteroid belt. (+50% pay) | ВНИМАНИЕ: В районе пояса астероидов расположились враждебные силы. (+50% к зарплате)
 
 mission_industry_location | Travel to the asteroid belt | Путешествие к поясу астероидов
 
-mission_industry_lost | There is no more Tilium on board your ship. | На борту вашего корабля больше нет тилиума.
+mission_industry_lost | There is no more Tilium on board your ship. | На борту вашего корабля больше нет Тилиума.
 
 mission_industry_meteorshower | WARNING: There are reports of a meteor shower in that system. (+50% pay). | ВНИМАНИЕ: Есть сообщения о метеоритном дожде в этой системе. (+50% к оплате).
 
-mission_industry_received | We have received *X Tilium out of a total of *Y. Total payment due $*Z. | Мы получили *X тилиума из общего количества *Y. Общая сумма платежа составляет $*Z.
+mission_industry_received | We have received *X Tilium out of a total of *Y. Total payment due $*Z. | Мы получили *X Тилиума из общего количества *Y. Общая сумма платежа составляет $*Z.
 
-mission_industry_refined |  ==> The Tilium must first be refined in a Smelter prior to delivery. <== |  ==> Перед доставкой тилиум должен быть очищен в Плавильной печи. <==
+mission_industry_refined |  ==> The Tilium must first be refined in a Smelter prior to delivery. <== |  ==> Перед доставкой Тилиум должен быть очищен в Плавильной печи. <==
 
 mission_industry_refined_title | Extract and refine critical resources | Добыть и переработать критически важные ресурсы
 
@@ -202,13 +202,13 @@ mission_industry_refinedrequired | Then refine the mined ore in a Smelter. | З�
 
 mission_industry_requirements | This contract requires a suitable mining vessel, equipped with Mining Lasers and Logistics Drones. | Для выполнения этого контракта требуется подходящее шахтерское судно, оснащенное Шахтерскими лазерами и Логистическими дронами.
 
-mission_industry_return | Return to a colony or shipyard system to deliver the Tilium. | Вернитесь в систему колонии или верфи, чтобы доставить тилиум.
+mission_industry_return | Return to a colony or shipyard system to deliver the Tilium. | Вернитесь в систему колонии или верфи, чтобы доставить Тилиум.
 
-mission_industry_shuttle | We've dispatched a shuttle to collect the Tilium Ore. | Мы отправили Челнок для сбора Тилиевой руды.
+mission_industry_shuttle | We've dispatched a shuttle to collect the Tilium Ore. | Мы отправили Челнок для сбора Тилиевой Руды.
 
-mission_industry_success | Extracted *X/*Y Ore | Добытая *X/*Y руда
+mission_industry_success | Extracted *X/*Y Ore | Добыто *X/*Y руды
 
-mission_industry_tiliumrequired | Travel to the asteroid belt and extract *X Tilium ore. | Отправляйтесь в пояс астероидов и добывайте *X тилиевой руды.
+mission_industry_tiliumrequired | Travel to the asteroid belt and extract *X Tilium ore. | Отправляйтесь в пояс астероидов и добудьте *X Тилиевой Руды.
 
 mission_industry_title | Mining contract: Extract critical minerals | Контракт на добычу: добыть критически важную руду
 
@@ -322,7 +322,7 @@ mission_rescue_allrescued | All crew have been rescued from the ship! Drop them 
 
 mission_rescue_description1 | A ship has become stranded with engine troubles, and the crew need an immediate rescue. | Корабль сел на мель из-за проблем с Двигателем, и экипаж нуждается в немедленном спасении.
 
-mission_rescue_description2 | The damaged ship is nearby in system S*X. Hurry! | Поврежденный корабль находится неподалеку, в системе S*X. Поторопись!
+mission_rescue_description2 | The damaged ship is nearby in system S*X. Hurry! | Поврежденный корабль находится неподалеку, в системе S*X. Поторопитесь!
 
 mission_rescue_description2b | The ship is in the next sector. | Корабль находится в следующем секторе.
 
@@ -404,7 +404,7 @@ mission_sectorjumpgate_damage | The Jumpgate is damaged, and must be repaired an
 
 mission_sectorjumpgate_description1 | The Jumpgate at the end of this sector has some requirements before it can be used. | Джампгейт в конце этого сектора имеет некоторые требования, прежде чем его можно будет использовать.
 
-mission_sectorjumpgate_hostiles | Eradicate hostile blockade | Ликвидируй вражескую блокаду
+mission_sectorjumpgate_hostiles | Eradicate hostile blockade | Ликвидируйте вражескую блокаду
 
 mission_sectorjumpgate_hostiles2 | A fleet of hostile ships is attempting to blockade the jumpgate and extort money from ships passing through. | Флот враждебных кораблей пытается заблокировать джампгейт и вымогать деньги у проходящих через него кораблей.
 
@@ -420,7 +420,7 @@ mission_sectorjumpgate_materialsrequired | We require *X R*Y | Нам требу
 
 mission_sectorjumpgate_paythetoll | Pay the transit fee (*X) | Оплатить транзитный сбор (*X)
 
-mission_sectorjumpgate_provide | Provide Materials | Предоставь материалы
+mission_sectorjumpgate_provide | Provide Materials | Предоставьте материалы
 
 mission_sectorjumpgate_ready | The Jumpgate is now ready for use. | Теперь Прыжковые врата готовы к использованию.
 
@@ -448,7 +448,7 @@ mission_sectorprotect_call | INCOMING DISTRESS CALL | ВХОДЯЩИЙ СИГН�
 
 mission_sectorprotect_calltoarms | The vessel is under attack! Fight off the hostile ships before it's too late. | Судно атаковано! Отбейте вражеские корабли, пока не стало слишком поздно.
 
-mission_sectorprotect_description1 | Investigate a distress call in system S*X. | Расследуй сигнал бедствия в системе S*X.
+mission_sectorprotect_description1 | Investigate a distress call in system S*X. | Расследуйте сигнал бедствия в системе S*X.
 
 mission_sectorprotect_description2 | A commercial vessel is under attack from an unknown hostile enemy. They have already taken heavy damage. | Торговое судно атаковано неизвестным врагом. Они уже получили серьезные повреждения.
 
@@ -478,7 +478,7 @@ mission_sectorrescue_allrescued | All crew have been rescued from the ship! Drop
 
 mission_sectorrescue_awardcaption | *X People rescued. | *X Люди спасены.
 
-mission_sectorrescue_description1 | Investigate a distress call in system S*X. | Расследуй сигнал бедствия в системе S*X.
+mission_sectorrescue_description1 | Investigate a distress call in system S*X. | Расследуйте сигнал бедствия в системе S*X.
 
 mission_sectorrescue_hostiles | There are hostile forces in the area. (+50% pay) | В районе присутствуют враждебные силы. (+50 % к зарплате)
 

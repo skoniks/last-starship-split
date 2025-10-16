@@ -144,7 +144,7 @@ object_hydroponics_description | An enclosed greenhouse device that can be used 
 
 object_hyperspacecollector | Hyperspace Scoop | Гиперпространственный Совок
 
-object_hyperspacecollector_description | The Hyperspace Scoop sits at the front of a starship and faces the direction of travel. During hyperspace a strong magnetic field is projected forward, drawing in large volumes of interstellar matter. The isotopes gathered this way can be refined into FTL Fuel. | Гиперпространственный совок располагается в передней части звездолета и обращен в направлении движения. В гиперпространстве сильное магнитное поле проецируется вперед, втягивая большие объемы межзвездной материи. Собранные таким образом изотопы могут быть переработаны в Сверхсветовое топливо.
+object_hyperspacecollector_description | The Hyperspace Scoop sits at the front of a starship and faces the direction of travel. During hyperspace a strong magnetic field is projected forward, drawing in large volumes of interstellar matter. The isotopes gathered this way can be refined into FTL Fuel. | Гиперпространственный Совок располагается в передней части звездолета и обращен в направлении движения. В гиперпространстве сильное магнитное поле проецируется вперед, втягивая большие объемы межзвездной материи. Собранные таким образом Изотопы могут быть переработаны в Сверхсветовое Топливо.
 
 object_hyperspaceisotopes | Hyperspace Isotopes | Гиперпространственные Изотопы
 

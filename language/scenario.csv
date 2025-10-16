@@ -2,11 +2,11 @@ scenario_armour | Armour: *X% | Броня: *X%
 
 scenario_carrierfrigate | A huge community fuselage built by Zion - perfect for any career the Captain desires. The ship benefits from a huge cabin capacity, but is very slow and heavy. | Огромный обширный салон, построенный Сионом, идеально подходит для любой карьеры, которую пожелает капитан. Корабль обладает огромной вместимостью кают, но очень медленный и тяжелый.
 
-scenario_carrierfrigate_title | Carrier Frigate | Несущий фрегат
+scenario_carrierfrigate_title | Carrier Frigate | Несущий Фрегат
 
 scenario_crabclaw | A truly massive ship designed with heavy industry, science and logistics in mind.  Big, slow, and heavy - requiring a massive power grid and engine array. | По-настоящему массивный корабль, созданный с учетом требований тяжелой промышленности, науки и логистики.  Большой, медленный и тяжелый, требующий огромной энергосистемы и нескольких Двигателей.
 
-scenario_crabclaw_title | The Crab Claw | Клешня краба
+scenario_crabclaw_title | The Crab Claw | Клешня Краба
 
 scenario_funds | FUNDS | ФОНДЫ
 
@@ -16,11 +16,11 @@ scenario_industry | The Stargate Project demands your help! Industry and Automat
 
 scenario_innershapes | Another large vessel well suited to combat and dangerous operations.  The forward hull is encased in heavy armour, making the ship much tougher, but also slower and less maneuverable. | Еще одно крупное судно, хорошо подходящее для боевых и опасных операций.  Носовая часть корпуса заключена в тяжелую броню, что делает корабль намного прочнее, но при этом медленнее и менее маневренным.
 
-scenario_innershapes_title | Inner Shapes | Внутренние формы
+scenario_innershapes_title | Inner Shapes | Внутренние Формы
 
 scenario_largelogistics | A modular and easily expanded ship design, ideal for interstellar logistics and mining operations. With cabin space for over 50 crew or passengers. | Модульная и легко расширяемая конструкция корабля, идеально подходящая для межзвездной логистики и добычи полезных ископаемых. С каютами для более чем 50 членов экипажа или пассажиров.
 
-scenario_largelogistics_title | Large Logistics | Большая логистика
+scenario_largelogistics_title | Large Logistics | Большая Логистика
 
 scenario_mass | Mass: *X | Масса: *X
 
@@ -28,7 +28,7 @@ scenario_noarmour | Armour: None | Броня: Нет
 
 scenario_praxis | A tiny and fast science vessel with all necessary equipment for interstellar adventure, and provisioned with enough supplies for a small crew. | Миниатюрное и быстрое научное судно, оснащенное всем необходимым для межзвездных приключений и снабженное достаточным количеством припасов для небольшого экипажа.
 
-scenario_praxis_title | Praxis | Praxis
+scenario_praxis_title | Praxis | Практика
 
 scenario_procyoncruiser | A community ship built by Orion Industries - a perfect balance of form and function. Decent cabin space and room for equipment, but small and light enough to be fast and nimble. | Общественный корабль, построенный компанией Orion Industries, - идеальный баланс формы и функциональности. Приличный салон и место для оборудования, но достаточно маленький и легкий, чтобы быть быстрым и проворным.
 
@@ -40,7 +40,7 @@ scenario_shipyard_title | Build New Ship | Построить новый кор�
 
 scenario_sleek | A more complex setup. A large and capable ship with plenty of room for upgrades, but with a heavier and slower hull. | Более сложная конфигурация. Большой и способный корабль с большим количеством возможностей для модернизации, но с более тяжелым и медленным корпусом.
 
-scenario_sleek_title | Sleek ship | Гладкий корабль
+scenario_sleek_title | Sleek ship | Изящный корабль
 
 scenario_value | Value: $*X | Стоимость: $*X
 
