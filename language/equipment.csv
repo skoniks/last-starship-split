@@ -2,7 +2,7 @@ equipment_blocked | BLOCKED | ЗАБЛОКИРОВАН
 
 equipment_factory_make | Make *X | Сделать *X
 
-equipment_factory_refine | Refine *X | Усовершенствовать *X
+equipment_factory_refine | Refine *X | Обрабатать *X
 
 equipment_factory_stop | STOP | ОСТАНОВИТЬ
 

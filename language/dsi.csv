@@ -168,7 +168,7 @@ dsi_part2_introcall3 | The Andromeda Project have released specifications for th
 
 dsi_part2_introcall4 | The first part is a Stargate Actuator.  This is something we can manufacture in our existing factory station, although it's a more complex production chain.  There won't be nearly enough resources available in the Marketplace, so we'll have to mine the local belt for minerals. | Первая часть - это Привод Звездных Врат.  Это то, что мы можем изготовить на нашей существующей заводской станции, хотя это более сложная производственная цепочка.  Ресурсов, доступных на Торговой площади, будет недостаточно, поэтому нам придется добывать полезные ископаемые в местном поясе.
 
-dsi_part2_introcall6 | The second part is a chemical compound they're calling Stargate Resin.  It's synthesised in a Chemical Lab, but we first need huge volumes of Metreon Gas.  It's found only in deep space nebulas. | Вторая часть - это химическое соединение, которое они называют Смолой Звездных Врат.  Она синтезируется в Химической лаборатории, но сначала нам понадобятся огромные объемы газа Метреон.  Он встречается только в туманностях глубокого космоса.
+dsi_part2_introcall6 | The second part is a chemical compound they're calling Stargate Resin.  It's synthesised in a Chemical Lab, but we first need huge volumes of Metreon Gas.  It's found only in deep space nebulas. | Вторая часть - это химическое соединение, которое они называют Смолой Звездных Врат.  Она синтезируется в Химической лаборатории, но сначала нам понадобятся огромные объемы Газа Метреона.  Он встречается только в туманностях глубокого космоса.
 
 dsi_part2_introcall7 | My thinking is to buy a suitable fuselage from a Shipyard, and then convert it into a dedicated gas capture and refining facility.  There's a good ship nearby.  You can buy it on my behalf and then set it up, and we'll drop it off in a rich gas cloud and leave it running. | Я думаю купить подходящий корабль на верфи, а затем переоборудовать его в специальную установку для улавливания и переработки газа.  Поблизости есть хороший корабль.  Вы можете купить его от моего имени, затем установить его, а мы высадим его в богатом газовом облаке и оставим работать.
 
@@ -186,7 +186,7 @@ dsi_part2_objective_actuators | Manufacture Stargate Actuators [*X/250] | Про
 
 dsi_part2_objective_buygasfuselage | Buy the Gas Capture fuselage | Купить корабль для сбора газа
 
-dsi_part2_objective_collectgas | Begin collecting Metreon Gas [*X/100] | Начать сбор газа Метреон [*X/100]
+dsi_part2_objective_collectgas | Begin collecting Metreon Gas [*X/100] | Начать сбор Газ Метреона [*X/100]
 
 dsi_part2_objective_collectisotopes | Begin collecting Hyperspace Isotopes [*X/100] | Начать сбор Гиперпространственных Изотопов [*X/100]
 
@@ -226,7 +226,7 @@ dsi_part2_resinintro2 | Gas collection is a slow process.  Our aim should be to 
 
 dsi_part2_resinintro3 | I'll send over more seed money and you can outfit the ship as you see best. | Я пришлю еще стартовый капитал, и вы сможете оборудовать корабль так, как сочтете нужным.
 
-dsi_part2_resinintro4 | The process of making Stargate Resin starts with a Gas Collector bringing in the Metreon Gas.  We then pipe that into a Refinery to produce Refined Metreon, then into a Chemical Lab where the Stargate Resin can be synthesised. | Процесс изготовления Смолы Звездных Врат начинается с того, что Газосборник собирает газ Метреон.  Затем мы направляем его на Химический завод для получения очищенного Метреона, а затем в Химическую лабораторию, где синтезируется Смола Звездных Врат.
+dsi_part2_resinintro4 | The process of making Stargate Resin starts with a Gas Collector bringing in the Metreon Gas.  We then pipe that into a Refinery to produce Refined Metreon, then into a Chemical Lab where the Stargate Resin can be synthesised. | Процесс изготовления Смолы Звездных Врат начинается с того, что Газосборник собирает Газ Метреона.  Затем мы направляем его на Химический завод для получения Обработанного Метреона, а затем в Химическую лабораторию, где синтезируется Смола Звездных Врат.
 
 dsi_part2_resinintro5 | You'll need all of that equipment to get started.  I'd recommend Collectors, Refineries, and Chemical Labs, four each at least.  You'll also want Storage Tanks to buffer the intermediate products, and an upgrade to the Power Grid. | Вам понадобится все это оборудование, чтобы начать.  Я бы рекомендовал Коллекторы, Химические заводы и Химические лаборатории - по четыре штуки как минимум.  Также вам понадобятся Резервуары для хранения промежуточных продуктов и апгрейд энергосети.
 

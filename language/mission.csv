@@ -194,11 +194,11 @@ mission_industry_meteorshower | WARNING: There are reports of a meteor shower in
 
 mission_industry_received | We have received *X Tilium out of a total of *Y. Total payment due $*Z. | Мы получили *X Тилиума из общего количества *Y. Общая сумма платежа составляет $*Z.
 
-mission_industry_refined |  ==> The Tilium must first be refined in a Smelter prior to delivery. <== |  ==> Перед доставкой Тилиум должен быть очищен в Плавильной печи. <==
+mission_industry_refined |  ==> The Tilium must first be refined in a Smelter prior to delivery. <== |  ==> Перед доставкой Тилиум должен быть обработан в Плавильной печи. <==
 
-mission_industry_refined_title | Extract and refine critical resources | Добыть и переработать критически важные ресурсы
+mission_industry_refined_title | Extract and refine critical resources | Добыть и обработать критически важные ресурсы
 
-mission_industry_refinedrequired | Then refine the mined ore in a Smelter. | Затем переработайте добытую руду в Плавильной печи.
+mission_industry_refinedrequired | Then refine the mined ore in a Smelter. | Затем обработать добытую руду в Плавильной печи.
 
 mission_industry_requirements | This contract requires a suitable mining vessel, equipped with Mining Lasers and Logistics Drones. | Для выполнения этого контракта требуется подходящее шахтерское судно, оснащенное Шахтерскими лазерами и Логистическими дронами.
 

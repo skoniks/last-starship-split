@@ -260,7 +260,7 @@ object_reactor | Reactor | Реактор
 
 object_reactor_description | Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW. | Сжигает высокоэнергетическое Топливо для получения энергии. Топливо должно поступать в Реактор (по трубе). Затем с помощью кабелей подключается к другому оборудованию.\nГенерирует максимальную мощность в 100 МВт.
 
-object_refinedmetreon | Refined Metreon | Рафинированный Метреон
+object_refinedmetreon | Refined Metreon | Обработанный Метреон
 
 object_refinedtilium | Tilium Crystals | Тилиевые Кристаллы
 
