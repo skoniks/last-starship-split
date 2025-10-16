@@ -198,7 +198,7 @@ tutorial_flight_title | FLIGHT | ПОЛЕТ
 
 tutorial_flightengines | We can directly control our engine <b>THROTTLE</b> from here.\n\nTry increasing your engine throttle with this control. | Здесь мы можем напрямую управлять <b>ТЯГОЙ</b> двигателя.\n\nПопробуйте увеличить тягу двигателя с помощью этого регулятора.
 
-tutorial_flightexittactical | Exit <b>TACTICAL</b> mode by clicking the button again, or pressing <b>{ToggleTactical}</b>. | Выйдите из режима <b>TACTICAL</b>, снова нажав на кнопку или нажав <b>{ToggleTactical}</b>.
+tutorial_flightexittactical | Exit <b>TACTICAL</b> mode by clicking the button again, or pressing <b>{ToggleTactical}</b>. | Выйдите из режима <b>ТАКТИКА</b>, снова нажав на кнопку или нажав <b>{ToggleTactical}</b>.
 
 tutorial_flightinformation | Your crew will continue to operate the ship and keep the engines running as you travel around. Try flying around the system until you have a handle on the controls.\n\nWhen you are ready, bring the ship to a stop by setting the <b>THROTTLE</b> to zero in <b>TACTICAL</b> mode. | Ваш экипаж будет продолжать управлять кораблем и поддерживать работу двигателей, пока вы путешествуете. Попробуйте полетать по системе, пока не разберетесь с управлением.\n\nКогда вы будете готовы, остановите корабль, установив <b>ТЯГУ</b> на ноль в режиме <b>ТАКТИКА</b>.
 
@@ -294,7 +294,7 @@ tutorial_miningsuccess | Well done, you have produced Tilium Cystals. | Моло
 
 tutorial_miningswitchtotactical | Switch to tactical mode. | Переключитесь в тактический режим.
 
-tutorial_miningundock | Make sure to <b>UNDOCK</b> from any other ship (from the <b>TACTICAL</b> screen). | Не забудьте <b>отстыковаться</b> от любого другого корабля (на экране <b>TACTICAL</b>).
+tutorial_miningundock | Make sure to <b>UNDOCK</b> from any other ship (from the <b>TACTICAL</b> screen). | Не забудьте <b>ОТСТЫКОВАТЬСЯ</b> от любого другого корабля (на экране <b>ТАКТИКА</b>).
 
 tutorial_miningwaitsmelter | Perfect! Now wait for your smelter to smelt the Tilium Ore. | Отлично! Теперь подождите, пока плавильная печь выплавит Тилиевую Руду.
 
@@ -316,7 +316,7 @@ tutorial_powerreactoractive | The <b>REACTOR</b> is activated! We are now genera
 
 tutorial_powerreactorinprogress | Your crew will install the <b>REACTOR</b>. | Ваш экипаж установит <b>РЕАКТОР</b>.
 
-tutorial_powerreactorpowerup | The <b>REACTOR</b> is starting up. | The <b>РЕАКТОР</b> запускается.
+tutorial_powerreactorpowerup | The <b>REACTOR</b> is starting up. | <b>РЕАКТОР</b> запускается.
 
 tutorial_powerselectloader | The <b>REACTOR</b> needs <b>FUEL</b>, and we use a <b>FUEL LOADER</b> to pump it to the <b>REACTOR</b>.\n\nSelect the <b>FUEL LOADER</b> from the Construction menu. | <b>Реактору</b> нужно <b>топливо</b>, и мы используем <b>погрузчик топлива</b>, чтобы закачать его в <b>реактор</b>.\n\nВыберите <b>погрузчик топлива</b> из меню Строительство.
 
