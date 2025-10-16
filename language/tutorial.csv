@@ -330,7 +330,7 @@ tutorial_productionsuccess | Well done, you are now all set to produce <b>STARGA
 
 tutorial_radiation_title | RADIATION | РАДИАЦИЯ
 
-tutorial_radiationinstallblockers | Radiation spread can be limited by special equipment called radiation blockers.\n\nInstall some blockers close to your laser infuser, leaving a small gap between the infuser and the blocker.\n\nIncrease the game speed when you are ready. | Распространение радиации можно ограничить с помощью специального оборудования, которое называется блокираторами радиации.\n\nУстановите несколько блокираторов рядом с вашим лазерным инфузором, оставив небольшой зазор между инфузором и блокиратором.\n\nУвеличьте скорость игры, когда будете готовы.
+tutorial_radiationinstallblockers | Radiation spread can be limited by special equipment called radiation blockers.\n\nInstall some blockers close to your laser infuser, leaving a small gap between the infuser and the blocker.\n\nIncrease the game speed when you are ready. | Распространение радиации можно ограничить с помощью специального оборудования, которое называется блокаторами радиации.\n\nУстановите несколько блокаторов рядом с вашим лазерным инфузором, оставив небольшой зазор между инфузором и блокатором.\n\nУвеличьте скорость игры, когда будете готовы.
 
 tutorial_radiationinstallinfuser | A laser infuser has been delivered to your ship.\n\nLaser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area. | На ваш корабль доставлен лазерный инфузор.\n\nЛазерные инфузоры используются для зарядки пустых кристаллов газом Зелеон и во время работы будут излучать радиацию на окружающее пространство.\n\nУстановите лазерный инфузор в чистом месте.
 
@@ -342,7 +342,7 @@ tutorial_radiationselectoverlay | The game has been set to a slower speed for no
 
 tutorial_radiationselectoverlay2 | All green areas of your ship are safe for your crew, but the darker areas are dangerous.\n\nSpacesuits will protect your crew from being irradiated. | Все зеленые зоны вашего корабля безопасны для вашего экипажа, но темные зоны опасны.\n\nКосмические скафандры защитят ваш экипаж от облучения.
 
-tutorial_radiationselectoverlay3 | A radiation blocker will lower the radiation travelling through it, this can be seen on the radiation overlay. | Блокиратор радиации снизит уровень проходящего через него излучения, это можно увидеть на накладке радиации.
+tutorial_radiationselectoverlay3 | A radiation blocker will lower the radiation travelling through it, this can be seen on the radiation overlay. | Блокатор радиации снизит уровень проходящего через него излучения, это можно увидеть на накладке радиации.
 
 tutorial_radiationsetupinfuser | An empty crystal and some zeleon energy cells have been delivered to your ship too.\n\nLet's set the laser infuser to use them to produce charged crystals. | На ваш корабль также доставлены пустой кристалл и несколько энергетических ячеек Зелеона.\n\nДавайте настроим лазерный инфузор, чтобы использовать их для получения заряженных кристаллов.
 
