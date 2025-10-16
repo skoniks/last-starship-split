@@ -1,216 +1,434 @@
 object_airduct | Airduct | Воздуховод
+
 object_airduct_description | Pumps oxygen into the surrounding cabin until a breathable atmosphere is achieved. Must be supplied with Oxygen through a pipe. | Нагнетает Кислород в окружающий салон, пока не будет достигнута пригодная для дыхания атмосфера. Кислород должен подаваться по трубе.
+
 object_airreprocessor | Air Reprocessor | Редуктор Воздуха
+
 object_airreprocessor_description | Converts CO2 into breathable Oxygen. | Преобразует CO2 в пригодный для дыхания Кислород.
+
 object_assembler | Assembly Table | Сборочный Стол
+
 object_asteroid | Asteroid | Астероид
+
 object_battery | Battery | Батарея
+
 object_battery_description | Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage. | Хранит избыточную энергию в энергосети, до 1000 МВт. Батарея будет подавать энергию при ее нехватке.
+
 object_box | Box | Ящик
+
 object_brokenhopdrive | Broken Hop Drive | Сломанный Хоп-Драйв
+
 object_brokenhopdrive_description | Broken hop drive, capable of hopping within systems | Сломанный Хоп-драйв, способный прыгать внутри систем
+
 object_bullets | Bullets | Пулеметные Патроны
+
 object_bullets_description | A box of ammo for a Gatling Gun (PDC). | Ящик патронов для Пулемета.
+
 object_cannon | Cannon | Пушка
+
 object_cannon_description | A medium range weapon system that launches a barrage of explosive shells at the target. Cannon shells are excellent at dealing area-of-effect damage to an enemy ship, and will shred hull armour. | Оружейная система средней дальности, выпускающая шквал разрывных снарядов по цели. Пушечные снаряды отлично наносят урон по площади и разрушают броню корпуса.
+
 object_cannonshell | Cannon Shells | Пушечные Снаряды
+
 object_carbondioxide | CO2 | CO2
+
 object_cargo | Cargo | Груз
+
 object_chair | Chair | Стул
+
 object_chargedcrystal | Charged Crystal | Заряженный Кристалл
+
 object_chemicallab | Chemical Lab | Химическая Лаборатория
+
 object_chemicallab_description | A complex piece of scientific equipment.  Can combine multiple different chemical inputs (liquids, gases and solids) into different outputs. The user can cycle the active 'recipe' by clicking on it. | Сложное научное оборудование. Может объединять различные химические вещества (жидкости, газы и твердые вещества) в разные продукты. Пользователь может менять активный 'рецепт', щелкая по нему.
+
 object_civilian | Civilian | Гражданский
+
 object_coilcomponent | Energy Coil | Катушка Энергии
+
 object_comet | Comet | Комета
+
 object_compost | Compost | Компост
+
 object_copperingot | Copper Ingot | Медный Слиток
+
 object_copperminerals | Copper Minerals | Медная Руда
+
 object_crewmember | Crew | Экипаж
+
 object_crystalinfuser_description | Laser infuser, infuses objects with energy. No tiddlets were harmed in the making of this equipment. | Лазерный инфузор, наполняющий предметы энергией. При создании этого оборудования не пострадал ни один тиддлет.
+
 object_data | Data | Данные
+
 object_deflector | Deflector | Дефлектор
+
 object_deflector_description | A defensive system that uses a deflector beam to divert incoming rocket shells | Защитная система, использующая отклоняющий луч, чтобы отвести от себя летящие ракетные снаряды
+
 object_deuterium | Deuterium | Дейтерий
+
 object_deuterium_description | Fuel for a Fusion Reactor. | Топливо для реактора синтеза.
+
 object_dockingport | Docking Port | Стыковочный Порт
+
 object_dockingport_description | Provides an access point to the ship so that shuttle craft can dock and undock. | Обеспечивает точку доступа к кораблю, чтобы Челноки могли причаливать и отчаливать.
+
 object_door | Door | Дверь
+
 object_door_description | A heavy pressure door that can be used to seal off areas in the event of a hull breach or fire. | Дверь под большим давлением, которая может быть использована для герметизации помещений в случае пробоины в корпусе или пожара.
+
 object_dronebay | Drone Bay | Отсек Для Дронов
+
 object_dronebay_description | This equipment is required to launch Logistics Drones from your ship. Drones can gather resources and salvage from space, then bring it back to the ship through the Drone Bay. One Drone Bay can launch multiple Drones. | Это оборудование необходимо для запуска Логистических дронов с вашего корабля. Дроны могут собирать ресурсы и материалы в космосе, а затем возвращать их на корабль через Отсек для дронов. Один Отсек для дронов может запускать несколько дронов.
+
 object_emptycomputegridcomponent | Empty Compute Grid | Пустая Вычислительная Сеть
+
 object_emptycrystalcomponent | Empty Crystal | Пустой Кристалл
+
 object_energycell | Energy Cell | Энергетическая Ячейка
+
 object_energycellframecomponent | Energy Cell Frame | Каркас Энергетической Ячейки
+
 object_energytransmitter | Energy Transmitter | Передатчик Энергии
+
 object_energytransmitter_description | A large piece of equipment, capable of transmitting up to 200MW to the Stargate. | Большая часть оборудования, способная передавать до 200 МВт на ЗВЕЗДНЫЕ ВРАТА.
+
 object_engine | Engine | Двигатель
+
 object_engine_description | The ship's main source of forward thrust.  Must be supplied with Fuel (via a pipe) and Power (via a cable). | Главный источник тяги корабля.  Должен получать Топливо (по трубе) и энергию (по кабелю).
+
 object_entity | Entity | Сущность
+
 object_equipment | Equipment | Оборудование
+
 object_explosives | Explosives | Взрывчатка
+
 object_fabricator | Fabricator | Фабрикатор
+
 object_fighter | Fighter | Истребитель
+
 object_FlightRecorder | Flight Recorder | Бортовой Самописец
+
 object_food | Food | Еда
+
 object_framecomponent | Frame | Рама
+
 object_ftlcharge | FTL Charge | Сверхсветовой Заряд
+
 object_ftldrive | FTL Drive | Сверхсветовой Привод
+
 object_fuel | Fuel | Топливо
+
 object_fuelloader | Fuel Loader | Погрузчик Топлива
+
 object_fuelloader_description | Takes a canister of Fuel, and pumps it into an underfloor pipe. Use pipes to connect this to your Reactor and your Engines. | Берет канистру с Топливом и закачивает его в трубу под полом. Используйте трубы, чтобы соединить его с Реактором и Двигателями.
+
 object_fusionreactor | Fusion Reactor | Реактор Синтеза
+
 object_fusionreactor_description | Uses nuclear fusion of Deuterium to generate large amounts of energy. However the fusion reactor must be 'powered up' with a huge amount of energy before it will generate any power itself.\n\nGenerates a maximum power output of 500MW. | Использует ядерный синтез Дейтерия для получения большого количества энергии. Однако реактор должен быть 'запитан' огромным количеством энергии, прежде чем он сам начнет вырабатывать энергию.\n\nГенерирует максимальную мощность в 500 МВт.
+
 object_gascollector | Gas Collector | Газосборник
+
 object_gascollector_description | A large exterior vent that sucks in gases from space. Many gases found in nebulas can be used to produce useful resources like Fuel, FTL charges, and explosives. | Большое внешнее вентиляционное отверстие, всасывающее газы из космоса. Многие газы, встречающиеся в туманностях, можно использовать для производства полезных ресурсов, таких как топливо, сверхсветовые заряды и взрывчатка.
+
 object_gatlinggun | Gatling Gun | Пулемет
+
 object_gatlinggun_description | A close range rapid-fire weapon system, primarily designed for defense against incoming fighters and ordnance.  The gatling gun excels at destroying fast-moving targets at close range, but lacks the punch to penetrate armoured targets. | Система скорострельного оружия ближнего боя, предназначенная в первую очередь для защиты от наступающих истребителей и боеприпасов.  Пулемет отлично справляется с уничтожением быстродвижущихся целей на близком расстоянии, но не обладает достаточной мощью для пробития бронированных целей.
+
 object_generator | Generator | Генератор
+
 object_hullbreach | Hull Breach | Пролом Корпуса
+
 object_hydroponics | Hydroponic Garden | Гидропонный Сад
+
 object_hydroponics_description | An enclosed greenhouse device that can be used to grow crops, in order to feed your crew.  Requires compost and water, and Seeds to get things started. | Закрытое тепличное устройство, которое можно использовать для выращивания культур, чтобы прокормить экипаж.  Требуется Компост, Вода и Семена для начала работы.
+
 object_hyperspacecollector | Hyperspace Scoop | Гиперпространственный Совок
+
 object_hyperspacecollector_description | The Hyperspace Scoop sits at the front of a starship and faces the direction of travel. During hyperspace a strong magnetic field is projected forward, drawing in large volumes of interstellar matter. The isotopes gathered this way can be refined into FTL Fuel. | Гиперпространственный совок располагается в передней части звездолета и обращен в направлении движения. В гиперпространстве сильное магнитное поле проецируется вперед, втягивая большие объемы межзвездной материи. Собранные таким образом изотопы могут быть переработаны в Сверхсветовое топливо.
+
 object_hyperspaceisotopes | Hyperspace Isotopes | Гиперпространственные Изотопы
+
 object_hyperspacesensor | Hyperspace Sensor | Гиперпространственный Датчик
+
 object_hyperspacesensorlr | Hyperspace Sensor LR | Гиперпространственный Датчик LR
+
 object_hyperspacesensorlr_description | A Long Range and extremely sensitive prototype version of the standard hyperspace sensor. | Прототип стандартного гиперпространственного сенсора дальнего действия с высокой чувствительностью.
+
 object_ice | Water Ice | Водяной Лед
+
 object_icegrinder | Ice Grinder | Измельчитель Льда
+
 object_icegrinder_description | Grinds giant lumps of ice into small pieces, then warms the ice until it melts into liquid. The resulting water must be filtered before it is safe to drink. | Измельчает огромные глыбы льда на мелкие кусочки, затем нагревает лед, пока он не растает в жидкости. Полученная Вода должна быть отфильтрована, прежде чем ее можно пить.
+
 object_laserinfuser | Laser Infuser | Лазерный Инфузор
+
 object_lenscomponent | Lens | Объектив
+
 object_lightningrod | Lightning Rod | Громоотвод
+
 object_lightningrod_description | These are installed in the exterior wall of your ship, reducing the damaging effects of lightning and providing more control over where the lightning strikes. They cannot be repaired, but they will queue the installation of their replacement, when destroyed by lightning. | Они устанавливаются во внешнюю стену твоего корабля, уменьшая разрушительное воздействие молнии и обеспечивая больший контроль над тем, куда она ударяет. Их нельзя отремонтировать, но при разрушении молнией они будут стоять в очереди на установку своей замены.
+
 object_loader | Loader | Погрузчик
+
 object_loader_description | This is a general purpose version of the Fuel Loader and Oxygen Loader, and can take any liquid or gas canister.  Known to heavily confuse new captains.  Use pipes to connect the Loader to other equipment. | Это универсальная версия топливного и погрузчика кислорода, которая может принимать любые жидкие или газовые баллоны.  Известен тем, что сильно сбивает с толку новых капитанов.  Используйте трубы, чтобы соединить погрузчик с другим оборудованием.
+
 object_logisticsdrone | Logistics Drone | Логистический Дрон
+
 object_logisticsdrone_description | An incredibly useful semi-intelligent robot, capable of gathering salvage from deep space. Can also perform minor repairs to a damaged hull. Must be launched from a Drone Bay. | Невероятно полезный полуразумный робот, способный собирать груз в глубоком космосе. Также может выполнять мелкий ремонт поврежденного корпуса. Должен запускаться из Отсека для дронов.
+
 object_metalingot | Metal Ingot | Железный Слиток
+
 object_metallicminerals | Metallic Minerals | Железная Руда
+
 object_meteor | Meteor | Метеор
+
 object_metreongas | Metreon Gas | Газ Метреона
+
 object_mineralpatch | Mineral Patch | Месторождение Минералов
+
 object_mininglaser | Mining Laser | Шахтерский Лазер
+
 object_mininglaser_description | Can drill into mineral patches (found in asteroid belts) to extract valuable minerals. | Может бурить минеральные участки (в поясах астероидов), чтобы добывать ценные руды.
+
 object_missioncargo | Mission Cargo | Груз Миссии
+
 object_motorcomponent | Motor | Двигатель
+
 object_munitionsfactory | Munitions Bench | Верстак Боеприпасов
+
 object_munitionsfactory_description | A workbench where a skilled crew member can fabricate different forms of ammunition for ship weapon systems. Uses metal and explosives to produce Bullets, Railgun Slugs, Cannon Shells etc. | Верстак, на котором опытный член экипажа может изготовить различные виды боеприпасов для корабельных систем вооружения. Использует металл и взрывчатку для производства пуль, рельсотронных снарядов, пушечных снарядов и т. д.
+
 object_neubidiumcapacitor | Neubidium Capacitor | Нейбидиумный Конденсатор
+
 object_neubidiumingot | Neubidium Ingot | Нейбидиумный Слиток
+
 object_neubidiumore | Neubidium Ore | Нейбидиумная Руда
+
 object_none | NoType | Неопознанный
+
 object_ordnance | Ordnance | Боеприпасы
+
 object_oxygen | Oxygen | Кислород
+
 object_oxygenloader | Oxygen Loader | Погрузчик Кислорода
+
 object_oxygenloader_description | Takes a pressurised canister of oxygen and pumps it into an underfloor pipe.  Use pipes to connect this to your Airduct, to supply oxygen to the cabin. | Берет баллон с Кислородом под давлением и закачивает его в трубу под полом.  Используйте трубы для подключения к Воздуховоду, чтобы подавать Кислород в кабину.
+
 object_oxygenmaker | Oxygen Maker | Генератор Кислорода
+
 object_oxygenmaker_description | Uses electrical power to extract Oxygen from Water. | Использует электроэнергию для получения Кислорода из Воды.
+
 object_potplant | Pot Plant | Горшочное Растение
+
 object_powercoil | Power Coil | Катушка Питания
+
 object_powercoilcharged | Charged Power Coil | Заряженная Катушка Питания
+
 object_powerinjector | Power Injector | Инжектор Питания
+
 object_preciousmetals | Precious Metals | Драгоценные Металлы
+
 object_preciousore | Precious Ore | Драгоценная Руда
+
 object_processorcomponent | Processor | Процессор
+
 object_proximitymine | Mine | Шахта
+
 object_quantumcomputegridcomponent | Quantum Compute Grid | Квантовая Вычислительная Сеть
+
 object_quantumprocessorcomponent | Quantum Processor | Квантовый Процессор
+
 object_quantumwafercomponent | Quantum Wafer | Квантовая Пластина
+
 object_radiationblocker | Radiation Blocker | Блокатор Радиации
+
 object_radiationblocker_description | Radiation blocker, significantly reduces all radiation passing through it. Place between your crew and equipment that emit radiation. | Блокатор радиации, значительно снижающий все проходящие через него излучения. Помести его между своим экипажем и оборудованием, которое излучает радиацию.
+
 object_radiationemitter | Radiation Emitter | Излучатель Радиации
+
 object_radiationemitter_description | Emits radiation. For testing new radiation mechanic (has no gameplay use). | Излучает радиацию. Для тестирования новой механики радиации (не имеет геймплейного применения).
+
 object_railgun | Railgun | Рельсотрон
+
 object_railgun_description | An extremely accurate and long range weapon system that fires a solid slug of metal. The Railgun is a precise weapon that can penetrate through hull armour and destroy equipment inside the target ship. However, the weapon draws a huge amount of energy to recharge after each shot. | Чрезвычайно точная и дальнобойная оружейная система, стреляющая сплошным куском металла. Рельсотрон - точное оружие, способное пробить броню корпуса и уничтожить оборудование внутри корабля-цели. Однако оружие потребляет огромное количество энергии для перезарядки после каждого выстрела.
+
 object_railgunshell | Railgun Slugs | Рельсотронные Снаряды
+
 object_railgunshell_description | A box of ammo for a Railgun. | Ящик снарядов для рельсотрона.
+
 object_reactor | Reactor | Реактор
+
 object_reactor_description | Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW. | Сжигает высокоэнергетическое Топливо для получения энергии. Топливо должно поступать в Реактор (по трубе). Затем с помощью кабелей подключается к другому оборудованию.\nГенерирует максимальную мощность в 100 МВт.
+
 object_refinedmetreon | Refined Metreon | Рафинированный Метреон
+
 object_refinedtilium | Tilium Crystals | Тилиевые Кристаллы
+
 object_refinery | Refinery | Химический Завод
+
 object_refinery_description | An automatic industrial machine for refining raw chemicals and gases. | Автоматическая промышленная машина для переработки химического сырья и газов.
+
 object_refugee | Refugee | Беженец
+
 object_repairstructure | Repair Structural Damage | Ремонт Структурных Повреждений
+
 object_repairstructure_description | The local shipyard can repair the heavy structural damage on your ship, for a price. | Местная верфь может отремонтировать тяжелые структурные повреждения вашего корабля за определенную плату.
+
 object_researchcredit | Research Credit | Кредит На Исследования
+
 object_researchcredit_description | This processor chip contains information that can be used to boost our current research or improve the efficiency of our equipment. | Чип этого процессора содержит информацию, которая может быть использована для активизации наших текущих исследований или повышения эффективности нашего оборудования.
+
 object_robotarm | Robot Arm | Рука Робота
+
 object_robotarmshort | Short Robot Arm | Короткая Рука Робота
+
 object_robotarmsmart | Smart Robot Arm | Умная Рука Робота
+
 object_ruinedequipment | Ruined Equipment | Разрушенное Оборудование
+
 object_sciencestation | Science Station | Научная Станция
+
 object_sciencestation_description | A workstation for a scientist to conduct valuable research. | Рабочая станция ученого для проведения ценных исследований.
+
 object_scientist | Scientist | Ученый
+
 object_scrapmetal | Scrap Metal | Металлолом
+
 object_scrubber | CO2 Scrubber | Скруббер CO2
+
 object_scrubber_description | Extracts Carbon Dioxide from the atmosphere. Its output must be piped into a storage tank or it will become blocked. | Извлекает диоксид углерода из атмосферы. Его выход необходимо направить в Резервуар для хранения, иначе он засорится.
+
 object_seeds | Seeds | Семена
+
 object_seeds_description | A small bag of mixed vegetable seeds, that you might be able to grow in a Hydroponic Garden. | Небольшой пакет смешанных семян овощей, которые вы сможете вырастить в Гидропонном саду.
+
 object_sewage | Sewage | Отходы Канализации
+
 object_sewagemachine | Waste Treatment Machine | Переработчик Отходов
+
 object_sewagemachine_description | Takes sewage from the habitation deck, separates the solid and liquid waste, and partially recycles them. The device outputs dirty water and compost. | Принимает сточные воды с жилой палубы, разделяет твердые и жидкие отходы и частично перерабатывает их. Устройство выдает грязную Воду и Компост.
+
 object_sewagepipe | Sewage Pipe | Канализационная Труба
+
 object_sewagepipe_description | This pipe extracts sewage from the habitation deck above. You can then pipe the sewage into a storage tank and (eventually) reprocess it back into water.  The Pipe MUST BE DIRECTLY UNDER THE HABITATION DECK to function. | Эта труба отводит сточные воды с жилой палубы, расположенной выше. Затем вы можете направить сточные воды в Резервуар для хранения и (в конечном итоге) переработать их обратно в Воду.  Для работы труба должна находиться непосредственно под жилой палубой.
+
 object_shieldedcanistercomponent | Shielded Canister | Экранированная Канистра
+
 object_shieldedzeleoncanister | Shielded Zeleon | Экранированный Зелеон
+
 object_ShipWreckage | Ship Wreckage | Обломки Корабля
+
 object_short_bullets | Ammo | Патроны
+
 object_short_cannonshell | Shells | Снаряды
+
 object_short_deuterium | Dtrm | Dtrm
+
 object_short_ftlcharge | FTL | FTL
+
 object_short_oxygen | O2 | O2
+
 object_short_railgunshell | Slugs | Снаряды
+
 object_shuttle | Shuttle | Челнок
+
 object_smallstoragecrate | Small Storage Crate | Малое Хранилище
+
 object_smallstoragecrate_description | Small storage crate, stores a single type of resource but at 4x the usual amount per square | Маленький ящик для хранения, хранит один тип ресурсов, но в 4 раза больше обычного количества на квадрат
+
 object_smalltable | Small Table | Маленький Столик
+
 object_smalltank | Medium Tank | Средний Резервуар
+
 object_smalltank_description | A storage tank that can store liquids and gases. | Резервуар, в котором могут храниться жидкости и газы.
+
 object_smelter | Smelter | Плавильная Печь
+
 object_smelter_description | This industrial processing machine can melt ores into usable metal ingots. Once installed, click on it to change the ore type. | Эта промышленная машина может переплавлять руды в пригодные для использования Железные слитки. После установки нажмите на нее, чтобы изменить тип руды.
+
 object_sofa | Sofa | Диван
+
 object_solarpanel | Solar Panel | Солнечная Панель
+
 object_solarpanel_description | These must be installed outside your ship, with scaffolding for support. Each panel generates 10MW. | Они должны быть установлены снаружи вашего корабля, с лесами для поддержки. Каждая панель генерирует 10 МВт.
+
 object_spacesuit | Spacesuit | Космический Скафандр
+
 object_spacesuitpod | Spacesuit Pod | Капсула Для Скафандра
+
 object_spacesuitpod_description | A storage place for spacesuits that need their oxygen replenishing. | Место для хранения скафандров, нуждающихся в пополнении запасов Кислорода.
+
 object_stableisotopes | Stable Isotopes | Стабильные Изотопы
+
 object_stablezeleon | Stable Zeleon | Стабильный Зелеон
+
 object_stairs | Ladder | Лестница
+
 object_stairs_description | Crew and passengers can only access the upper habitation deck with a ladder. | Экипаж и пассажиры могут попасть на верхнюю жилую палубу только по лестнице.
+
 object_stargateactuator | Stargate Actuator | Привод Звездных Врат
+
 object_stargatecapacitor | Stargate Capacitor | Конденсатор Звездных Врат
+
 object_stargatereceiver | Stargate Receiver | Приемник Звездных Врат
+
 object_stargateresin | Stargate Resin | Смола Звездных Врат
+
 object_stargatestructure | Stargate Frame | Рама Звездных Врат
+
 object_storagecrate | Storage Crate | Хранилище
+
 object_storagecrate_description | Storage crate, stores a single type of resource but at 4x the usual amount per square | Ящик для хранения, хранит один тип ресурсов, но в 4 раза больше обычного количества на квадрат
+
 object_supercomputer | Super Computer | Суперкомпьютер
+
 object_supercomputer_description | A powerful computer for number crunching and simulating important research. | Мощный компьютер для вычисления чисел и моделирования важных исследований.
+
 object_table | Table | Стол
+
 object_tank | Huge Tank | Огромный Резервуар
+
 object_tank_description | A massive tank that can store a great deal of liquid or gas. | Массивный резервуар, в котором может храниться большое количество жидкости или газа.
+
 object_telepathicsensor | Telepathic Sensor Station | Телепатическая Сенсорная Станция
+
 object_telepathicsensor_description | A sensor capable of detecting telepathic waves. | Сенсор, способный обнаруживать телепатические волны.
+
 object_thruster | Thruster | Маневровый Двигатель
+
 object_thruster_description | Maneuvering thruster. Must be attached to the wall of the ship. Provides thrust to permit lateral and rotational movement. | Маневровый двигатель. Должен быть прикреплен к стенке корабля. Обеспечивает тягу для бокового и вращательного движения.
+
 object_tiddlet | Tiddlet | Тиддлет
+
 object_tiliumore | Tilium Ore | Тилиевая Руда
+
 object_tinytank | Small Tank | Малый Резервуар
+
 object_tinytank_description | A storage tank that can store liquids and gases. | Резервуар для хранения жидкостей и газов.
+
 object_track | Track | Конвейер
+
 object_tracksplitter | Splitter | Разделитель
+
 object_warpalignmentcomputer | Warp Alignment Computer | Компьютер Выравнивания Искривления
+
 object_wastewater | Waste Water | Сточные Воды
+
 object_water | Water | Вода
+
 object_waterpurifier | Water Purifier | Очиститель Воды
+
 object_waterpurifier_description | Takes dirty water from sewage recycling or from naturally occurring ice - and purifies it into safe drinkable water. | Забирает грязную воду из канализационных стоков или из льда естественного происхождения и очищает ее до безопасной питьевой воды.
+
 object_weaponsconsole | Weapons Control Centre | Центр Управления Оружием
+
 object_weaponsconsole_description | A terminal where a Weapons Officer can control multiple weapons at the same time. | Терминал, с которого офицер может управлять несколькими видами оружия одновременно.
+
 object_weaponsspecialist | Weapons Officer | Оружейный Офицер
+
 object_zeleonenergycell | Zeleon Energy Cell | Энергетическая Ячейка Зелеона
+
 object_zeleongas | Zeleon Gas | Газ Зелеона
+
+
+

@@ -1,319 +1,640 @@
 mission_accept | Accept | Принять
+
 mission_accepted | Accepted | Принято
+
 mission_acceptonlayer | Accept and assign to *X | Принять и назначить на *X
+
 mission_arenaprep_summary | Prepare your ship and crew for the upcoming battle!\nUnpausing the game will begin combat. | Подготовьте свой корабль и экипаж к предстоящему сражению!\nНе приостанавливая игру, вы начнете бой.
+
 mission_arenaprep_title | Prepare for battle! | Приготовьтесь к бою!
+
 mission_arenaprep_useeditor | OPTIONAL: Use the ship editor to prepare | ДОПОЛНИТЕЛЬНО: Используйте редактор кораблей для подготовки
+
 mission_assignedto | (Assigned to *X) | (Назначен на *X)
+
 mission_assignedtolayer | Accepted and assigned to L*X | Принято и назначено на L*X
+
 mission_bypassed | BYPASSED | ПРОЙДЕН
+
 mission_cannotaccept | You cannot accept this mission | Вы не можете принять это задание
+
 mission_cannotassigntolayer | Cannot assign to *X | Невозможно назначить на *X
+
 mission_collected | COLLECTED | СОБРАНО
+
 mission_combat_accept | We have marked the location of the hostile forces on your map. Good hunting. | Мы отметили расположение вражеских сил на вашей карте. Удачная охота.
+
 mission_combat_alldestroyed | All hostile forces have been destroyed. Total payment $*X. | Все враждебные силы были уничтожены. Общая сумма выплат $*X.
+
 mission_combat_attacknow | You have located the hostile forces! Destroy them immediately. | Вы обнаружили враждебные силы! Уничтожьте их немедленно.
+
 mission_combat_description1 | There is a small fleet of hostile ships operating illegally at a nearby star system in this sector. | В соседней звездной системе этого сектора незаконно действует небольшой флот враждебных кораблей.
+
 mission_combat_description2 | They have been harassing trade and humanitarian ships for too long. | Они слишком долго преследовали торговые и гуманитарные корабли.
+
 mission_combat_description3 | Travel to the system, engage them in combat and destroy them. | Отправляйтесь в эту систему, вступите с ними в бой и уничтожьте их.
+
 mission_combat_destroyed | You have destroyed *X hostiles out of *Y | Вы уничтожили *X врагов из *Y
+
 mission_combat_failure | The remaining hostile forces have escaped. | Оставшиеся враждебные силы сбежали.
+
 mission_combat_location | The hostile ships are located at system S*X. | Вражеские корабли находятся в системе S*X.
+
 mission_combat_mines_description1 | Pirate forces have created a dangerous minefield in a busy shipping lane. | Пиратские силы создали опасное минное поле в оживленной судоходной трассе.
+
 mission_combat_mines_description2 | Their aim appears to be to cripple any trade ships that come too close, then rob the stranded ships of valuable cargo. | Их цель, по-видимому, состоит в том, чтобы покалечить все торговые корабли, которые подойдут слишком близко, а затем ограбить захваченные суда, забрав ценный груз.
+
 mission_combat_mines_description3 | Travel to the system and destroy the minefield, before the pirate forces show up. | Отправляйтесь в систему и уничтожьте минное поле, пока не появились пираты.
+
 mission_combat_mines_requirement | You will need a weapon system to destroy the mines from a distance. | Вам понадобится система оружия, чтобы уничтожить мины на расстоянии.
+
 mission_combat_objective | Locate and engage hostile forces | Найдите и уничтожьте враждебные силы
+
 mission_combat_piratecount | Reports suggest there are *X ships in the hostile fleet, hiding out in star system *Y. | По сообщениям, во вражеском флоте есть *X кораблей, которые скрываются в звездной системе *Y.
+
 mission_combat_requirements | You will require an armed combat vessel to accept this mission. | Для выполнения этого задания вам потребуется вооруженный боевой корабль.
+
 mission_combat_success | Destroyed *X/*Y Hostiles | Уничтожено *X/*Y врагов
+
 mission_combat_title_armouredthugs | Eradicate armoured thugs | Уничтожьте бронированных бандитов
+
 mission_combat_title_communityships | Attack and destroy hostile pirate gang | Атакуйте и уничтожьте враждебную пиратскую банду
+
 mission_combat_title_mercenarystation | Destroy hostile mercenary weapons platform | Уничтожьте вражескую оружейную платформу наемников
+
 mission_combat_title_mines | Clear dangerous minefield | Разминируйте опасное минное поле
+
 mission_combat_title_pirategang | Neutralise pirate gang | Нейтрализуйте пиратскую банду
+
 mission_combat_title_roguefighters | Attack and destroy rogue fighters | Атакуйте и уничтожьте истребители-изгои
+
 mission_completed | COMPLETED | ЗАВЕРШЕНО
+
 mission_contractcompleted | Contract Completed | Контракт выполнен
+
 mission_courseplotted | COURSE PLOTTED | КУРС-ПЛАН
+
 mission_deliver | Deliver | Доставить
+
 mission_delivered | DELIVERED | ДОСТАВЛЕНО
+
 mission_delivery_alldelivered | All cargo has been supplied. Good luck. | Весь груз доставлен. Удачи.
+
 mission_delivery_delivery | Supplied *X out of *Y items. | Поставлено *X из *Y предметов.
+
 mission_delivery_description | I've got *X boxes of supplies that need delivering. | У меня есть *X контейнеров с припасами, которые нужно доставить.
+
 mission_delivery_descriptionfurther | The destination is *Y Sector Jumps away, in Sector *X. | Пункт назначения находится в *Y секторах прыжков, в секторе *X.
+
 mission_delivery_destination | The destination is in this Sector, at Star System S*X. | Пункт назначения находится в этом секторе, в звездной системе S*X.
+
 mission_delivery_location | Travel to the delivery system | Путешествие к системе доставки
+
 mission_delivery_lost | The remaining *X items of cargo are unaccounted for. | Оставшиеся *X единиц груза не учтены.
+
 mission_delivery_outoftime | It is too late - you will no longer be paid for the remaining cargo. | Слишком поздно - вам больше не заплатят за оставшийся груз.
+
 mission_delivery_received | Received *X out of *Y items. Total payment due $*Z. | Получено *X из *Y предметов. Общая сумма оплаты $*Z.
+
 mission_delivery_shuttle | A shuttle is on route to you now with the supplies. | Сейчас к вам направляется Челнок с припасами.
+
 mission_delivery_success | Delivered *X out of *Y items | Доставлено *X из *Y предметов
+
 mission_delivery_timed | These goods are required immediately. You'll have just *X minutes. (+50% pay) | Эти товары нужны немедленно. У вас есть всего *X минут (+50% к оплате)
+
 mission_delivery_timeremaining | You have just *X seconds remaining to make the delivery! | У вас осталось всего *X секунд, чтобы успеть доставить груз!
+
 mission_delivery_title | Courier mission: Deliver cargo to nearby system | Курьерская миссия: Доставить груз в соседнюю систему
+
 mission_delivery_titlefurther | Deliver cargo to another sector | Доставить груз в другой сектор
+
 mission_delivery_toolate | Received *X out of *Y items, but the time limit has now expired. | Получено *X из *Y предметов, но срок оплаты истек.
+
 mission_delivery_turnin | A shuttle is on its way to collect the cargo. | Челнок направляется к вам, чтобы забрать груз.
+
 mission_delivery_wrongdestination | Some of the cargo has been delivered to the wrong location. You will not be paid. | Часть груза была доставлена не в то место. Вам не будет выплачено вознаграждение.
+
 mission_difficulty | This mission has been assigned a difficulty rating of *X. | Этой миссии присвоен рейтинг сложности *X.
+
 mission_difficulty_short | DIFFICULTY *X | СЛОЖНОСТЬ *X
+
 mission_episode_1 | EPISODE 1 | ЭПИЗОД 1
+
 mission_failed | FAILED | ПРОВАЛИЛСЯ
+
 mission_flightready_description1 | All ships must pass basic flight ready certification before being allowed on operations. | Все корабли должны пройти базовую сертификацию готовности к полету, прежде чем их допустят к полетам.
+
 mission_flightready_description2 | A ship requires each of the following capabilities in order to be certified 'Flight Ready': | Чтобы получить сертификат 'Готовность к полету', корабль должен обладать каждым из следующих качеств:
+
 mission_flightready_engines | Engines capable of propulsion | Двигатели, способные приводить в движение
+
 mission_flightready_engines_help | Engines for propulsion.  Test fire your engines (From the TACTICAL view) to certify them. | Двигатели для приведения в движение.  Проведите испытательный пуск Двигателей (с ТАКТИЧЕСКОЙ точки зрения), чтобы сертифицировать их.
+
 mission_flightready_ftl | An FTL Drive capable of Hyperspace jumps | Сверхсветовой привод, способный совершать гиперпространственные прыжки
+
 mission_flightready_ftljump | Jump to the marked destination | Прыжок к отмеченному месту назначения
+
 mission_flightready_ftljump_help | An FTL Drive.  Test your new FTL engine by making a jump to the destination marked on the map. | Сверхсветовой привод.  Испытайте свой новый Сверхсветовой двигатель, совершив прыжок к месту назначения, отмеченному на карте.
+
 mission_flightready_lifesupport | Life support to make the interior habitable [*X%] | Жизнеобеспечение, чтобы сделать интерьер пригодным для жизни [*X%]
+
 mission_flightready_lifesupport_help | Life support to make the cabin breathable.  Use an Airduct to pressurise the cabin, connected to an Oxygen Loader to supply the air. | Сделайте салон пригодным для дыхания.  Используйте Воздуховод для нагнетания давления в салон, подключенный к Погрузчику кислорода для подачи воздуха.
+
 mission_flightready_movement | Test the engines from the TACTICAL screen | Проверьте Двигатели на экране ТАКТИКА
+
 mission_flightready_name | Flight Ready | Готовность к полету
+
 mission_flightready_power | A Reactor, generating power. | Реактор, генерирующий энергию.
+
 mission_flightready_power_help | A reactor to generate power. Use a Fuel Loader to pipe fuel into the Reactor. | Реактор для выработки энергии. Для подачи топлива в Реактор используйте Погрузчик топлива.
+
 mission_flightready_title | Make your new ship ready for flight | Подготовьте свой новый корабль к полету
+
 mission_fortress_accept | We have marked the location of the fortress on your map. Good luck, Captain. | Мы отметили местоположение крепости на твоей карте. Удачи, капитан.
+
 mission_fortress_description1 | Hostiles have set up a fortress within the sector. It appears to be where they are fabricating their ships. | Враги устроили крепость в этом секторе. Похоже, там они изготавливают свои корабли.
+
 mission_fortress_description2 | The fortress is giving them significant power across the sector and must be dealt with. | Крепость дает им значительную власть во всем секторе, и с ней нужно бороться.
+
 mission_fortress_description3 | Travel to the fortress, destroy it, and eliminate any remaining hostiles | Отправляйся в крепость, разрушь ее и уничтожь всех оставшихся врагов
+
 mission_fortress_destroyfortress | Destroy the fortress | Уничтожь крепость
+
 mission_fortress_destroyhostiles | Eliminate any remaining hostiles | Уничтожь всех оставшихся врагов
+
 mission_fortress_objective | Travel to the fortress | Отправляйся в крепость
+
 mission_fortress_success | The fortress assault was successful. | Штурм крепости прошел успешно.
+
 mission_fortress_title | Destroy a hostile fortress | Уничтожь вражескую крепость
+
 mission_illegal | ILLEGAL ACTIVITY | НЕЗАКОННАЯ ДЕЯТЕЛЬНОСТЬ
+
 mission_industry_accepted1 | We've marked the asteroid belt location on your map. | Мы отметили местоположение пояса астероидов на вашей карте.
+
 mission_industry_description | There is huge demand for FTL fuel cells, to power the evacuation ships. | Существует огромный спрос на сверхсветовые топливные элементы для питания эвакуационных кораблей.
+
 mission_industry_description2 | We can manufacture FTL Fuel, but we need Tilium ore that can only be found in certain asteroid belts. | Мы можем производить сверхсветовое топливо, но нам нужна тилиевая руда, которую можно найти только в определенных астероидных поясах.
+
 mission_industry_description3 | Luckily there is just such an asteroid belt nearby, within this sector, in system S*X. | К счастью, как раз такой пояс астероидов есть неподалеку, в пределах этого сектора, в системе S*X.
+
 mission_industry_description3b | The nearest asteroid belt is in the next sector. | Ближайший астероидный пояс находится в следующем секторе.
+
 mission_industry_description4 | Then drop the Ore off at any trading post to collect payment. | Затем сдайте руду в любой торговый пункт, чтобы получить оплату.
+
 mission_industry_gathered | You have *X Tilium ore on this ship (We need *Y) | У вас есть *X тилиевой руды на этом корабле (нам нужно *Y)
+
 mission_industry_hostiles | WARNING: There are hostile forces camped out near the asteroid belt. (+50% pay) | ВНИМАНИЕ: В районе пояса астероидов расположились враждебные силы. (+50% к зарплате)
+
 mission_industry_location | Travel to the asteroid belt | Путешествие к поясу астероидов
+
 mission_industry_lost | There is no more Tilium on board your ship. | На борту вашего корабля больше нет тилиума.
+
 mission_industry_meteorshower | WARNING: There are reports of a meteor shower in that system. (+50% pay). | ВНИМАНИЕ: Есть сообщения о метеоритном дожде в этой системе. (+50% к оплате).
+
 mission_industry_received | We have received *X Tilium out of a total of *Y. Total payment due $*Z. | Мы получили *X тилиума из общего количества *Y. Общая сумма платежа составляет $*Z.
+
 mission_industry_refined |  ==> The Tilium must first be refined in a Smelter prior to delivery. <== |  ==> Перед доставкой тилиум должен быть очищен в Плавильной печи. <==
+
 mission_industry_refined_title | Extract and refine critical resources | Добыть и переработать критически важные ресурсы
+
 mission_industry_refinedrequired | Then refine the mined ore in a Smelter. | Затем переработайте добытую руду в Плавильной печи.
+
 mission_industry_requirements | This contract requires a suitable mining vessel, equipped with Mining Lasers and Logistics Drones. | Для выполнения этого контракта требуется подходящее шахтерское судно, оснащенное Шахтерскими лазерами и Логистическими дронами.
+
 mission_industry_return | Return to a colony or shipyard system to deliver the Tilium. | Вернитесь в систему колонии или верфи, чтобы доставить тилиум.
+
 mission_industry_shuttle | We've dispatched a shuttle to collect the Tilium Ore. | Мы отправили Челнок для сбора Тилиевой руды.
+
 mission_industry_success | Extracted *X/*Y Ore | Добытая *X/*Y руда
+
 mission_industry_tiliumrequired | Travel to the asteroid belt and extract *X Tilium ore. | Отправляйтесь в пояс астероидов и добывайте *X тилиевой руды.
+
 mission_industry_title | Mining contract: Extract critical minerals | Контракт на добычу: добыть критически важную руду
+
 mission_missioncompleted | CONTRACT COMPLETED | ДОГОВОР ВЫПОЛНЕН
+
 mission_new | NEW | НОВОЕ
+
 mission_onroute | ON ROUTE | ПО МАРШРУТУ
+
 mission_passengers_alldelivered | That's it, all passengers are on board your ship. Travel safe commander. | Все, все пассажиры на борту вашего корабля. Счастливого пути, командир.
+
 mission_passengers_collection | Collect all passengers | Соберите всех пассажиров
+
 mission_passengers_delivery | *X out of *Y passengers are on board. | На борту находятся *X из *Y пассажиров.
+
 mission_passengers_description | There is a group of *X civilians who are looking for safe transit. | Есть группа гражданских лиц *X, которые ищут безопасный транзит.
+
 mission_passengers_descriptionfurther | Their destination is *Y Sector Jumps away, in Sector *X. | Их пункт назначения находится в *Y секторах прыжков, в секторе *X.
+
 mission_passengers_destination | Their destination is in this Sector. Drop them off at Star System S*X. | Их пункт назначения находится в этом секторе. Высадите их в звездной системе S*X.
+
 mission_passengers_location | Transport the passengers to the destination | Перевезти пассажиров в пункт назначения
+
 mission_passengers_lost | *X passengers did not arrive at the destination safely. | Пассажиры *X не прибыли в пункт назначения благополучно.
+
 mission_passengers_received | *X passengers out of *Y have made it safely to their destination. Total payment due $*Z. | *X пассажиров из *Y благополучно добрались до места назначения. Общая сумма оплаты $*Z.
+
 mission_passengers_requirements | Your ship will need enough free cabins in your habitation deck. | На вашем корабле будет достаточно свободных кают в жилой палубе.
+
 mission_passengers_shuttle | They are on their way to you now and will dock shortly. | Они уже на пути к вам и скоро причалят.
+
 mission_passengers_success | Transported *X out of *Y passengers | Перевезено *X из *Y пассажиров
+
 mission_passengers_title | Urgent passenger transport request | Срочный запрос на перевозку пассажиров
+
 mission_passengers_titlefurther | Passengers require transport across sectors | Пассажирам требуется перевозка между секторами
+
 mission_passengers_turnin | Welcome! We've dispatched a shuttle to collect the passengers. | Добро пожаловать! Мы отправили Челнок за пассажирами.
+
 mission_passengers_wrongdestination | Passengers have been dropped off at completely the wrong destination! You will not be paid for them. | Пассажиры были высажены совершенно не в том месте! Вы не получите за них оплату.
+
 mission_payment | Payment will be $*X. | Оплата составит $*X.
+
 mission_paymentcash | PAYMENT *X | ОПЛАТА *X
+
 mission_paymentinflation | (The client is offering *Xx more money than usual) | (Клиент предлагает на *Xx больше денег, чем обычно)
+
 mission_paymentinflationpercent | (The client is offering *X% more money than usual) | (Клиент предлагает на *X% больше денег, чем обычно)
+
 mission_paymenttitle | Payment | Оплата
+
 mission_production_available | You have *X stacks of R*Y available for transfer within your fleet (We need *Z) | У вас есть *X стеков R*Y, доступных для передачи в пределах вашего флота (Нам нужно *Z)
+
 mission_production_description1 | We have an urgent requirement for *X stacks of R*Y. | Нам срочно требуется *X стаков R*Y.
+
 mission_production_description2 | You can choose to manufacture the product from raw materials, or acquire it through some other means. | Вы можете выбрать производство продукта из сырья или приобрести его другим способом.
+
 mission_production_marketprice | The market price for these items would be $*X. | Рыночная цена на эти предметы составляет $*X.
+
 mission_production_markup | (We are offering *X% above market rate due to urgent requirement). | (Мы предлагаем цену на *X% выше рыночной в связи со срочной необходимостью).
+
 mission_production_nomore | There is no more R*X available within your fleet. | В вашем флоте больше нет R*X.
+
 mission_production_received | We have received *X stacks of R*Y out of a total of *Z. | Мы получили *X стопок R*Y из общего количества *Z.
+
 mission_production_success | Provided *X/*Y items | Предоставленные предметы *X/*Y
+
 mission_production_title | Production Contract: Manufacture resources | Производственный контракт: производство ресурсов
+
 mission_recovered | RECOVERED | НАЙДЕНО
+
 mission_refugees_alldelivered | All of the refugees are on board. We wish you the best of luck, commander. | Все беженцы на борту. Мы желаем вам удачи, командир.
+
 mission_refugees_description | We have *X civilians living here who have nowhere to go, and no way to escape the void before it arrives. | У нас тут живет *X гражданских лиц, которым некуда идти и нет способа спастись от пустоты до ее прихода.
+
 mission_refugees_description2 | Find a place for them in your fleet, look after them, and we will be forever grateful. | Найдите для них место на вашем флоте, позаботьтесь о них, и мы будем вам вечно благодарны.
+
 mission_refugees_received | *X out of *Y passengers are on board. Total payment $*Z. | *X из *Y пассажиров находятся на борту. Общая сумма оплаты $*Z.
+
 mission_refugees_requirements | Your ship will need enough free cabins in your habitation deck. | На вашем корабле должно быть достаточно свободных кают на жилой палубе.
+
 mission_refugees_title | Take permanent refugees into your care | Возьмите под свою опеку постоянных беженцев
+
 mission_requirement_failed | [FAILED] | [ПРОЙДЕНО]
+
 mission_requirement_passed | [PASSED] | [ПРОЙДЕНО]
+
 mission_requires_cabinspace | Contract requires at least *X free cabins | Контракт требует не менее *X свободных кают
+
 mission_requires_combatrating | You require a Combat Rating of at least *X | Вам требуется боевой рейтинг не ниже *X
+
 mission_requires_combatvessel | Contract requires armed combat vessel | Контракт требует вооруженное боевое судно
+
 mission_requires_equipment | Contract requires Equipment : *X | Контракт требует оборудования : *X
+
 mission_requires_humanitarianrating | You require a Humanitarian Rating of at least *X | Вам требуется гуманитарный рейтинг не ниже *X
+
 mission_requires_industryrating | You require an Industry Rating of at least *X | Вам требуется промышленный рейтинг не ниже *X
+
 mission_requires_logisticsrating | You require a Logistics Rating of at least *X | Вам требуется рейтинг логистики не ниже *X
+
 mission_requires_notindemo | Unavailable to demo players | Недоступно для демо-игроков
+
 mission_requires_stock | Contract requires *X | Контракт требует *X
+
 mission_requires_stock_count | Contract requires *Y *X | Контракт требует *Y *X
+
 mission_rescue_accepted | We've marked the location of the wrecked ship on your map. Please hurry! | Мы отметили местоположение разбитого корабля на вашей карте. Пожалуйста, поторопитесь!
+
 mission_rescue_allrescued | All crew have been rescued from the ship! Drop them off at the nearest starbase or colony. | Все члены экипажа спасены с корабля! Высадите их на ближайшей звездной базе или колонии.
+
 mission_rescue_description1 | A ship has become stranded with engine troubles, and the crew need an immediate rescue. | Корабль сел на мель из-за проблем с Двигателем, и экипаж нуждается в немедленном спасении.
+
 mission_rescue_description2 | The damaged ship is nearby in system S*X. Hurry! | Поврежденный корабль находится неподалеку, в системе S*X. Поторопись!
+
 mission_rescue_description2b | The ship is in the next sector. | Корабль находится в следующем секторе.
+
 mission_rescue_description3 | There are *X crew on board, and they must be dropped off safely somewhere nearby. | На борту находится *X экипажа, и их нужно высадить в безопасном месте поблизости.
+
 mission_rescue_destroyed | The ship engine core exploded. | Ядро Двигателя корабля взорвалось.
+
 mission_rescue_hostiles | There are hostile forces in the area. (+50% pay) | В районе присутствуют враждебные силы. (+50 % к зарплате)
+
 mission_rescue_location | Travel to the stranded ship | Путешествие к севшему на мель кораблю
+
 mission_rescue_lost | *X crew did not arrive safely. | Экипаж *X не добрался до безопасного места.
+
 mission_rescue_meteors | There are reports of a meteor shower in the area. (+25% pay). | Есть сообщения о метеоритном дожде в этом районе. (+25 % к зарплате).
+
 mission_rescue_received | *X crew out of *Y have made it to safety. Total payment due $*Z. | *X членов экипажа из *Y добрались до безопасного места. Общий платеж составляет $*Z.
+
 mission_rescue_requirements | You will require at least four manoeuvring thrusters to successfully dock with the damaged ship. | Чтобы успешно состыковаться с поврежденным кораблем, вам потребуется не менее четырех Маневровых двигателей.
+
 mission_rescue_rescued | *X crew out of *Y have been rescued and are on board. | Экипаж *X из *Y был спасен и находится на борту.
+
 mission_rescue_spin | The ship is spinning out of control. It will be very challenging to dock. (+25% pay) | Корабль выходит из-под контроля. Причалить будет очень сложно. (+25 % к зарплате)
+
 mission_rescue_thrust | The ship is moving - you will need some skill to dock safely. (+25% pay) | Корабль движется - вам понадобится сноровка, чтобы безопасно причалить. (+25 % к зарплате)
+
 mission_rescue_timed | The ship engines will explode very soon. (+25% pay). | Двигатели корабля взорвутся очень скоро. (+25% к зарплате).
+
 mission_rescue_timer | The ship engine core will explode in just *X seconds!! | Ядро Двигателя корабля взорвется через *X секунд!
+
 mission_rescue_title | Rescue civilians from wrecked ship | Спасение гражданских лиц с потерпевшего крушение корабля
+
 mission_reward | PAYMENT | ОПЛАТА
+
 mission_sectordestory_success | HOSTILES ELIMINATED | ВРАГИ УНИЧТОЖЕНЫ
+
 mission_sectordestroy_desc1 | Hostile forces have taken up residence within this sector. They are hindering our evacuation efforts and stealing vital resources. | Вражеские силы обосновались в этом секторе. Они мешают нашей эвакуации и похищают жизненно важные ресурсы.
+
 mission_sectordestroy_desc2 | We want you to pay a visit to each location marked HOSTILES on the map. | Мы хотим, чтобы вы нанесли визит в каждую точку, отмеченную на карте как HOSTILES.
+
 mission_sectordestroy_desc3 | Terminate any enemy vessels you find at those locations. | Уничтожьте все вражеские корабли, которые вы обнаружите в этих местах.
+
 mission_sectordestroy_map | Destroy hostiles [*X/*Y] | Уничтожьте врагов [*X/*Y]
+
 mission_sectordestroy_payment | A payment of $*X will be made after each location is cleared, for a total of $*Y. | После зачистки каждой локации будет произведена оплата в размере $*X, итого $*Y.
+
 mission_sectordestroy_progress | Cleared *X out of *Y systems | Очистили *X от *Y систем
+
 mission_sectordestroy_system | You have destroyed the enemy forces in system S*X. Payment of $*Y is coming your way. | Вы уничтожили вражеские силы в системе S*X. Вас ожидает выплата в размере $*Y.
+
 mission_sectordestroy_title | SECTOR OBJECTIVE: Destroy all hostile forces | СЕКТОРНАЯ ЦЕЛЬ: Уничтожить все вражеские силы
+
 mission_sectorevacuate_arrived | *X passengers out of *Y have made it safely to their destination. Total payment $*Z. | *X пассажиров из *Y благополучно добрались до места назначения. Общая сумма оплаты $*Z.
+
 mission_sectorevacuate_description | There are *X civilians stranded in the sector, with no means to escape the coming catastrophe. | В секторе застряло *X гражданских лиц, у которых нет возможности спастись от грядущей катастрофы.
+
 mission_sectorevacuate_description2 | Travel to their star systems and pick them up, and house them temporarily in your fleet. | Отправляйтесь в их звездные системы, подберите их и временно разместите на своем флоте.
+
 mission_sectorevacuate_description3 | Transport them safely to the next sector and drop them off at the first starbase to complete the objective. | Безопасно перевезите их в следующий сектор и высадите на первой звездной базе, чтобы завершить задачу.
+
 mission_sectorevacuate_died | *X civilians have been killed during the evacuation. | *X гражданских лиц были убиты во время эвакуации.
+
 mission_sectorevacuate_finished | Thank you for your efforts commander. | Спасибо за ваши усилия, командир.
+
 mission_sectorevacuate_lost | *X passengers did not arrive at the destination safely. | *X пассажиров не добрались до места назначения благополучно.
+
 mission_sectorevacuate_map | Evacuate civilians [*X/*Y] | Эвакуировать гражданских лиц [*X/*Y]
+
 mission_sectorevacuate_payment | The total payment for rescuing all *X civilians will be $*Y | Общая плата за спасение всех *X гражданских лиц составит $*Y
+
 mission_sectorevacuate_received | *X out of *Y civilians have been collected. | Было собрано *X из *Y гражданских лиц.
+
 mission_sectorevacuate_requirements | Your ship will need enough free cabins in your habitation deck. | На вашем корабле должно быть достаточно свободных кают в жилой палубе.
+
 mission_sectorevacuate_requirements2 | (You can expand your hab deck at a Shipyard using the Ship Editor) | (Вы можете расширить жилую палубу на верфи с помощью редактора кораблей)
+
 mission_sectorevacuate_title | SECTOR OBJECTIVE: Evacuate stranded civilians | ЦЕЛЬ СЕКТОРА: Эвакуировать гражданских лиц, оказавшихся в затруднительном положении
+
 mission_sectorjumpgate_damage | The Jumpgate is damaged, and must be repaired and re-aligned. | Прыжковые врата повреждены, их нужно отремонтировать и заново выровнять.
+
 mission_sectorjumpgate_description1 | The Jumpgate at the end of this sector has some requirements before it can be used. | Джампгейт в конце этого сектора имеет некоторые требования, прежде чем его можно будет использовать.
+
 mission_sectorjumpgate_hostiles | Eradicate hostile blockade | Ликвидируй вражескую блокаду
+
 mission_sectorjumpgate_hostiles2 | A fleet of hostile ships is attempting to blockade the jumpgate and extort money from ships passing through. | Флот враждебных кораблей пытается заблокировать джампгейт и вымогать деньги у проходящих через него кораблей.
+
 mission_sectorjumpgate_hostiles3 | You'll need to clear them out before we can safely activate the jumpgate. | Вам нужно будет зачистить их, прежде чем мы сможем безопасно активировать прыжковые врата.
+
 mission_sectorjumpgate_map | Activate the Jumpgate | Активировать Прыжковые врата
+
 mission_sectorjumpgate_materialprovided | Provided *X/*Y R*Z | Предоставлено *X/*Y R*Z
+
 mission_sectorjumpgate_materials | We need some maintainence supplies before the jumpgate can be used. | Прежде чем использовать прыжковые врата, нам нужны некоторые ремонтные материалы.
+
 mission_sectorjumpgate_materialsrequired | We require *X R*Y | Нам требуется *X R*Y
+
 mission_sectorjumpgate_paythetoll | Pay the transit fee (*X) | Оплатить транзитный сбор (*X)
+
 mission_sectorjumpgate_provide | Provide Materials | Предоставь материалы
+
 mission_sectorjumpgate_ready | The Jumpgate is now ready for use. | Теперь Прыжковые врата готовы к использованию.
+
 mission_sectorjumpgate_ready2 | Please maneuver all fleet ships into the jumpgate and align for transit. | Пожалуйста, направьте все корабли флота в Прыжковые врата и подготовьтесь к транзиту.
+
 mission_sectorjumpgate_repair | Repair the jumpgate | Отремонтировать прыжковые ворота
+
 mission_sectorjumpgate_repaired | Thank you, the Jumpgate has been repaired and re-aligned. | Спасибо, прыжковые врата были отремонтированы и заново выровнены.
+
 mission_sectorjumpgate_title | SECTOR OBJECTIVE: Activate the Jumpgate | ЗАДАЧА СЕКТОРА: Активировать прыжковые врата
+
 mission_sectorjumpgate_toll | There is a TRANSIT FEE to pay for use of the Jumpgate. This money covers the operating costs and energy consumption of such a massive facility. | За использование Прыжковых врат взимается плата за проезд. Эти деньги покрывают эксплуатационные расходы и энергопотребление такого огромного сооружения.
+
 mission_sectorjumpgate_tollpaid | Thank you, payment received for transit. | Спасибо, оплата получена за транзит.
+
 mission_sectorprotect_accepted | We've marked the location of the ship on your map. Please hurry! | Мы отметили местоположение корабля на вашей карте. Пожалуйста, поторопитесь!
+
 mission_sectorprotect_action_payment | TAKE CASH REWARD | ВЗЯТЬ ДЕНЕЖНОЕ ВОЗНАГРАЖДЕНИЕ
+
 mission_sectorprotect_action_ship | TAKE SHIP REWARD | ВЗЯТЬ НАГРАДУ ЗА КОРАБЛЬ
+
 mission_sectorprotect_allenemieskilled | All enemies destroyed. | Все враги уничтожены.
+
 mission_sectorprotect_call | INCOMING DISTRESS CALL | ВХОДЯЩИЙ СИГНАЛ БЕДСТВИЯ
+
 mission_sectorprotect_calltoarms | The vessel is under attack! Fight off the hostile ships before it's too late. | Судно атаковано! Отбейте вражеские корабли, пока не стало слишком поздно.
+
 mission_sectorprotect_description1 | Investigate a distress call in system S*X. | Расследуй сигнал бедствия в системе S*X.
+
 mission_sectorprotect_description2 | A commercial vessel is under attack from an unknown hostile enemy. They have already taken heavy damage. | Торговое судно атаковано неизвестным врагом. Они уже получили серьезные повреждения.
+
 mission_sectorprotect_friendlykilled | Unfortunately the ship has been destroyed. | К сожалению, корабль уничтожен.
+
 mission_sectorprotect_kills | *X of the *Y enemy ships have been destroyed. | *X из *Y вражеских кораблей были уничтожены.
+
 mission_sectorprotect_map | Investigate Distress Call | Расследовать сигнал бедствия
+
 mission_sectorprotect_map_initial | Investigate Distress Call | Расследовать сигнал бедствия
+
 mission_sectorprotect_offer1 | Thank you, Captain! We would never have survived without your assistance. | Спасибо вам, капитан! Мы бы никогда не выжили без вашей помощи.
+
 mission_sectorprotect_offer2 | If you'd be interested, we'd be honoured to join forces with your fleet. | Если вам это интересно, мы сочтем за честь объединить усилия с вашим флотом.
+
 mission_sectorprotect_offer3 | Choose your reward, Captain | Выберите свою награду, капитан
+
 mission_sectorprotect_sos1 | To any vessel, we are under attack!  Please help, we won't last much longer! | Любое судно, нас атакуют!  Пожалуйста, помогите, мы долго не протянем!
+
 mission_sectorprotect_success | RESCUE COMPLETED | СПАСЕНИЕ ЗАВЕРШЕНО
+
 mission_sectorprotect_title | SECTOR OBJECTIVE: Protect ship under attack | ЗАДАЧА СЕКТОРА: Защитить корабль, подвергшийся нападению
+
 mission_sectorrescue_accepted | We've marked the location of the wrecked ship on your map. Please hurry! | Мы отметили местоположение разбитого корабля на вашей карте. Пожалуйста, поторопитесь!
+
 mission_sectorrescue_allrescued | All crew have been rescued from the ship! Drop them off at the nearest starbase or colony. | Все члены экипажа спасены с корабля! Высадите их на ближайшей звездной базе или колонии.
+
 mission_sectorrescue_awardcaption | *X People rescued. | *X Люди спасены.
+
 mission_sectorrescue_description1 | Investigate a distress call in system S*X. | Расследуй сигнал бедствия в системе S*X.
+
 mission_sectorrescue_hostiles | There are hostile forces in the area. (+50% pay) | В районе присутствуют враждебные силы. (+50 % к зарплате)
+
 mission_sectorrescue_lost | *X crew did not arrive safely. | Экипаж *X не добрался до безопасного места.
+
 mission_sectorrescue_map | People rescued [*X/*Y] | Люди спасены [*X/*Y]
+
 mission_sectorrescue_map_initial | Investigate Distress Call | Расследовать сигнал бедствия
+
 mission_sectorrescue_meteors | There are reports of a meteor shower in the area. (+25% pay). | Есть сообщения о метеоритном дожде в этом районе. (+25 % к зарплате).
+
 mission_sectorrescue_received | *X crew out of *Y have made it to safety. Payment owed $*Z. | *X экипаж из *Y добрался до безопасного места. Причитается выплата $*Z.
+
 mission_sectorrescue_requirements | You will require four manoeuvring thrusters to successfully dock with the damaged ship. | Чтобы успешно пристыковаться к поврежденному кораблю, вам потребуется четыре Маневровых двигателя.
+
 mission_sectorrescue_rescued | *X crew out of *Y have been rescued and are on board. | Экипаж *X из *Y был спасен и находится на борту.
+
 mission_sectorrescue_spin | The ship is spinning out of control. It will be very challenging to dock. (+25% pay) | Корабль выходит из-под контроля. Причалить будет очень сложно. (+25 % к зарплате)
+
 mission_sectorrescue_success | RESCUE COMPLETED | СПАСЕНИЕ ЗАВЕРШЕНО
+
 mission_sectorrescue_thrust | The ship is moving - you will need some skill to dock safely. (+25% pay) | Корабль движется - вам потребуется определенная сноровка, чтобы безопасно причалить. (+25 % к зарплате)
+
 mission_sectorrescue_thrusters | NB. YOU WILL NEED AT LEAST FOUR THRUSTERS TO MANOEUVRE INTO POSITION. | NB. ДЛЯ МАНЕВРИРОВАНИЯ НА МЕСТЕ ВАМ ПОНАДОБИТСЯ НЕ МЕНЕЕ ЧЕТЫРЕХ МАНЕВРОВЫХ ДВИГАТЕЛЕЙ.
+
 mission_sectorrescue_timed | The ship engines will explode very soon. (+25% pay). | Двигатели корабля очень скоро взорвутся. (+25% к зарплате).
+
 mission_sectorrescue_timer | The ship engine core will explode in just *X seconds!! | Ядро Двигателя корабля взорвется через *X секунд!
+
 mission_sectorrescue_title | SECTOR OBJECTIVE: Rescue civilians from wrecked ship | ЦЕЛЬ СЕКТОРА: Спасти гражданских лиц с потерпевшего крушение корабля
+
 mission_show_completed | SHOW COMPLETED | ПОКАЗАТЬ ПРОЙДЕННОЕ
+
 mission_showonmap | SHOW ON MAP | ПОКАЗАТЬ НА КАРТЕ
+
 mission_special | Special Mission | Специальная миссия
+
 mission_tiddlets_accepted | Excellent. We are sending a shuttle to you now. | Отлично. Мы отправляем к вам Челнок.
+
 mission_tiddlets_accepted1 | Thank you very much for helping us with these unique creatures. If I'm honest, we have struggled to find a captain who was willing to undertake this mission. | Большое спасибо за помощь с этими уникальными существами. Если честно, мы с трудом нашли капитана, который согласился бы взять на себя эту миссию.
+
 mission_tiddlets_accepted2 | We have left you with a litter of eight female Tiddlets, along with some comfortable crates for them to sleep in. | Мы оставляем вам приплод из восьми самок Тиддлeтов, а также несколько удобных ящиков для их сна.
+
 mission_tiddlets_accepted3 | Please take very good care of them! | Пожалуйста, позаботьтесь о них как следует!
+
 mission_tiddlets_alldelivered | We have received all of your Tiddlets. Thank you so much! | Мы получили всех ваших Тиддлетов. Большое спасибо!
+
 mission_tiddlets_alldelivered1 | All 8 Tiddlets have been delivered. | Все 8 Тиддлетов были доставлены.
+
 mission_tiddlets_alldelivered2 | Now, there is one crucial detail you must adhere to, in order to safely transport these Tiddlets. | Есть одна важная деталь, которую вы должны соблюсти, чтобы безопасно транспортировать этих Тиддлетов.
+
 mission_tiddlets_alldelivered3 | They can survive up to *X seconds in hyperspace safely, but anything beyond that risks them dying of shock. | Они могут безопасно выдержать до *X секунд в гиперпространстве, но при превышении этого срока они рискуют умереть от шока.
+
 mission_tiddlets_alldelivered4 | Please be very careful when choosing your hyperspace route. | Пожалуйста, будьте очень осторожны при выборе гиперпространственного маршрута.
+
 mission_tiddlets_dead | There are now *X dead tiddlets on board | Сейчас на борту находится *X мертвых Тиддлетов
+
 mission_tiddlets_delivered | We have delivered *X out of 8 Tiddlets. | Мы доставили *X из 8 Тиддлетов.
+
 mission_tiddlets_description1 | We need a transport vessel to ferry a litter of lovable, rare live animals to a sanctuary, many jumps away. | Нам нужно транспортное судно, чтобы переправить приплод милых редких животных в заповедник, расположенный за много прыжков отсюда.
+
 mission_tiddlets_description2 | The animals aren't dangerous, but they do have some special requirements that must be closely followed or they will not survive the journey. | Животные не опасны, но у них есть особые требования, которые необходимо тщательно соблюдать, иначе они не переживут путешествие.
+
 mission_tiddlets_description3 | We will pay $*X if the entire litter is delivered safely. | Мы заплатим $*X, если весь помет будет доставлен в целости и сохранности.
+
 mission_tiddlets_extrareward1 | Since you delivered an entirely new litter to us, we thought it only fair to reward you with a gift. | Поскольку вы доставили нам совершенно новый помет, мы решили, что будет справедливо наградить вас подарком.
+
 mission_tiddlets_extrareward2 | We have sent you a couple of prototype Long Range Hyperspace Sensors. They are much more sensitive than the standard model. We hope you find them useful. | Мы отправили вам пару прототипов гиперпространственных датчиков дальнего действия. Они гораздо чувствительнее стандартной модели. Мы надеемся, что вы найдете их полезными.
+
 mission_tiddlets_extras | We have now received an additional *X Tiddlets! | Теперь мы получили еще *X Тиддлетов!
+
 mission_tiddlets_failure | What the hell happened? We trusted you with those Tiddlets and you let us down! | Что, черт возьми, произошло? Мы доверили вам этих Тиддлетов, а вы нас подвели!
+
 mission_tiddlets_invite1 | Greetings! We are looking for a pilot who can help us with an important animal welfare matter. | Приветствую! Мы ищем пилота, который мог бы помочь нам в одном важном деле, связанном с защитой животных.
+
 mission_tiddlets_invite2 | If you'd like to help (and earn a lot of credits) please find our job in the CONTRACTS list. | Если вы хотите помочь (и заработать много кредитов), пожалуйста, найдите наше задание в списке КОНТРАКТОВ.
+
 mission_tiddlets_notenough | But we trusted you to look after their safety. You've let us down. | Но мы доверили вам позаботиться об их сохранности. Вы нас подвели.
+
 mission_tiddlets_payment | We have safely received *X out of 8 Tiddlets - Payment due $*Y | Мы благополучно получили *X из 8 Тиддлетов - Оплата $*Y
+
 mission_tiddlets_reproduction1 | Oh my goodness! We were certain all 8 were female, but clearly we made a mistake. | Боже мой! Мы были уверены, что все 8 - самки, но, очевидно, ошиблись.
+
 mission_tiddlets_reproduction2 | We would suggest you separate them, but tiddlets reproduce telepathically, and only ever during hyperspace travel. | Мы бы предложили вам разделить их, но Тиддлеты размножаются телепатически и только во время гиперпространственных путешествий.
+
 mission_tiddlets_saferadius | TIDDLET SAFE DISTANCE | БЕЗОПАСНОЕ РАССТОЯНИЕ ДО ТИДДЛА
+
 mission_tiddlets_shock | Oh my goodness!! There are so many of them! | Боже мой!!! Их так много!
+
 mission_tiddlets_stillalive | Tiddlets still alive : *X | Тиддлеты еще живы: *X
+
 mission_tiddlets_success | Delivered *X Tiddlets | Доставлен *X Тиддлетов
+
 mission_tiddlets_suppliername | Tiddlet Breeder | Заводчик Тиддлетов
+
 mission_tiddlets_title | The trouble with Tiddlets | Проблема с Тиддлетами
+
 mission_tiddletssale_accepted1 | If you have Tiddlets available then bring them to us and we will reward you handsomely. | Если у вас есть Тиддлеты в наличии, принесите их нам, и мы щедро вознаградим вас.
+
 mission_tiddletssale_accepted2 | We won't ask any questions as to where they came from. But we will need every Tiddlet you have - so we can be sure there is at least one male among the litter. | Мы не будем задавать никаких вопросов о том, откуда они взялись. Но нам нужен каждый ваш Тиддлет, чтобы мы могли быть уверены, что среди помета есть хотя бы один самец.
+
 mission_tiddletssale_allreceived | Well, thank you very much. With this many Tiddlets we can begin farming these delicious creatures immediately. | Что ж, большое спасибо. С таким количеством Тиддлетов мы можем немедленно начать выращивать этих восхитительных существ.
+
 mission_tiddletssale_buyername | Shady Buyer | Теневой покупатель
+
 mission_tiddletssale_description1 | We are willing to pay a very generous price to any individual who can supply us with one or more Tiddlets. | Мы готовы заплатить очень щедрую цену любому человеку, который сможет предоставить нам одного или нескольких Тиддлетов.
+
 mission_tiddletssale_fulloffer | We are offering you $*Y for all *X of your Tiddlets. | Мы предлагаем вам $*Y за всех *X ваших Тиддлетов.
+
 mission_tiddletssale_invite1 | We've heard a rumour you might have some rare, valuable life-forms on board. | До нас дошли слухи, что у вас на борту могут быть редкие и ценные формы жизни.
+
 mission_tiddletssale_invite2 | Stop by your nearest Contract Board and we might be able to make a deal. | Загляните на ближайшую Доску контрактов, и, возможно, мы сможем заключить сделку.
+
 mission_tiddletssale_offer | We will pay $*X for every Tiddlet you have. | Мы заплатим $*X за каждого вашего Тиддлета.
+
 mission_tiddletssale_received | We have received *X Tiddlets. Total payment due $*Y. | Мы получили *X Тиддлетов. Общая сумма платежа составляет $*Y.
+
 mission_tiddletssale_success | Traded *X Tiddlets | Продано *X Тиддлетов
+
 mission_tiddletssale_title | WANTED: Tiddlets | Требуется: Тиддлеты
+
 mission_turnin | Turn in contract | Сдать контракт
+
 mission_type_combat | Combat | Бой
+
 mission_type_delivery | Delivery | Доставка
+
 mission_type_episodetiddlets | Deliver Tiddlets | Доставка Тиддлетов
+
 mission_type_episodetiddletssale | WANTED: Tiddlets | Требуются Тиддлеты
+
 mission_type_fortress | Destroy Hostile Fortress | Уничтожь враждебную крепость
+
 mission_type_industry | Asteroid Mining | Добыча астероидов
+
 mission_type_passengers | Transport passengers | Перевезти пассажиров
+
 mission_type_production | Production | Производство
+
 mission_type_refugees | Refugees | Беженцы
+
 mission_type_rescue | Rescue | Спасение
+
 mission_type_SectorDestroy | Destroy Hostile Forces | Уничтожить враждебные силы
+
 mission_type_sectorevacuate | Evacuate Sector | Эвакуировать сектор
+
 mission_type_sectorjumpgate | Jumpgate (Sector) | Джампгейт (сектор)
+
 mission_type_SectorProtect | Protect (Sector) | Защита (сектор)
+
 mission_type_SectorRescue | Rescue (Sector) | Спасение (сектор)
+
 mission_type_tutorialflightready | DESTINATION | ПУНКТ НАЗНАЧЕНИЯ
+
 mission_youarehere | YOU ARE HERE | ВЫ ЗДЕСЬ
+
+
+

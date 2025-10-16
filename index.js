@@ -23,7 +23,7 @@ parse(file, { columns: true, bom: true }, (err, data) => {
       lines.length >= 20 && SHORT
         ? './language/' + name + '.csv'
         : './language/_short.csv';
-    writeFileSync(path, lines.join('\n') + '\n', {
+    writeFileSync(path, lines.join('\n\n') + '\n\n\n\n', {
       flag: 'a',
       encoding: 'utf8',
     });
