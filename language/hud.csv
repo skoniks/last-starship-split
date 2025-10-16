@@ -2,9 +2,12 @@ hud_abortjump | Abort Jump | Прервать прыжок
 hud_aligning | Aligning... | Выравнивание..
 hud_battlestations | BATTLE STATIONS | БОЕВЫЕ СТАНЦИИ
 hud_buyship | BUY | КУПИТЬ
+hud_cabins | Cabins: *X/*Y | Кабины: *X/*Y
 hud_camerattracking | Camera Tracking | Отслеживание камеры
 hud_collector_tooltip_gathering | Gathering *X *Y per second | Сбор *X *Y в секунду
 hud_collector_tooltip_totalgathered | TOTAL GATHERED | ВСЕГО ДОБЫТО
+hud_convertsplittertotrack | [RMB] Convert to track | [RMB] Конвертировать в конвейер
+hud_converttracktosplitter | [RMB] Convert to splitter | [RMB] Преобразование в разделитель
 hud_debugbuild | Debug | Отладка
 hud_deselectlayer | DESELECT SHIP | УДАЛИТЬ КОРАБЛЬ
 hud_direction_down | Starboard | Правый борт
@@ -36,6 +39,7 @@ hud_install | Install | Установить
 hud_invalidplacement | INVALID PLACEMENT | НЕПРАВИЛЬНОЕ РАЗМЕЩЕНИЕ
 hud_invalidplacement_tooltip | This equipment can not function properly when installed in this position. | Это оборудование не может функционировать должным образом, если установлено в таком положении.
 hud_jump | JUMP | ПРЫЖОК
+hud_jumpgalaxies | ESCAPE THE GALAXY | СБЕЖАТЬ ИЗ ГАЛАКТИКИ
 hud_jumpgatedamage | JUMPGATE OFFLINE DUE TO DAMAGE | ПРЫЖКОВЫЕ ВРАТА ОТКЛЮЧЕНЫ ИЗ-ЗА ПОВРЕЖДЕНИЙ
 hud_jumpgatedistance | ALL SHIPS MUST ENTER JUMPGATE | ВСЕ КОРАБЛИ ДОЛЖНЫ ВОЙТИ В ПРЫЖКОВЫЕ ВРАТА
 hud_jumpgaterequires | JUMPGATE UNAVAILABLE | ПРЫЖКОВЫЕ ВРАТА НЕДОСТУПНЫ
@@ -46,6 +50,7 @@ hud_layer_derelict | DERELICT | ЗАБРОШЕННЫЙ ОБЪЕКТ
 hud_layer_forsale | [FOR SALE] | [ПРОДАЕТСЯ]
 hud_layer_hostile | HOSTILE | ВРАЖДЕБНЫЕ СИЛЫ
 hud_layer_unnaned_system | UNNAMED | БЕЗЫМЯННЫЙ
+hud_maximumoccupancy | Maximum Occupancy: *X/*Y | Максимальная вместимость: *X/*Y
 hud_mission_collection | WARNING - MISSION COLLECTION UNDERWAY | ПРЕДУПРЕЖДЕНИЕ - ИДЕТ СБОР МИССИИ
 hud_noftl | NO FTL FOUND | СВЕРХСВЕТОВОЙ ПРИВОД НЕ НАЙДЕН
 hud_noships | NO SHIPS SELECTED | КОРАБЛИ НЕ ВЫБРАНЫ
@@ -59,6 +64,7 @@ hud_overlay_exterior | Exterior | Экстерьер
 hud_overlay_habitation | Habitation | Каюты
 hud_overlay_jobs | Jobs | Задачи
 hud_overlay_pipes | Pipes | Трубы
+hud_overlay_radiation | Radiation | Радиация
 hud_overlay_schematic | Schematic | Схема
 hud_overlay_show | Show | Показать
 hud_overlay_structure | Structure | Структура
@@ -76,6 +82,9 @@ hud_preparejump | Prepare Jump | Подготовка к прыжку
 hud_preparingjump | Preparing Jump | Подготовка к прыжку
 hud_ready | READY | ГОТОВНОСТЬ
 hud_readytojump | Ready to Jump | Готовность к прыжку
+hud_recipes_chooseequipment | CHOOSE EQUIPMENT | ВЫБЕРИ ОБОРУДОВАНИЕ
+hud_recipes_chooseinput | CHOOSE INPUT | ВЫБЕРИ ИНПУТ
+hud_recipes_goback | GO BACK | ВЕРНУТЬСЯ НАЗАД
 hud_removefromtrack | [RMB] Remove from track | [RMB] Убрать с Конвейера
 hud_repairship | REPAIR | РЕМОНТ
 hud_repairyourship | You should repair the damage to your ship at a SHIPYARD. | Вы должны отремонтировать поврежденный корабль на ВЕРФИ.
@@ -83,6 +92,7 @@ hud_scoresystem_population | Population | Население
 hud_scoresystem_sectorjump | Sector Jump | Прыжок в сектор
 hud_sellship | SELL YOUR SHIP | ПРОДАТЬ СВОЙ КОРАБЛЬ
 hud_shipforsale | SHIP FOR SALE | КОРАБЛЬ НА ПРОДАЖУ
+hud_shipmaximumoccupancy | Ship Maximum Occupancy: *X/*Y | Максимальная вместимость корабля: *X/*Y
 hud_shipyard | Shipyard | Верфь
 hud_shipyard_buildarmour | Install Armour | Установить броню
 hud_shipyard_buildbuyfromlibrary | Buy ship | Купить корабль
@@ -108,8 +118,10 @@ hud_storagecrate_tooltip_dumping | Dumping *X | Выгрузка *X
 hud_storagecrate_tooltip_quantity | Quantity: *X | Количество: *X
 hud_storagecrate_tooltip_remaining | Quantity Remaining: *X | Оставшееся количество: *X
 hud_storagecrate_tooltip_storing | Storing *X | Хранение *X
+hud_surveyinprogress | WARNING - SURVEY WILL BE CANCELLED | ПРЕДУПРЕЖДЕНИЕ - ОПРОС БУДЕТ ОТМЕНЕН
 hud_tactical | TACTICAL ({ToggleTactical}) | ТАКТИЧЕСКИЙ ВИД ({ToggleTactical})
 hud_techtree_tooltip | Researching: | Исследование:
+hud_toandromeda | TO ANDROMEDA GALAXY | В ГАЛАКТИКУ АНДРОМЕДЫ
 hud_tooltip_boxed | [BOXED] | [В КОРОБКЕ]
 hud_tooltip_charge | Charge | Зарядка
 hud_tooltip_joinpipes | [LMB] Join Pipes | [LMB] Соединить трубы
@@ -141,6 +153,7 @@ hud_window_logistics | LOGISTICS | ЛОГИСТИКА
 hud_window_missions | CONTRACTS | КОНТРАКТЫ
 hud_window_orders | ORDERS | ЗАКАЗЫ
 hud_window_power | POWERGRID | ЭЛЕКТРОСЕТЬ
+hud_window_recipes | RECIPES | РЕЦЕПТЫ
 hud_window_score | SCORE | СЧЕТ
 hud_window_sectormap | SECTOR MAP ({ToggleMap}) | КАРТА СЕКТОРА ({ToggleMap})
 hud_window_shipyard | SHIPYARD | ВЕРФЬ

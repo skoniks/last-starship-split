@@ -14,7 +14,11 @@ galaxymap_jumpgate | JUMPGATE | ПРЫЖКОВЫЕ ВРАТА
 galaxymap_noescape | NO ESCAPE | БЕГСТВО НЕВОЗМОЖНО
 galaxymap_objectives | SECTOR CONTRACTS | КОНТРАКТЫ СЕКТОРА
 galaxymap_playtest | PLAYTEST | ТЕСТИРОВАНИЕ
+galaxymap_sectorgone | LOST TO THE ANOMALY | ПОТЕРЯННЫЙ ДЛЯ АНОМАЛИИ
+galaxymap_sectornumber | SECTOR *X | СЕКТОР *X
 galaxymap_shipyard | SHIPYARD | КОРАБЕЛЬНАЯ ВЕРФЬ
 galaxymap_starbase | STARBASE | ЗВЕЗДНАЯ БАЗА
+galaxymap_survivalexit | Reach the STARGATE! | Достигни ЗВЕЗДНЫХ ВРАТ!
+galaxymap_switchsector | Switch Sector View | Вид сектора переключателя
 galaxymap_title | SECTOR MAP | КАРТА СЕКТОРА
 galaxymap_unreachable | UNREACHABLE | НЕДОСТИЖИМЫЕ

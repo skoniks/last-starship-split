@@ -4,21 +4,26 @@ settings_analytics | Analytics | Аналитика
 settings_analytics_tooltip | We need to collect usage data to help us to better understand how people are playing and to help us to improve the game. \n\nWe do not collect any personally identifiable information.\n\nTo find out more visit Legal Information (bottom of the screen) | Нам необходимо собирать данные об использовании игры, чтобы лучше понять, как люди играют, и помочь нам улучшить игру. \n\nМы не собираем никакой персональной информации.\n\nЧтобы узнать больше, посетите раздел Юридическая информация (внизу экрана)
 settings_appearance | APPEARANCE | ВНЕШНИЙ ВИД
 settings_arraytextures | Use Array Textures | Использовать массивы текстур
+settings_autosaveinterval | Auto-save Interval | Интервал автосохранения
+settings_autosaveonftl | Auto-save when leaving FTL | Автосохранение при выходе из FTL
+settings_autosaveontimeinterval | Auto-save on time interval | Автосохранение по временному интервалу
+settings_autosaves | AUTOSAVES | АВТОЗАВРЫ
 settings_credit_tooltip | With thanks to: | Благодарности:
 settings_dynamiclighting | Use Dynamic Lighting | Использовать динамическое освещение
 settings_effectsvolume | Effects Volume | Громкость эффектов
-settings_exitsaves_tooltip | When enabled, the current game will be saved when abandoned or when the game is quit in a file called exitsave.\n\nCAUTION: This file will be overwritten on every exit. | Если эта функция включена, то текущая игра будет сохраняться при выходе из нее или при завершении игры в файл под названием exitsave.\n\n ВНИМАНИЕ: Этот файл будет перезаписываться при каждом выходе.
+settings_exitsaves_tooltip | When enabled, the current game will create an auto-save when abandoned or when the game is quit. | Если эта функция включена, текущая игра будет создавать автосохранение, когда ее покидают или выходят из нее.
 settings_fullscreen | Fullscreen | На весь экран
 settings_hud | Show HUD | Показать HUD
 settings_hudscale | UI Scale | Шкала интерфейса
 settings_keybindings | KEYBOARD | КЛАВИАТУРА
 settings_language | Language | Язык
 settings_mastervolume | Master Volume | Общая громкость
+settings_minutes_shortened | Mins. | Мин.
 settings_music | Music | Музыка
 settings_musicvolume | Music Volume | Громкость музыки
 settings_other | OTHER | ДРУГОЕ
 settings_resolution | Resolution | Разрешение
 settings_sound | SOUND | ЗВУК
 settings_translatorassist | Translator Assist (Ctrl, Alt) | Помощник переводчика (Ctrl, Alt)
-settings_translatorassist_description | Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key. | Включает функции, помогающие переводчикам, например Alt для раскрытия английского языка и Ctrl для раскрытия ключа фразы.
+settings_translatorassist_description | Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key. Enables the translation editing window ({TranslatorWindow}). | Включи функции, помогающие переводчикам, например Alt для раскрытия английского языка и Ctrl для раскрытия фразовой клавиши. Включает окно редактирования перевода ({TranslatorWindow}).
 settings_uibounce | UI Highlight Bounce | Подсветка с эффектом отскока

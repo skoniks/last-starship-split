@@ -1,4 +1,6 @@
 alert_title | ALERTS | ОПОВЕЩЕНИЯ
+alert_type_abouttoautosave | AUTOSAVE | АВТОСОХРАНЕНИЕ
+alert_type_abouttoautosave_caption | Autosaving in *X... | Автосохранение в *X...
 alert_type_autotradeinactive | AUTO-TRADE INACTIVE | АВТОТОРГОВЛЯ НЕАКТИВНА
 alert_type_autotradeinactive_tooltip | One or more of your auto-orders have been made inactive. This may be because you owe a large payment to X. | Один или несколько ваших автозаказов стали неактивными. Это может быть связано с тем, что вы задолжали крупный платеж X.
 alert_type_co2 | CO2 WARNING | ПРЕДУПРЕЖДЕНИЕ О СО2
@@ -8,6 +10,9 @@ alert_type_crewoverworked | HIRE MORE CREW | НАНЯТЬ БОЛЬШЕ ЭКИП�
 alert_type_dead | DEATHS | УМЕРШИЕ
 alert_type_dead_caption | *X dead | *X мертв
 alert_type_dehydrated | CREW DEHYDRATED | ЭКИПАЖ ОБЕЗВОЖЕН
+alert_type_emp | EMP | ЭМИ
+alert_type_emp_caption | *X piece(s) disabled | *X элемент(ов) отключены
+alert_type_emp_tooltip | Your ship has been struck by lightning, temporarily disabling some of your equipment. | В твой корабль ударила молния, временно выведя из строя часть оборудования.
 alert_type_famished | CREW FAMISHED | ЭКИПАЖ СИЛЬНО ГОЛОДЕН
 alert_type_heavydamage | HEAVY DAMAGE | СИЛЬНЫЙ УРОН
 alert_type_heavydamage_caption | Damage *X% | Повреждения *X%
@@ -35,6 +40,8 @@ alert_type_oxygen | Oxygen must be at 50% to be breathable. | Кислород �
 alert_type_powercut | POWER CUT | ОТКЛЮЧЕНИЕ ПИТАНИЯ
 alert_type_powercut_nofuel | Fuel supply interrupted | Прекращена подача топлива
 alert_type_powercut_tooltip | Your reactor has cut out. It is likely the fuel supply has been interrupted.  Consider using storage tanks to create a permanent store of fuel for your Reactor to draw from. | Ваш Реактор отключился. Вероятно, прервалась подача топлива.  Рассмотрите возможность использования Резервуаров для хранения топлива, чтобы создать постоянный запас топлива для вашего Реактора.
+alert_type_radiation | RADIATION POISONING | РАДИАЦИОННОЕ ОБЛУЧЕНИЕ
+alert_type_radiation_caption | *X have radiation poisoning | *X получить радиационное облучение
 alert_type_severely_dehydrated | CREW SEVERELY DEHYDRATED | ЭКИПАЖ СИЛЬНО ОБЕЗВОЖЕН
 alert_type_stargatelosingpower | STARGATE LOSING POWER | ЗВЕЗДНЫЕ ВРАТА ТЕРЯЮТ ЭНЕРГИЮ
 alert_type_stargatelosingpower_caption | *X MW / *Y MW Supplied | *X МВт / *Y МВт Поставляется

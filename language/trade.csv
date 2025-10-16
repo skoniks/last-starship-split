@@ -38,6 +38,7 @@ trade_overlay_them | THEM | ТЕМ
 trade_overlay_you | YOU | ВЫ
 trade_profit | Profit | Прибыль
 trade_remove | REMOVE | УДАЛИТЬ
+trade_sack | SACK | SACK
 trade_sacking | Sacking *X | Увольнение *X
 trade_sell | SELL | ПРОДАВАТЬ
 trade_sell_ship | SELL SHIP | ПРОДАТЬ КОРАБЛЬ

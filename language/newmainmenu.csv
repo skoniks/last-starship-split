@@ -11,6 +11,7 @@ newmainmenu_arena_redteamtitle | RED TEAM | КРАСНАЯ КОМАНДА
 newmainmenu_arena_selectship | SELECT A SHIP | ВЫБРАТЬ КОРАБЛЬ
 newmainmenu_arena_shipquantity | Quantity | Количество
 newmainmenu_arena_tradevalues | SHIP VALUES | ЗНАЧЕНИЯ ДЛЯ КОРАБЛЕЙ
+newmainmenu_autosavewarning | Auto-save load warning | Предупреждение об автосохранении нагрузки
 newmainmenu_battle | BATTLE | БИТВА
 newmainmenu_begingame | BEGIN GAME | НАЧАТЬ ИГРУ
 newmainmenu_cancel | CANCEL | ОТМЕНИТЬ
@@ -23,10 +24,12 @@ newmainmenu_createnewupload | CREATE NEW WORKSHOP ITEM | СОЗДАТЬ НОВЫ
 newmainmenu_createship | CREATE NEW SHIP | СОЗДАТЬ НОВЫЙ КОРАБЛЬ
 newmainmenu_darkmode | Galaxy Map Dark Mode | Темный режим Карты сектора
 newmainmenu_debug_freespace | Enable FreeSpace Debugging | Включить отладку в свободном пространстве
+newmainmenu_defensiveenemies | Defensive Enemies | Защитные враги
+newmainmenu_defensiveenemiestooltip | Hostile ships will only target you once you have targeted them first. | Вражеские корабли будут нацеливаться на тебя только после того, как ты нацелишься на них первым.
 newmainmenu_deletegame | DELETE GAME | УДАЛИТЬ ИГРУ
 newmainmenu_deleteship | DELETE SHIP | УДАЛИТЬ КОРАБЛЬ
 newmainmenu_editship | EDIT SHIP | РЕДАКТИРОВАТЬ КОРАБЛЬ
-newmainmenu_exitsaves | Exit-saves | Сохранения при выходе
+newmainmenu_exitsaves | Auto-save on exit | Автосохранение при выходе
 newmainmenu_exportship | EXPORT SHIP | ЭКСПОРТ КОРАБЛЯ
 newmainmenu_filter | SEARCH... | ПОИСК..
 newmainmenu_importfriendly | IMPORT FRIENDLY | ИМПОРТ СОЮЗНИКА
@@ -37,23 +40,28 @@ newmainmenu_loadgamedev | LOAD GAME (DEV) | ЗАГРУЗИТЬ ИГРУ (DEV)
 newmainmenu_loadship | LOAD SHIP | ЗАГРУЗИТЬ КОРАБЛЬ
 newmainmenu_locked | (LOCKED) | (ЗАБЛОКИРОВАН)
 newmainmenu_lockedindemo | LOCKED IN DEMO | ЗАБЛОКИРОВАН В ДЕМОНСТРАЦИОННОМ РЕЖИМЕ
+newmainmenu_mainmenu | MAIN MENU | ГЛАВНОЕ МЕНЮ
+newmainmenu_multisectorsim | Multi-System Simulation | Мультисистемное моделирование
+newmainmenu_multisectorsimtooltip | Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously. | Включает мультисистемное моделирование, позволяя тебе разделить свой флот между несколькими системами/секторами одновременно.
 newmainmenu_multisystem_simulation | Enable Multi-system Simulation | Включить моделирование мультисистем
 newmainmenu_newgame | NEW GAME | НОВАЯ ИГРА
+newmainmenu_newgameoptions | Game Options | Параметры игры
 newmainmenu_parallax | Parallax effect | Использовать эффект параллакса
 newmainmenu_quit | QUIT | ВЫЙТИ
 newmainmenu_quitmessage | We hope you enjoyed playing the demo of The Last Starship. Your journey has just begun!  Unlock the full game to explore more Story Episodes, Survival Mode, Arena Mode, a full Ship Editor and more! | Надеемся, вам понравилось играть в демо-версию Последнего звездолета. Ваше путешествие только началось!  Разблокируйте полную версию игры, чтобы узнать больше о сюжетных эпизодах, режиме выживания, режиме арены, полном редакторе кораблей и многом другом!
 newmainmenu_resume | RESUME | ВОЗОБНОВИТЬ
+newmainmenu_returntomainmenu | RETURN TO MAIN MENU | ВЕРНУТЬСЯ В ГЛАВНОЕ МЕНЮ
 newmainmenu_savegame | SAVE GAME | СОХРАНИТЬ ИГРУ
 newmainmenu_savetosteamcloud | SAVE TO STEAM CLOUD | СОХРАНИТЬ В ОБЛАКЕ STEAM
 newmainmenu_setshipname | SET SHIP NAME | УСТАНОВИТЬ НАЗВАНИЕ КОРАБЛЯ
 newmainmenu_settings | SETTINGS | НАСТРОЙКИ
 newmainmenu_shipeditor | CREATIVE MODE | ТВОРЧЕСКИЙ РЕЖИМ
+newmainmenu_showautosaves | AUTOSAVES | АВТОЗАВРЫ
 newmainmenu_slowcombat | Slow during combat | Замедление во время боя
-newmainmenu_steamcloud | STEAM CLOUD | STEAM CLOUD
-newmainmenu_steamworkshop | STEAM WORKSHOP | STEAM WORKSHOP
+newmainmenu_steamcloud | STEAM CLOUD | ОБЛАКО STEAM
+newmainmenu_steamworkshop | STEAM WORKSHOP | МАСТЕРСКАЯ STEAM
 newmainmenu_tooltip_changeship | [LMB] Change ship | [LMB] Сменить корабль
 newmainmenu_tooltip_removeship | [RMB] Remove ship | [RMB] Убрать корабль
-newmainmenu_tooltip_selectship | [LMB] Select | [LMB] Выбрать
 newmainmenu_updateexistingupload | UPDATE EXISTING WORKSHOP ITEM | ОБНОВИТЬ СУЩЕСТВУЮЩИЙ ЭЛЕМЕНТ МАСТЕРСКОЙ
 newmainmenu_uploadprogress | UPLOAD PROGRESS: *P % | ПРОГРЕСС ЗАГРУЗКИ: *P %
 newmainmenu_uploadship | UPLOAD TO STEAM | ЗАГРУЗИТЬ В STEAM

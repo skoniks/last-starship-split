@@ -74,6 +74,15 @@ mission_flightready_name | Flight Ready | Готовность к полету
 mission_flightready_power | A Reactor, generating power. | Реактор, генерирующий энергию.
 mission_flightready_power_help | A reactor to generate power. Use a Fuel Loader to pipe fuel into the Reactor. | Реактор для выработки энергии. Для подачи топлива в Реактор используйте Погрузчик топлива.
 mission_flightready_title | Make your new ship ready for flight | Подготовьте свой новый корабль к полету
+mission_fortress_accept | We have marked the location of the fortress on your map. Good luck, Captain. | Мы отметили местоположение крепости на твоей карте. Удачи, капитан.
+mission_fortress_description1 | Hostiles have set up a fortress within the sector. It appears to be where they are fabricating their ships. | Враги устроили крепость в этом секторе. Похоже, там они изготавливают свои корабли.
+mission_fortress_description2 | The fortress is giving them significant power across the sector and must be dealt with. | Крепость дает им значительную власть во всем секторе, и с ней нужно бороться.
+mission_fortress_description3 | Travel to the fortress, destroy it, and eliminate any remaining hostiles | Отправляйся в крепость, разрушь ее и уничтожь всех оставшихся врагов
+mission_fortress_destroyfortress | Destroy the fortress | Уничтожь крепость
+mission_fortress_destroyhostiles | Eliminate any remaining hostiles | Уничтожь всех оставшихся врагов
+mission_fortress_objective | Travel to the fortress | Отправляйся в крепость
+mission_fortress_success | The fortress assault was successful. | Штурм крепости прошел успешно.
+mission_fortress_title | Destroy a hostile fortress | Уничтожь вражескую крепость
 mission_illegal | ILLEGAL ACTIVITY | НЕЗАКОННАЯ ДЕЯТЕЛЬНОСТЬ
 mission_industry_accepted1 | We've marked the asteroid belt location on your map. | Мы отметили местоположение пояса астероидов на вашей карте.
 mission_industry_description | There is huge demand for FTL fuel cells, to power the evacuation ships. | Существует огромный спрос на сверхсветовые топливные элементы для питания эвакуационных кораблей.
@@ -295,6 +304,7 @@ mission_type_combat | Combat | Бой
 mission_type_delivery | Delivery | Доставка
 mission_type_episodetiddlets | Deliver Tiddlets | Доставка Тиддлетов
 mission_type_episodetiddletssale | WANTED: Tiddlets | Требуются Тиддлеты
+mission_type_fortress | Destroy Hostile Fortress | Уничтожь враждебную крепость
 mission_type_industry | Asteroid Mining | Добыча астероидов
 mission_type_passengers | Transport passengers | Перевезти пассажиров
 mission_type_production | Production | Производство

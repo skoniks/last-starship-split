@@ -1,4 +1,4 @@
-keybinding_alttool | Eye-dropper | Пипетка
+keybinding_alttool | Alt Editor Tool | Инструмент Alt Editor
 keybinding_decreasethrust | Engines - | Уменьшить тягу
 keybinding_gamespeed0 | Half Speed | Половина скорости
 keybinding_gamespeed1 | Normal Speed | Обычная скорость
@@ -37,5 +37,6 @@ keybinding_title_key | Key | Ключ
 keybinding_togglemap | Toggle Map | Карта сектора
 keybinding_togglepause | Pause | Пауза
 keybinding_toggletactical | Toggle Tactical | Тактический вид
+keybinding_translatorwindow | Translator Window | Окно переводчика
 keybinding_zoomin | Zoom In | Приблизить
 keybinding_zoomout | Zoom Out | Отдалить

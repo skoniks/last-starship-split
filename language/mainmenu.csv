@@ -1,6 +1,9 @@
 mainmenu_abandongame | Abandon Game | Бросить игру
+mainmenu_arena_caption | Create epic space battles between fleets of ships and watch the carnage unfold. | Создавай эпические космические сражения между флотами кораблей и наблюдай за разворачивающейся бойней.
 mainmenu_createship | DEVELOPER Create Ship | РАЗРАБОТЧИК Создать корабль
 mainmenu_exportship | Export Ship | Экспорт корабля
+mainmenu_gamemode_arena | Arena | Арена
+mainmenu_gamemode_arena_tooltip | Create epic space battles between fleets of ships and watch the carnage unfold. | Создавай эпические космические сражения между флотами кораблей и наблюдай за разворачивающейся бойней.
 mainmenu_gamemode_creative | Creative | Творческий режим
 mainmenu_gamemode_creative_tooltip | You have unlimited resources to build any ship you want | У вас есть неограниченные ресурсы, чтобы построить любой корабль, какой захотите
 mainmenu_gamemode_freeroam | Free Roam | Свободное перемещение
@@ -36,4 +39,3 @@ mainmenu_steamworkshop | Steam Workshop | Мастерская Steam
 mainmenu_survival_caption | Stay one step ahead of a devastating anomaly that consumes everything in its path, and save as many as you can before it's too late | Будьте на шаг впереди разрушительной аномалии, которая поглощает все на своем пути, и спасите как можно больше людей, пока не стало слишком поздно
 mainmenu_title | Main Menu | Главное меню
 mainmenu_tools | Developer Tools | Инструменты разработчика
-mainmenu_tweet | Tweet My Starship! | Твитнуть мой звездолет!

@@ -84,10 +84,12 @@ entity_dead | DEAD | МЕРТВ
 entity_death_co2poisoning | Carbon Dioxide | Отравление
 entity_death_dehydration | Dehydration | Обезвоживание
 entity_death_injury | Fatal Injury | Смертельная травма
+entity_death_radiation | Radiation | Радиация
 entity_death_starvation | Starvation | Голод
 entity_death_suffocation | Suffocation | Удушье
 entity_dehydrated | DEHYDRATED | ОБЕЗВОЖЕН
 entity_fainted | FAINTED | ОБМОРОК
+entity_radiation | IRRADIATED | ОБЛУЧЕН
 entity_stunned | STUNNED | ОГЛУШЕН
 entity_suffocating | SUFFOCATING | ЗАДЫХАЕТСЯ
 entity_suitrequired | SUIT REQUIRED | НЕТ СКАФАНДРА
@@ -117,13 +119,16 @@ feedback_button | Give Feedback | Оставить отзыв
 filedialog_title | Choose a File | Выберите файл
 format_currency | $*X | $*X
 format_per_square | *X / sq | *X / кв
+ftl_galacticjump | This will be the final journey of your fleet.\nBe prepared for a long journey to the Andromeda galaxy, and save as many as you can! | Это будет последнее путешествие твоего флота.\nБудь готов к долгому путешествию в галактику Андромеды и спаси как можно больше людей!
 hudmode_external | EXTERNAL | ВНЕШНИЙ ВИД
 hudmode_multisystemsimulation | MULTISYSTEM SIMULATION | МУЛЬТИСИСТЕМНОЕ МОДЕЛИРОВАНИЕ
 hudmode_tactical | TACTICAL | ТАКТИЧЕСКИЙ ВИД
+intergalactic_travel | INTERGALACTIC TRAVEL | МЕЖГАЛАКТИЧЕСКОЕ ПУТЕШЕСТВИЕ
 interstellar_travel | INTERSTELLAR TRAVEL | МЕЖЗВЕЗДНОЕ ПУТЕШЕСТВИЕ
 language_helpustranslate | Help Us Translate! | Помогите нам перевести!
 language_system | System | Системный
 legal_button | Legal Information | Юридическая информация
+loader_auto | AUTO | АВТО
 loader_mode_load | Load | Загрузить
 loader_mode_stop | Stop | Остановка
 loader_mode_unload | Unload | Разгрузка
@@ -193,31 +198,13 @@ origin_community | COMMUNITY | ОТ СООБЩЕСТВА
 origin_official | OFFICIAL | ОФИЦИАЛЬНЫЙ
 origin_shipcommunity | COMMUNITY SHIPS | КОРАБЛИ СООБЩЕСТВА
 origin_shipofficial | OFFICIAL SHIPS | ОФИЦИАЛЬНЫЕ КОРАБЛИ
-origin_shipsteam | SUBSCRIBED SHIPS ON STEAM WORKSHOP | КОРАБЛИ ЗАГРУЖЕННЫЕ ИЗ STEAM WORKSHOP
-origin_shipsteamuser | SHIPS UPLOADED TO STEAM WORKSHOP | КОРАБЛИ ЗАГРУЖЕННЫЕ В STEAM WORKSHOP
+origin_shipsteam | SUBSCRIBED SHIPS ON STEAM WORKSHOP | КОРАБЛИ ЗАГРУЖЕННЫЕ ИЗ МАСТЕРСКОЙ STEAM
+origin_shipsteamuser | SHIPS UPLOADED TO STEAM WORKSHOP | КОРАБЛИ ЗАГРУЖЕННЫЕ В МАСТЕРСКУЮ STEAM
 origin_shipuser | PLAYER-MADE SHIPS | ВАШИ КОРАБЛИ
-origin_steam | SUBSCRIBED ON STEAM WORKSHOP | ПОДПИСАЛСЯ НА STEAM WORKSHOP
-origin_steamuser | UPLOADED TO STEAM WORKSHOP | ЗАГРУЖЕНО В STEAM WORKSHOP
+origin_steam | SUBSCRIBED ON STEAM WORKSHOP | ЗАГРУЖЕНО ИЗ МАСТЕРСКОЙ STEAM
+origin_steamuser | UPLOADED TO STEAM WORKSHOP | ЗАГРУЖЕНО В МАСТЕРСКУЮ STEAM
 origin_user | PLAYER-MADE | СОЗДАНО ИГРОКОМ
 phase_title | Phase *X | Фаза *X
-powergrid_batteryhint | Install some Batteries to store reserve power from your Reactor. | Установите несколько Батарей, чтобы запастись энергией из Реактора.
-powergrid_category_battery | BATTERY | БАТАРЕЯ
-powergrid_category_defenses | DEFENSES | ОБОРОНА
-powergrid_category_engines | ENGINES | ДВИГАТЕЛИ
-powergrid_category_FTL | FTL | СВЕРХСВЕТОВОЙ
-powergrid_category_lifesupport | LIFE SUPPORT | ЖИЗНЕОБЕСПЕЧЕНИЕ
-powergrid_category_logistics | LOGISTICS | ЛОГИСТИКА
-powergrid_category_other | OTHER | ПРОЧЕЕ
-powergrid_category_reactor | REACTOR | РЕАКТОР
-powergrid_category_science | SCIENCE | НАУКА
-powergrid_category_stargate | STARGATE | ЗВЕЗДНЫЕ ВРАТА
-powergrid_category_weapons | WEAPONS | ОРУЖИЕ
-powergrid_demand | DEMAND *X Mw | ПОТРЕБЛЕНИЕ *X МВт
-powergrid_output | OUTPUT *X Mw | ВЫХОД *X МВт
-powergrid_power | POWER | ЭЛЕКТРОЭНЕРГИЯ
-powergrid_powershortagehint | Your ship cannot generate enough power. Consider installing more Reactors. | Ваш корабль не может генерировать достаточно энергии. Рассмотрите возможность установки большего количества Реакторов.
-powergrid_stored | STORED *X Mw | ХРАНЕНИЕ *X МВт
-powergrid_title | POWER GRID | ЭЛЕКТРОСЕТЬ
 pressanykey | - continue - | - продолжение -
 profiler_glfinishcaption | glFinish | glFinish
 profiler_name | Name | Имя
@@ -244,9 +231,12 @@ recipe_created_in | Created in *X | Создано в *X
 recipe_duration | Duration: *X seconds | Продолжительность: *X секунд
 recipe_quantity_required | *X x *Y | *X x *Y
 recipe_resources_required | Required resources | Необходимые ресурсы
+researchcredit_hint | Load into a Science Station for analysis | Загрузите в Научную станцию для анализа
 samplebank | (Sample Bank) | (Банк образцов)
 samplebankeditor_addsample | Add Sound | Добавить звук
 samplebankeditor_title | Sample Bank Editor | Редактор банка образцов
+save_autosavewarning_body | This save is likely to be overwritten by the game as you continue playing, so you should create a manual save if you haven't already done so using the "SAVE GAME" option.\n\nThis warning can be disabled in the settings menu. | Сохранение будет переписано, когда вы продолжите играть, поэтому вам следует сохраниться вручную, используя опцию "СОХРАНИТЬ ИГРУ".\n\nЭто предупреждение можно отключить в настройках.
+save_autosavewarning_header | WARNING: Autosave loaded | ВНИМАНИЕ: Автосохранение загружено
 save_cloudsavefailed_body | The game failed to save to the cloud, the game has been saved locally instead.\n\nPlease check that you have enough storage in the Steam Cloud and try again. | Не удалось сохранить игру в облаке, вместо этого она была сохранена локально.\n\nПожалуйста, проверьте, достаточно ли у вас места в облаке Steam, и попробуйте еще раз.
 save_cloudsavefailed_header | WARNING: Cloud Save Failed | ПРЕДУПРЕЖДЕНИЕ: Облачное сохранение не удалось
 save_demofullgame_load_body | The demo of The Last Starship can only load save games saved with the Demo. | Демоверсия The Last Starship может загружать только сохранения, сохраненные в демоверсии.
@@ -295,32 +285,68 @@ soundparametereditor_typetitle | Type | Тип
 soundparametereditor_updatetitle | Update Type | Тип обновления
 special_dronebatchcollection | Drone Batch Collection | Пакетный сбор с помощью Дронов
 special_mininglaseraccuracy | Mining Laser Precision | Точность Шахтерского лазера
+special_mininglaseraccuracy2 | Mining Laser Precision 2 | Точность Шахтерского лазера 2
+special_sectorsurvey | Sector Surveying | Секторная съемка
 special_stargatepart1 | Andromeda Project Phases 1, 2 | Проект Андромеда Фазы 1, 2
 special_stargatepart2 | Andromeda Project Phase 3 | Проект Андромеда Фаза 3
 special_stargatepart3 | Andromeda Project Phases 4, 5 | Проект Андромеда Фазы 4, 5
+special_tracksplitter | Splitter Tracks | Разделтиели
 speed_paused | PAUSED | ПРИОСТАНОВЛЕНО
 speed_slow | SLOW | МЕДЛЕННЫЙ
-stargatesectorwarning_harken_1 | Captain, this sector has never been visited before and it is outside of my security jurisdiction. | Капитан, этот сектор еще никто не посещал, и он находится вне юрисдикции моей службы безопасности.
-stargatesectorwarning_harken_2 | We have a full scan underway for the sector, once it's completed more locations will be marked on your map. In the systems surveyed so far we've found new resources, which may be just a glimpse into what this sector has to offer. | Мы проводим полное сканирование сектора, как только оно завершится, на вашей карте будет отмечено больше локаций. В обследованных на данный момент системах мы обнаружили новые ресурсы, которые могут быть лишь проблеском того, что может предложить этот сектор.
-stargatesectorwarning_harken_3 | Unfortunately, that means pirates will probably find their way here soon, but it seems clear for now. | К сожалению, это означает, что пираты наверняка скоро найдут сюда дорогу, но пока вроде все чисто.
-stargatesectorwarning_harken_4 | Severe weather has also been detected nearby. | Поблизости также была зафиксирована сильная непогода.
-stargatesectorwarning_harken_5 | Who knows what you may find out here. Be careful, Captain. | Кто знает, что вы можете здесь обнаружить. Будьте осторожны, капитан.
+stargate_available_subtitle | Phase *X Available | Фаза *X доступна
+stargate_award_subtitle | Phase *X Completed | Фаза *X завершена
+stargate_award_title | STARGATE PROGRESS | ПРОГРЕСС ЗВЕЗДНЫХ ВРАТ
+stargate_energy_received | RECEIVED: *X MW | ПОЛУЧЕНО: *X MW
+stargate_energy_required | REQUIRED: *X MW | ТРЕБУЕТСЯ: *X MW
+stargate_help | To submit completed parts to the stargate project, sell them at any trade outpost in the sector | Чтобы сдать готовые детали в проект Звездных Врат, продайте их на любом торговом посту в секторе
+stargate_jumping | JUMP IN PROGRESS | ПРЫЖОК...
+stargate_power_button | START | ЗАПУСК
+stargate_power_fraction | SUPPLIED:\n*X MW / *Y MW | ОБЕСПЕЧЕНО:\n*X МВт / *Y МВт
+stargate_power_on_failed | FAILED | ПРОВАЛ
+stargate_powered_off | POWERED OFF | ВЫКЛЮЧЕН
+stargate_powering_on | STARTING UP | НАЧАЛО РАБОТЫ
+stargate_ready_for_jump | READY FOR JUMP | ГОТОВ К ПРЫЖКУ
+stargate_testfire_help | Captain, the Stargate is ready for its first test. If supplied with enough power it should provide us access to a nearby uncharted sector. | Капитан, Звездные Врата готовы к первому испытанию. При достаточном количестве энергии они должны обеспечить нам доступ в соседний неизведанный сектор.
+stargate_unlocked_subtitle | Stargate window unlocked | Окно Звездных Врат разблокировано
+stargate_warming_up | WARMING UP | РАЗОГРЕВ
+stargatesectorwarning_harken_1 | Captain, the new sector needs to be surveyed before your sector map is populated with systems. We have a full scan underway for the sector, once it's completed more locations will be marked on your map. | Капитан, новый сектор нужно обследовать, прежде чем на твоей карте появятся системы. Мы проводим полное сканирование сектора, как только оно завершится, на твоей карте будет отмечено больше локаций.
+stargatesectorwarning_harken_2 | In the systems surveyed so far we've found new resources and severe weather systems, which may be just a glimpse into what awaits us in this sector. | В исследованных на данный момент системах мы обнаружили новые ресурсы и суровые погодные системы, что может быть лишь проблеском того, что нас ждет в этом секторе.
+stargatesectorwarning_harken_3 | Who knows what you may find out here. Be careful, Captain. | Кто знает, что ты можешь здесь обнаружить. Будьте осторожны, капитан.
 stations_title | STATIONS | СТАНЦИИ
-steamstore_button | Visit Steam Store | Посетите магазин Steam
-tactical_damaged | DAMAGED | ПОВРЕЖДЕННЫЙ
+steamstore_button | Visit Steam Store | Посетите Магазин Steam
+survey_captionmultiple | *X layers surveying | *X уровень исследования
+survey_captionnone | No survey in progress | Исследование не проводится
+survey_captionsingle | Surveyed by *X | Исследовано *X
+survey_completed | SURVEY COMPLETED | ИССЛЕДОВАНИЕ ЗАВЕРШЕНО
+survey_local_award_caption | *X *Y Unlocked | *X *Y Разблокировано
+survey_local_noequipment | NO SUPERCOMPUTERS INSTALLED | СУПЕРКОМПЬЮТЕРЫ НЕ УСТАНОВЛЕНЫ
+survey_sector_award_caption | *X available to survey | *X доступно для исследования
+survey_sector_award_title | SURVEY AVAILABLE | ДОСТУПНО ИССЛЕДОВАНИЕ
+survey_sector_caption | *X scanning region | *X область сканирования
+survey_sector_nothingtoscan | REGION FULLY SCANNED | ОБЛАСТЬ ПРОСКАНИРОВАНА
+survey_sector_title | SECTOR SCAN | СКАНИРОВАНИЕ СЕКТОРОВ
+survey_title | UNSURVEYED *X | НЕОБХОДИМО *X
+survey_type_asteroid | Asteroid belt | Пояс астероидов
+survey_type_colony | Colony | Колония
+survey_type_derelict | Derelict | Заброшенный
+survey_type_nebula | Nebula | Туманность
+survey_type_storm | Storm | Шторм
+survivalend_quitmessage | After a long and perilous journey, the survivors emerged into a new and uncharted galaxy.  Those left behind faced a desperate, nomadic life.  But those that made the jump face an even more uncertain future.  Humanity's survival remains on a knife edge... | После долгого и опасного путешествия выжившие попали в новую, неизведанную галактику.  Тем, кто остался позади, предстояла отчаянная кочевая жизнь.  Но те, кто совершил прыжок, столкнулись с еще более неопределенным будущим.  Выживание человечества остается на острие ножа...
+survivalend_quitmessage1 | We hope you enjoyed playing the demo of The Last Starship. Your journey has just begun!  Unlock the full game to explore more Story Episodes, Survival Mode, Arena Mode, a full Ship Editor and more! | Надеемся, тебе понравилось играть в демоверсию игры The Last Starship. Твое путешествие только началось!  Разблокируй полную версию игры, чтобы узнать больше сюжетных эпизодов, режим выживания, режим арены, полноценный редактор кораблей и многое другое!
+tactical_damaged | DAMAGED | ПОВРЕЖДЁН
 tactical_detach_all | DETACH ALL | ОТСОЕДИНИТЬ ВСЕ
-tactical_docked | --- DOCKED --- | --- ЗАБЛОКИРОВАН ---
-tactical_evasion | EVASION | ЭВАЗИОН
-tactical_fire | FIRE | ПОЖАР
-tactical_hold | HOLD | УДЕРЖИВАТЬ
-tactical_lowpower | LOW POWER | НИЗКАЯ МОЩНОСТЬ
-tactical_maneuvering | MANEUVERING | Маневрирование
+tactical_docked | --- DOCKED --- | --- ПРИСТЫКОВАН ---
+tactical_evasion | EVASION | УКЛОНЕНИЕ
+tactical_fire | FIRE | ОГОНЬ
+tactical_hold | HOLD | СТОП
+tactical_lowpower | LOW POWER | МАЛО МОЩНОСТИ
+tactical_maneuvering | MANEUVERING | МАНЕВРИРУЕТ
 tactical_reloading | RELOADING | ПЕРЕЗАРЯДКА
-tactical_throttle | THROTTLE | ДВИГАТЕЛЬ
-tactical_undock | UNDOCK | РАЗБЛОКИРОВАТЬ
+tactical_throttle | THROTTLE | ТЯГА
+tactical_undock | UNDOCK | ОТСТЫКОВАТЬ
 tactical_velocity | VELOCITY | СКОРОСТЬ
 tactical_weapons | WEAPONS | ОРУЖИЕ
-tagline | THE LAST STARSHIP | ПОСЛЕДНИЙ ЗВЕЗДОЛЕТ
+tagline | THE LAST STARSHIP | THE LAST STARSHIP
 tiddlet_boxed | Boxed | В коробке
 tiddlet_child | Baby | Малыш
 tiddlets3_summary | Assist the Institute with their experiments | Помочь Институту в проведении экспериментов
@@ -328,6 +354,22 @@ toolsmenu_close | Close | Закрыть
 toolsmenu_dialogeditor | Dialog Editor | Редактор диалогов
 toolsmenu_spriteeditor | Sprite Editor | Редактор спрайтов
 toolsmenu_title | Tools Menu | Меню инструментов
+translationeditor_english_tooltip1 | Unformatted English phrase | Неформатированная английская фраза
+translationeditor_english_tooltip2 | Formatted English phrase | Отформатированная английская фраза
+translationeditor_english_tooltip3 | This is what you are translating. | Это то, что вы переводите.
+translationeditor_english_tooltip4 | You cannot change the English phrases. | Вы не можете изменить английские фразы.
+translationeditor_folder | Open Folder | Открытая папка
+translationeditor_folder_tooltip | Opens the folder in which your modified translations are saved.\n\n"language.csv" is the file containing your modified translations. | Открывает папку, в которой сохранены ваши измененные переводы.\n\n"language.csv" - это файл, содержащий ваши измененные переводы.
+translationeditor_modified | Modified Phrases | Модифицированные фразы
+translationeditor_new_tooltip1 | Unformatted new translation | Неформатированный новый перевод
+translationeditor_new_tooltip2 | Formatted new translation | Отформатированный новый перевод
+translationeditor_new_tooltip3 | This is where you can change the translation.\n\nThis will affect your game only, unless you submit your updated translations to Introversion. | Здесь вы можете изменить перевод.\n\nЭто повлияет только на вашу игру, если вы не отправите обновленные переводы в Introversion.
+translationeditor_original_tooltip1 | Unformatted original translation | Неформатированный оригинальный перевод
+translationeditor_original_tooltip2 | Formatted original translation | Форматированный оригинальный перевод
+translationeditor_original_tooltip3 | This is what is currently used in the game. | Вот что сейчас используется в игре.
+translationeditor_reset | Revert | Реверс
+translationeditor_reset_tooltip | Resets your modified translation back to the original translation. | Сбросить измененный перевод обратно к оригинальному.
+translationeditor_unmodified | Unmodified Phrases | Немодифицированные фразы
 warning_deliveryblocked | DELIVERY BLOCKED | ДОСТАВКА ЗАБЛОКИРОВАНА
 warning_storagerequired | CREATE STORAGE ZONES | СОЗДАТЬ ЗОНЫ ХРАНЕНИЯ
 warning_suitsrequired | SPACESUITS REQUIRED | ТРЕБУЮТСЯ КОСМИЧЕСКИЕ СКАФАНДРЫ
