@@ -134,7 +134,7 @@
 - Railgun = Рельсотрон
 - Railgun Slugs = Рельсотронные Снаряды
 - Reactor = Реактор
-- Refined Metreon = Рафинированный Метреон
+- Refined Metreon = Обработанный Метреон
 - Tilium Crystals = Тилиевые Кристаллы
 - Refinery = Химический Завод
 - Refugee = Беженец
