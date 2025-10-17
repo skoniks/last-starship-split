@@ -92,8 +92,8 @@
 - Hydroponic Garden = Гидропонный Сад
 - Hyperspace Scoop = Гиперпространственный Совок
 - Hyperspace Isotopes = Гиперпространственные Изотопы
-- Hyperspace Sensor = Гиперпространственный Датчик
-- Hyperspace Sensor LR = Гиперпространственный Датчик LR
+- Hyperspace Sensor = Гиперпространственный Сенсор
+- Hyperspace Sensor LR = Гиперпространственный Сенсор LR
 - Water Ice = Водяной Лед
 - Ice Grinder = Измельчитель Льда
 - Laser Infuser = Лазерный Инфузор

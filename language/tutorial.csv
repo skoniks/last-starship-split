@@ -1,508 +1,253 @@
 tutorial_air_title | OXYGEN | КИСЛОРОД
-
 tutorial_aircables | The <b>AIRDUCT</b> needs to be powered from the <b>REACTOR</b>.  Select <b>CABLES</b> from the <b>CONSTRUCTION</b> menu. | <b>ВОЗДУХОВОД</b> должен быть запитан от <b>РЕАКТОРА</b>. Выберите <b>КАБЕЛИ</b> в меню <b>СТРОИТЕЛЬСТВО</b>.
-
 tutorial_aircabletoreactor | Drag a power cable from the <b>REACTOR</b> to the <b>AIRDUCT</b>, connecting the red circles.\n\nPOWER <b>CABLES</b> are used to connect reactors to any equipment that needs power.\n\nPOWER <b>CABLES</b> are red and must connect red circles on equipment. | Перетащите кабель питания от <b>РЕАКТОРА</b> к <b>ВОЗДУХОВОДУ</b>, соединив красные круги.\n\n<b>КАБЕЛИ</b> питания используются для подключения Реакторов к любому Оборудованию, которому требуется питание.\n\n<b>КАБЕЛИ</b> питания красного цвета и должны соединять красные круги на Оборудовании.
-
 tutorial_airdone | The <b>AIRDUCT</b> is activated and is pressurising the cabin! The atmosphere will soon be breathable. | <b>ВОЗДУХОВОД</b> активирован и нагнетает давление в кабине! Скоро атмосфера станет пригодной для дыхания.
-
 tutorial_airinstallairduct | We now need to provide a breathable atmosphere for our crew. This is done with an <b>AIRDUCT</b>.\n\nInstall an <b>AIRDUCT</b> somewhere near the Reactor. | Теперь нам нужно обеспечить дыхательную атмосферу для нашего экипажа. Это можно сделать с помощью <b>ВОЗДУХОВОДА</b>.\n\nУстановите <b>ВОЗДУХОВОД</b> где-нибудь рядом с Реактором.
-
 tutorial_airinstallairloader | The <b>AIRDUCT</b> needs <b>OXYGEN</b>, in the same way as the <b>REACTOR</b> needs <b>FUEL</b>. We can use an <b>OXYGEN LOADER</b> to provide <b>OXYGEN</b>.\n\nInstall an <b>OXYGEN LOADER</b> near the <b>AIRDUCT</b>. | <b>ВОЗДУХОВОДУ</b> нужен <b>КИСЛОРОД</b>, так же как и <b>РЕАКТОРУ</b> нужно <b>ТОПЛИВО</b>. Мы можем использовать <b>ПОГРУЗЧИК КИСЛОРОДА</b> для обеспечения <b>КИСЛОРОДА</b>.\n\nУстановите <b>ПОГРУЗЧИК КИСЛОРОДА</b> рядом с <b>ВОЗДУХОВОДОМ</b>.
-
 tutorial_airpipes | We need to connect the <b>OXYGEN LOADER</b> into the <b>AIRDUCT</b> using <b>PIPES</b>.\n\nSelect <b>PIPES</b> from the <b>CONSTRUCTION</b> menu. | Нам нужно соединить <b>ПОГРУЗЧИК КИСЛОРОДА</b> с <b>ВОЗДУХОВОДОМ</b> с помощью <b>ТРУБ</b>.\n\nВыберите <b>ТРУБЫ</b> из меню <b>СТРОИТЕЛЬСТВО</b>.
-
 tutorial_airpipetoairduct | Drag a <b>PIPE</b> from the <b>OXYGEN LOADER</b> to the <b>AIRDUCT</b>, connecting the <b>BLUE</b> circles. | Перетащите <b>ТРУБУ</b> из <b>ПОГРУЗЧИКА КИСЛОРОДА</b> в <b>ВОЗДУХОВОД</b>, соединив <b>СИНИЕ</b> круги.
-
 tutorial_battlestations_title | BATTLE STATIONS | БОЕВЫЕ СТАНЦИИ
-
 tutorial_battlestationsactivate | <b>BATTLE STATIONS</b> must be activated before your weapons can be used.\n\nThis will tell your crew to prepare for battle! | <b>БОЕВЫЕ СТАНЦИИ</b> должны быть активированы до того, как вы сможете использовать оружие.\n\nЭто прикажет вашему экипажу приготовиться к бою!
-
 tutorial_battlestationshighlightcrew | Your crew will run to the weapons to deploy them.\n\nGatling guns don't require any crew to deploy them. | Ваш экипаж будет бегать к оружию, чтобы развернуть его.\n\nПулеметы не требуют экипажа для их развертывания.
-
 tutorial_battlestationshighlightguns | The gun barrels will begin to extend when they arrive.\n\nWhen the barrels are fully extended they will be ready to fire! | Стволы пушек начнут выдвигаться, когда они прибудут на место.\n\nКогда стволы будут полностью выдвинуты, они будут готовы к стрельбе!
-
 tutorial_battlestationsstart | We are now going to learn how to deploy our weapons for combat.\n\nThe game has been paused for now. | Сейчас мы научимся применять оружие в бою.\n\nНа данный момент игра поставлена на паузу.
-
 tutorial_battlestationssuccess | Well done, your weapons are now successfully deployed for battle! | Молодец, теперь ваше оружие успешно развернуто для боя!
-
 tutorial_buy_shiftclick | <b>NOTE</b>: You can <b>SHIFT CLICK</b> to buy in multiples of 5. | <b>ПРИМЕЧАНИЕ</b>: Вы можете нажимать <b>SHIFT CLICK</b>, чтобы покупать кратно 5.
-
 tutorial_buyship_title | PURCHASING SHIPS | ПОКУПКА КОРАБЛЕЙ
-
 tutorial_buyshipbuy | Click on the <b>BUY</b> button to purchase the <b>JMC MINING STATION</b>. | Нажмите на кнопку <b>КУПИТЬ</b>, чтобы приобрести <b>JMC MINING STATION</b>.
-
 tutorial_buyshipinspect | Click on the <b>JMC MINING STATION</b>, an old unused industrial station for sale. | Нажмите на <b>JMC MINING STATION</b>, старую неиспользуемую промышленную станцию, выставленную на продажу.
-
 tutorial_buyshipstart | We are now going to learn about selecting and buying ships. | Сейчас мы узнаем, как выбирать и покупать корабли.
-
 tutorial_buyshipsuccess | Well done, you have purchased the <b>JMC MINING STATION</b>. | Отлично, вы приобрели станцию <b>JMC MINING STATION</b>.
-
 tutorial_camera_title | CAMERA CONTROLS | УПРАВЛЕНИЕ КАМЕРОЙ
-
 tutorial_cameracontrols | Use <b>{PanUp1}{PanLeft1}{PanDown1}{PanRight1}</b> or the <b>ARROW KEYS</b> to move the view around.\n\nZoom the view using the <b>MOUSE WHEEL</b>, or <b>{ZoomIn}</b>/<b>{ZoomOut}</b> on the keyboard.\n\nDrag the view by holding the <b>MIDDLE MOUSE BUTTON</b>. | Используйте <b>{PanUp1}{PanLeft1}{PanDown1}{PanRight1}</b> или <b>КЛАВИШИ СО СТРЕЛКАМИ</b> для перемещения вида вокруг.\n\nУвеличивайте вид с помощью <b>КОЛЕСИКА МЫШИ</b> или <b>{ZoomIn}</b>/<b>{ZoomOut}</b> на клавиатуре.\n\nПеретаскивайте вид, удерживая <b>СРЕДНЮЮ КНОПКУ МЫШИ</b>.
-
 tutorial_combat_title | COMBAT | БОЙ
-
 tutorial_combatbattlestations | The effect of the <b>EMP</b> is wearing off!\n\nDeploy your weapons and make your crew ready to fight by clicking on <b>BATTLE STATIONS</b>. | Эффект <b>ЭМИ</b> ослабевает!\n\nРазверните оружие и приготовьте экипаж к бою, нажав на <b>БОЕВЫЕ СТАНЦИИ</b>.
-
 tutorial_combatkeepmoving | Make sure to keep moving during combat, this increases your <b>EVASION</b> and makes you a harder target to hit. | Во время боя обязательно двигайтесь, это повышает вашу <b>ЭВАЗИОННОСТЬ</b> и делает вас более сложной мишенью для поражения.
-
 tutorial_combatopenweaponscontrol | Open the weapons control panel. | Откройте панель управления оружием.
-
 tutorial_combatrange | You can see the range of weapons by hovering over them. Weapons will shoot at enemy ships in their range. | Наведя курсор на оружие, вы можете увидеть его радиус действия. Оружие будет стрелять по вражеским кораблям в радиусе своего действия.
-
 tutorial_combatselectcannon | Your guns can also target specific points on enemy ships.\n\nFirst, select which guns you would like to use.\n\nYou can <b>SHIFT CLICK</b> to select multiple guns. | Ваши пушки также могут нацеливаться на определенные точки на вражеских кораблях.\n\nСначала выберите, какие пушки вы хотите использовать.\n\nВы можете нажать <b>SHIFT CLICK</b>, чтобы выбрать несколько пушек.
-
 tutorial_combatselecttarget | Target their weapon systems so that they can't damage you further. | Нацельтесь на их оружейные системы, чтобы они не смогли нанести вам дополнительный урон.
-
 tutorial_combatstart | We are now going to learn some basic combat techniques. | Сейчас мы изучим основные боевые приемы.
-
 tutorial_combatsuccess | Well done. You have learned how to use weapons. Now fire at will at the pirate ship! | Отлично. Вы научились пользоваться оружием. Теперь стреляйте по пиратскому кораблю по своему усмотрению!
-
 tutorial_combatswitchtotacticalview | Switch to tactical mode. | Переключитесь в тактический режим.
-
 tutorial_docking_title | DOCKING | СТЫКОВКА
-
 tutorial_dockingapproachship_x | Use your main ship engines to get close to the *X. | Используйте двигатели корабля, чтобы приблизиться к *X.
-
 tutorial_dockingcheckthrusters | In order to be able to dock successfully, your ship needs at least four working <b>THRUSTERS</b>.\n\nUse a different ship, or purchase and install four thrusters at a nearby trading post. | Чтобы успешно пристыковаться, вашему кораблю нужно как минимум четыре работающих <b>МАНЕВРОВЫХ ДВИГАТЕЛЯ</b>.\n\nИспользуйте другой корабль или купите и установите четыре Маневровых Двигателя в ближайшем торговом пункте.
-
 tutorial_dockingmaneuver | Use your <b>THRUSTERS</b> to maneuver your ship so that <b>RED</b> diamonds of your docking ports align with the docking port of the *X.\n\nWhen aligned correctly, they will both turn <b>YELLOW</b>.\n\nKeep the ships aligned until the docking bridge is fully extended. | Используя свои <b>МАНЕВРОВЫЕ ДВИГАТЕЛИ</b>, маневрируйте кораблем так, чтобы <b>КРАСНЫЕ</b> ромбы ваших Стыковочных Портов совпали со Стыковочным Портом *X.\n\nПри правильном выравнивании они оба станут <b>ЖЕЛТЫМИ</b>.\n\nУдерживайте корабли выровненными, пока стыковочный мостик не будет полностью выдвинут.
-
 tutorial_dockingmaneuverkeys | Use the Maneuvering controls to move the ship into position.\n\nYou can also use the keys <b>{ManoeuvreUp}</b>, <b>{ManoeuvreLeft}</b>, <b>{ManoeuvreDown}</b>, <b>{ManoeuvreRight}</b> to move, and <b>{ManoeuvreClockwise}</b> and <b>{ManoeuvreCounterClockwise}</b> to rotate the ship. | Для перемещения корабля в нужное положение используйте элементы управления Маневрирование.\n\nВы также можете использовать клавиши <b>{ManoeuvreUp}</b>, <b>{ManoeuvreLeft}</b>, <b>{ManoeuvreDown}</b>, <b>{ManoeuvreRight}</b> для перемещения, и <b>{ManoeuvreClockwise}</b> и <b>{ManoeuvreCounterClockwise}</b> для поворота корабля.
-
 tutorial_dockingopenmaneuver | Open the <b>MANEUVERING THRUSTER</b> controls. | Откройте элементы управления <b>МАНЕВРОВЫМИ ДВИГАТЕЛЯМИ</b>.
-
 tutorial_dockingstart | We are now going to learn how to dock your ship to another ship. | Сейчас мы узнаем, как пристыковать свой корабль к другому кораблю.
-
 tutorial_dockingsuccess | Well done. You have docked successfully! | Молодцы. Вы успешно состыковались!
-
 tutorial_dockingswitchtotactical | To get started, switch to <b>TACTICAL</b> mode by clicking the button or pressing <b>{ToggleTactical}</b>. | Чтобы начать, перейдите в режим <b>ТАКТИКА</b>, нажав на кнопку или нажав <b>{ToggleTactical}</b>.
-
 tutorial_dockingzoomin | Zoom in so that you can see the docking guides more clearly. They are <b>RED</b> diamonds extending from the docking ports. | Увеличьте масштаб, чтобы лучше разглядеть направляющие для стыковки. Это <b>КРАСНЫЕ</b> ромбы, выходящие из Стыковочных Портов.
-
 tutorial_dsiclicktodismantle | Any equipment can be dismantled by left-clicking. | Любое оборудование можно разобрать, щелкнув левой кнопкой мыши.
-
 tutorial_dsiclosedismantle | We can stop dismantling by clicking the dismantle button again or by closing the construction menu.\n\nClose the menu by clicking the <b>CONSTRUCTION</b> button or by pressing <b>ESC</b>. | Мы можем остановить демонтаж, снова нажав на кнопку демонтажа или закрыв меню строительства.\n\nЗакройте меню, нажав на кнопку <b>СТРОИТЕЛЬСТВО</b> или нажав <b>ESC</b>.
-
 tutorial_dsidismantle | Dismantling equipment removes it from your ship and places it in a box so you can install it later. | Демонтируя оборудование, вы снимаете его с корабля и кладете в коробку, чтобы установить позже.
-
 tutorial_dsidismantletitle | DISMANTLING | ДЕМОНТАЖ
-
 tutorial_dsihighlightruinedequipment | This equipment is ruined, so you'll receive scrap metal when you dismantle it. | Это Оборудование испорчено, поэтому при его демонтаже вы получите Металлолом.
-
 tutorial_dsihighlightsmelter | Let's use the scrap metal to produce metal ingots in the smelter. Right-click on the smelter. | Давайте используем Металлолом для производства Железных слитков в плавильной печи. Нажмите правой кнопкой мыши на плавильной печи.
-
 tutorial_dsisetrecipe | Right-clicking on equipment allows you to set recipes. Set the smelter recipe to scrap metal. | Щелкнув правой кнопкой мыши на оборудовании, вы можете задать рецепты. Установите рецепт плавильной печи на Металлолом.
-
 tutorial_dsisetupdone | The smelter will now start producing metal ingots after it has finished heating up. | Теперь плавильная печь начнет производить Железные слитки после окончания нагрева.
-
 tutorial_dsismelterrecipes | RECIPES | РЕЦЕПТЫ
-
 tutorial_end_title | END OF TUTORIAL | КОНЕЦ РУКОВОДСТВА
-
 tutorial_engines_title | ENGINES | ДВИГАТЕЛИ
-
 tutorial_enginesconnectpipes | Let's start with the starboard engine. Use the pipes menu to run a pipe from the engine to your existing yellow fuel lines. | Начнем с правого Двигателя. Используйте меню трубы, чтобы провести трубу от Двигателя к существующим желтым топливным линиям.
-
 tutorial_enginesconnectpower | Now use the <b>CABLES</b> menu to power up the engine, by connecting it to your existing red power lines. | Теперь используйте меню <b>КАБЕЛИ</b>, чтобы запитать двигатель, подключив его к существующим красным линиям питания.
-
 tutorial_enginesinformation | Engines require both <b>POWER</b> and <b>FUEL</b> to operate. We must connect both engines to fuel and power. | Для работы двигателей необходимы <b>ПИТАНИЕ</b> и <b>ТОПЛИВО</b>. Мы должны подключить оба двигателя к топливу и питанию.
-
 tutorial_enginesintro | The ship has two factory fitted engines ready to go, but we need to connect them up. | На корабле установлены два готовых к работе Двигателя, но нам нужно их подключить.
-
 tutorial_enginesoperational | Both of our engines are now operational. | Теперь оба Двигателя работают.
-
 tutorial_enginesportside | Now repeat the process with the port engine. Connect the fuel and power lines to start the engine. | Теперь повторите процесс с левым Двигателем. Подключите топливные и силовые линии, чтобы запустить Двигатель.
-
 tutorial_enginesstarboardside | Fantastic work! The Starboard engine is now starting up. | Фантастическая работа! Двигатель правого борта запущен.
-
 tutorial_fabrication_title | FABRICATION | ФАБРИКАЦИЯ
-
 tutorial_fabricationclosefab1 | Close the Equipment Panel by clicking the X in the top right corner, or pressing <b>ESC</b>. | Закройте панель оборудования, нажав на X в правом верхнем углу или нажав <b>ESC</b>.
-
 tutorial_fabricationclosefab2 | Close the Equipment Panel by clicking the X in the top right corner, or pressing <b>ESC</b>. | Закройте панель оборудования, нажав на X в правом верхнем углу или нажав <b>ESC</b>.
-
 tutorial_fabricationconfigureass1 | We need to configure the <b>ASSEMBLY TABLE</b> in the same way.\n\nRIGHT <b>CLICK</b> on the assembly table. | Нам нужно настроить <b>СБОРОЧНЫЙ СТОЛ</b> таким же образом.\n\nПравый <b>ЩЕЛЧОК</b> на сборочном столе.
-
 tutorial_fabricationconfigureass2 | Select <b>STARGATE FRAME</b> from the drop-down menu. | Выберите <b>STARGATE FRAME</b> из выпадающего меню.
-
 tutorial_fabricationconfigurefab1 | We need to configure the new equipment to make the products that we want.\n\nRIGHT <b>CLICK</b> on the <b>FABRICATOR</b> to configure it. | Нам нужно настроить новое оборудование, чтобы оно производило нужные нам продукты.\n\nПРАВЫЙ <b>КЛИК</b> на <b>ФАБРИКАТОР</b>, чтобы настроить его.
-
 tutorial_fabricationconfigurefab2 | This drop-down menu shows all of the components that we can manufacture in a <b>FABRICATOR</b>.\n\nSelect <b>FRAME</b> from the list. | В этом выпадающем меню показаны все компоненты, которые мы можем изготовить на <b>ФАБРИКАТОРЕ</b>.\n\nВыберите <b>FRAME</b> из списка.
-
 tutorial_fabricationinstallassemblytable | Those components are then assembled into finished products on an <b>ASSEMBLY TABLE</b>.\n\nInstall an <b>ASSEMBLY TABLE</b> somewhere near the <b>FABRICATOR</b>. | Затем эти компоненты собираются в готовые изделия на <b>АССЕМБЛЯЖНОМ СТОЛЕ</b>.\n\nУстановите <b>АССЕМБЛЯЖНЫЙ СТОЛ</b> где-нибудь рядом с <b>ФАБРИКАТОРОМ</b>.
-
 tutorial_fabricationinstallfabricator | Components are manufactured in a <b>FABRICATOR</b>, using raw materials like <b>METAL INGOTS</b>.\n\nInstall a <b>FABRICATOR</b> somewhere in the South East quadrant of the station. | Компоненты изготавливаются в <b>ФАБРИКАТОРЕ</b>, используя такое сырье, как <b>МЕТАЛЛИЧЕСКИЕ ИНГОТЫ</b>.\n\nУстановите <b>ФАБРИКАТОР</b> где-нибудь в юго-восточном квадранте станции.
-
 tutorial_fabricationpower | This new equipment needs power.  Build <b>POWER CABLES</b> to connect your <b>REACTOR</b> to the <b>FABRICATOR</b> and <b>ASSEMBLY TABLE</b>. | Этому новому оборудованию нужно питание. Постройте <b>кабели питания</b>, чтобы соединить ваш <b>РЕАКТОР</b> с <b>ФАБРИКАТОРОМ</b> и <b>АССЕМБЛЕРНЫМ СТОЛОМ</b>.
-
 tutorial_fabricationworking | Your crew are now fabricating <b>FRAMES</b> out of <b>METAL INGOTS</b>, then assembling those <b>FRAMES</b> into <b>STARGATE FRAMES</b>, which we can sell to the <b>STARGATE</b> project for profit. | Ваш экипаж сейчас изготавливает <b>РАМЫ</b> из <b>МЕТАЛЛИЧЕСКИХ ИНГОТ</b>, затем собирает их в <b>РАМЫ СТАРГЕЙТА</b>, которые мы можем продать проекту <b>СТАРГЕЙТ</b> для получения прибыли.
-
 tutorial_finance_title | CONTRACTS | КОНТРАКТЫ
-
 tutorial_financearrived | We have arrived at the destination system. | Мы прибыли в систему назначения.
-
 tutorial_financeassigntransport | This mission requires us to transport a group of people from here to another location in the sector.\n\nClick the accept button to assign this contract to the <b>PROCYON</b>. | Эта миссия требует, чтобы мы доставили группу людей отсюда в другое место в секторе.\n\nНажмите кнопку Принять, чтобы назначить этот контракт на <b>PROCYON</b>.
-
 tutorial_financeclosesectormap | Close the <b>SECTOR MAP</b> by clicking the X in the top right corner, or by pressing <b>ESC</b>. | Закройте <b>КАРТУ СЕКТОРА</b>, нажав на X в правом верхнем углу или нажав <b>ESC</b>.
-
 tutorial_financeftlwindow | Open the <b>FTL</b> screen to order the <b>FTL</b> jump. | Откройте экран <b>сверхсветовой скорости</b>, чтобы заказать <b>сверхсветовой</b> прыжок.
-
 tutorial_financehyperspace | We are in hyperspace! | Мы в гиперпространстве!
-
 tutorial_financejump | Click the <b>JUMP</b> button to jump to hyperspace. | Нажмите кнопку <b>ПРЫЖОК</b>, чтобы перейти в гиперпространство.
-
 tutorial_financemissioncomplete | The passengers have all arrived safely. You will now be paid the fee and will also receive points toward your Humanitarian rating - giving you access to more difficult and lucrative missions. | Все пассажиры прибыли в целости и сохранности. Теперь вам будет выплачен гонорар, а также начислены очки в рейтинг Гуманитарий, что даст вам доступ к более сложным и прибыльным миссиям.
-
 tutorial_financemissionscreen | Now that our ship is up and running, we need to earn our way.  We can complete contracts for financial reward and reputation.\n\nOpen the <b>CONTRACTS</b> screen to see a list of available contracts. | Теперь, когда наш корабль запущен, нам нужно зарабатывать.  Мы можем выполнить контракты, чтобы получить финансовое вознаграждение и репутацию.\n\nОткройте экран <b>КОНТРАКТЫ</b>, чтобы увидеть список доступных контрактов.
-
 tutorial_financepassengersinbound | The passengers will be delivered to the <b>PROCYON</b> by shuttle. | Пассажиры будут доставлены на <b>PROCYON</b> на шаттле.
-
 tutorial_financepreparejump | Click on <b>PREPARE JUMP</b> to align the ship and prepare for hyperspace. | Нажмите на <b>ПОДГОТОВИТЬ ПРЫЖОК</b>, чтобы выровнять корабль и подготовиться к гиперпространству.
-
 tutorial_financepreparingjump | The <b>PROCYON</b> will align for hyperspace, and prepare the <b>FTL</b> drive to make the jump. | <b>PROCYON</b> выравнивается для перехода в гиперпространство и готовит <b>сверхсветовой</b> привод к совершению прыжка.
-
 tutorial_financesectormap | All passengers have been delivered to the <b>PROCYON</b>, and our <b>FTL</b> drive is operational. We must now plot an <b>FTL</b> jump to their destination.\n\nOpen the <b>SECTOR MAP</b>. | Все пассажиры доставлены на <b>PROCYON</b>, и наш <b>сверхсветовой</b> привод работает. Теперь мы должны спланировать <b>сверхсветовой</b> прыжок к месту назначения.\n\nОткройте <b>карту сектора</b>.
-
 tutorial_financeselectmission | We now need to turn in our completed passenger contract.\n\nOpen the <b>CONTRACTS</b> screen and select the passenger mission. | Теперь нам нужно сдать наш завершенный пассажирский контракт.\n\nОткройте экран <b>КОНТРАКТЫ</b> и выберите пассажирскую миссию.
-
 tutorial_financeselectship | Contracts are assigned to the ship you currently have selected.\n\nOnly the <b>PROCYON</b> can travel between locations, so select the <b>PROCYON</b>. | Контракты назначаются на корабль, который вы выбрали.\n\nОдин только <b>PROCYON</b> может путешествовать между локациями, поэтому выберите <b>PROCYON</b>.
-
 tutorial_financeselecttransport | Here we have a <b>TRANSPORT PASSENGER</b> contract, click it to see more details. | Здесь у нас контракт <b>ТРАНСПОРТ ПАССАЖИРА</b>, нажмите на него, чтобы узнать подробности.
-
 tutorial_financesetdestination | This is a map of all the systems in this sector.\n\nOur ship and our space station are located in the middle, where the map is marked <b>YOU-ARE-HERE</b>.\n\nSet a course to the destination (labelled <b>TRANSPORT</b> PASSENGERS) by clicking on it. | Это карта всех систем в этом секторе.\n\nНаш корабль и наша космическая станция находятся в центре, где на карте обозначено <b>YOU-ARE-HERE</b>.\n\nЗадайте курс к месту назначения (обозначено <b>TRANSPORT</b> PASSENGERS), щелкнув на нем.
-
 tutorial_financeturnin | Click the <b>DELIVER</b> button to drop off the passengers and receive payment | Нажмите на кнопку <b>ДОСТАВИТЬ</b>, чтобы высадить пассажиров и получить оплату
-
 tutorial_financeturningin | A shuttle will be dispatched to collect the passengers. | За пассажирами будет отправлен Челнок.
-
 tutorial_fleetcrew | We will need a crew. Hire five <b>CREW MEMBERS</b> from the <b>TRADE</b> screen. | Нам нужен экипаж. Наймите пять <b>членов экипажа</b> на экране <b>ТОРГОВЛЯ</b>.
-
 tutorial_fleetcrew_shiftclick | <b>NOTE</b>: You can <b>SHIFT CLICK</b> to hire in multiples of 5. | <b>ПРИМЕЧАНИЕ</b>: Вы можете нажать <b>SHIFT CLICK</b>, чтобы нанять кратно 5.
-
 tutorial_fleetcrewarrival | Your new crew will arrive by shuttle. | Ваш новый экипаж прибудет на Челноке.
-
 tutorial_fleetresources | We also need resources for the ship to function.\n\nUse the <b>TRADE</b> screen to buy:\n- 5x <b>FUEL</b>\n- 5x <b>OXYGEN</b>\n- 5x <b>FTL CHARGE</b>\n- 2x <b>FOOD</b>\n- 2x <b>WATER</b>.\n\nCONFIRM the trade when you are done. | Нам также нужны ресурсы для работы корабля.\n\nИспользуйте экран <b>ТОРГОВЛЯ</b>, чтобы купить:\n- 5x <b>ТОПЛИВО</b>\n- 5x <b>КИСЛОРОД</b>\n- 5x <b>СВЕРХСВЕТОВОЙ ЗАРЯД</b>\n- 2x <b>ЕДУ</b>\n- 2x <b>ВОДУ</b>.\n\nПосле этого подтвердите сделку.
-
 tutorial_fleetspacesuits | Those crew will also need <b>SPACESUITS</b> as there is no atmosphere onboard our ship yet.\n\nOrder five <b>SPACESUITS</b> for the new crew. | Этим членам экипажа также понадобятся <b>КОСМИЧЕСКИЕ СКАФАНДРЫ</b>, так как на корабле пока нет атмосферы.\n\nЗакажите пять <b>КОСМИЧЕСКИХ СКАФАНДРОВ</b> для нового экипажа.
-
 tutorial_fleettrade | The ship is fitted with engines and an <b>FTL</b> drive for Interstellar Travel! But it does need a crew.\n\nOpen the <b>TRADE</b> screen. | Корабль оснащен двигателями и <b>СВЕРХСВЕТОВЫМ</b> приводом для межзвездных путешествий! Но ему нужен экипаж.\n\nОткройте экран <b>ТОРГОВЛЯ</b>.
-
 tutorial_fleettradeconfirm | <b>CONFIRM</b> the trade. | <b>ПОДТВЕРДИТЕ</b> сделку.
-
 tutorial_fleetwaitforpowerup | Your crew will now power up the ship and bring the engines and life support online. | Теперь ваш экипаж зарядит корабль и запустит Двигатели и систему жизнеобеспечения.
-
 tutorial_flight_title | FLIGHT | ПОЛЕТ
-
 tutorial_flightengines | We can directly control our engine <b>THROTTLE</b> from here.\n\nTry increasing your engine throttle with this control. | Здесь мы можем напрямую управлять <b>ТЯГОЙ</b> двигателя.\n\nПопробуйте увеличить тягу двигателя с помощью этого регулятора.
-
-tutorial_flightexittactical | Exit <b>TACTICAL</b> mode by clicking the button again, or pressing <b>{ToggleTactical}</b>. | Выйдите из режима <b>ТАКТИКА</b>, снова нажав на кнопку или нажав <b>{ToggleTactical}</b>.
-
+tutorial_flightexittactical | Exit <b>TACTICAL</b> mode by clicking the button again, or pressing <b>{ToggleTactical}</b>. | Выйдите из режима <b>TACTICAL</b>, снова нажав на кнопку или нажав <b>{ToggleTactical}</b>.
 tutorial_flightinformation | Your crew will continue to operate the ship and keep the engines running as you travel around. Try flying around the system until you have a handle on the controls.\n\nWhen you are ready, bring the ship to a stop by setting the <b>THROTTLE</b> to zero in <b>TACTICAL</b> mode. | Ваш экипаж будет продолжать управлять кораблем и поддерживать работу двигателей, пока вы путешествуете. Попробуйте полетать по системе, пока не разберетесь с управлением.\n\nКогда вы будете готовы, остановите корабль, установив <b>ТЯГУ</b> на ноль в режиме <b>ТАКТИКА</b>.
-
 tutorial_flightsetcourse | We can send our ship to a specific location by <b>RIGHT-CLICKING</b>. Try setting a destination by right clicking in the tactical view. | Мы можем отправить наш корабль в определенное место, щелкнув <b>ПРАВОЙ кнопкой мыши</b>. Попробуйте задать пункт назначения, щелкнув правой кнопкой мыши в тактическом режиме.
-
 tutorial_flighttactical | We should give our engines a small test flight.  To maneuver our ship, switch into <b>TACTICAL</b> mode by clicking the highlighted button, or pressing <b>{ToggleTactical}</b>. | Мы должны дать нашим двигателям небольшой пробный полет.  Для маневрирования корабля перейдите в <b>ТАКТИЧЕСКИЙ</b> режим, нажав на выделенную кнопку или нажав <b>{ToggleTactical}</b>.
-
 tutorial_flightturning | We can also turn the ship by left clicking in <b>TACTICAL</b> mode, in the direction we wish to travel. | Мы также можем повернуть корабль, щелкнув левой кнопкой мыши в режиме <b>ТАКТИКА</b>, в том направлении, куда мы хотим двигаться.
-
 tutorial_ftl_title | FASTER THAN LIGHT | БЫСТРЕЕ СВЕТА
-
 tutorial_ftladdftldrive | Add one <b>FTL</b> drive to our order by clicking on the entry in the list. | Добавьте один <b>сверхсветовой</b> привод к нашему заказу, нажав на запись в списке.
-
 tutorial_ftladdftlfuel | <b>FTL</b> drives consume one fuel charge per jump. Add 5 <b>FTL</b> Charges to the order as well. | <b>Сверхсветовые</b> приводы расходуют один заряд топлива на один прыжок. Добавьте к заказу также 5 <b>сверхсветовых</b> зарядов.
-
 tutorial_ftlconfirmorder | Confirm the order. | Подтвердите заказ.
-
 tutorial_ftldelivery | A shuttle will deliver the items to us. | Челнок доставит нам предметы.
-
 tutorial_ftlinstallftl | Install the <b>FTL</b> drive anywhere in your ship. | Установите <b>сверхсветовой</b> привод в любом месте вашего корабля.
-
 tutorial_ftlintro | We cannot deliver those passengers to their destination without Faster-Than-Light travel. Unfortunately this ship is not equipped with its own <b>FTL</b> drive.\n\nWe'll need to buy one and set it up. | Мы не сможем доставить этих пассажиров к месту назначения без использования ускорителей света. К сожалению, этот корабль не оснащен собственным <b>сверхсветовым</b> приводом.\n\n Нам придется купить его и установить.
-
 tutorial_ftlpowerftl | Connect the <b>FTL</b> drive to your power network. | Подключите <b>сверхсветовой</b> привод к вашей энергосети.
-
 tutorial_ftlselectpropulsion | The items we need are listed under <b>PROPULSION</b>. Select that category. | Нужные нам предметы перечислены в разделе <b>PROPULSION</b>. Выберите эту категорию.
-
 tutorial_ftlstoragedone | The crew will move all the <b>FTL</b> Charges into this zone. | Экипаж переместит все <b>сверхсветовые</b> заряды в эту зону.
-
 tutorial_ftlstoragetoolbar | We can make things more efficient for our crew by telling them to store <b>FTL</b> Charges near the <b>FTL</b> drive.\n\nSelect <b>STORAGE</b> from the <b>CONSTRUCTION</b> toolbar, then select <b>FTL</b> Charges from the list. | Мы можем сделать работу экипажа более эффективной, приказав ему хранить <b>сверхсветовые</b> заряды рядом со <b>сверхсветовым</b> накопителем.\n\nВыберите <b>STORAGE</b> на панели инструментов <b>СТРОИТЕЛЬСТВО</b>, затем выберите <b>FTL</b> Charges из списка.
-
 tutorial_ftlstorageworld | Now drag out a storage zone near to the <b>FTL</b> drive. | Теперь перетащите зону хранения рядом со <b>сверхсветовым</b> накопителем.
-
 tutorial_ftltradescreen | Open the trade screen to purchase an <b>FTL</b> drive. | Откройте торговый экран, чтобы купить <b>сверхсветовой</b> привод.
-
 tutorial_introduction_title | TUTORIAL | ТУТОРИАЛ
-
 tutorial_introduction1 | Welcome to our new home. | Добро пожаловать в наш новый дом.
-
 tutorial_introduction2 | This vessel is fresh out of the shipyard production line.\n\nIt's just an empty hull right now, without power or a breathable atmosphere. Our first job is to fix that.\n\nClick <b>NEXT</b> to continue. | Это судно только что сошло с конвейера верфи.\n\nСейчас это просто пустой корпус, без энергии и пригодной для дыхания атмосферы. Наша первая задача - исправить это.\n\nНажмите <b>ДАЛЕЕ</b>, чтобы продолжить.
-
 tutorial_logistics_crew_title | CREW LOGISTICS | ЛОГИСТИКА ЭКИПАЖА
-
 tutorial_logisticscrewclicktarget | Click in the <b>CREW</b> cell of the <b>DESTINATION</b> ship to request 5 crew to transfer. | Нажмите в ячейке <b>CREW</b> на корабле <b>назначения</b>, чтобы запросить 5 членов экипажа.
-
 tutorial_logisticscrewclicktarget_shiftclick | <b>NOTE</b>: You can <b>SHIFT CLICK</b> to request transfer in multiples of 5. | <b>ПРИМЕЧАНИЕ</b>: Вы можете <b>нажать SHIFT CLICK</b>, чтобы запросить перевод кратно 5.
-
 tutorial_logisticscrewopen | Open the Fleet Logistics window. | Откройте окно логистики флота.
-
 tutorial_logisticscrewselectfrom | Select the <b>SOURCE</b> ship that the crew will come <b>FROM</b>. | Выберите <b>КОРАБЛЬ</b>, <b>С КОТОРОГО</b> прибудет экипаж.
-
 tutorial_logisticscrewselectship | Select the <b>UMC</b> Astral Temptress. \n\n As you can see it has no crew. | Выберите <b>UMC</b> Astral Temptress. \n\n Как вы видите, у него нет экипажа.
-
 tutorial_logisticscrewstart | We are now going to learn how to transfer crew from one ship to another.\n\nThe two ships must be docked so that the crew can walk from one ship to another. | Сейчас мы узнаем, как пересадить экипаж с одного корабля на другой.\n\nДва корабля должны быть состыкованы так, чтобы экипаж мог переходить с одного корабля на другой.
-
 tutorial_logisticscrewsuccess | Well done. You have transferred some crew successfully! | Отлично. Вы успешно перевели несколько членов экипажа!
-
 tutorial_logisticscrewswitchtonormalview | First, switch back to normal view by leaving tactical mode. | Сначала вернитесь в обычный вид, выйдя из тактического режима.
-
 tutorial_logisticscrewwait | Excellent. Now we just need to wait for the crew to transfer. | Отлично. Осталось только дождаться, когда экипаж будет переведен.
-
 tutorial_mining_title | MINING | МАЙНИНГ
-
 tutorial_miningfleetorders | You also need to make sure that <b>GATHER MATERIALS</b> is enabled in <b>FLEET ORDERS</b>. | Вам также нужно убедиться, что в <b>FLEET ORDERS</b> включена опция <b>GATHER MATERIALS</b>.
-
 tutorial_miningflytodeposit | This system seems to have asteroids containing Tilium Ore, fly close to one of them. | Похоже, в этой системе есть астероиды, содержащие Тилиевую Руду, подлетите к одному из них.
-
 tutorial_miningflytosystem | Look at the rocks on the map, these indicate <b>ASTEROID BELTS</b>. \n\nFly to a system in an asteroid belt, it will probably contain Tilium Ore. | Посмотрите на камни на карте, они обозначают <b>АСТЕРОИДНЫЕ ПОЯСА</b>.\n\nЛетите к системе в астероидном поясе, там наверняка найдется Тилиевая Руда.
-
 tutorial_mininggetinrange | Move your ship until the mineral patch is in the range of fire. | Перемещайте корабль так, чтобы минеральный участок оказался в зоне обстрела.
-
 tutorial_mininginstalldronebay | Drones will collect mined resources.\n\nInstall a <b>DRONE BAY</b> so your drones can collect the Tilium Ore. | Дроны будут собирать добытые ресурсы.\n\nУстановите <b>ОТСЕК ДЛЯ ДРОНОВ</b>, чтобы ваши дроны могли собирать Тилиевую Руду.
-
 tutorial_mininginstalllaser | You will need a Mining Laser. These use a lot of power so consider installing extra reactors or batteries.\n\nInstall a <b>MINING LASER</b> and connect it to the power grid. | Для этого вам понадобится шахтерский лазер. Они потребляют много энергии, поэтому установите дополнительные реакторы или батареи.\n\nУстановите <b>шахтный лазер</b> и подключите его к электросети.
-
 tutorial_mininginstallsmelter | You will need to smelt the raw Tilium Ore to crystals.\n\nInstall a <b>SMELTER</b>. | Вам нужно будет переплавить сырую Тилиевую Руду в кристаллы.\n\nУстановите <b>ПЛАВИЛЬНУЮ ПЕЧЬ</b>.
-
 tutorial_miningopenmap | Now open the sector map (<b>{ToggleMap}</b>). | Теперь откройте карту сектора (<b>{ToggleMap}</b>).
-
 tutorial_miningopenweaponscontrol | Open the weapons control panel. | Откройте панель управления оружием.
-
 tutorial_miningrange | You can see the range of mining lasers by hovering over them. Mining lasers will fire at mineral patches in their field of fire. | Наведя на них курсор, вы можете увидеть радиус действия шахтных лазеров. Горные лазеры будут стрелять по минеральным пятнам в их поле зрения.
-
 tutorial_miningselectlaser | You can also target specific mineral patches.\n\nFirst, select which laser you would like to use.\n\nYou can <b>SHIFT CLICK</b> to select multiple lasers. | Вы также можете нацелиться на конкретные участки минералов.\n\nСначала выберите лазер, который вы хотите использовать.\n\nВы можете нажать <b>SHIFT CLICK</b>, чтобы выбрать несколько лазеров.
-
 tutorial_miningselecttarget | Target a Tilium Ore patch by clicking on one while having a mining laser selected. | Нацельтесь на участок с Тилиевой Рудой, щелкнув на нем при выбранном лазере.
-
 tutorial_miningsetsmelter | Right click on the <b>SMELTER</b> and select <b>TILIUM ORE</b> to smelt it into Tilium Crystals. | Нажмите правой кнопкой мыши на <b>ПЛАВИЛЬНОЙ ПЕЧИ</b> и выберите <b>TILIUM ORE</b>, чтобы переплавить его в Тилиевые Кристаллы.
-
 tutorial_miningstart | We are now going to learn how to mine and collect resources from asteroids. | Сейчас мы научимся добывать и собирать ресурсы с астероидов.
-
 tutorial_miningsuccess | Well done, you have produced Tilium Cystals. | Молодец, вы получили Тилиевые кристаллы.
-
 tutorial_miningswitchtotactical | Switch to tactical mode. | Переключитесь в тактический режим.
-
-tutorial_miningundock | Make sure to <b>UNDOCK</b> from any other ship (from the <b>TACTICAL</b> screen). | Не забудьте <b>ОТСТЫКОВАТЬСЯ</b> от любого другого корабля (на экране <b>ТАКТИКА</b>).
-
+tutorial_miningundock | Make sure to <b>UNDOCK</b> from any other ship (from the <b>TACTICAL</b> screen). | Не забудьте <b>отстыковаться</b> от любого другого корабля (на экране <b>TACTICAL</b>).
 tutorial_miningwaitsmelter | Perfect! Now wait for your smelter to smelt the Tilium Ore. | Отлично! Теперь подождите, пока плавильная печь выплавит Тилиевую Руду.
-
 tutorial_next | NEXT | ДАЛЕЕ
-
 tutorial_power_title | INSTALLING POWER | УСТАНОВКА ПИТАНИЯ
-
 tutorial_power_titlecomplete | POWER INSTALLED | УСТАНОВКА ПИТАНИЯ
-
 tutorial_powerinstallmenu | Let's begin by installing a <b>REACTOR</b>, to generate power for our ship.\n\nClick into the <b>CONSTRUCTION</b> menu, then click <b>INSTALL</b>. | Начнем с установки <b>РЕАКТОРА</b>, который будет вырабатывать энергию для нашего корабля.\n\nЗаходим в меню <b>СТРОИТЕЛЬСТВО</b>, затем нажимаем <b>УСТАНОВИТЬ</b>.
-
 tutorial_powerpipeconnect | Drag a pipe from the <b>FUEL LOADER</b> to the <b>REACTOR</b>, connecting the yellow pipe circles.\n\nFUEL <b>PIPES</b> are used to connect the output from one piece of equipment into the input of another.\n\nFUEL <b>PIPES</b> are yellow and must connect the yellow circles on equipment. | Перетащите трубу от <b>ЗАГРУЗЧИКА ТОПЛИВА</b> к <b>РЕАКТОРУ</b>, соединив желтые круги на трубе.\n\n<b>ТРУБЫ</b> используются для соединения выхода одного оборудования с входом другого.\n\n<b>ТРУБЫ</b> желтого цвета и должны соединять желтые круги на оборудовании.
-
 tutorial_powerplaceloader | Stamp the <b>FUEL LOADER</b> down somewhere near the <b>REACTOR</b>. | Прикрепите <b>загрузчик топлива</b> где-нибудь рядом с <b>реактором</b>.
-
 tutorial_powerplacereactor | Stamp the <b>REACTOR</b> down inside your ship. | Вставьте <b>РЕАКТОР</b> внутрь корабля.
-
 tutorial_powerreactoractive | The <b>REACTOR</b> is activated! We are now generating power for our ship. | Реактор активирован! Теперь мы вырабатываем энергию для нашего корабля.
-
 tutorial_powerreactorinprogress | Your crew will install the <b>REACTOR</b>. | Ваш экипаж установит <b>РЕАКТОР</b>.
-
-tutorial_powerreactorpowerup | The <b>REACTOR</b> is starting up. | <b>РЕАКТОР</b> запускается.
-
+tutorial_powerreactorpowerup | The <b>REACTOR</b> is starting up. | The <b>РЕАКТОР</b> запускается.
 tutorial_powerselectloader | The <b>REACTOR</b> needs <b>FUEL</b>, and we use a <b>FUEL LOADER</b> to pump it to the <b>REACTOR</b>.\n\nSelect the <b>FUEL LOADER</b> from the Construction menu. | <b>Реактору</b> нужно <b>топливо</b>, и мы используем <b>погрузчик топлива</b>, чтобы закачать его в <b>реактор</b>.\n\nВыберите <b>погрузчик топлива</b> из меню Строительство.
-
 tutorial_powerselectpipes | We need to connect the <b>FUEL LOADER</b> to the <b>REACTOR</b>, using a Pipe.\n\nSelect <b>PIPES</b> from the Construction Menu. | Нам нужно соединить <b>загрузчик топлива</b> с <b>реактором</b> с помощью трубы.\n\nВыберите <b>ТРУБЫ</b> из меню СТРОИТЕЛЬСТВО.
-
 tutorial_powerselectreactor | This is all the boxed equipment you have available on-board.\n\nSelect <b>REACTOR</b> from the list. | Здесь находится все имеющееся у вас на борту оборудование.\n\nВыберите <b>РЕАКТОР</b> из списка.
-
 tutorial_productionstart | We are now going to learn how to produce <b>STARGATE FRAMES</b>. | Теперь мы узнаем, как изготавливать рамки <b>STARGATE</b>.
-
 tutorial_productionsuccess | Well done, you are now all set to produce <b>STARGATE FRAMES</b>. | Молодцы, теперь вы готовы к изготовлению <b>СТАРГЕЙТСКИХ КАМНЕЙ</b>.
-
 tutorial_radiation_title | RADIATION | РАДИАЦИЯ
-
 tutorial_radiationinstallblockers | Radiation spread can be limited by special equipment called radiation blockers.\n\nInstall some blockers close to your laser infuser, leaving a small gap between the infuser and the blocker.\n\nIncrease the game speed when you are ready. | Распространение радиации можно ограничить с помощью специального оборудования, которое называется блокаторами радиации.\n\nУстановите несколько блокаторов рядом с вашим лазерным инфузором, оставив небольшой зазор между инфузором и блокатором.\n\nУвеличьте скорость игры, когда будете готовы.
-
 tutorial_radiationinstallinfuser | A laser infuser has been delivered to your ship.\n\nLaser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area. | На ваш корабль доставлен лазерный инфузор.\n\nЛазерные инфузоры используются для зарядки пустых кристаллов газом Зелеон и во время работы будут излучать радиацию на окружающее пространство.\n\nУстановите лазерный инфузор в чистом месте.
-
 tutorial_radiationintro | We are going to learn about radiation. | Мы будем изучать радиацию.
-
 tutorial_radiationoutro | Your crew will become sick if exposed to unsafe radiation for too long, which may eventually result in death. | При слишком долгом воздействии небезопасной радиации ваш экипаж заболеет, что в итоге может привести к смерти.
-
 tutorial_radiationselectoverlay | The game has been set to a slower speed for now.\n\nRadiation is emitted in all directions away from the laser infuser.\n\nClick on the radiation overlay to view where your ship is irradiated. | Пока что в игре установлена замедленная скорость.\n\nРадиация испускается во всех направлениях от лазерного инфузора.\n\nНажмите по накладке радиации, чтобы увидеть, где ваш корабль облучается.
-
 tutorial_radiationselectoverlay2 | All green areas of your ship are safe for your crew, but the darker areas are dangerous.\n\nSpacesuits will protect your crew from being irradiated. | Все зеленые зоны вашего корабля безопасны для вашего экипажа, но темные зоны опасны.\n\nКосмические скафандры защитят ваш экипаж от облучения.
-
 tutorial_radiationselectoverlay3 | A radiation blocker will lower the radiation travelling through it, this can be seen on the radiation overlay. | Блокатор радиации снизит уровень проходящего через него излучения, это можно увидеть на накладке радиации.
-
 tutorial_radiationsetupinfuser | An empty crystal and some zeleon energy cells have been delivered to your ship too.\n\nLet's set the laser infuser to use them to produce charged crystals. | На ваш корабль также доставлены пустой кристалл и несколько энергетических ячеек Зелеона.\n\nДавайте настроим лазерный инфузор, чтобы использовать их для получения заряженных кристаллов.
-
 tutorial_radiationsuccess | Well done, you have now learnt how radiation works and how to manage radiation levels in your ship. | Молодец, теперь вы узнали, как работает радиация и как управлять уровнем радиации на своем корабле.
-
 tutorial_radiationwaitforinputs | The laser infuser is set to start making charged crystals!\n\nLet's wait for it to begin charging crystals.\n\nDon't forget to power the Laser Infuser. | Лазерный инфузор готов начать делать заряженные кристаллы!\n\nДавайте подождем, пока он начнет заряжать кристаллы.\n\nНе забудьте включить лазерный инфузор.
-
 tutorial_resin_title | GAS COLLECTORS | ГАЗОВЫЕ КОЛЛЕКТОРЫ
-
 tutorial_resinchemicallabrecipe | Right click on the <b>CHEMICAL LAB</b> and set its recipe to <b>MAKE STARGATE RESIN</b>. | Нажмите правой кнопкой мыши на <b>ХИМИЧЕСКОЙ ЛАБОРИИ</b> и установите рецепт на <b>ИЗГОТОВЛЕНИЕ СТАРГАТНОЙ РЕЗИНЫ</b>.
-
 tutorial_resinconnectchemicallab | Connect the <b>REFINERY</b> to the <b>CHEMICAL LAB</b> with a <b>PIPE</b>. | Соедините <b>ХИМИЧЕСКИЙ ЗАВОД</b> с <b>ХИМИЧЕСКОЙ ЛАБОРАТОРИЕЙ</b> с помощью <b>ТРУБЫ</b>.
-
 tutorial_resinconnectgascollector | Connect the <b>GAS COLLECTOR</b> to the <b>REFINERY</b> with a <b>PIPE</b>. | Соедините <b>ГАЗОСБОРНИК</b> с <b>ХИМИЧЕСКИМ ЗАВОДОМ</b> с помощью <b>ТРУБЫ</b>.
-
 tutorial_resininstallgascollector | Install the <b>GAS COLLECTOR</b>, <b>REFINERY</b> and <b>CHEMICAL LAB</b> so that they are close to each other. | Установите <b>ГАЗОСБОРНИК</b>, <b>ХИМИЧЕСКИЙ ЗАВОД</b> и <b>ХИМИЧЕСКУЮ ЛАБОРАТОРИЮ</b> так, чтобы они находились рядом друг с другом.
-
 tutorial_resinintro | Turning our attention back to the Stargate, the Stargate project also requires us to produce <b>STARGATE RESIN</b>.\n\nWe are going to use the <b>INDUSTRIOUS</b> to collect <b>METREON GAS</b>, refine it, and process it into <b>STARGATE RESIN</b>. | Возвращаясь к Звездным вратам, скажу, что проект Звездных врат также требует от нас производства <b>СТАРГАТНОЙ РЕЗИНЫ</b>.\n\nМы будем использовать <b>ИНДУСТРИЮ</b> для сбора газа <b>МЕТРЕОН</b>, его переработки и получения <b>СТАРГАТНОЙ РЕЗИНЫ</b>.
-
 tutorial_resinintro2 | Raise enough money to purchase for <b>INDUSTRIOUS</b>:\n\n- 1x <b>GAS COLLECTOR</b>\n- 1x <b>REFINERY</b>\n- 1x <b>CHEMICAL LAB</b> | Соберите достаточно денег, чтобы купить для <b>INDUSTRIOUS</b>:\n\n- 1x <b>ГАЗОСБОРНИК</b>\n- 1x <b>ХИМИЧЕСКИЙ ЗАВОД</b>\n- 1x <b>ХИМИЧЕСКАЯ ЛАБОРАТОРИЯ</b>
-
 tutorial_resinjumptonebula | Close the sector map and use the <b>FTL</b> Window to jump the <b>INDUSTRIOUS</b> to the nebula. | Закройте карту сектора и используйте окно <b>сверхсветовой</b> скорости, чтобы переместить <b>INDUSTRIOUS</b> в туманность.
-
 tutorial_resinpowerup | Power up the <b>GAS COLLECTOR</b>, <b>REFINERY</b> and <b>CHEMICAL LAB</b>. | Включите <b>ГАЗОСБОРНИК</b>, <b>ХИМИЧЕСКИЙ ЗАВОД</b> и <b>ХИМИЧЕСКУЮ ЛАБОРАТОРИЮ</b>.
-
 tutorial_resinrefineryrecipe | Right click on the <b>REFINERY</b> and set its recipe to <b>REFINE METREON GAS</b>. | Нажмите правой кнопкой мыши на <b>ХИМИЧЕСКОМ ЗАВОДЕ</b> и установите для него рецепт <b>ОБРАБОТАТЬ ГАЗ МЕТРЕОНА</b>.
-
 tutorial_resinselectnebula | Before we can start collecting the <b>METREON GAS</b>, we need to move the <b>INDUSTRIOUS</b> to a system containing a <b>GAS CLOUD</b>.\n\nUse the <b>SECTOR MAP</b> to select a suitable destination. | Прежде чем мы сможем начать сбор <b>газа МЕТРЕОНА</b>, нам нужно переместить <b>INDUSTRIOUS</b> в систему, содержащую <b>газовое облако</b>.\n\nИспользуйте <b>карту сектора</b>, чтобы выбрать подходящее место.
-
 tutorial_resinstart | We are now going to learn how to produce <b>STARGATE RESIN</b>. | Сейчас мы узнаем, как произвести <b>ЗВЕЗДНЫЙ РЕЗИН</b>.
-
 tutorial_resinsuccess | Well done, you have started to produce <b>STARGATE RESIN</b>.\n\nWhen you have produced enough, travel back to any <b>COLONY</b>, <b>SHIP YARD</b> or the <b>STARGATE</b> system to sell it to the <b>STARGATE PROJECT</b>. | Молодцы, вы начали производить <b>СТАРГАТСКИЙ РЕЗИН</b>.\n\nКогда вы произведете достаточно, возвращайтесь в любую <b>КОЛОНИЮ</b>, на <b>корабельную верфь</b> или в систему <b>СТАРГАТ</b>, чтобы продать его <b>СТАРГАТСКОМУ ПРОЕКТУ</b>.
-
 tutorial_smelters_title | SMELTERS | ПЛАВИЛЬНЫЕ ПЕЧИ
-
 tutorial_smeltersbuild | But we do have plenty of <b>SCRAP METAL</b>, and we can melt that down in a <b>SMELTER</b>.\n\nBuild a <b>SMELTER</b> somewhere near the production line. | Но у нас много <b>МЕТАЛЛОЛОМА</b>, и мы можем переплавить его в <b>ПЛАВИЛЬНОЙ ПЕЧИ</b>.\n\nПостройте <b>ПЛАВИЛЬНУЮ ПЕЧЬ</b> где-нибудь рядом с производственной линией.
-
 tutorial_smeltersdismantle | There is a ton of <b>RUINED EQUIPMENT</b> around this old station, that we can break down into <b>SCRAP METAL</b>.\n\nSelect <b>DISMANTLE</b> from the <b>CONSTRUCTION</b> toolbar. | Вокруг этой старой станции есть куча <b>испорченного оборудования</b>, которое мы можем разбить на <b>металлолом</b>.\n\nВыберите <b>Демонтировать</b>" на панели инструментов "<b>Строительство</b>".
-
 tutorial_smeltersintroduction | We are going to need a lot of <b>METAL INGOTS</b> if we're to make enough of those <b>STARGATE FRAMES</b>.\n\nWe don't have many <b>METAL INGOTS</b> on board, and will run out soon. | Нам понадобится много <b>МЕТАЛЛОВЫХ ИНГОТОВ</b>, если мы хотим сделать достаточное количество этих <b>СТАРГЕЙТСКИХ ФРАММ</b>.\n\nУ нас на борту не так много <b>МЕТАЛОВЫХ ИНГОТОВ</b>, и они скоро закончатся.
-
 tutorial_smeltersoperational | The crew will now load in all the <b>SCRAP METAL</b> and smelt it into much more useful <b>METAL INGOTS</b>. | Теперь экипаж будет загружать весь <b>МЕТАЛЛОЛОМ</b> и переплавлять его в гораздо более полезные <b>ЖЕЛЕЗНЫЕ СЛИТКИ</b>.
-
 tutorial_smelterspower | Connect the smelters to the <b>REACTOR</b> using <b>POWER CABLES</b> | Подключите плавильные печи к <b>реактору</b> с помощью <b>кабелей питания</b>
-
 tutorial_smelterssalvage | Click on the nearby <b>RUINED EQUIPMENT</b> to instruct your crew to dismantle it into <b>SCRAP METAL</b>. | Нажмите по ближайшему <b>РАЗРУШЕННОМУ ОБОРУДОВАНИЮ</b>, чтобы поручить своему экипажу разобрать его на <b>МЕТАЛЛОЛОМ</b>.
-
 tutorial_smeltersscrapmetal | Right click on the <b>SMELTER</b> and set its material to be <b>SCRAP METAL</b>. | Нажмите правой кнопкой мыши на <b>ПЛАВИЛЬНОЙ ПЕЧИ</b> и установите для нее материал <b>МЕТАЛЛОЛОМ</b>.
-
 tutorial_smeltersstoragedone | The crew will move all the <b>SCRAP METAL</b> into this zone. | Экипаж переместит весь <b>МЕТАЛЛОЛОМ</b> в эту зону.
-
 tutorial_smeltersstoragetoolbar | We can make things more efficient for our crew by telling them to store <b>SCRAP METAL</b> near to the <b>SMELTER</b>.\n\nSelect <b>STORAGE</b> from the <b>CONSTRUCTION</b> toolbar, then select <b>SCRAP METAL</b> from the list. | Мы можем сделать все более эффективным для нашей команды, сказав им хранить <b>МЕТАЛЛОЛОМ</b> рядом с <b>ПЛАВИЛЬНОЙ ПЕЧЬЮ</b>.\n\nВыберите <b>ХРАНИЛИЩЕ</b> на панели инструментов <b>СТРОИТЕЛЬСТВО</b>, затем выберите <b>МЕТАЛЛОЛОМ</b> из списка.
-
 tutorial_smeltersstorageworld | Now drag out a storage zone near to the <b>SMELTER</b>. | Теперь перетащите зону хранения рядом с <b>ПЛАВИЛЬНОЙ ПЕЧЬЮ</b>.
-
 tutorial_stargatejump_title | STARGATE JUMPING | ПРЫЖКИ ЧЕРЕЗ ЗВЕЗДНЫЕ ВРАТА
-
 tutorial_stargatejumpabortjump | We will need to abort the jump that's currently planned. | Придется отменить прыжок, который сейчас запланирован.
-
 tutorial_stargatejumphighlightalign | When no jump is planned on the sector map, you can align your fleet for a Stargate jump. | Когда на карте сектора не запланирован прыжок, вы можете выстроить свой флот для прыжка через Звездные врата.
-
 tutorial_stargatejumphighlightaligning | Great! The selected ships will now align for the jump. | Отлично! Теперь выбранные корабли выровняются для прыжка.
-
 tutorial_stargatejumphighlightjump | Your fleet is ready to jump to the new sector!\n\nYou can come back to this sector by performing another Stargate jump. | Ваш флот готов к прыжку в новый сектор!\n\nВы можете вернуться в этот сектор, совершив еще один прыжок через Звездные врата.
-
 tutorial_stargatejumpintro | The Stargate enables travel between different sectors.\n\nThe jump costs a single <b>FTL</b> charge and the Stargate will use more power while a jump is in progress. | Звездные врата позволяют путешествовать между разными секторами.\n\nПрыжок стоит один <b>сверхсветовой</b> заряд, и Звездные врата будут потреблять больше энергии, пока идет прыжок.
-
 tutorial_stargatejumpnopower | The Stargate currently has lost power and needs to be started again.\n\nUse energy transmitters to power the Stargate.\n\nWhen the Stargate is ready, we will try again! | В настоящее время Звездные врата потеряли энергию и должны быть запущены снова.\n\nИспользуйте передатчики энергии, чтобы запитать Звездные врата.\n\nКогда Звездные врата будут готовы, мы повторим попытку!
-
 tutorial_stargatejumpopenftl | First, let's open the <b>FTL</b> window. | Для начала давайте откроем окно <b>FTL</b>.
-
 tutorial_stargatejumpselectsystem | Let's have a look at your ship in the Stargate system.\n\nStargate jumps can only be performed from the Stargate system. | Давайте посмотрим на ваш корабль в системе Звездных Врат.\n\nПрыжки через Звездные Врата можно совершать только из системы Звездных Врат.
-
 tutorial_stargatejumpstart | We are now going to learn how to jump using the newly powered-up Stargate. | Сейчас мы научимся прыгать, используя только что включенные Звездные врата.
-
 tutorial_stargatejumpsuccess | Well done. You can now jump between sectors! | Отличная работа. Теперь вы можете прыгать между секторами!
-
 tutorial_stargatescreen_title | STARGATE PROJECT | ПРОЕКТ ЗВЕЗДНЫХ ВРАТ
-
 tutorial_stargatescreen1 | Let's turn our attention to the <b>STARGATE PROJECT</b>.\n\nWe can view our progress from the Stargate screen.\n\nOpen the <b>STARGATE</b> screen. | Давайте обратимся к проекту <b>ЗВЕЗДНЫХ ВРАТ</b>.\n\nМы можем просмотреть наш прогресс с экрана ЗВЕЗДНЫХ ВРАТ.\n\nОткройте экран <b>ЗВЕЗДНЫХ ВРАТ</b>.
-
 tutorial_stargatescreen2 | This screen shows the phases that require construction in order to complete the <b>STARGATE</b>.\n\nWe are in <b>PHASE</b> 1. Work has only just begun. | На этом экране показаны фазы, которые необходимо построить для завершения строительства <b>ЗВЕЗДНЫХ ВРАТ</b>.\n\nМы находимся в <b>ФАЗЕ</b> 1. Работа только началась.
-
 tutorial_stargatescreen3 | On the left of the screen you can see the requirements to complete <b>PHASE</b> 1.\n\nWe need to manufacture:\n- 100 <b>STARGATE FRAMES</b>\n- 10 <b>STARGATE RESIN</b> | В левой части экрана вы можете увидеть требования для завершения <b>ФАЗЫ</b> 1.\n\n Нам нужно изготовить:\n- 100 <b>STARGATE FRAMES</b>\n- 10 <b>STARGATE RESIN</b>
-
 tutorial_stargatescreen4 | These <b>PHASE</b> 1 components are easy to manufacture, and we already have what we need onboard.\n\nBut we can sell them to the <b>STARGATE PROJECT</b> for a small fortune. | Эти компоненты <b>ФАЗЫ</b> 1 легко изготовить, и у нас уже есть все необходимое на борту.\n\nНо мы можем продать их проекту <b>ЗВЕЗДНЫЕ ВРАТА</b> за небольшое состояние.
-
 tutorial_stargatescreen5 | Close the <b>STARGATE</b> screen by clicking on the toolbar again (or press ESC). | Закройте экран <b>STARGATE</b>, снова щелкнув на панели инструментов (или нажав ESC).
-
 tutorial_stargatewindowclosewindow | You can now close the Stargate screen. | Теперь вы можете закрыть экран Звездные врата.
-
 tutorial_stargatewindowhighlightcomponent | Each component you need to manufacture is on the left.\nPlacing your mouse over a component's icon shows how to produce it. | Каждый компонент, который вам нужно изготовить, находится слева.\nНаведите курсор на значок компонента, чтобы узнать, как его изготовить.
-
 tutorial_stargatewindowhighlightframes1 | To complete Phase 2, we need to continue manufacturing Stargate Frames.\n\nInstead of 10, we now need 200! | Чтобы завершить фазу 2, нам нужно продолжить производство Рам Звездных Врат.\n\nИ вместо 10, нам теперь нужно 200!
-
 tutorial_stargatewindowhighlightframes2 | Sell your frames at a trading post to submit them to the Andromeda Project. | Продайте свои рамки в торговом пункте, чтобы отправить их в проект Андромеда.
-
 tutorial_stargatewindowhighlightphase2 | Select Phase 2 to see what you need to manufacture for this phase. | Выберите Фазу 2, чтобы узнать, что нужно изготовить для этой фазы.
-
 tutorial_stargatewindowhighlightphases | The Stargate's construction is split into phases, with each phase requiring more and more resources.\nYou have just completed Phase 1. | Строительство Звездных Врат разделено на фазы, каждая из которых требует все больше и больше ресурсов.\nВы только что завершили Фазу 1.
-
 tutorial_stargatewindowintro | The Stargate screen displays everything you need to manufacture to complete the current phase. | На экране Звездных Врат отображается все, что вам нужно изготовить для завершения текущей фазы.
-
 tutorial_stargatewindowopenwindow | Select the Stargate button in your toolbar to open the Stargate screen. | Выберите кнопку Звездные врата на панели инструментов, чтобы открыть экран Звездные врата.
-
 tutorial_survey_title | SECTOR SURVEYING | СЕКТОРНАЯ СЪЕМКА
-
 tutorial_surveyhighlightsectorsurveysystem | Hovering the mouse over the current system will reveal the radius around the system that is being scanned and the scan's progress toward finding new points of interest.\n\nOpen the <b>SECTOR MAP</b> and click <b>NEXT</b> to speed-up the survey. | Наведя курсор на текущую систему, вы увидите радиус вокруг сканируемой системы и прогресс сканирования в поиске новых точек интереса.\n\nОткройте <b>КАРТУ СЕКТОРА</b> и нажмите <b>ДАЛЕЕ</b>, чтобы ускорить исследование.
-
 tutorial_surveyinstallcomputers | Install a super-computer on one of your ships.\n\nThis tutorial will resume afterwards. | Установите суперкомпьютер на один из своих кораблей.\n\nЭтот туториал возобновится после этого.
-
 tutorial_surveyinstallsensors | Install Hyperspace Sensors or Hyperspace Sensor LRs onto one of your ships.\n\nThis tutorial will resume afterwards.\n\nIf you are playing the Boldly Go game mode, your ship must also be in the new sector. | Установите Гиперпространственные датчики или Гиперпространственные датчики LR на один из своих кораблей.\n\nЭтот туториал возобновится после этого.\n\nЕсли вы играете в игровой режим Boldly Go, ваш корабль также должен находиться в новом секторе.
-
 tutorial_surveyintro | We are going to learn how to survey the area around your ship.\n\nThe first step is to scan the local area of the sector surrounding you ship using a <b>SECTOR SCAN</b>.\n\nIn Boldly Go, only the new sector can be surveyed.\n\nHyperspace sensors are required to do this. | Сейчас мы узнаем, как исследовать местность вокруг вашего корабля.\n\nПервый шаг - просканировать локальную область сектора, окружающего ваш корабль, с помощью <b>СКАНИРОВАНИЕ СЕКТОРА</b>.\n\nВ Boldly Go можно исследовать только новый сектор.\n\nДля этого необходимы Гиперпространственные датчики.
-
 tutorial_surveylocalsurveyintro | The next step is to perform a <b>LOCAL SURVEY</b>.\n\nLocal surveys allow points of interest to be accessed via FTL.\n\nShips need to have super computers installed and must be in the same sector to participate in a local survey. | Следующим шагом будет <b>ЛОКАЛЬНОЕ ИССЛЕДОВАНИЕ</b>.\n\nЛокальные исследования позволяют добраться до точек интереса с помощью сверхсветового привода.\n\nНа кораблях должны быть установлены Суперкомпьютеры, и они должны находиться в одном секторе, чтобы участвовать в локальном исследовании.
-
 tutorial_surveyoutro | Click <b>NEXT</b> to speed-up the survey. | Нажмите <b>ДАЛЕЕ</b>, чтобы ускорить исследование.
-
 tutorial_surveystartlocalsurvey | Areas of interest will expire after some time if they are not surveyed. Multiple layers can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey. | Зоны интереса истекут через некоторое время, если их не обследовать. Несколько кораблей могут участвовать в локальном исследовании.\n\nНажмите по интересующей вас точке, чтобы начать локальное исследование.
-
 tutorial_surveystartsectorsurvey | Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one layer in a system can do a sector scan.\n\nClick the button to begin a sector scan. | Секторное сканирование ищет интересующие области в секторе вокруг системы, в которой находится ваш корабль.\n\nСканирование остановится после его завершения. Только один корабль в системе может проводить секторное сканирование.\n\nНажмите на кнопку, чтобы начать секторное сканирование.
-
 tutorial_surveysuccess | A new system on the sector map has appeared for your fleet to explore!\n\nWell done, you have now learnt how to use sector surveying to find and explore new systems.\n\nKeep an eye out for special loot on surveyed derelict ships that can be researched by your science stations. | На карте сектора появилась новая система, которую ваш флот может исследовать!\n\nМолодец, теперь вы научились использовать съемку сектора для поиска и исследования новых систем.\n\nСледите за особым лутом на обследованных заброшенных кораблях, который может быть исследован вашими научными станциями.
-
 tutorial_trade_title | TRADE | ТОРГОВЛЯ
-
 tutorial_tradebuyminerals | <b>METALLIC MINERALS</b> can be smelted into <b>METAL INGOTS</b> just like <b>SCRAP METAL</b>.\n\nAdd all the <b>METALLIC MINERALS</b> to the trade. | <b>МЕТАЛЛИЧЕСКИЕ МИНЕРАЛЫ</b> можно переплавить в <b>МЕТАЛЛИЧЕСКИЕ ИНГОТЫ</b> так же, как и <b>СКРАП-МЕТАЛЛЫ</b>.\n\nДобавьте все <b>МЕТАЛЛИЧЕСКИЕ МИНЕРАЛЫ</b> в торговлю.
-
 tutorial_tradebuymore | This is a good opportunity to stock up on some other resources that are critical for life support.\n\nWe'd recommend you purchase:\n\n - 2x <b>FUEL</b>\n - 2x <b>OXYGEN</b>\n - 2x <b>WATER</b>\n - 2x <b>FOOD</b>\n\n- <b>HIRE</b> 5 <b>MORE CREW</b>\n\nCONFIRM the order when you are done. | Это хорошая возможность запастись и другими ресурсами, необходимыми для жизнеобеспечения.\n\nМы рекомендуем вам приобрести:\n\n - 2x <b>ТОПЛИВО</b>\n - 2x <b>КИСЛОРОД</b>\n - 2x <b>ВОДУ</b>\n - 2x <b>ЕДУ</b>\n\n- <b>НАЙМИТЕ</b> 5 <b>ДОПОЛНИТЕЛЬНЫХ ЧЛЕНОВ ЭКИПАЖА</b>\n\nПодтвердите заказ, когда закончите.
-
 tutorial_tradebuysmelter | We will also need another <b>SMELTER</b> to begin processing those <b>METALLIC MINERALS</b>.\n\nFind the <b>SMELTER</b> under the <b>INDUSTRY</b> tab and add one to the order. | Нам также понадобится еще одна <b>ПЛАВИЛЬНАЯ ПЕЧЬ</b>, чтобы начать переработку этих <b>МЕТАЛЛИЧЕСКИХ МИНЕРАЛОВ</b>.\n\nНайдите <b>ПЛАВИЛЬНУЮ ПЕЧЬ</b> на вкладке <b>ПРОМЫШЛЕННОСТЬ</b> и добавьте его в заказ.
-
 tutorial_tradeinstallsmelter | Once those goods have arrived, you should install your second <b>SMELTER</b> somewhere near the first. | Как только эти товары будут доставлены, установите вторую <b>ПЛАВИЛЬНУЮ ПЕЧЬ</b> рядом с первой.
-
 tutorial_tradeothersupplies | We can use the <b>TRADE</b> system to buy raw materials to produce more <b>STARGATE FRAMES</b>, as well as resources we will need to survive.\n\nReopen the <b>TRADE</b> screen. | Мы можем использовать систему <b>торговли</b>, чтобы купить сырье для производства большего количества <b>STARGATE FRAMES</b>, а также ресурсы, которые нам понадобятся для выживания.\n\nОткройте экран <b>торговли</b>.
-
 tutorial_tradesmeltmetallicminerals | Set the <b>SMELTER</b> to process those <b>METALLIC MINERALS</b> you bought into more <b>METAL INGOTS</b>. | Установите <b>ПЛАВИЛЬНУЮ ПЕЧЬ</b>, чтобы переработать купленные вами <b>МЕТАЛЛИЧЕСКИЕ МИНЕРАЛЫ</b> в <b>ЖЕЛЕЗНЫЕ СЛИТКИ</b>.
-
 tutorial_tradewaitforsellable | Your crew will now use the equipment to produce some <b>STARGATE FRAMES</b>. | Теперь ваш экипаж будет использовать оборудование, чтобы произвести несколько <b>СТАРГАТНЫХ РАМ</b>.
-
 tutorial_tutorialend | [End of tutorial - Alpha 11] | [Конец урока - Альфа 11]
-
 tutorial_tutorialskip | Are you sure you wish to skip the tutorial? | Вы уверены, что хотите пропустить этот урок?
-
 tutorial_tutorialskipno | RESUME TUTORIAL | ВОЗОБНОВИТЬ УЧЕБНИК
-
 tutorial_tutorialskipyes | SKIP TUTORIAL | ПРОПУСТИТЬ УЧЕБНИК
-
 tutorial_wrapup_title | END OF TUTORIAL | КОНЕЦ ОБУЧЕНИЯ
-
 tutorial_wrapup1 | We've covered the basics. You've learnt how to install equipment on your ship, and how to navigate space. | Мы изучили основы. Вы узнали, как устанавливать Оборудование на корабль и как ориентироваться в пространстве.
-
 tutorial_wrapup2 | The career you choose is now up to you.  There are many opportunities to choose from, and you'll learn more as you work.\n\nOpen the <b>CONTRACTS</b> board. | Теперь вы можете выбрать карьеру.  Есть много возможностей для выбора, и вы узнаете больше по мере работы.\n\nОткройте доску <b>КОНТРАКТОВ</b>.
-
 tutorial_wrapup3 | Many different types of contract are now available to you.\n\nHowever, you must stay alert, Captain. There are reports of even more lucrative opportunities that you'll have to find by yourself. | Теперь вам доступно множество различных видов контрактов.\n\nНо вы должны оставаться начеку, капитан. Поступают сообщения о еще более выгодных возможностях, которые вам придется искать самостоятельно.
-
 tutorial_wrapup4 | Keep a keen eye out for special systems on the map, you never know who or what you may find there. | Следите за специальными системами на карте, вы никогда не знаете, кого или что можете там найти.
-
 tutorial_wrapupfinal | Whatever you choose, more instructions will be given when required.\n\nIt's up to you what you do next. | Что бы вы ни выбрали, дополнительные инструкции будут даны при необходимости.\n\nВы сами решаете, что делать дальше.
-
-
-

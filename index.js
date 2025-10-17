@@ -2,7 +2,7 @@ const { parse } = require('csv');
 const { readFileSync, writeFileSync, rmSync, mkdirSync } = require('node:fs');
 
 const SHORT = true;
-const TRANSLATE = true;
+const TRANSLATE = false;
 
 const file = readFileSync('./language.csv', 'utf8');
 parse(file, { columns: true, bom: true }, (err, data) => {

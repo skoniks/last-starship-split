@@ -1,62 +1,30 @@
 dialog_add | Add | Добавить
-
 dialog_cancel | Cancel | Отменить
-
 dialog_close | Close | Закрыть
-
 dialog_closed | Closed | Закрыто
-
 dialog_delete | Delete | Удалить
-
 dialog_down | Down | Уменьшить
-
 dialog_exit | Exit | Выход
-
 dialog_h | H | H
-
 dialog_height | Height | Высота
-
 dialog_high | High | Высокий
-
 dialog_load | Load | Загрузить
-
 dialog_loading | Loading... | Загрузка...
-
 dialog_low | Low | Низкий
-
 dialog_medium | Medium | Средний
-
 dialog_name | Name | Название
-
 dialog_new | New | Новый
-
 dialog_no | No | Нет
-
 dialog_none | None | Нет
-
 dialog_ok | Ok | Ok
-
 dialog_open | Open | Открыть
-
 dialog_save | Save | Сохранить
-
 dialog_saveas | Save As | Сохранить как
-
 dialog_type | Type | Тип
-
 dialog_up | Up | Вверх
-
 dialog_w | W | W
-
 dialog_width | Width | Ширина
-
 dialog_x | X | X
-
 dialog_y | Y | Y
-
 dialog_yes | Yes | Да
-
 dialog_z | Z | Z
-
-
-

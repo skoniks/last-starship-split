@@ -1,330 +1,164 @@
 hud_abortjump | Abort Jump | Прервать прыжок
-
 hud_aligning | Aligning... | Выравнивание..
-
 hud_battlestations | BATTLE STATIONS | БОЕВЫЕ СТАНЦИИ
-
 hud_buyship | BUY | КУПИТЬ
-
 hud_cabins | Cabins: *X/*Y | Кабины: *X/*Y
-
 hud_camerattracking | Camera Tracking | Отслеживание камеры
-
 hud_collector_tooltip_gathering | Gathering *X *Y per second | Сбор *X *Y в секунду
-
 hud_collector_tooltip_totalgathered | TOTAL GATHERED | ВСЕГО ДОБЫТО
-
 hud_convertsplittertotrack | [RMB] Convert to track | [RMB] Конвертировать в конвейер
-
 hud_converttracktosplitter | [RMB] Convert to splitter | [RMB] Преобразование в разделитель
-
 hud_debugbuild | Debug | Отладка
-
 hud_deselectlayer | DESELECT SHIP | УДАЛИТЬ КОРАБЛЬ
-
 hud_direction_down | Starboard | Правый борт
-
 hud_direction_left | Aft | Корма
-
 hud_direction_right | Forward | Нос
-
 hud_direction_up | Port | Левый борт
-
 hud_disabled | Disabled | Отключено
-
 hud_drones_deployed | WARNING - DRONES DEPLOYED: *X | ПРЕДУПРЕЖДЕНИЕ - ЗАПУЩЕНЫ ДРОНЫ: *X
-
 hud_editor | EDITOR | РЕДАКТОР
-
 hud_enabled | Enabled | Включено
-
 hud_endcreativemode | Creative Mode will end | Творческий режим завершится
-
 hud_endcreativemode2 | When you jump to hyperspace | Когда вы перейдете в гиперпространство
-
 hud_endcreativemodefull | Creative Mode will end when you jump to hyperspace | Творческий режим завершится, когда вы перейдете в гиперпространство
-
 hud_endcreativemodewarning | LEAVING CREATIVE MODE | ВЫХОД ИЗ ТВОРЧЕСКОГО РЕЖИМА
-
 hud_fabricateship | FABRICATE A SHIP | ИЗГОТОВИТЬ КОРАБЛЬ
-
 hud_ftl | FTL Drive | Сверхсветовой Привод
-
 hud_ftl_jump_tooltip | [RMB] Jump | [RMB] Перейти
-
 hud_ftlcharging | Charging... | Зарядка..
-
 hud_ftlcooldown | Cooldown... | Остывание..
-
 hud_ftlexcluded | Stay | Остаться
-
 hud_ftlincluded | Jump | Прыжок
-
 hud_ftlloading | Loading... | Загрузка..
-
 hud_ftlnodestination | NO DESTINATION | НЕТ МЕСТА НАЗНАЧЕНИЯ
-
 hud_ftlshipnotviablewarning | Ship needs either hull or scaffolding to be brought into hyperspace | Для перехода корабля в гиперпространство необходим либо корпус, либо каркасы
-
 hud_ftlwaiting | Waiting... | Ожидание..
-
 hud_hyperspace | HYPERSPACE | ГИПЕРПРОСТРАНСТВО
-
 hud_idle | Idle | Холостой ход
-
 hud_install | Install | Установить
-
 hud_invalidplacement | INVALID PLACEMENT | НЕПРАВИЛЬНОЕ РАЗМЕЩЕНИЕ
-
 hud_invalidplacement_tooltip | This equipment can not function properly when installed in this position. | Это оборудование не может функционировать должным образом, если установлено в таком положении.
-
 hud_jump | JUMP | ПРЫЖОК
-
 hud_jumpgalaxies | ESCAPE THE GALAXY | СБЕЖАТЬ ИЗ ГАЛАКТИКИ
-
 hud_jumpgatedamage | JUMPGATE OFFLINE DUE TO DAMAGE | ПРЫЖКОВЫЕ ВРАТА ОТКЛЮЧЕНЫ ИЗ-ЗА ПОВРЕЖДЕНИЙ
-
 hud_jumpgatedistance | ALL SHIPS MUST ENTER JUMPGATE | ВСЕ КОРАБЛИ ДОЛЖНЫ ВОЙТИ В ПРЫЖКОВЫЕ ВРАТА
-
 hud_jumpgaterequires | JUMPGATE UNAVAILABLE | ПРЫЖКОВЫЕ ВРАТА НЕДОСТУПНЫ
-
 hud_jumpnextsector | JUMP TO NEXT SECTOR | ПЕРЕХОД К СЛЕДУЮЩЕМУ СЕКТОРУ
-
 hud_jumpthroughstargate | JUMP THROUGH STARGATE | ПРЫЖОК ЧЕРЕЗ ЗВЕЗДНЫЕ ВРАТА
-
 hud_last_ftl_charge | WARNING - LAST FTL CHARGE\nCANNOT BUY AT DESTINATION | ПРЕДУПРЕЖДЕНИЕ - ПОСЛЕДНИЙ ЗАРЯД FTL\nНЕЛЬЗЯ КУПИТЬ В ПУНКТЕ НАЗНАЧЕНИЯ
-
 hud_layer_derelict | DERELICT | ЗАБРОШЕННЫЙ ОБЪЕКТ
-
 hud_layer_forsale | [FOR SALE] | [ПРОДАЕТСЯ]
-
 hud_layer_hostile | HOSTILE | ВРАЖДЕБНЫЕ СИЛЫ
-
 hud_layer_unnaned_system | UNNAMED | БЕЗЫМЯННЫЙ
-
 hud_maximumoccupancy | Maximum Occupancy: *X/*Y | Максимальная вместимость: *X/*Y
-
 hud_mission_collection | WARNING - MISSION COLLECTION UNDERWAY | ПРЕДУПРЕЖДЕНИЕ - ИДЕТ СБОР МИССИИ
-
 hud_noftl | NO FTL FOUND | СВЕРХСВЕТОВОЙ ПРИВОД НЕ НАЙДЕН
-
 hud_noships | NO SHIPS SELECTED | КОРАБЛИ НЕ ВЫБРАНЫ
-
 hud_open_tooltip | [LMB] Open Window | [LMB] Открыть окно
-
 hud_orders | ORDERS | ЗАКАЗЫ
-
 hud_outofalignment | Misaligned... | Невыровненный..
-
 hud_overlay_atmosphere | Atmosphere | Атмосфера
-
 hud_overlay_cables | Cables | Кабели
-
 hud_overlay_creativemode | - Creative Mode - | - Творческий режим -
-
 hud_overlay_exterior | Exterior | Экстерьер
-
 hud_overlay_habitation | Habitation | Каюты
-
 hud_overlay_jobs | Jobs | Задачи
-
 hud_overlay_pipes | Pipes | Трубы
-
 hud_overlay_radiation | Radiation | Радиация
-
 hud_overlay_schematic | Schematic | Схема
-
 hud_overlay_show | Show | Показать
-
 hud_overlay_structure | Structure | Структура
-
 hud_overlay_tactical | Tactical | Тактический
-
 hud_overlay_walls | Walls | Стены
-
 hud_overlays | OVERLAYS | НАЛОЖЕНИЯ
-
 hud_panel_storagecrate_ctrlclick | [CTRL] x9999 Containers | [CTRL] x9999 Контейнеры
-
 hud_panel_storagecrate_leftclick | [LMB] x1 Container | [LMB] x1 Контейнер
-
 hud_panel_storagecrate_permitload | Allow crew members to load this crate.\n\nIf disabled then only robot arms can load. | Разрешить членам Экипажа загружать это Хранилище.\n\nЕсли отключено, то загружать могут только Руки Робота.
-
 hud_panel_storagecrate_permitunload | Allow crew members to unload from this crate.\n\nIf disabled then only robot arms can unload. | Разрешить членам Экипажа выгружать из этого Хранилища.\n\nЕсли отключено, то выгружать могут только Руки Робота.
-
 hud_panel_storagecrate_quantity | The number of items or stacks of the chosen type that is being stored. | Количество предметов или штабелей выбранного типа, которые хранятся.
-
 hud_panel_storagecrate_selecttype | The type that the storage crate will be storing. | Тип, который будет храниться в этом Хранилище.
-
 hud_panel_storagecrate_shiftclick | [SHIFT] x5 Containers | [SHIFT] x5 Контейнеров
-
 hud_preparejump | Prepare Jump | Подготовка к прыжку
-
 hud_preparingjump | Preparing Jump | Подготовка к прыжку
-
 hud_ready | READY | ГОТОВНОСТЬ
-
 hud_readytojump | Ready to Jump | Готовность к прыжку
-
 hud_recipes_chooseequipment | CHOOSE EQUIPMENT | ВЫБЕРИ ОБОРУДОВАНИЕ
-
 hud_recipes_chooseinput | CHOOSE INPUT | ВЫБЕРИ ИНПУТ
-
 hud_recipes_goback | GO BACK | ВЕРНУТЬСЯ НАЗАД
-
 hud_removefromtrack | [RMB] Remove from track | [RMB] Убрать с Конвейера
-
 hud_repairship | REPAIR | РЕМОНТ
-
 hud_repairyourship | You should repair the damage to your ship at a SHIPYARD. | Вы должны отремонтировать поврежденный корабль на ВЕРФИ.
-
 hud_scoresystem_population | Population | Население
-
 hud_scoresystem_sectorjump | Sector Jump | Прыжок в сектор
-
 hud_sellship | SELL YOUR SHIP | ПРОДАТЬ СВОЙ КОРАБЛЬ
-
 hud_shipforsale | SHIP FOR SALE | КОРАБЛЬ НА ПРОДАЖУ
-
 hud_shipmaximumoccupancy | Ship Maximum Occupancy: *X/*Y | Максимальная вместимость корабля: *X/*Y
-
 hud_shipyard | Shipyard | Верфь
-
 hud_shipyard_buildarmour | Install Armour | Установить броню
-
 hud_shipyard_buildbuyfromlibrary | Buy ship | Купить корабль
-
 hud_shipyard_buildhabitation | Add Habitation Deck | Добавить жилую палубу
-
 hud_shipyard_buildhull | Build Hull | Построить корпус
-
 hud_shipyard_buildinterior | Build Interior | Построить интерьер
-
 hud_shipyard_buildrepairall | Repair ALL Damage | Восстановить все повреждения
-
 hud_shipyard_buildrepairone | Repair 100 Damage | Отремонтировать 100 повреждений
-
 hud_shipyard_buildscaffold | Build Scaffold | Построить леса
-
 hud_shipyard_costofrepairs | Cost of repairs | Стоимость ремонта
-
 hud_shipyard_repairship | Repair Ship | Отремонтировать корабль
-
 hud_shipyard_selectship | Select a ship | Выбрать корабль
-
 hud_shipyardservices | SHIPYARD SERVICES | УСЛУГИ ВЕРФИ
-
 hud_spacewalking_crew | WARNING - CREW IN SPACE: *X | ПРЕДУПРЕЖДЕНИЕ - ЭКИПАЖ В КОСМОСЕ: *X
-
 hud_status_allocated | Allocated | Присвоено
-
 hud_status_inprogress | In Progress | В процессе
-
 hud_storage | Storage | Хранение
-
 hud_storage_cargo | ANY CARGO | ЛЮБОЙ ГРУЗ
-
 hud_storage_component | Any Components | Любые компоненты
-
 hud_storage_equipment | ANY EQUIPMENT | ЛЮБОЕ ОБОРУДОВАНИЕ
-
 hud_storagecrate_tooltip_capacity | Capacity: *X | Вместимость: *X
-
 hud_storagecrate_tooltip_dumping | Dumping *X | Выгрузка *X
-
 hud_storagecrate_tooltip_quantity | Quantity: *X | Количество: *X
-
 hud_storagecrate_tooltip_remaining | Quantity Remaining: *X | Оставшееся количество: *X
-
 hud_storagecrate_tooltip_storing | Storing *X | Хранение *X
-
 hud_surveyinprogress | WARNING - SURVEY WILL BE CANCELLED | ПРЕДУПРЕЖДЕНИЕ - ОПРОС БУДЕТ ОТМЕНЕН
-
 hud_tactical | TACTICAL ({ToggleTactical}) | ТАКТИЧЕСКИЙ ВИД ({ToggleTactical})
-
 hud_techtree_tooltip | Researching: | Исследование:
-
 hud_toandromeda | TO ANDROMEDA GALAXY | В ГАЛАКТИКУ АНДРОМЕДЫ
-
 hud_tooltip_boxed | [BOXED] | [В КОРОБКЕ]
-
 hud_tooltip_charge | Charge | Зарядка
-
 hud_tooltip_joinpipes | [LMB] Join Pipes | [LMB] Соединить трубы
-
 hud_tooltip_leftclickbuild | [LMB] Build | [LMB] Построить
-
 hud_tooltip_leftclickchangerecipe | [LMB] Cycle recipe | [LMB] Сменить рецепт
-
 hud_tooltip_leftclickdismantle | [LMB] Dismantle | [LMB] Демонтировать
-
 hud_tooltip_leftclickerase | [LMB] Erase | [LMB] Стереть
-
 hud_tooltip_leftclickplace | [LMB] Place | [LMB] Разместить
-
 hud_tooltip_leftclickresearch | [LMB] Research | [LMB] Исследовать
-
 hud_tooltip_rightclickcancel | [RMB] Cancel | [RMB] Отменить
-
 hud_tooltip_rightclickclear | [RMB] Clear | [RMB] Очистить
-
 hud_tooltip_rightclickconfigure | [RMB] Configure | [RMB] Настроить
-
 hud_tooltip_rightclickdelete | [RMB] Delete | [RMB] Удалить
-
 hud_tooltip_rightclickpurge | [RMB] Purge | [RMB] Очистить
-
 hud_tooltip_rotate | [{RotateObject}] Rotate | [{RotateObject}] Вращать
-
 hud_tooltip_separatepipes | [LMB] Separate Pipes | [LMB] Разделить трубы
-
 hud_totalconsumption | TOTAL CONSUMPTION | ОБЩЕЕ ПОТРЕБЛЕНИЕ
-
 hud_totalproduction | TOTAL PRODUCTION | ОБЩЕЕ ПРОИЗВОДСТВО
-
 hud_trade | Trade | Торговля
-
 hud_trade_hint | You must travel to a Colony or Shipyard to trade | Чтобы торговать, вам нужно отправиться в Колонию или на Верфь
-
 hud_trade_incoming | WARNING - TRADE INCOMING | ПРЕДУПРЕЖДЕНИЕ - ИДЕТ ТОРГОВЛЯ
-
 hud_trade_owed | WARNING - TRADE OWED | ПРЕДУПРЕЖДЕНИЕ - ДОЛГ ПО ТОРГОВЛЕ
-
 hud_uninstall | Dismantle | Демонтировать
-
 hud_window_construction | CONSTRUCTION | СТРОИТЕЛЬСТВО
-
 hud_window_designation | DESIGNATION | НАЗНАЧЕНИЕ
-
 hud_window_editor | EDITOR | РЕДАКТОР
-
 hud_window_ftl | FTL | СВЕРХСВЕТОВАЯ
-
 hud_window_logistics | LOGISTICS | ЛОГИСТИКА
-
 hud_window_missions | CONTRACTS | КОНТРАКТЫ
-
 hud_window_orders | ORDERS | ЗАКАЗЫ
-
 hud_window_power | POWERGRID | ЭЛЕКТРОСЕТЬ
-
 hud_window_recipes | RECIPES | РЕЦЕПТЫ
-
 hud_window_score | SCORE | СЧЕТ
-
 hud_window_sectormap | SECTOR MAP ({ToggleMap}) | КАРТА СЕКТОРА ({ToggleMap})
-
 hud_window_shipyard | SHIPYARD | ВЕРФЬ
-
 hud_window_stargate | STARGATE | ЗВЕЗДНЫЕ ВРАТА
-
 hud_window_storage | STORAGE ZONES | ЗОНЫ ХРАНЕНИЯ
-
 hud_window_techtree | RESEARCH | ИССЛЕДОВАНИЕ
-
 hud_window_trade | TRADE | ТОРГОВЛЯ
-
 hud_zones | Zones | Зоны
-
-
-

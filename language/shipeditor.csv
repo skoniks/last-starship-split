@@ -1,178 +1,88 @@
 shipeditor_brush_box | BOX TOOL | ЗАЛИВКА
-
 shipeditor_brush_freehand | FREEHAND | КИСТЬ
-
 shipeditor_brush_oval | OVAL TOOL | ОВАЛЬНЫЙ ИНСТРУМЕНТ
-
 shipeditor_commit | CONFIRM | ПОДТВЕРДИТЬ
-
 shipeditor_draw | DRAW | РИСОВАТЬ
-
 shipeditor_equipment_autobuy | Enable Auto Buy | Включить автоматическую покупку
-
 shipeditor_equipment_autobuyconfirm | Confirm Auto Buy Changes | Подтвердите изменения автопокупки
-
 shipeditor_equipment_autobuyenable | Auto Buy *X | Автопокупка *X
-
 shipeditor_equipment_available | Trading Post has *X available | На сайте Trading Post есть *X 
-
 shipeditor_equipment_expected | You will be missing *X when ongoing deliveries/logistics complete | Вы будете пропускать *X, когда текущие поставки/логистика завершатся
-
 shipeditor_equipment_expectedcost | Expected Future Cost: *X | Ожидаемая будущая стоимость: *X
-
 shipeditor_equipment_immediatecost | Immediate Cost: *X | Непосредственная стоимость: *X
-
 shipeditor_equipment_incoming | You have *X incoming | У вас есть входящий *X
-
 shipeditor_equipment_manualbuy | Buy All Available | Купить все доступное
-
 shipeditor_equipment_missing | You require *X | Вам требуется *X
-
 shipeditor_equipment_outgoing | You have *X outgoing | У вас есть *X
-
 shipeditor_equipment_title | Missing Equipment | Отсутствующее оборудование
-
 shipeditor_equipment_totalcost | Total Cost | Общая стоимость
-
 shipeditor_erase | ERASE | СТЕРЕТЬ
-
 shipeditor_mode_armour | Armour | Броня
-
 shipeditor_mode_createship | Create Ship | Создать
-
 shipeditor_mode_deconstruct | Destroy | Разрушить
-
 shipeditor_mode_dock | Dock | Док
-
 shipeditor_mode_equipment | Equipment | Оборудование
-
 shipeditor_mode_eyedropper | Eyedropper | Пипетка
-
 shipeditor_mode_habitation | Habitation | Каюты
-
 shipeditor_mode_hull | Hull | Корпус
-
 shipeditor_mode_interior | Floors | Полы
-
 shipeditor_mode_paintstencils | Repaint Walls | Перекрась стены
-
 shipeditor_mode_scaffold | Scaffold | Каркасы
-
 shipeditor_mode_spawn | Spawn | Объекты
-
 shipeditor_mode_stencils | Walls | Стены
-
 shipeditor_mode_walls | Walls | Стены
-
 shipeditor_paint | PAINT | ПОКРАСКА
-
 shipeditor_paint_custom | Custom Paint | Пользовательская краска
-
 shipeditor_paint_detailprimary | Detail Primary | Деталь основной
-
 shipeditor_paint_detailsecondary | Detail Secondary | Деталь вторичный
-
 shipeditor_paint_detailtertiary | Detail Tertiary | Деталь дополнительный
-
 shipeditor_paint_erase | Background Paint | Задний план
-
 shipeditor_paint_name | Paint Name | Название краски
-
 shipeditor_paint_paint | Foreground Paint | Передний план
-
 shipeditor_paint_primary | Base Primary | База основной
-
 shipeditor_paint_secondary | Base Secondary | База вторичный
-
 shipeditor_paint_standard | Standard Paint | Стандартная краска
-
 shipeditor_palettelibrary_cancel | CANCEL | ОТМЕНА
-
 shipeditor_palettelibrary_confirm | CONFIRM | ПОДТВЕРДИТЬ
-
 shipeditor_palettelibrary_createname | CREATE NEW PALETTE | СОЗДАТЬ НОВУЮ ПАЛИТРУ
-
 shipeditor_palettelibrary_delete | DELETE | УДАЛИТЬ
-
 shipeditor_palettelibrary_export | EXPORT | ЭКСПОРТ
-
 shipeditor_palettelibrary_import | IMPORT | ИМПОРТ
-
 shipeditor_palettelibrary_title_export | EXPORT PALETTES | ЭКСПОРТИРОВАТЬ ПАЛИТРЫ
-
 shipeditor_palettelibrary_title_import | IMPORT PALETTES | ИМПОРТИРОВАТЬ ПАЛИТРЫ
-
 shipeditor_palettelibrary_upload | UPLOAD | ЗАГРУЗИТЬ
-
 shipeditor_price_button | Cost | Стоимость
-
 shipeditor_shipyardrequired1 | You must visit a Shipyard | Вы должны посетить Верфь
-
 shipeditor_shipyardrequired2 | to apply your modifications | чтобы применить свои модификации
-
 shipeditor_stat_Capacity | Cabins | Каюты
-
 shipeditor_stat_Damage | Damage | Урон
-
 shipeditor_stat_Mass | Mass | Масса
-
 shipeditor_stat_Toughness | Toughness | Прочность
-
 shipeditor_stat_Value | Value | Значение
-
 shipeditor_stencil | DECALS | ДЕКАЛИ
-
 shipeditor_stencils_paint | Paints | Краски
-
 shipeditor_stencils_selectedpaint | Selected Paint | Выбранная краска
-
 shipeditor_stencils_stencil | Decals | Декали
-
 shipeditor_symmetry | SYMMETRY | СИММЕТРИЯ
-
 shipeditor_symmetry_leftclickdrag | [LMB] Drag | [LMB] Перетащить
-
 shipeditor_symmetry_rightclicktoggle | [RMB] Toggle | [RMB] Переключение
-
 shipeditor_symmetry_short | S | S
-
 shipeditor_tooltip_armour | Upgrade your hull with armour panels to absorb damage | Улучшение корпуса с помощью броневых панелей для поглощения урона
-
 shipeditor_tooltip_createship | Create an entirely new ship from scratch | Создать абсолютно новый корабль с нуля
-
 shipeditor_tooltip_deconstruct | Deconstruct your ship square by square | Разрушить свой корабль квадрат за квадратом
-
 shipeditor_tooltip_dock | Install a docking port. Every ship needs at least one functioning docking port. | Установка стыковочного порта. Каждому кораблю необходим хотя бы один функционирующий стыковочный порт.
-
 shipeditor_tooltip_equipment | Queue the installation of equipment inside your ship. | Поставьте в очередь установку Оборудования внутри вашего корабля.
-
 shipeditor_tooltip_eyedropper | Lets you select a paint from the exterior of your ship (can also be used by pressing the "{AltTool}" key) | Позволяет выбрать краску для внешнего вида вашего корабля (также можно использовать клавишу "{AltTool}")
-
 shipeditor_tooltip_habitation | Expand your habitation deck to support more crew and passengers | Расширение жилой палубы для размещения большего количества экипажа и пассажиров
-
 shipeditor_tooltip_hull | Modify the shape of your spaceship hull | Изменение формы корпуса вашего корабля
-
 shipeditor_tooltip_interior | Open up the interior of your spaceship to create cabins | Расширение внутренней части (салона) космического корабля
-
 shipeditor_tooltip_paintfloor | Toggle painting the floor tiles of your ship | Переключитесь на покраску напольных плиток вашего корабля
-
 shipeditor_tooltip_painthabitation | Toggle painting the exterior panels of the habitation quarters of your ship | Переключитесь на покраску внешних панелей жилых кают вашего корабля
-
 shipeditor_tooltip_painthull | Toggle painting the exterior panels of the hull of your ship | Переключитесь на покраску внешних панелей корпуса вашего корабля
-
 shipeditor_tooltip_paintscaffold | Toggle painting the scaffolding on your ship | Переключитесь на покраску строительных лесов на своем корабле
-
 shipeditor_tooltip_paintstencils | Change the colour of decals applied to the walls of your ship | Измените цвет декалей, нанесенных на стены вашего корабля
-
 shipeditor_tooltip_paintwalls | Toggle painting the base colour of the walls of your ship | Переключите покраску основного цвета стен вашего корабля
-
 shipeditor_tooltip_scaffold | Add scaffolding to support equipment on the exterior of your ship | Добавление каркасов для поддержки оборудования на внешней стороне корабля
-
 shipeditor_tooltip_spawn | Spawn equipment and resources inside your ship. (Creative Mode only) | Устанавливайте оборудование и ресурсы внутри корабля (только в творческом режиме)
-
 shipeditor_tooltip_stencils | Apply or remove decals on the walls of your ship | Наносите или удаляйте декали на стены вашего корабля
-
 shipeditor_tooltip_walls | Build walls inside your spaceship to partition the interior space | Создание стен внутри вашего космического корабля
-
-
-

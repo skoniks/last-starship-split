@@ -1,312 +1,155 @@
 dsi_action_canceldeal | Cancel the deal with X | Отменить сделку с Х
-
 dsi_action_payx | Pay X (*X owed) | Выплатить X (*X в долг)
-
 dsi_character_dogma | DOGMA Security | Служба безопасности DOGMA
-
 dsi_character_rep | Andromeda Project Representative | Представитель проекта Андромеда
-
 dsi_character_x | Alexander James Elistar | Александр Джеймс Элистар
-
 dsi_character_y | Raymond Darnell | Рэймонд Дарнелл
-
 dsi_funding_title | Funding Received | Финансирование получено
-
 dsi_objective_revenue | Total sales revenue: $*X | Общий доход от продаж: $*X
-
 dsi_part1_action_callX | Call X | Звонок Х
-
 dsi_part1_action_deliverframes | Deliver 10 Stargate Frames | Доставить 10 Рам Звездных Врат
-
 dsi_part1_advert1 | My name is Alexander James Elistar, and I'm the chairman and founder of A.J.E Industries.  I have a business proposition for you.  If you would be interested in setting up a production facility for me, I believe with some luck and a good deal of hard work we can both make substantial returns. | Меня зовут Александр Джеймс Элистар, я председатель и основатель компании A.J.E Industries.  У меня есть к вам деловое предложение.  Если вам будет интересно организовать для меня производство, я полагаю, что при некоторой удаче и упорном труде мы оба сможем получить значительную прибыль.
-
 dsi_part1_advert2 | Please give me a call to discuss the details. | Пожалуйста, позвоните мне, чтобы обсудить детали.
-
 dsi_part1_call1 | Captain.  Perhaps you are already aware, but there are big plans underway within this sector.  There are designs to build something... incredible, a transportation system with near infinite range, requiring state of the art manufacturing and industry. | Капитан.  Возможно, вы уже в курсе, но в этом секторе вынашиваются грандиозные планы.  Есть проекты по созданию чего-то... невероятного, транспортной системы с почти бесконечной дальностью действия, требующей самого современного производства и промышленности.
-
 dsi_part1_call2 | A stargate, big enough for our most massive fleets, shuttling humanity between galaxies as if they were nothing but neighbouring stars.  A new multi-galactic era for humanity. | Звездные Врата, достаточно большие для наших самых массивных флотов, которые будут перебрасывать человечество между галактиками, как будто они всего лишь соседние звезды.  Новая мультигалактическая эра для человечества.
-
 dsi_part1_call3 | In all my years I've never known so much capital to be allocated to one project. | За все годы работы я никогда не знал, чтобы на один проект выделялось столько капитала.
-
 dsi_part1_call4 | There is a golden opportunity here for us, but the barriers to entry are high.  I have the assets, the capital, and the facilities that we need to fulfil the Andromeda Project's massive ambitions. | Перед нами открывается золотая возможность, но барьеры для входа высоки.  У меня есть активы, капитал и средства, необходимые для реализации масштабных амбиций проекта Андромеда.
-
 dsi_part1_call5 | Sadly, my days of running the shop floor in person are long behind me.  I need a floor manager, somebody who will oversee the day to day operations for me.  And my years of experience have taught me to spot talent when I see it. | К сожалению, дни, когда я лично управлял цехом, давно позади.  Мне нужен начальник цеха, тот, кто будет следить за ежедневными операциями вместо меня.  А мой многолетний опыт научил меня распознавать таланты, когда я их вижу.
-
 dsi_part1_call6 | Here is my proposal.  I'll provide the factory station, and the seed capital so you are fully funded.  You'll set up the production facility for me, and oversee day to day operations, manufacturing parts for the Andromeda Project to their specifications. | Вот мое предложение.  Я предоставлю заводскую станцию и стартовый капитал, чтобы вы были полностью обеспечены.  Вы организуете для меня производство и будете следить за ежедневными операциями, изготавливая детали для проекта Андромеда по их спецификации.
-
 dsi_part1_call7 | We'll split the profits 50/50. | Мы разделим прибыль 50 на 50.
-
 dsi_part1_call8 | And believe me when I say, there will be plenty to go around. | И поверьте мне, я скажу, что ее будет предостаточно.
-
 dsi_part1_callfromrep1 | This is a message for A.J.E FOUNDRY.  We've received your samples and can report that they have passed comfortably within our engineering tolerances.  You are formally approved as licensed industry partners, and may now manufacture all items in our design manifest. | Это сообщение для A.J.E FOUNDRY.  Мы получили ваши образцы и можем сообщить, что они прошли проверку в пределах наших инженерных допусков.  Вы официально утверждены в качестве лицензированных промышленных партнеров и теперь можете производить все изделия по нашему проекту.
-
 dsi_part1_callfromrep2 | Batches of completed parts may now be submitted to the Andromeda Project through the open Marketplace. You will find our buyers ready to release funds for any parts manufactured to specification. | Партии готовых деталей теперь могут быть представлены Проекту Андромеда через Торговую площадку. Вы найдете наших покупателей, готовых выдать деньги за любые детали, изготовленные в соответствии со спецификацией.
-
 dsi_part1_callfromrep3 | Thank you for your endeavours, and good luck. | Спасибо за ваши усилия и удачи.
-
 dsi_part1_debrief1 | Fantastic work, Captain.  I had high expectations, but the process was even more smooth than I hoped.  We've made ourselves known to the Andromeda Project now, but this is just the beginning. | Фантастическая работа, капитан.  У меня были большие ожидания, но процесс прошел даже более гладко, чем я надеялся.  Теперь мы заявили о себе проекту Андромеда, но это только начало.
-
 dsi_part1_debrief2 | The later phases of this project will no doubt be much more involved.  But we are perfectly positioned to capitalise on this opportunity.  And there is a lot of opportunity to be had. | Последующие фазы этого проекта, несомненно, будут гораздо более сложными.  Но у нас есть все возможности, чтобы воспользоваться этой возможностью.  А возможностей у нас очень много.
-
 dsi_part1_debrief3 | There are individuals behind this mega-project with wealth and resources far beyond my comprehension.  But their ambitions far exceed the capabilities of the other ships and people in this sector.  They are going to need our help. | За этим мегапроектом стоят люди с богатством и ресурсами, далеко выходящими за рамки моего понимания.  Но их амбиции намного превосходят возможности других кораблей и людей в этом секторе.  Им понадобится наша помощь.
-
 dsi_part1_debrief4 | We can take a short break, and I'll give you a call when I'm ready to start work on the next phase of the stargate project. You might want to stop some of your equipment in the meantime, we don't want to waste anything! | Мы можем сделать небольшой перерыв, и я позвоню вам, когда буду готов начать работу над следующей фазой проекта Звездных Врат. Возможно, вы захотите пока остановить часть своего оборудования, мы не хотим ничего терять!
-
 dsi_part1_debrief5 | Goodbye for now! | Пока до свидания!
-
 dsi_part1_installsmelter1 | We need to tidy up the mess, but nothing needs to be wasted.  We can recycle all of the raw materials found on this station. | Нам нужно привести все в порядок, но ничего не должно пропадать зря.  Мы можем переработать все сырье, найденное на этой станции.
-
 dsi_part1_installsmelter2 | There is an industrial smelter among the boxed equipment.  Install it and power it up, then set it to recycling all of the scrap metal.  This will give us an early supply of Metal Ingots.  A critical resource in manufacturing anything. | Среди оборудования в коробках есть промышленная Плавильная печь.  Установите ее и включите, а затем настройте на переработку всего Металлолома.  Это обеспечит нам скорейшее получение Железных слитков.  Критически важный ресурс для производства чего бы то ни было.
-
 dsi_part1_manufactureframes1 | If I could draw your attention to this schematic issued by the Andromeda Project.  You can see it's actually quite a simple part.  This is just a structural framework, onto which they'll build everything else. | Если бы я мог обратить ваше внимание на эту схему, выпущенную Проектом Андромеда.  Вы можете видеть, что на самом деле это довольно простая деталь.  Это всего лишь структурный каркас, на котором они построят все остальное.
-
 dsi_part1_manufactureframes2 | We can manufacture these parts in just two stages out of Metal Ingots.  I've left a boxed Fabricator and an Assembly Table on the station.  Set them up next to each other, ideally near to the Metal Ingots. | Мы можем изготовить эти детали всего в два этапа из Железных слитков.  Я оставил на станции Фабрикатор в коробке и Сборочный стол.  Установите их рядом друг с другом, в идеале - рядом с Железными слитками.
-
 dsi_part1_manufactureframes3 | Once they're installed, set the Fabricator to manufacture Frames, then set the Assembly Table to specialise them into finished Stargate Frames.  It's simple stuff, but eventually we will need a huge throughput. | Как только они будут установлены, настройте Фабрикатор на производство каркасов, а затем настройте Сборочный стол на их специализацию в готовые Рамы Звездных Врат.  Это просто, но со временем нам понадобится огромная производительность.
-
 dsi_part1_manufactureframes4 | They want us to provide an initial batch of 10 Stargate Frames, for certification.  They'll inspect our work and we'll be approved as official partners in the Andromeda Project. | Они хотят, чтобы мы предоставили начальную партию из 10 Рам Звездных Врат для сертификации.  Они проверят нашу работу, и мы будем утверждены в качестве официальных партнеров проекта Андромеда.
-
 dsi_part1_manufactureframes5 | It shouldn't take too long.  If you run out of metal, remember you can recycle more of the ruined equipment around the facility. | Это не займет много времени.  Если у вас закончатся Железные слитки, помните, что вы можете переработать больше Разрушенного оборудования вокруг объекта.
-
 dsi_part1_objective_accept | Accept Alexander's proposal | Принять предложение Александра
-
 dsi_part1_objective_addcrew | Add Crew to the station | Добавить экипаж на станцию
-
 dsi_part1_objective_callx | Call Alexander about the production facility | Позвонить Александру по поводу производственной базы
-
 dsi_part1_objective_dismantleequipment | Dismantle ruined equipment | Демонтировать разрушенное оборудование
-
 dsi_part1_objective_installairduct | Install Airduct | Установить воздуховод
-
 dsi_part1_objective_installassemblytab | Install Assembly Table | Установить Сборочный стол
-
 dsi_part1_objective_installfabricator | Install Fabricator | Установить Фабрикатор
-
 dsi_part1_objective_installreactor | Install Reactor | Установить Реактор
-
 dsi_part1_objective_installsmelter | Install Smelter | Установить Плавильную печь
-
 dsi_part1_objective_manufactureframes | Manufacture Stargate Frames [*X/10] | Изготовить Рамы Звездных Врат [*X/10]
-
 dsi_part1_objective_pressurisefacility | Pressurise Facility [*X%] | Нагнетать давление [*X%]
-
 dsi_part1_objective_produceframes | Produce 200 Stargate Frames [*X/200] | Произвести 200 Рам Звездных Врат [*X/200]
-
 dsi_part1_objective_scaleupproduction | Scale up production | Увеличить производство
-
 dsi_part1_objective_sellframes | Sell Stargate Frames [*X/200] | Продать Рамы Звездных Врат [*X/200]
-
 dsi_part1_objective_setassemblytab | Set Assembly Table to Stargate Frames | Настроить Сборочный стол на Рамы Звездных Врат
-
 dsi_part1_objective_setfabricator | Set Fabricator to Frames | Установите Фабрикатор на производство каркасов
-
 dsi_part1_objective_setsmelter | Set Smelter to Scrap Metal | Установите Плавильную печь на переработку Металлолома
-
 dsi_part1_objective_smeltmetallicminerals | Start smelting Metallic Minerals [*X/200] | Начните выплавлять Железную руду [*X/200]
-
 dsi_part1_objective_storeingots | Store Metal Ingots near Smelter [*X/10] | Хранить Железные слитки рядом с Плавильной печью [*X/10]
-
 dsi_part1_objective_storescrap | Store scrap metal near Smelter [*X/10] | Хранить Металлолом рядом с Плавильной печью [*X/10]
-
 dsi_part1_openstargatescreen | Excellent.  Let's have a look at the Manifest that he mentioned, and see what is required next. | Отлично.  Давайте взглянем на манифест, о котором он говорил, и посмотрим, что требуется дальше.
-
 dsi_part1_payx1 | I knew this would be a very profitable endeavour for us.  The Andromeda Project are so desperately in need of reliable manufacturing facilities that they're paying a fortune. | Я знал, что это будет очень прибыльным делом для нас.  Проекту Андромеда так нужны надежные производственные мощности, что они платят за это целое состояние.
-
 dsi_part1_payx2 | Now, the sales revenue is going to flow through you.  But remember our agreement.  50/50.  I've put a lot of capital in to get us to this point, and I need to start seeing a return. | Теперь доходы от продаж будут идти через вас.  Но помните о нашем соглашении.  50/50.  Я вложил много капитала, чтобы довести нас до этого момента, и мне нужно начать получать отдачу.
-
 dsi_part1_payx3 | Every time you sell a batch of parts to the Andromeda Project, you'll owe me half the revenue.  I'd appreciate it if you'd pay promptly. | Каждый раз, когда вы продаете партию деталей для проекта Андромеда, вы будете должны мне половину выручки.  Я буду признателен, если вы будете платить быстро.
-
 dsi_part1_phase2_xcall1 | It looks like it's just a bulk order of the part we already provided.  We need to make 200 more Stargate Frames.  We're already manufacturing them, but we'll need to scale up production or else this will take forever. | Похоже, это просто оптовый заказ уже предоставленной нами детали.  Нам нужно изготовить еще 200 Рам Звездных Врат.  Мы уже производим их, но нам нужно увеличить масштабы производства, иначе это займет целую вечность.
-
 dsi_part1_phase2_xcall2 | I'm releasing some of the seed money to you.  $600,000 should be enough for you to buy all the equipment we need to scale up.  Remember this isn't a gift.  I still own this station, and all the equipment onboard. | Я выделяю вам часть стартового капитала.  600 000 долларов должно хватить на покупку всего оборудования, необходимого для расширения производства.  Помните, это не подарок.  Я по-прежнему владею этой станцией и всем оборудованием на ее борту.
-
 dsi_part1_phase2_xcall3 | I suggest you buy more Smelters, more Fabricators, and more Assembly Tables.  A couple of each at least.  All that equipment will draw more juice, so you'll need to expand the power network with more Reactors and Batteries to cope.  And you'll need more crew to do the work. | Я предлагаю вам купить больше Плавильных печей, больше Фабрикаторов и больше Сборочных столов.  По крайней мере, по паре каждого.  Все это оборудование будет потреблять больше энергии, поэтому вам придется расширить энергосеть за счет Реакторов и Батарей.  И вам понадобится больше экипажа для выполнения работы.
-
 dsi_part1_phase2_xcall4 | If you run out of Metal Ingots, you should be able to buy raw materials from the open Marketplace.  You can usually buy more Scrap Metal, but you'll also find Metallic Minerals for sale which can also be smelted into Metal Ingots. | Если у вас закончатся Железные слитки, вы сможете купить сырье на Торговой площадке.  Обычно вы можете купить больше Металлолома, но вы также найдете на продажу Железную руду, которые также можно переплавить в Железные слитки.
-
 dsi_part1_setupcall1 | Wonderful news. I'm very happy you've agreed to partner with me on this. My factory space station is in position nearby, ready for us to use as our base of operations. | Замечательные новости. Я очень рад, что вы согласились сотрудничать со мной в этом деле. Моя заводская космическая станция находится неподалеку и готова к использованию в качестве базы для наших операций.
-
 dsi_part1_setupcall2 | This is the A.J.E Foundry.  A wonderful industrial facility, perfect for our needs.  I'll just need to provide you with some access codes so you can assume control of the facility. | Это литейный завод A.J.E.  Прекрасный промышленный объект, идеально подходящий для наших нужд.  Мне нужно будет предоставить вам несколько кодов доступа, чтобы вы могли взять на себя управление объектом.
-
 dsi_part1_setupcall3 | Look at that.  For years I manufactured engines and FTL drives right here, for every fleet that passed through the sector.  It's really fallen into disrepair. | Посмотрите на это.  Долгие годы я производил Двигатели и сверхсветовые приводы прямо здесь, для каждого флота, который проходил через этот сектор.  Он пришел в упадок.
-
 dsi_part1_setupcall4 | Your first job is to send over a skeleton crew, and establish basic power generation and life support.  I had the previous crew box up some of the usable equipment.  You should find the parts you need are already in storage. | Ваша первая задача - отправить сюда костяк команды и наладить базовую генерацию энергии и жизнеобеспечение.  Я попросил предыдущую команду собрать все пригодное для использования оборудование.  Вы должны обнаружить, что необходимые вам детали уже находятся на складе.
-
 dsi_part1_setupstorage1 | Efficiency is going to be the key to this facility turning a profit.  Set up a storage zone for scrap metal near to your Smelter, and another for the Metal Ingots that come out.  Our crew will waste a lot less time carrying goods long distances. | Эффективность будет ключом к тому, чтобы это предприятие приносило прибыль.  Установите рядом с Плавильной печью зону хранения Металлолома, а другую - для Железных слитков, которые получаются на выходе.  Наш экипаж будет тратить гораздо меньше времени на перевозку грузов на большие расстояния.
-
 dsi_part1_stationname | A.J.E Foundry | A.J.E Foundry
-
 dsi_part1_title | Deep Space Industrialists | Промышленники глубокого космоса
-
 dsi_part2_action_accept | Call X | Вызов Х
-
 dsi_part2_action_askaboutisotopes | Ask about Stable Isotopes | Спросить о стабильных изотопах
-
 dsi_part2_action_buyship | Buy gas fuselage | Купить газовый корабль
-
 dsi_part2_action_takecontrol | Take control of station | Взять под контроль станцию
-
 dsi_part2_actuatorsintro1 | I propose we expand and upgrade the Station into a mining facility.  If we install Engines we can move to a rich asteroid vein, then Mining Lasers and Logistics Drones will give us the capability to harvest the raw materials we need. | Я предлагаю расширить и модернизировать станцию, превратив ее в шахту.  Если мы установим Двигатели, то сможем переместиться к богатой астероидной жиле, а Шахтные лазеры и Логистические дроны дадут нам возможность добывать необходимое сырье.
-
 dsi_part2_actuatorsintro2 | The Stargate Actuators are made on the Assembly Table as normal, and they require a Stargate Frame and a Motor. Motors can be made in fabricators. | Приводы Звездных Врат изготавливаются на Сборочном столе, как обычно, и для них требуется Рама Звездных Врат и Двигатель. Двигатели можно изготовить в Фабрикаторах.
-
 dsi_part2_actuatorsintro3 | You'll need to mine Metallic Minerals and Copper Minerals, then melt those materials into ingots in an array of Smelters.  You can then fabricate the Motors and Frames, and finally assemble them into Stargate Actuators. | Вам нужно добыть Железную руду и Медную руду, затем переплавить эти материалы в слитки в Плавильных печах.  Затем вы сможете изготовить Двигатели и рамы, а затем собрать их в Приводы Звездных Врат.
-
 dsi_part2_actuatorsintro4 | I'll release some more of the seed capital to cover the costs of the upgrade, but you can take care of the details. | Я выделю еще немного стартового капитала, чтобы покрыть расходы на модернизацию, но вы можете позаботиться о деталях.
-
 dsi_part2_actuatorsintro5 | One last thing, Captain.  I'm sure you've noticed, we aren't exactly surrounded by asteroids here.  I suggest you pair the station up with one of your FTL capable vessels, and jump them both to a suitable mining location.  You can leave the station there to do its work. | И последнее, капитан.  Уверен, вы заметили, что мы не совсем окружены астероидами.  Я предлагаю вам соединить станцию с одним из ваших кораблей со сверхсветовой скоростью и перебросить их обоих к подходящему месту добычи.  Там вы можете оставить станцию выполнять свою работу.
-
 dsi_part2_advertisement | Captain, I think it's time we resumed work on the Stargate contract.  I've had a look ahead and the next phase is a huge step up.  Give me a call when you're ready to continue work. | Капитан, я думаю, нам пора возобновить работу над контрактом по Звездным вратам.  Я посмотрел, что будет дальше, и следующий этап - это огромный шаг вперед.  Позвоните мне, когда будете готовы продолжить работу.
-
 dsi_part2_firstpartcomplete | Excellent work, Captain.  On time and to specification, as usual.  The Andromeda Project have enough of that item now, so you may as well stop production and save the energy and materials. | Отличная работа, капитан.  Как всегда, вовремя и в соответствии со спецификацией.  У Проекта Андромеда теперь достаточно этого товара, так что вы можете прекратить производство и сэкономить энергию и материалы.
-
 dsi_part2_introcall1 | Welcome back, Captain.  I've been taking a look at the schematics published by the Andromeda Project, and the next phase is going to need a huge upgrade to our facilities. | С возвращением, капитан.  Я ознакомился со схемами, опубликованными Проектом Андромеда, и на следующем этапе потребуется огромная модернизация наших мощностей.
-
 dsi_part2_introcall2 | However, nothing they're asking us to produce is impossible, and I have a strong personal interest in seeing this project completed.  The sooner the better. | Однако ничего невозможного они от нас не требуют, и я лично заинтересован в том, чтобы этот проект был завершен.  Чем быстрее, тем лучше.
-
 dsi_part2_introcall3 | The Andromeda Project have released specifications for three different components.  We need to manufacture large quantities of all three to complete this phase, and each will require a different industrial setup. | Проект Андромеда опубликовал спецификации на три различных компонента.  Чтобы завершить этот этап, нам нужно изготовить большое количество всех трех компонентов, и для каждого из них потребуется своя промышленная установка.
-
 dsi_part2_introcall4 | The first part is a Stargate Actuator.  This is something we can manufacture in our existing factory station, although it's a more complex production chain.  There won't be nearly enough resources available in the Marketplace, so we'll have to mine the local belt for minerals. | Первая часть - это Привод Звездных Врат.  Это то, что мы можем изготовить на нашей существующей заводской станции, хотя это более сложная производственная цепочка.  Ресурсов, доступных на Торговой площади, будет недостаточно, поэтому нам придется добывать полезные ископаемые в местном поясе.
-
 dsi_part2_introcall6 | The second part is a chemical compound they're calling Stargate Resin.  It's synthesised in a Chemical Lab, but we first need huge volumes of Metreon Gas.  It's found only in deep space nebulas. | Вторая часть - это химическое соединение, которое они называют Смолой Звездных Врат.  Она синтезируется в Химической лаборатории, но сначала нам понадобятся огромные объемы Газа Метреона.  Он встречается только в туманностях глубокого космоса.
-
 dsi_part2_introcall7 | My thinking is to buy a suitable fuselage from a Shipyard, and then convert it into a dedicated gas capture and refining facility.  There's a good ship nearby.  You can buy it on my behalf and then set it up, and we'll drop it off in a rich gas cloud and leave it running. | Я думаю купить подходящий корабль на верфи, а затем переоборудовать его в специальную установку для улавливания и переработки газа.  Поблизости есть хороший корабль.  Вы можете купить его от моего имени, затем установить его, а мы высадим его в богатом газовом облаке и оставим работать.
-
 dsi_part2_introcall8 | The final requirement is a few barrels of Stable Isotopes.  These are easily captured during routine FTL travel.  I think you can take care of this one yourself, but if necessary I can talk you through it. | Последнее требование - несколько бочек Стабильных Изотопов.  Их легко захватить во время обычных сверхсветовых путешествий.  Думаю, вы сами справитесь с этим, но если нужно, я могу вас проинструктировать.
-
 dsi_part2_introcall9 | Time is now of the essence, Captain.  All three parts need to be produced, and I'm in more of a hurry than you may realise.  Keep me informed! | Время не терпит, капитан.  Все три части должны быть изготовлены, и я спешу больше, чем вы думаете.  Держите меня в курсе событий!
-
 dsi_part2_isotopesintro1 | We need to produce 100 Stable Isotopes. This is a chemical compound we must synthesise and deliver in barrels to the Andromeda Project. | Нам нужно произвести 100 Стабильных Изотопов. Это химическое соединение, которое мы должны синтезировать и доставить в бочках в Проект Андромеда.
-
 dsi_part2_isotopesintro2 | It's not too complex.  It starts with a Hyperspace Scoop, or several ideally, that you can fit to your vessels.  Every time you make an FTL jump you'll collect more as you pass through hyperspace.  You can then pipe those isotopes into a Refinery and convert them into Stable Isotopes. | Она не слишком сложная.  Все начинается с Гиперпространственного Совка или, в идеале, нескольких, которые вы можете установить на свои корабли.  Каждый раз, когда вы совершаете FTL-прыжок, вы будете собирать все больше изотопов по мере прохождения через гиперпространство.  Затем вы можете направить эти изотопы на Химический Завод и превратить их в Стабильные Изотопы.
-
 dsi_part2_isotopesintro3 | The final stage is to install a Loader or two, and set them to 'UNLOAD'.  This will instruct your crew to barrel up the stable isotopes and store them in the cargo hold so you can easily sell them on the Marketplace. | На последнем этапе установите пару Погрузчиков и задайте им режим 'РАЗГРУЗКА'.  Это даст команду вашему экипажу собрать Стабильные изотопы в бочки и хранить их в грузовом отсеке, чтобы вы могли легко продать их на Торговой площадке.
-
 dsi_part2_objective_actuators | Manufacture Stargate Actuators [*X/250] | Производство Приводов Звездных Врат [*X/250]
-
 dsi_part2_objective_buygasfuselage | Buy the Gas Capture fuselage | Купить корабль для сбора газа
-
 dsi_part2_objective_collectgas | Begin collecting Metreon Gas [*X/100] | Начать сбор Газ Метреона [*X/100]
-
 dsi_part2_objective_collectisotopes | Begin collecting Hyperspace Isotopes [*X/100] | Начать сбор Гиперпространственных Изотопов [*X/100]
-
 dsi_part2_objective_copperingots | Begin smelting Copper Ingots [*X/100] | Начать выплавку Медных слитков [*X/100]
-
 dsi_part2_objective_installdrones | Install logistics drones | Установить Логистические Дроны
-
 dsi_part2_objective_installengines | OPTIONAL: Install engines in the A.J.E Foundry | ДОПОЛНИТЕЛЬНО: Установить Двигатели в литейном цехе A.J.E
-
 dsi_part2_objective_installlasers | Install mining lasers | Установить Шахтерские Лазеры
-
 dsi_part2_objective_installscoop | Install Hyperspace Scoop | Установить Гиперпространственный Совок
-
 dsi_part2_objective_isotopes | Manufacture Stable Isotopes [*X/100] | Производство Стабильных Изотопов [*X/100]
-
 dsi_part2_objective_minecopper | Begin mining copper minerals [*X/100] | Начать добычу Медной руды [*X/100]
-
 dsi_part2_objective_mineminerals | Begin mining metallic minerals [*X/100] | Начать добычу Железной руды [*X/100]
-
 dsi_part2_objective_producemotors | Begin fabricating Motors [*X/100] | Начать изготовление Двигателей [*X/100]
-
 dsi_part2_objective_refinegas | Begin refining Metreon [*X/100] | Начать переработку Метреона [*X/100]
-
 dsi_part2_objective_resin | Manufacture Stargate Resin [*X/250] | Производство Смолы Звездных Врат [*X/250]
-
 dsi_part2_objective_sellreminder | Sell your manufactured parts to submit them to the Stargate project | Продайте изготовленные вами детали, чтобы представить их для проекта Звездные врата
-
 dsi_part2_objective_takecontrol | Take control of the A.J.E Foundry | Возьмите под контроль Литейный завод A.J.E
-
 dsi_part2_objective_traveltonebula | Transport the Gas Collector to a Nebula | Транспортировка газосборника в туманность
-
 dsi_part2_objective_unloadisotopes | Begin unloading barrels of Stable Isotopes [*X/10] | Начать разгрузку бочек со Стабильными Изотопами [*X/10]
-
 dsi_part2_resinintro1 | There is a ship for sale here that's perfect for our gas collection enterprise.  Let's buy it and add it to the fleet. | Здесь продается корабль, который идеально подходит для нашего предприятия по сбору газа.  Давайте купим его и добавим к флоту.
-
 dsi_part2_resinintro2 | Gas collection is a slow process.  Our aim should be to place this vessel within a dense metreon nebula, slowly absorbing the gas and refining it over time.  Once we're in the nebula we won't be able to easily upgrade the ship, so we'll want to set it up as much as possible in advance. | Сбор газа - это медленный процесс.  Наша цель - поместить это судно в плотную метроновую туманность, медленно поглощая газ и очищая его со временем.  Как только мы окажемся в туманности, мы не сможем легко модернизировать корабль, так что нам нужно будет настроить его как можно лучше заранее.
-
 dsi_part2_resinintro3 | I'll send over more seed money and you can outfit the ship as you see best. | Я пришлю еще стартовый капитал, и вы сможете оборудовать корабль так, как сочтете нужным.
-
 dsi_part2_resinintro4 | The process of making Stargate Resin starts with a Gas Collector bringing in the Metreon Gas.  We then pipe that into a Refinery to produce Refined Metreon, then into a Chemical Lab where the Stargate Resin can be synthesised. | Процесс изготовления Смолы Звездных Врат начинается с того, что Газосборник собирает Газ Метреона.  Затем мы направляем его на Химический завод для получения Обработанного Метреона, а затем в Химическую лабораторию, где синтезируется Смола Звездных Врат.
-
 dsi_part2_resinintro5 | You'll need all of that equipment to get started.  I'd recommend Collectors, Refineries, and Chemical Labs, four each at least.  You'll also want Storage Tanks to buffer the intermediate products, and an upgrade to the Power Grid. | Вам понадобится все это оборудование, чтобы начать.  Я бы рекомендовал Коллекторы, Химические заводы и Химические лаборатории - по четыре штуки как минимум.  Также вам понадобятся Резервуары для хранения промежуточных продуктов и апгрейд энергосети.
-
 dsi_part2_resinintro6 | You may need to shop around a bit, if the local trade post doesn't have everything you need. | Возможно, вам придется немного походить по магазинам, если в местном торговом пункте не окажется всего, что вам нужно.
-
 dsi_part2_resinintro7 | Once the ship is ready, pair it up with one of your FTL capable vessels, and jump into a nearby nebula to begin the process of gas collection. | Когда корабль будет готов, соедините его с одним из ваших кораблей со сверхсветовыми возможностями и прыгайте в ближайшую туманность, чтобы начать процесс сбора газа.
-
 dsi_part2_scene_x1 | There's a situation brewing at our factory in the asteroid belt.  You'd better take a look. | На нашей фабрике в поясе астероидов назревает ситуация.  Вам лучше взглянуть.
-
 dsi_part2_scene_x2 | I'll talk to him. | Я поговорю с ним.
-
 dsi_part2_scene_x3 | Raymond.  It's been quite a while.  How have you been? | Раймонд.  Прошло уже довольно много времени.  Как вы поживаете?
-
 dsi_part2_scene_x4 | Captain, I'll take care of this.  My private security are on their way.  I'll keep him talking, but there's no need for bloodshed. | Капитан, я позабочусь об этом.  Моя личная охрана уже в пути.  Я заставлю его говорить, но кровопролитие не нужно.
-
 dsi_part2_scene_x5 | You were compensated for your work Raymond.  You signed the contract. | Вы получили компенсацию за свою работу, Рэймонд.  Вы подписали контракт.
-
 dsi_part2_scene_y1 | Is he in there?  Alexander?  Where is he? | Он там?  Александр?  Где он?
-
 dsi_part2_scene_y2 | I'm not going to ask again.  I demand to speak to Alexander Elistar.  Immediately!  I am armed! | Я не собираюсь переспрашивать.  Я требую разговора с Александром Элистаром.  Немедленно!  Я вооружен!
-
 dsi_part2_scene_y3 | How have I been?  You know exactly how I've been.  I'm here to collect my share. | Как я?  Вы прекрасно знаете, как я себя чувствую.  Я здесь, чтобы получить свою долю.
-
 dsi_part2_scene_y4 | The designs were mine.  The patents were mine!  All of this, it's all built on my work. | Проекты были моими.  Патенты были моими!  Все это построено на моей работе.
-
 dsi_part2_scene_y5 | For pennies!  You screwed me, and now it's worth millions! | За копейки!  Вы меня надули, а теперь это стоит миллионы!
-
 dsi_part2_scene_y6 | I want my share.  Deal me in.  10% ownership of this new venture of yours.  I'm being reasonable, but the law is on my side.  Don't make me shut you down Alexander. | Я хочу свою долю.  Договоритесь со мной.  10 % в этом вашем новом предприятии.  Я рассуждаю здраво, но закон на моей стороне.  Не заставляйте меня закрывать вас, Александр.
-
 dsi_part2_scene_y7 | You've left me no choice. | Вы не оставили мне выбора.
-
 dsi_part2_scene_y8 | I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all. | Я приду за вами, Александр, и на этот раз я не попрошу 10%. Я хочу все.
-
 dsi_part2_scene_z1 | This is Private Security vessel DOGMA, under exclusive contract to A.J.E Industries. | Это частное охранное судно ДОГМА, работающее по эксклюзивному контракту с А.Д.Е Индастриз.
-
 dsi_part2_scene_z2 | You are operating in a dangerous and threatening manner in the vicinity of an A.J.E corporate facility. | Вы действуете в опасной и угрожающей манере вблизи корпоративного объекта A.J.E.
-
 dsi_part2_scene_z3 | You are ordered to stand down and withdraw immediately. | Вам приказано немедленно отступить.
-
 dsi_part2_scene_z4 | We are authorised by deep space convention in the use of deadly force in defense of our client's assets. | Согласно конвенции дальнего космоса, мы имеем право применить смертоносную силу для защиты активов нашего клиента.
-
 dsi_part2_scene_z5 | THERE WILL BE NO FURTHER WARNING. | ДАЛЬНЕЙШИХ ПРЕДУПРЕЖДЕНИЙ НЕ БУДЕТ.
-
 dsi_part2_secondpartcomplete1 | I'm sure you've noticed, we're making a small fortune from all of this.  Truth be told, I'm not really doing this for the revenue.  I already have more than I can ever spend.  But I'm running out of time.  The Doctors have made that clear to me. | Уверен, вы заметили, что мы зарабатываем на всем этом небольшое состояние.  По правде говоря, я делаю это не ради дохода.  У меня и так больше, чем я могу потратить.  Но у меня заканчивается время.  Доктора дали мне это понять.
-
 dsi_part2_secondpartcomplete2 | I've been around quite a few years.  I've had my share of success, built my empire, my fortune.  I live a comfortable life.  But I find myself thinking more and more about what I want to do with the time I have left. | Я работаю уже довольно много лет.  Я добился успеха, создал свою империю, свое состояние.  Я живу комфортной жизнью.  Но я все чаще задумываюсь о том, что я хочу сделать со временем, которое у меня осталось.
-
 dsi_part2_secondpartcomplete3 | I just want to be the first at something huge.  The first person to visit another galaxy.  Alexander James Elistar.  That's a name that people would remember. | Я просто хочу быть первым в чем-то грандиозном.  Первым, кто посетит другую галактику.  Александр Джеймс Элистар.  Это имя люди запомнят.
-
 dsi_part2_summary | Resume work on the Stargate with X | Возобновление работы над Звездными вратами с Икс
-
 dsi_part2_thirdpartcomplete1 | We are all done, Captain.  That was an incredible display of industrialised power.  There's nobody even close to us in the Marketplace, and we basically are the Andromeda Project.  They need us now. | Мы все закончили, капитан.  Это была невероятная демонстрация индустриальной мощи.  На Торговой площадке нет никого даже близко похожего на нас, а мы, по сути, и есть Проект Андромеда.  Теперь мы им нужны.
-
 dsi_part2_thirdpartcomplete2 | Let's take another break and I'll contact you when the Andromeda Project releases the manifest for their next phase. | Давайте сделаем перерыв, и я свяжусь с вами, когда Проект Андромеда опубликует манифест для следующей фазы.
-
 dsi_part2_thirdpartcomplete3 | You should know that my Doctors continue to bring me bad news.  Each time I talk to them... well, I don't know how long I have left.  This will be my final project.  I just hope I have time to finish it. | Вы должны знать, что мои врачи продолжают приносить мне плохие новости.  Каждый раз, когда я с ними разговариваю... в общем, я не знаю, сколько мне осталось.  Это будет мой последний проект.  Я лишь надеюсь, что у меня будет время его закончить.
-
 dsi_part2_title | Deep Space Industrialists, Part 2 | Промышленники глубокого космоса, часть 2
-
 dsi_x_canceldeal1 | I'm disappointed, Captain. You're backing out after all the investment I've put into this project? | Я разочарован, капитан. Вы отступаете после всех инвестиций, которые я вложил в этот проект?
-
 dsi_x_canceldeal2 | You will regret this. | Вы еще пожалеете об этом.
-
 dsi_x_canceldeal3 | Goodbye, Captain. | До свидания, капитан.
-
 dsi_xthanks1 | Thank you, Captain.  I appreciate the prompt payment. | Спасибо, капитан.  Я ценю быструю оплату.
-
 dsi_xthanks2 | Payment received, thank you, Captain. | Оплата получена, спасибо, капитан.
-
 dsi_xthanks3 | I've received my share.  Excellent work, Captain. | Я получил свою долю.  Отличная работа, капитан.
-
 dsi_xwarning1 | Captain, I can see you've sold a batch of Stargate parts, but I've received no corresponding payment.  We agreed to split all revenue 50/50.  This setup is costing me a fortune and I need to start making my return.  Please transfer the funds to my account as soon as possible. | Капитан, я вижу, что вы продали партию деталей для Звездных Врат, но я не получил соответствующей оплаты.  Мы договорились делить всю выручку 50/50.  Эта схема обходится мне в копеечку, и я должен начать получать прибыль.  Пожалуйста, переведите деньги на мой счет как можно скорее.
-
 dsi_xwarning2 | Captain, I was sure I'd made our agreement clear.  Don't forget who owns this station, and all the equipment onboard.  50/50 was what we agreed. | Капитан, я был уверен, что ясно выразил наше соглашение.  Не забывайте, кому принадлежит эта станция и все оборудование на ее борту.  Мы договорились 50/50.
-
 dsi_xwarning2_part1 | Captain, I was sure I'd made our agreement clear.  Don't forget who owns this station, and all the equipment onboard.  50/50 was what we agreed. | Капитан, я был уверен, что ясно выразил нашу договоренность.  Не забывайте, кому принадлежит эта станция и все оборудование на ее борту.  Мы договорились 50/50.
-
 dsi_xwarning2_part2 | I thought I could trust you.  Pay me the money you owe, immediately, or I will be forced to escalate. | Я думал, что могу доверять вам.  Немедленно выплатите мне причитающиеся деньги, или я буду вынужден пойти на обострение.
-
 dsi_xwarning3 | Captain, this is your final warning.  You are now willfully withholding sales revenue that is legally mine.  If you don't pay what you owe immediately I will have no choice but to terminate our agreement, seize control of my station, and recover any financial losses directly from you. | Капитан, это ваше последнее предупреждение.  Вы умышленно утаиваете доходы от продаж, которые по закону принадлежат мне.  Если вы не заплатите то, что должны, немедленно, у меня не останется другого выбора, кроме как расторгнуть наше соглашение, захватить контроль над моей станцией и взыскать все финансовые потери непосредственно с вас.
-
-
-

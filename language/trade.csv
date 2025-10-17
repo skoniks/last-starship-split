@@ -1,152 +1,75 @@
 trade_afford | AFFORD | ВЫГОДНО
-
 trade_all | ALL | ВСЕ
-
 trade_allitems | ALL ITEMS | ВСЕ ПРЕДМЕТЫ
-
 trade_autobuyat | BUY BELOW | КУПИТЬ НИЖЕ
-
 trade_automatic | AUTO TRADE | АВТОМАТИЧЕСКАЯ ТОРГОВЛЯ
-
 trade_autosellat | SELL ABOVE | ПРОДАТЬ ВЫШЕ
-
 trade_autotrade | AUTO-TRADE | АВТО-ТОРГ
-
 trade_autotradecancelled | LAST ORDER CANCELLED | ПОСЛЕДНИЙ ЗАКАЗ ОТМЕНЕН
-
 trade_autotradedisabled | DISABLED IN ORDER MENU | ОТКЛЮЧЕНО В МЕНЮ ЗАКАЗОВ
-
 trade_boxed | Boxed | В коробке
-
 trade_buy | BUY | КУПИТЬ
-
 trade_buying | Buying *X | Покупка *X
-
 trade_cancelautotrade | CANCEL AUTO-TRADE | ОТМЕНИТЬ АВТОТОРГОВЛЮ
-
 trade_cannot | CANNOT | НЕ МОГУ
-
 trade_cannot_afford | CANNOT AFFORD | НЕ МОГУ СЕБЕ ПОЗВОЛИТЬ
-
 trade_cash | Cash | Деньги
-
 trade_category_equipment | Equipment | Оборудование
-
 trade_category_reagent | Reagent | Реагент
-
 trade_category_resource | Resource | Ресурс
-
 trade_component | Component | Компонент
-
 trade_confirm | CONFIRM | ПОДТВЕРДИТЬ
-
 trade_cost | Cost | Стоимость
-
 trade_dangercivilians | Civilians are offering larger sums than normal for safe transit out of the sector | Гражданские лица предлагают более крупные суммы, чем обычно, за безопасный транзит из сектора
-
 trade_dangerdeflation | Prices for hardware and crew are lower than normal, due to panic | Цены на оборудование и экипаж ниже обычных из-за паники
-
 trade_dangerproximity | Shortages of critical resources have made prices higher than normal | Из-за нехватки критически важных ресурсов цены стали выше обычного
-
 trade_enabled | ENABLED | АКТИВНО
-
 trade_equipment_charge | - Charge (per use) : *X MW | - Заряд (на одно использование) : *X MW
-
 trade_equipment_powered | - Powered | - Питание
-
 trade_equipment_rotatable | - Rotatable | - Поворотный
-
 trade_equipment_size | - Size *X x *Y | - Размер *X x *Y
-
 trade_estimatedvalue | ESTIMATED VALUE: | РАСЧЕТНОЕ ЗНАЧЕНИЕ:
-
 trade_neworder | NEW ORDER | НОВЫЙ ЗАКАЗ
-
 trade_nextcollection | NEXT SHUTTLE IN *Xs | СЛЕДУЮЩИЙ ЧЕЛНОК В *Xs
-
 trade_ourstock | You have *X on-board | У вас на борту *X
-
 trade_overlay_boxed | [boxed] | [в коробке]
-
 trade_overlay_price | PRICE | ЦЕНА
-
 trade_overlay_them | THEM | ТЕМ
-
 trade_overlay_you | YOU | ВЫ
-
 trade_profit | Profit | Прибыль
-
 trade_remove | REMOVE | УДАЛИТЬ
-
 trade_sack | SACK | УВОЛИТЬ
-
 trade_sacking | Sacking *X | Увольнение *X
-
 trade_sell | SELL | ПРОДАВАТЬ
-
 trade_sell_ship | SELL SHIP | ПРОДАТЬ КОРАБЛЬ
-
 trade_selling | Selling *X | Продажа *X
-
 trade_showoutofstock | Show out of stock | Показать нет в наличии
-
 trade_shuttleinbound | SHUTTLE INBOUND | ПРИБЛИЖАЕТСЯ ЧЕЛНОК
-
 trade_stack | Stack of *X | Штабель из *X
-
 trade_title | TRADE | ТОРГОВЛЯ
-
 trade_tooltip_add | [LMB] Add | [LMB] Добавить
-
 trade_tooltip_buy | [LMB] Buy | [LMB] Купить
-
 trade_tooltip_cancel | [RMB] Cancel | [RMB] Отменить
-
 trade_tooltip_cancelalltrade | [RMB] Cancel All | [RMB] Отменить все
-
 trade_tooltip_canceltrade | [LMB] Cancel | [LMB] Отменить
-
 trade_tooltip_clear | [RMB] Clear | [RMB] Очистить
-
 trade_tooltip_control | [CTRL] All | [CTRL] Все
-
 trade_tooltip_disableorder | [CTRL + RMB] Disable | [CTRL + RMB] Отключить
-
 trade_tooltip_remove | [RMB] Remove | [RMB] Удалить
-
 trade_tooltip_remove_rmb | [RMB] Remove | [RMB] Удалить
-
 trade_tooltip_reset | [RMB] Reset | [RMB] Сброс
-
 trade_tooltip_sack | [LMB] Sack | [LMB] Уволить
-
 trade_tooltip_sell | [LMB] Sell | [LMB] Продать
-
 trade_tooltip_shift | [SHIFT] x5 | [SHIFT] x5
-
 trade_transaction | *X: *Y | *X: *Y
-
 trade_waitingfor | Waiting for *X x *Y | Ожидание *X x *Y
-
 trade_window_Components | Components | Компоненты
-
 trade_window_Crew | Crew | Экипаж
-
 trade_window_Defense | Defense | Оборона
-
 trade_window_Energy | Energy | Энергия
-
 trade_window_Habitation | Habitation | Каюты
-
 trade_window_Industry | Industry | Промышленность
-
 trade_window_Logistics | Logistics | Логистика
-
 trade_window_Propulsion | Propulsion | Движение
-
 trade_window_Resources | Resources | Ресурсы
-
 trade_window_Science | Science | Наука
-
-
-
