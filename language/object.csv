@@ -55,15 +55,15 @@ object_fighter | Fighter | Истребитель
 object_FlightRecorder | Flight Recorder | Бортовой Самописец
 object_food | Food | Еда
 object_framecomponent | Frame | Рама
-object_ftlcharge | FTL Charge | Сверхсветовой Заряд
-object_ftldrive | FTL Drive | Сверхсветовой Привод
+object_ftlcharge | FTL Charge | Гипертопливо
+object_ftldrive | FTL Drive | Гипердвигатель
 object_fuel | Fuel | Топливо
 object_fuelloader | Fuel Loader | Погрузчик Топлива
 object_fuelloader_description | Takes a canister of Fuel, and pumps it into an underfloor pipe. Use pipes to connect this to your Reactor and your Engines. | Принимает канистру Топлива и закачивает его в подпольную трубу. Используйте трубы для подключения к вашему Реактору и Двигателям.
 object_fusionreactor | Fusion Reactor | Реактор Синтеза
 object_fusionreactor_description | Uses nuclear fusion of Deuterium to generate large amounts of energy. However the fusion reactor must be 'powered up' with a huge amount of energy before it will generate any power itself.\n\nGenerates a maximum power output of 500MW. | Использует термоядерный синтез Дейтерия для выработки больших объемов энергии. Однако реактор синтеза необходимо «запустить» огромным количеством энергии, прежде чем он начнет вырабатывать энергию самостоятельно.\n\nВырабатывает максимальную мощность 500 МВт.
 object_gascollector | Gas Collector | Газосборник
-object_gascollector_description | A large exterior vent that sucks in gases from space. Many gases found in nebulas can be used to produce useful resources like Fuel, FTL charges, and explosives. | Крупный внешний клапан, всасывающий газы из космоса. Многие газы, найденные в туманностях, можно использовать для производства полезных ресурсов, таких как Топливо, Сверхсветовые Заряды и Взрывчатка.
+object_gascollector_description | A large exterior vent that sucks in gases from space. Many gases found in nebulas can be used to produce useful resources like Fuel, FTL charges, and explosives. | Крупный внешний клапан, всасывающий газы из космоса. Многие газы, найденные в туманностях, можно использовать для производства полезных ресурсов, таких как Топливо, Гипертопливо и Взрывчатка.
 object_gatlinggun | Gatling Gun | Пулемет
 object_gatlinggun_description | A close range rapid-fire weapon system, primarily designed for defense against incoming fighters and ordnance.  The gatling gun excels at destroying fast-moving targets at close range, but lacks the punch to penetrate armoured targets. | Скорострельная система вооружения ближнего боя, в первую очередь предназначенная для защиты от приближающихся истребителей и боеприпасов.  Пулемет превосходно уничтожает быстро движущиеся цели на близкой дистанции, но недостаточно мощен для пробития бронированных целей.
 object_generator | Generator | Генератор
@@ -71,7 +71,7 @@ object_hullbreach | Hull Breach | Пролом Корпуса
 object_hydroponics | Hydroponic Garden | Гидропонный Сад
 object_hydroponics_description | An enclosed greenhouse device that can be used to grow crops, in order to feed your crew.  Requires compost and water, and Seeds to get things started. | Закрытая теплица, которую можно использовать для выращивания культур, чтобы кормить ваш экипаж.  Требует компост, воду и Семена для начала работы.
 object_hyperspacecollector | Hyperspace Scoop | Гиперпространственный Совок
-object_hyperspacecollector_description | The Hyperspace Scoop sits at the front of a starship and faces the direction of travel. During hyperspace a strong magnetic field is projected forward, drawing in large volumes of interstellar matter. The isotopes gathered this way can be refined into FTL Fuel. | Гиперпространственный Совок располагается в носовой части звездолета и направлен в сторону движения. Во время гиперпространственного полета проецируется мощное магнитное поле вперед, собирая большие объемы межзвездной материи. Изотопы, собранные таким образом, можно обработать в Сверхсветовое Топливо.
+object_hyperspacecollector_description | The Hyperspace Scoop sits at the front of a starship and faces the direction of travel. During hyperspace a strong magnetic field is projected forward, drawing in large volumes of interstellar matter. The isotopes gathered this way can be refined into FTL Fuel. | Гиперпространственный Совок располагается в носовой части звездолета и направлен в сторону движения. Во время гиперпространственного полета проецируется мощное магнитное поле вперед, собирая большие объемы межзвездной материи. Изотопы, собранные таким образом, можно обработать в Гипертопливо.
 object_hyperspaceisotopes | Hyperspace Isotopes | Гиперпространственные Изотопы
 object_hyperspacesensor | Hyperspace Sensor | Гиперпространственный Сенсор
 object_hyperspacesensorlr | Hyperspace Sensor LR | Гиперпространственный Сенсор LR

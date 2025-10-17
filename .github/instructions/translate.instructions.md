@@ -43,8 +43,8 @@
 - Asteroid = Астероид
 - Battery = Батарея
 - Box = Ящик
-- Hop Drive = Скачковый Привод
-- Broken Hop Drive = Сломанный Скачковый Привод
+- Hop Drive = Скачковый Двигатель
+- Broken Hop Drive = Сломанный Скачковый Двигатель
 - Bullets = Пулеметные Патроны
 - Cannon = Пушка
 - Cannon Shells = Пушечные Снаряды
@@ -80,8 +80,8 @@
 - Flight Recorder = Бортовой Самописец
 - Food = Еда
 - Frame = Рама
-- FTL Charge = Сверхсветовой Заряд
-- FTL Drive = Сверхсветовой Привод
+- FTL Charge = Гипертопливо
+- FTL Drive = Гипердвигатель
 - Fuel = Топливо
 - Fuel Loader = Погрузчик Топлива
 - Fusion Reactor = Реактор Синтеза

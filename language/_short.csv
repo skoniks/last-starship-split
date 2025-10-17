@@ -340,7 +340,7 @@ tactical_evasion | EVASION | УКЛОНЕНИЕ
 tactical_fire | FIRE | ОГОНЬ
 tactical_hold | HOLD | СТОП
 tactical_lowpower | LOW POWER | МАЛО МОЩНОСТИ
-tactical_maneuvering | MANEUVERING | МАНЕВРИРУЕТ
+tactical_maneuvering | MANEUVERING | МАНЕВРИРОВАНИЕ
 tactical_reloading | RELOADING | ПЕРЕЗАРЯДКА
 tactical_throttle | THROTTLE | ТЯГА
 tactical_undock | UNDOCK | ОТСТЫКОВАТЬ
