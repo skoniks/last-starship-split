@@ -1,0 +1,134 @@
+wolf_character_harken | Commander Harken | 
+wolf_character_harken_short | CMDR HARKEN | 
+wolf_character_ryker | Captain Amelia Ryker | 
+wolf_episode_title | Wolf In Sheep's Clothing | 
+wolf_part1_action_collectwreckage | Collect Wreckage | 
+wolf_part1_action_deliver | Deliver | 
+wolf_part1_action_payscavenger | Pay Scavenger $*X | 
+wolf_part1_completion1 | We've analysed the black box recordings and the evidence is already pretty clear.  There's a pirate vessel out there somewhere, preying on high value commercial vessels.  They wait in silence, until the ship is alone, isolated, and defenseless.  They come out of nowhere and attack without warning, and before anybody can respond they've destroyed the ship and looted the cargo. | 
+wolf_part1_completion2 | Most likely to be sold for vast profits to the Stargate Project - who don't seem keen to ask questions. | 
+wolf_part1_completion3 | So far they haven't left a single living witness. But the sensor data tells the full story. We've manged to extract another sensor image of the attacker. | 
+wolf_part1_completion4 | It's another grainy photograph, but it's all we have to go on.  This is without doubt the vessel responsible for all this death and destruction. | 
+wolf_part1_completion5 | We need to find a way to track them down, and destroy them.  We will be in touch soon, Captain. | 
+wolf_part1_completion6 | In the mean time, we suggest you tend to your ships. If you've taken damage, you can repair the hull at any SHIPYARD. Use the funds we've sent to upgrade your defenses. | 
+wolf_part1_dronehint | Your ship will need a drone bay and drones to collect the flight recorder. | 
+wolf_part1_firstrecorder | You've recovered the flight recorder! Bring it to me. I'm onboard The Vanguard - sending our location now. | 
+wolf_part1_firstwreckage | Once you've collected all the Ship Wreckage, bring it to me along with the Flight Recorders. I'm onboard The Vanguard - sending our location now. | 
+wolf_part1_flightrecordercount | You've delivered *X/*Y of the Flight Recorders | 
+wolf_part1_intro1 | My name is Commander Harken, and I'm the Chief of Private Security for the sector. | 
+wolf_part1_intro2 | You have found the remains of the Interstellar Prospector. Please bring its Black Box Flight Recorder to me, and I will explain more. | 
+wolf_part1_intro3 | In order to collect the Flight Recorder you will need Drones, launched from a Drone Bay on your ship.  If you don't already have this equipment, you'll need to buy at least one DRONE BAY, and at least one LOGISTICS DRONE, from any colony or shipyard. | 
+wolf_part1_objective_drones | Install a Drone Bay and at least one Logistics Drone | 
+wolf_part1_objective_recoverbox1 | Recover Flight Recorder from UMC Interstellar Prospector | 
+wolf_part1_objective_recoverbox2 | Recover Flight Recorder from UMC Infinite Horizon | 
+wolf_part1_objective_recoverbox3 | Recover Flight Recorder from UMC Celestial Hauler | 
+wolf_part1_objective_recoverwreckage | Collect the wreckage of UMC Stellar Horizon from System S*X [*Y/*Z] | 
+wolf_part1_objective_returnfirstrecorder | Return the Flight Recorder to Commander Harken | 
+wolf_part1_objective_returnrecorders | Return the Flight Recorders to Commander Harken [*Y/*Z] | 
+wolf_part1_objective_returnwreckage | Return the Wreckage to Commander Harken [*Y/*Z] | 
+wolf_part1_objective_scavenger | Recover the Flight Recorder from Scavenger Vessel | 
+wolf_part1_recorderhint | The flight recorder should be near the derelict L*X. Move towards it so that your drones can pick it up. | 
+wolf_part1_recoverwreckage | WRECKAGE | 
+wolf_part1_scavenger1 | Got my hands on something you might be looking for.  A recording of the screams and static from the ship's final moments.  You want it, I know it.  Scavengers rights says it's mine. | 
+wolf_part1_scavenger2 | Luckily for you, you can have your precious data, so long as I get my finders fee.  It'll cost you $*X for the secrets.  Cross me and it will be the last mistake you make. | 
+wolf_part1_scavenger3 | Funds received. Pleasure doing business. | 
+wolf_part1_scavenger4 | We'll drop your Flight Recorder out the cargo hold and be on our way. | 
+wolf_part1_sendingshuttle | Standby while I dock my ship with yours, Captain, to collect the items you've recovered so far. Thank you for your efforts. | 
+wolf_part1_sendingwreckage | They're sending the recovered wreckage to your ship The L*X now, Captain. It will arrive soon by Shuttle. You'll need to store it somewhere onboard. | 
+wolf_part1_setupcall1 | Thank you for returning the flight recorder, Captain. | 
+wolf_part1_setupcall1b | We are in the grip of a major crisis.  Commercial vessels laden with valuable cargo are being targeted and destroyed.  These vessels are under our protection - but often lack any serious defenses, and barely have a chance to send out a distress call before they are plundered.  This is a calculated assault on the free market trade and industry within this sector, and cannot be allowed to continue. | 
+wolf_part1_setupcall2 | I'm sending you the coordinates of two more stricken vessels, pinpointing their last known locations before they went dark.  We need you to travel to the wreckage of each of these ships, and collect whatever evidence you can. | 
+wolf_part1_setupcall3 | The primary objective is the safe recovery of their Black Box Flight Recorders, which will contain a log of their final moments. | 
+wolf_part1_setupcall4 | Here are the co-ordinates of the two shipwrecks we need you to visit. | 
+wolf_part1_setupcall5 | The fourth vessel to be targeted managed to send out a distress call. Local security forces responded too late, and found nothing but the destroyed fuselage with a presumed loss of all crew. | 
+wolf_part1_setupcall5b | This is the only image they managed to send, before their transmission went dead. | 
+wolf_part1_setupcall6 | The wreckage - which is the forensic evidence of their fate - was collected and taken back to System S*X, where it's currently sitting in storage.  We need you to send a ship to collect the wreckage, and bring it to us along with the recovered black box modules. | 
+wolf_part1_setupcall7 | Bring all the recovered wreckage and the black box flight recorders back to me for analysis on board my ship The Vanguard, to complete the contract. | 
+wolf_part1_title | A Wolf in Sheep's Clothing | 
+wolf_part1_wreckagecount | You've delivered *X/*Y of the Ship Wreckage | 
+wolf_part2_advertisement | Captain. We're ready to continue our hunt for the pirate vessel. Please meet me at the marked location. | 
+wolf_part2_debrief1 | I appreciate your speed in rescuing the crew of the Orion Sentinel, Captain. | 
+wolf_part2_debrief2 | Regrettably I must inform you Captain Ryker does not appear to be among the survivors.  Her sacrifice will be remembered. | 
+wolf_part2_debrief3 | We don't know when or where the pirate vessel will strike again. But we must be prepared.  The more we analyse their attacks, the more obvious the pattern becomes. | 
+wolf_part2_debrief4 | Thank you, Captain.  Protect your fleet, and wait for our call. | 
+wolf_part2_distress1 | This is Captain Amelia Ryker of the UMC vessel Orion Sentinel.  We are under attack!  They appeared out of nowhere and fired on us without warning, and won't respond to any of my communications. | 
+wolf_part2_distress2 | I'm trying to hold them off, but I need help.  My engines are damaged.  Ships systems have failed.  Please hurry, I have 40 crew onboard! | 
+wolf_part2_dropoff1 | Well done, Captain.  Your intervention prevented a further loss of life.  And now we know the pirate vessel is crewed by cowards, a fact that we intend to use to our advantage. | 
+wolf_part2_dropoff2 | In the mean time, take the survivors to the nearest shipyard or colony and drop them off there to close the contract. | 
+wolf_part2_inperson_distress1 | Captain, thank goodness you're here! Help us! | 
+wolf_part2_inperson_distress2 | We won't last much longer. | 
+wolf_part2_inperson_distress3 | It looks like they turned and ran when they saw you arrive, Captain.  But my ship is on the brink. The Reactor won't hold out much longer. | 
+wolf_part2_inperson_distress4 | To rescue my crew you'll need to get close and initiate docking procedures. Use your manoeuvering thrusters to align your docking port with ours, in TACTICAL mode. | 
+wolf_part2_inperson_distress5 | I'll get the crew ready to evacuate. Please hurry! | 
+wolf_part2_inperson_distress6 | The Reactor is reaching critical levels, Captain.  I can't stop it from overloading. | 
+wolf_part2_inperson_distress7 | I'll try and buy you a few more seconds, but it's going to go critical any moment.  Get to a safe distance as soon as you can, Captain.  Save my crew! | 
+wolf_part2_objective_dock | Dock with the UMC Orion Sentinel | 
+wolf_part2_objective_dropoff | Drop off the survivors at any shipyard or colony [*X/*Y] | 
+wolf_part2_objective_escape | Get to a safe distance before the Orion Sentinel explodes | 
+wolf_part2_objective_rescue | Rescue the crew of the UMC Orion Sentinel [*X/40] | 
+wolf_part2_objective_thrusters | Fit four manoeuvering thrusters to your vessel [*X/4] | 
+wolf_part2_objective_visitharken | Travel to Commander Harken | 
+wolf_part2_rescued | Rescued *X/*Y crew | 
+wolf_part2_setup1 | Thank you for coming, Captain. | 
+wolf_part2_setup2 | We have been attempting to track the pirate vessel down, but to no avail. We keep arriving at the scene to find destroyed ships with no trace of the pirates. We need you to- | 
+wolf_part2_setup3 | This is now an urgent humanitarian rescue situation. If we respond quickly enough, we may just be lucky and find a crew we can rescue. | 
+wolf_part2_setup4 | You'll need to acquire at least four Manoeuvring thrusters to dock with Captain Ryker's ship. | 
+wolf_part2_setup5 | Time is running out.  Send a ship to the Orion Sentinel and provide whatever aid you can, before it's too late. | 
+wolf_part2_title | A Wolf in Sheep's Clothing, Part 2 | 
+wolf_part3_action_chargeemp | Charge EMP | 
+wolf_part3_action_triggeremp | Trigger EMP | 
+wolf_part3_advertisement1 | Captain, we have hatched a plan that we believe will catch the pirate vessel in the act. | 
+wolf_part3_advertisement2 | Please come to see us and we will explain the mission objectives. | 
+wolf_part3_combat1 | Captain, we're on our way.  Mobilise your crew and install those weapon systems ASAP. | 
+wolf_part3_combat2 | The cavalry are coming.  Hold them off for just a few moments. | 
+wolf_part3_combat3 | Unfortunately it seems we have arrived too late. Your crew's sacrifice will not be forgotten. | 
+wolf_part3_combat4 | Target that explosion and fire! | 
+wolf_part3_debrief1 | Congratulations, Captain. Your performance in the destruction of the Pirate Vessel exceeded all expectations! | 
+wolf_part3_debrief2 | Your skill and bravery have not gone unnoticed. I extend my heartfelt gratitude for your help. | 
+wolf_part3_debrief3 | As a token of appreciation, consider the Astral Temptress now a part of your fleet. | 
+wolf_part3_debrief4 | The ship was due to be scrapped, but we think it may have some years left in its structure yet. | 
+wolf_part3_debrief5 | Farewell, Captain. Your dedication to justice and the safety of our sector will be remembered. | 
+wolf_part3_emp1 | We've found them! This is our shot. | 
+wolf_part3_emp2 | Charge the EMP weapon and get ready to hit them where it really hurts. Let them come in close. Really close. | 
+wolf_part3_emp3 | They're in range! Trigger the EMP from your FTL drive now! | 
+wolf_part3_emptysystem1 | This system is exactly the kind where the pirates might attack. | 
+wolf_part3_emptysystem2 | Keep looking busy and travel to another empty system, the pirates must already be on your trail. | 
+wolf_part3_episodesystem1 | We have received intel that this system is too special to risk luring the pirate here. | 
+wolf_part3_episodesystem2 | Try to avoid systems with other important activity. | 
+wolf_part3_intro1 | We have hatched a plan that we believe will catch the pirate vessel in the act.  We're standing by with a strike force to bring them to justice, and we need your help to bait the trap. | 
+wolf_part3_intro2 | This is a risky mission, will you help us? | 
+wolf_part3_objective_chargeemp | Charge the EMP [*X%] | 
+wolf_part3_objective_destroypirate | Destroy the Pirate Ship | 
+wolf_part3_objective_dockastral | Dock with the Astral Temptress and crew the ship [*X/*Y] | 
+wolf_part3_objective_getclose | Let the pirates come close | 
+wolf_part3_objective_gotoharken | Travel to Commander Harken's ship | 
+wolf_part3_objective_installweapons | Install cannons and connect them to the power grid. [*X/*Y] | 
+wolf_part3_objective_jumparound | Jump the Astral Temptress to empty systems until attacked | 
+wolf_part3_objective_survive | Survive until the strike force arrives | 
+wolf_part3_objective_triggeremp | Trigger the EMP | 
+wolf_part3_otherships1 | There are other ships in this system. The pirates won't attack you unless they see the cargo ship alone! | 
+wolf_part3_otherships2 | Try avoiding busy systems with colonies or shipyards. | 
+wolf_part3_ranaway1 | We almost had them! Your cooperation is crucial for this operation to go smoothly. | 
+wolf_part3_ranaway2 | The pirates are probably still on your trail thinking you got scared, jump to an empty system to bait them out again. | 
+wolf_part3_setup1 | Captain, it's time to hold this pirate vessel to account for all the damage they've done, and all the lives they've taken. | 
+wolf_part3_setup2 | The UMC Astral Temptress is the bait in our trap.  It's a long haul commercial freighter that was due to be scrapped.  We want you to take the Astral Temptress and travel through the most remote, unprotected locations in the sector. | 
+wolf_part3_setup3 | Look busy, look like you're going somewhere, and bait them out of hiding.  They won't be able to resist such an easy target. | 
+wolf_part3_setup4 | What they won't realise is you'll be carrying several tons of advanced military grade weapon systems, ready to be installed and activated the moment they come in close. | 
+wolf_part3_setup5 | We have one final trick, to buy you some time before the cavalry arrives.  We can reverse the energy field in the ship's FTL drive, and trigger a massive burst of EMP energy.  Enough to disable their FTL and prevent any chance of escape. | 
+wolf_part3_setup6 | Your own ship will lose power too - but in the calamity that follows, you'll have time to fit your weapon systems and prepare for a tough fight. | 
+wolf_part3_setup7 | You'll have to hold them off for a couple of minutes.  My strike force will perform a combat drop virtually on top of you.  Then the tables will turn in our favour. | 
+wolf_part3_setup8 | Remember - the pirate vessel will not show themselves unless the Astral Temptress is alone and unarmed. Good hunting! | 
+wolf_part3_shipname_cargo | UMC Astral Temptress | 
+wolf_part3_shipname_cargo_a10 | UMC Astral Accident | 
+wolf_part3_shipname_frigate | UMC Celestial Hammer | 
+wolf_part3_shipname_pirate | Pirate Vessel | 
+wolf_part3_title | A Wolf in Sheep's Clothing, Part 3 | 
+wolf_part3_uninstallweapons1 | The pirates won't take the bait if they see you armed! | 
+wolf_part3_uninstallweapons2 | Uninstall your weapons before jumping again. | 
+wolf_shipname_harken | UMC Vanguard | 
+wolf_shipname_pirate | Unidentified Pirate | 
+wolf_shipname_rescue | Orion Sentinel | 
+wolf_shipname_scavenger | Scavenger Wraith | 
+wolf_shipname_wolf1 | Interstellar Prospector | 
+wolf_shipname_wolf2 | Infinite Horizon | 
+wolf_shipname_wolf3 | Celestial Hauler | 

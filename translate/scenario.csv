@@ -1,0 +1,23 @@
+scenario_armour | Armour: *X% | 
+scenario_carrierfrigate | A huge community fuselage built by Zion - perfect for any career the Captain desires. The ship benefits from a huge cabin capacity, but is very slow and heavy. | 
+scenario_carrierfrigate_title | Carrier Frigate | 
+scenario_crabclaw | A truly massive ship designed with heavy industry, science and logistics in mind.  Big, slow, and heavy - requiring a massive power grid and engine array. | 
+scenario_crabclaw_title | The Crab Claw | 
+scenario_funds | FUNDS | 
+scenario_habitation | Cabins: *X | 
+scenario_industry | The Stargate Project demands your help! Industry and Automation take centre stage as you manufacture parts for a megaproject stargate to the Andromeda Galaxy. | 
+scenario_innershapes | Another large vessel well suited to combat and dangerous operations.  The forward hull is encased in heavy armour, making the ship much tougher, but also slower and less maneuverable. | 
+scenario_innershapes_title | Inner Shapes | 
+scenario_largelogistics | A modular and easily expanded ship design, ideal for interstellar logistics and mining operations. With cabin space for over 50 crew or passengers. | 
+scenario_largelogistics_title | Large Logistics | 
+scenario_mass | Mass: *X | 
+scenario_noarmour | Armour: None | 
+scenario_praxis | A tiny and fast science vessel with all necessary equipment for interstellar adventure, and provisioned with enough supplies for a small crew. | 
+scenario_praxis_title | Praxis | 
+scenario_procyoncruiser | A community ship built by Orion Industries - a perfect balance of form and function. Decent cabin space and room for equipment, but small and light enough to be fast and nimble. | 
+scenario_procyoncruiser_title | Procyon Cruiser | 
+scenario_shipyard | The absolute minimum ship fuselage, but you are docked at a fully operational Shipyard with a generous starting budget to build whatever ship you want from scratch. | 
+scenario_shipyard_title | Build New Ship | 
+scenario_sleek | A more complex setup. A large and capable ship with plenty of room for upgrades, but with a heavier and slower hull. | 
+scenario_sleek_title | Sleek ship | 
+scenario_value | Value: $*X | 

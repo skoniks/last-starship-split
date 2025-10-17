@@ -1,0 +1,35 @@
+rise_ai_awaken1 | MMM...M.N.NNNNN.N.NMMM.AAA.A.A.HH.HHH.HH.H.H.HH | 
+rise_ai_awaken2 | What was that? | 
+rise_ai_awaken3 | EEE.A.A.AAO.O.OUU.UUUM.M.MM.MM.MM | 
+rise_ai_name | core.nav.ai | 
+rise_aicall1 | The ship's computer is coming online now. | 
+rise_aicall2 | We should be able to get some answers. Have your crew start a data transfer so we can get the flight logs. | 
+rise_explorenebula1 | The nebula is so thick, it's blocking visibility. But we are detecting something on the sensors. They're here somewhere. | 
+rise_explorenebula2 | You'll have to do a sweep of the area. Take it slow, and use the sensor view in TACTICAL to try to find the ship. | 
+rise_explorenebula3 | A debris field. Ominous. | 
+rise_explorenebula3b | Keep looking, Captain. | 
+rise_explorenebula4 | Oh god. | 
+rise_explorenebula5 | More wreckage. More bodies.  The ship must be somewhere nearby. | 
+rise_foundship1 | What the hell happened? | 
+rise_foundship2 | The ship didn't even manage to activate its Flight Recorder.  We must investigate. | 
+rise_foundship3 | The Docking Port is still operational.  Dock your ship with the Celestial Hammer, and take a team on-board to look for survivors. | 
+rise_foundship4 | They're all dead. | 
+rise_foundship5 | Could it have been some sort of catastrophic accident? | 
+rise_foundship6 | I have to know what happened, Captain. | 
+rise_foundship7 | Your crew will repair the reactors and power up the ship. Once they're done, bring the ship back to spacedock. I need to do a proper forensic investigation. | 
+rise_objective_combat | (Recommended) Prepare for combat | 
+rise_objective_crewhammer | Transfer three crew | 
+rise_objective_dockhammer | Dock with the Celestial Hammer | 
+rise_objective_findship | Find the Celestial Hammer | 
+rise_objective_recovership | Transfer the ship to a Shipyard for analysis | 
+rise_objective_repairreactors | Wait for Reactor Repair [*X/3] | 
+rise_objective_searchhammer | Search for survivors | 
+rise_objective_traveltohammer | Travel to the Celestial Hammer | 
+rise_part1_advert | Captain, I need your help once again. One of my ships has gone missing out on a routine patrol. I fear the worst. I want you to find the ship, and bring her home. | 
+rise_part1_briefing1 | Thank you Captain. It's good to work with you once again, although I wish it was under better circumstances. | 
+rise_part1_briefing2 | The ship in question is the Celestial Hammer. She was a major player in the battle against that cloaked pirate vessel. I lost contact with her a couple of days ago. | 
+rise_part1_briefing3 | I suspect foul play here, Captain. There's no way a ship like the Celestial Hammer would just vanish. Something must have happened, and I'm assuming the worst. | 
+rise_part1_briefing4 | The ship is heavily armed. If there is foul play at hand, well, I strongly advise you prepare for a fight. | 
+rise_part1_title | Rise of the Machines | 
+rise_shipname_hammer | Celestial Hammer | 
+rise_summary | Help Cmdr Harken recover their ship | 

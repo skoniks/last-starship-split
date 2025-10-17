@@ -1,0 +1,22 @@
+powergrid_batteryhint | Install some Batteries to store reserve power from your Reactor. | 
+powergrid_category_battery | BATTERY | 
+powergrid_category_defenses | DEFENSES | 
+powergrid_category_engines | ENGINES | 
+powergrid_category_FTL | FTL | 
+powergrid_category_lifesupport | LIFE SUPPORT | 
+powergrid_category_logistics | LOGISTICS | 
+powergrid_category_other | OTHER | 
+powergrid_category_reactor | REACTOR | 
+powergrid_category_science | SCIENCE | 
+powergrid_category_stargate | STARGATE | 
+powergrid_category_weapons | WEAPONS | 
+powergrid_controls_decrease | [RMB] Decrease | 
+powergrid_controls_increase | [LMB] Increase | 
+powergrid_controls_shift | [Shift] All | 
+powergrid_controls_title | Power Grid Controls | 
+powergrid_demand | DEMAND *X Mw | 
+powergrid_output | OUTPUT *X Mw | 
+powergrid_power | POWER | 
+powergrid_powershortagehint | Your ship cannot generate enough power. Consider installing more Reactors. | 
+powergrid_stored | STORED *X Mw | 
+powergrid_title | POWER GRID | 

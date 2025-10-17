@@ -1,0 +1,216 @@
+object_airduct | Airduct | 
+object_airduct_description | Pumps oxygen into the surrounding cabin until a breathable atmosphere is achieved. Must be supplied with Oxygen through a pipe. | 
+object_airreprocessor | Air Reprocessor | 
+object_airreprocessor_description | Converts CO2 into breathable Oxygen. | 
+object_assembler | Assembly Table | 
+object_asteroid | Asteroid | 
+object_battery | Battery | 
+object_battery_description | Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage. | 
+object_box | Box | 
+object_brokenhopdrive | Broken Hop Drive | 
+object_brokenhopdrive_description | Broken hop drive, capable of hopping within systems | 
+object_bullets | Bullets | 
+object_bullets_description | A box of ammo for a Gatling Gun (PDC). | 
+object_cannon | Cannon | 
+object_cannon_description | A medium range weapon system that launches a barrage of explosive shells at the target. Cannon shells are excellent at dealing area-of-effect damage to an enemy ship, and will shred hull armour. | 
+object_cannonshell | Cannon Shells | 
+object_carbondioxide | CO2 | 
+object_cargo | Cargo | 
+object_chair | Chair | 
+object_chargedcrystal | Charged Crystal | 
+object_chemicallab | Chemical Lab | 
+object_chemicallab_description | A complex piece of scientific equipment.  Can combine multiple different chemical inputs (liquids, gases and solids) into different outputs. The user can cycle the active 'recipe' by clicking on it. | 
+object_civilian | Civilian | 
+object_coilcomponent | Energy Coil | 
+object_comet | Comet | 
+object_compost | Compost | 
+object_copperingot | Copper Ingot | 
+object_copperminerals | Copper Minerals | 
+object_crewmember | Crew | 
+object_crystalinfuser_description | Laser infuser, infuses objects with energy. No tiddlets were harmed in the making of this equipment. | 
+object_data | Data | 
+object_deflector | Deflector | 
+object_deflector_description | A defensive system that uses a deflector beam to divert incoming rocket shells | 
+object_deuterium | Deuterium | 
+object_deuterium_description | Fuel for a Fusion Reactor. | 
+object_dockingport | Docking Port | 
+object_dockingport_description | Provides an access point to the ship so that shuttle craft can dock and undock. | 
+object_door | Door | 
+object_door_description | A heavy pressure door that can be used to seal off areas in the event of a hull breach or fire. | 
+object_dronebay | Drone Bay | 
+object_dronebay_description | This equipment is required to launch Logistics Drones from your ship. Drones can gather resources and salvage from space, then bring it back to the ship through the Drone Bay. One Drone Bay can launch multiple Drones. | 
+object_emptycomputegridcomponent | Empty Compute Grid | 
+object_emptycrystalcomponent | Empty Crystal | 
+object_energycell | Energy Cell | 
+object_energycellframecomponent | Energy Cell Frame | 
+object_energytransmitter | Energy Transmitter | 
+object_energytransmitter_description | A large piece of equipment, capable of transmitting up to 200MW to the Stargate. | 
+object_engine | Engine | 
+object_engine_description | The ship's main source of forward thrust.  Must be supplied with Fuel (via a pipe) and Power (via a cable). | 
+object_entity | Entity | 
+object_equipment | Equipment | 
+object_explosives | Explosives | 
+object_fabricator | Fabricator | 
+object_fighter | Fighter | 
+object_FlightRecorder | Flight Recorder | 
+object_food | Food | 
+object_framecomponent | Frame | 
+object_ftlcharge | FTL Charge | 
+object_ftldrive | FTL Drive | 
+object_fuel | Fuel | 
+object_fuelloader | Fuel Loader | 
+object_fuelloader_description | Takes a canister of Fuel, and pumps it into an underfloor pipe. Use pipes to connect this to your Reactor and your Engines. | 
+object_fusionreactor | Fusion Reactor | 
+object_fusionreactor_description | Uses nuclear fusion of Deuterium to generate large amounts of energy. However the fusion reactor must be 'powered up' with a huge amount of energy before it will generate any power itself.\n\nGenerates a maximum power output of 500MW. | 
+object_gascollector | Gas Collector | 
+object_gascollector_description | A large exterior vent that sucks in gases from space. Many gases found in nebulas can be used to produce useful resources like Fuel, FTL charges, and explosives. | 
+object_gatlinggun | Gatling Gun | 
+object_gatlinggun_description | A close range rapid-fire weapon system, primarily designed for defense against incoming fighters and ordnance.  The gatling gun excels at destroying fast-moving targets at close range, but lacks the punch to penetrate armoured targets. | 
+object_generator | Generator | 
+object_hullbreach | Hull Breach | 
+object_hydroponics | Hydroponic Garden | 
+object_hydroponics_description | An enclosed greenhouse device that can be used to grow crops, in order to feed your crew.  Requires compost and water, and Seeds to get things started. | 
+object_hyperspacecollector | Hyperspace Scoop | 
+object_hyperspacecollector_description | The Hyperspace Scoop sits at the front of a starship and faces the direction of travel. During hyperspace a strong magnetic field is projected forward, drawing in large volumes of interstellar matter. The isotopes gathered this way can be refined into FTL Fuel. | 
+object_hyperspaceisotopes | Hyperspace Isotopes | 
+object_hyperspacesensor | Hyperspace Sensor | 
+object_hyperspacesensorlr | Hyperspace Sensor LR | 
+object_hyperspacesensorlr_description | A Long Range and extremely sensitive prototype version of the standard hyperspace sensor. | 
+object_ice | Water Ice | 
+object_icegrinder | Ice Grinder | 
+object_icegrinder_description | Grinds giant lumps of ice into small pieces, then warms the ice until it melts into liquid. The resulting water must be filtered before it is safe to drink. | 
+object_laserinfuser | Laser Infuser | 
+object_lenscomponent | Lens | 
+object_lightningrod | Lightning Rod | 
+object_lightningrod_description | These are installed in the exterior wall of your ship, reducing the damaging effects of lightning and providing more control over where the lightning strikes. They cannot be repaired, but they will queue the installation of their replacement, when destroyed by lightning. | 
+object_loader | Loader | 
+object_loader_description | This is a general purpose version of the Fuel Loader and Oxygen Loader, and can take any liquid or gas canister.  Known to heavily confuse new captains.  Use pipes to connect the Loader to other equipment. | 
+object_logisticsdrone | Logistics Drone | 
+object_logisticsdrone_description | An incredibly useful semi-intelligent robot, capable of gathering salvage from deep space. Can also perform minor repairs to a damaged hull. Must be launched from a Drone Bay. | 
+object_metalingot | Metal Ingot | 
+object_metallicminerals | Metallic Minerals | 
+object_meteor | Meteor | 
+object_metreongas | Metreon Gas | 
+object_mineralpatch | Mineral Patch | 
+object_mininglaser | Mining Laser | 
+object_mininglaser_description | Can drill into mineral patches (found in asteroid belts) to extract valuable minerals. | 
+object_missioncargo | Mission Cargo | 
+object_motorcomponent | Motor | 
+object_munitionsfactory | Munitions Bench | 
+object_munitionsfactory_description | A workbench where a skilled crew member can fabricate different forms of ammunition for ship weapon systems. Uses metal and explosives to produce Bullets, Railgun Slugs, Cannon Shells etc. | 
+object_neubidiumcapacitor | Neubidium Capacitor | 
+object_neubidiumingot | Neubidium Ingot | 
+object_neubidiumore | Neubidium Ore | 
+object_none | NoType | 
+object_ordnance | Ordnance | 
+object_oxygen | Oxygen | 
+object_oxygenloader | Oxygen Loader | 
+object_oxygenloader_description | Takes a pressurised canister of oxygen and pumps it into an underfloor pipe.  Use pipes to connect this to your Airduct, to supply oxygen to the cabin. | 
+object_oxygenmaker | Oxygen Maker | 
+object_oxygenmaker_description | Uses electrical power to extract Oxygen from Water. | 
+object_potplant | Pot Plant | 
+object_powercoil | Power Coil | 
+object_powercoilcharged | Charged Power Coil | 
+object_powerinjector | Power Injector | 
+object_preciousmetals | Precious Metals | 
+object_preciousore | Precious Ore | 
+object_processorcomponent | Processor | 
+object_proximitymine | Mine | 
+object_quantumcomputegridcomponent | Quantum Compute Grid | 
+object_quantumprocessorcomponent | Quantum Processor | 
+object_quantumwafercomponent | Quantum Wafer | 
+object_radiationblocker | Radiation Blocker | 
+object_radiationblocker_description | Radiation blocker, significantly reduces all radiation passing through it. Place between your crew and equipment that emit radiation. | 
+object_radiationemitter | Radiation Emitter | 
+object_radiationemitter_description | Emits radiation. For testing new radiation mechanic (has no gameplay use). | 
+object_railgun | Railgun | 
+object_railgun_description | An extremely accurate and long range weapon system that fires a solid slug of metal. The Railgun is a precise weapon that can penetrate through hull armour and destroy equipment inside the target ship. However, the weapon draws a huge amount of energy to recharge after each shot. | 
+object_railgunshell | Railgun Slugs | 
+object_railgunshell_description | A box of ammo for a Railgun. | 
+object_reactor | Reactor | 
+object_reactor_description | Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW. | 
+object_refinedmetreon | Refined Metreon | 
+object_refinedtilium | Tilium Crystals | 
+object_refinery | Refinery | 
+object_refinery_description | An automatic industrial machine for refining raw chemicals and gases. | 
+object_refugee | Refugee | 
+object_repairstructure | Repair Structural Damage | 
+object_repairstructure_description | The local shipyard can repair the heavy structural damage on your ship, for a price. | 
+object_researchcredit | Research Credit | 
+object_researchcredit_description | This processor chip contains information that can be used to boost our current research or improve the efficiency of our equipment. | 
+object_robotarm | Robot Arm | 
+object_robotarmshort | Short Robot Arm | 
+object_robotarmsmart | Smart Robot Arm | 
+object_ruinedequipment | Ruined Equipment | 
+object_sciencestation | Science Station | 
+object_sciencestation_description | A workstation for a scientist to conduct valuable research. | 
+object_scientist | Scientist | 
+object_scrapmetal | Scrap Metal | 
+object_scrubber | CO2 Scrubber | 
+object_scrubber_description | Extracts Carbon Dioxide from the atmosphere. Its output must be piped into a storage tank or it will become blocked. | 
+object_seeds | Seeds | 
+object_seeds_description | A small bag of mixed vegetable seeds, that you might be able to grow in a Hydroponic Garden. | 
+object_sewage | Sewage | 
+object_sewagemachine | Waste Treatment Machine | 
+object_sewagemachine_description | Takes sewage from the habitation deck, separates the solid and liquid waste, and partially recycles them. The device outputs dirty water and compost. | 
+object_sewagepipe | Sewage Pipe | 
+object_sewagepipe_description | This pipe extracts sewage from the habitation deck above. You can then pipe the sewage into a storage tank and (eventually) reprocess it back into water.  The Pipe MUST BE DIRECTLY UNDER THE HABITATION DECK to function. | 
+object_shieldedcanistercomponent | Shielded Canister | 
+object_shieldedzeleoncanister | Shielded Zeleon | 
+object_ShipWreckage | Ship Wreckage | 
+object_short_bullets | Ammo | 
+object_short_cannonshell | Shells | 
+object_short_deuterium | Dtrm | 
+object_short_ftlcharge | FTL | 
+object_short_oxygen | O2 | 
+object_short_railgunshell | Slugs | 
+object_shuttle | Shuttle | 
+object_smallstoragecrate | Small Storage Crate | 
+object_smallstoragecrate_description | Small storage crate, stores a single type of resource but at 4x the usual amount per square | 
+object_smalltable | Small Table | 
+object_smalltank | Medium Tank | 
+object_smalltank_description | A storage tank that can store liquids and gases. | 
+object_smelter | Smelter | 
+object_smelter_description | This industrial processing machine can melt ores into usable metal ingots. Once installed, click on it to change the ore type. | 
+object_sofa | Sofa | 
+object_solarpanel | Solar Panel | 
+object_solarpanel_description | These must be installed outside your ship, with scaffolding for support. Each panel generates 10MW. | 
+object_spacesuit | Spacesuit | 
+object_spacesuitpod | Spacesuit Pod | 
+object_spacesuitpod_description | A storage place for spacesuits that need their oxygen replenishing. | 
+object_stableisotopes | Stable Isotopes | 
+object_stablezeleon | Stable Zeleon | 
+object_stairs | Ladder | 
+object_stairs_description | Crew and passengers can only access the upper habitation deck with a ladder. | 
+object_stargateactuator | Stargate Actuator | 
+object_stargatecapacitor | Stargate Capacitor | 
+object_stargatereceiver | Stargate Receiver | 
+object_stargateresin | Stargate Resin | 
+object_stargatestructure | Stargate Frame | 
+object_storagecrate | Storage Crate | 
+object_storagecrate_description | Storage crate, stores a single type of resource but at 4x the usual amount per square | 
+object_supercomputer | Super Computer | 
+object_supercomputer_description | A powerful computer for number crunching and simulating important research. | 
+object_table | Table | 
+object_tank | Huge Tank | 
+object_tank_description | A massive tank that can store a great deal of liquid or gas. | 
+object_telepathicsensor | Telepathic Sensor Station | 
+object_telepathicsensor_description | A sensor capable of detecting telepathic waves. | 
+object_thruster | Thruster | 
+object_thruster_description | Maneuvering thruster. Must be attached to the wall of the ship. Provides thrust to permit lateral and rotational movement. | 
+object_tiddlet | Tiddlet | 
+object_tiliumore | Tilium Ore | 
+object_tinytank | Small Tank | 
+object_tinytank_description | A storage tank that can store liquids and gases. | 
+object_track | Track | 
+object_tracksplitter | Splitter | 
+object_warpalignmentcomputer | Warp Alignment Computer | 
+object_wastewater | Waste Water | 
+object_water | Water | 
+object_waterpurifier | Water Purifier | 
+object_waterpurifier_description | Takes dirty water from sewage recycling or from naturally occurring ice - and purifies it into safe drinkable water. | 
+object_weaponsconsole | Weapons Control Centre | 
+object_weaponsconsole_description | A terminal where a Weapons Officer can control multiple weapons at the same time. | 
+object_weaponsspecialist | Weapons Officer | 
+object_zeleonenergycell | Zeleon Energy Cell | 
+object_zeleongas | Zeleon Gas | 

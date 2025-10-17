@@ -1,0 +1,41 @@
+mainmenu_abandongame | Abandon Game | 
+mainmenu_arena_caption | Create epic space battles between fleets of ships and watch the carnage unfold. | 
+mainmenu_createship | DEVELOPER Create Ship | 
+mainmenu_exportship | Export Ship | 
+mainmenu_gamemode_arena | Arena | 
+mainmenu_gamemode_arena_tooltip | Create epic space battles between fleets of ships and watch the carnage unfold. | 
+mainmenu_gamemode_creative | Creative | 
+mainmenu_gamemode_creative_tooltip | You have unlimited resources to build any ship you want | 
+mainmenu_gamemode_freeroam | Free Roam | 
+mainmenu_gamemode_freeroam_locked | Build a flight-ready ship in Creative Mode to unlock | 
+mainmenu_gamemode_freeroam_tooltip | You are free to persue any career at your own pace. No anomaly, no stargate. | 
+mainmenu_gamemode_industry | BOLDLY GO | 
+mainmenu_gamemode_industry_old | STARGATE | 
+mainmenu_gamemode_industry_tooltip | Embark on a new journey through our story-driven sci-fi episodes | 
+mainmenu_gamemode_industry_tooltip_old | Your aim is to research and build a stargate to Andromeda | 
+mainmenu_gamemode_survival | Survival | 
+mainmenu_gamemode_survival_locked | Complete any story episode in 'Boldly Go' to unlock | 
+mainmenu_gamemode_survival_tooltip | Stay one step ahead of a devastating anomaly, for as long as you can | 
+mainmenu_gamemode_unlocked | UNLOCKED | 
+mainmenu_gamemode_unlocked_freeroam | Game Mode: Free Roam | 
+mainmenu_gamemode_unlocked_survival | Game Mode: Survival | 
+mainmenu_importfriendly | Import Friendly Ship | 
+mainmenu_importhostile | Import Hostile Ship | 
+mainmenu_importship | Import Ship | 
+mainmenu_legal | Privacy / Legal | 
+mainmenu_loadgame | Load Game | 
+mainmenu_loadgamedev | DEVELOPER Load Test Game | 
+mainmenu_loadship | DEVELOPER Load Ship | 
+mainmenu_newgameA | New Game - Praxis | 
+mainmenu_newgameB | New Game - Sleek | 
+mainmenu_newgameC | New Game - Inner Shapes | 
+mainmenu_newgameD | New Game - Shipyard | 
+mainmenu_newgameE | New Game - Large Logistics | 
+mainmenu_quit | Quit | 
+mainmenu_savegame | Save Game | 
+mainmenu_stargate_caption | Forge your own path through story driven episodes all around the sector, and take part in the construction of a galactic mega project | 
+mainmenu_stargate_caption_old | Take part in the construction of a galactic megaproject - a STARGATE with enough range to reach our nearest neighbouring galaxy ANDROMEDA | 
+mainmenu_steamworkshop | Steam Workshop | 
+mainmenu_survival_caption | Stay one step ahead of a devastating anomaly that consumes everything in its path, and save as many as you can before it's too late | 
+mainmenu_title | Main Menu | 
+mainmenu_tools | Developer Tools | 

@@ -1,0 +1,164 @@
+hud_abortjump | Abort Jump | 
+hud_aligning | Aligning... | 
+hud_battlestations | BATTLE STATIONS | 
+hud_buyship | BUY | 
+hud_cabins | Cabins: *X/*Y | 
+hud_camerattracking | Camera Tracking | 
+hud_collector_tooltip_gathering | Gathering *X *Y per second | 
+hud_collector_tooltip_totalgathered | TOTAL GATHERED | 
+hud_convertsplittertotrack | [RMB] Convert to track | 
+hud_converttracktosplitter | [RMB] Convert to splitter | 
+hud_debugbuild | Debug | 
+hud_deselectlayer | DESELECT SHIP | 
+hud_direction_down | Starboard | 
+hud_direction_left | Aft | 
+hud_direction_right | Forward | 
+hud_direction_up | Port | 
+hud_disabled | Disabled | 
+hud_drones_deployed | WARNING - DRONES DEPLOYED: *X | 
+hud_editor | EDITOR | 
+hud_enabled | Enabled | 
+hud_endcreativemode | Creative Mode will end | 
+hud_endcreativemode2 | When you jump to hyperspace | 
+hud_endcreativemodefull | Creative Mode will end when you jump to hyperspace | 
+hud_endcreativemodewarning | LEAVING CREATIVE MODE | 
+hud_fabricateship | FABRICATE A SHIP | 
+hud_ftl | FTL Drive | 
+hud_ftl_jump_tooltip | [RMB] Jump | 
+hud_ftlcharging | Charging... | 
+hud_ftlcooldown | Cooldown... | 
+hud_ftlexcluded | Stay | 
+hud_ftlincluded | Jump | 
+hud_ftlloading | Loading... | 
+hud_ftlnodestination | NO DESTINATION | 
+hud_ftlshipnotviablewarning | Ship needs either hull or scaffolding to be brought into hyperspace | 
+hud_ftlwaiting | Waiting... | 
+hud_hyperspace | HYPERSPACE | 
+hud_idle | Idle | 
+hud_install | Install | 
+hud_invalidplacement | INVALID PLACEMENT | 
+hud_invalidplacement_tooltip | This equipment can not function properly when installed in this position. | 
+hud_jump | JUMP | 
+hud_jumpgalaxies | ESCAPE THE GALAXY | 
+hud_jumpgatedamage | JUMPGATE OFFLINE DUE TO DAMAGE | 
+hud_jumpgatedistance | ALL SHIPS MUST ENTER JUMPGATE | 
+hud_jumpgaterequires | JUMPGATE UNAVAILABLE | 
+hud_jumpnextsector | JUMP TO NEXT SECTOR | 
+hud_jumpthroughstargate | JUMP THROUGH STARGATE | 
+hud_last_ftl_charge | WARNING - LAST FTL CHARGE\nCANNOT BUY AT DESTINATION | 
+hud_layer_derelict | DERELICT | 
+hud_layer_forsale | [FOR SALE] | 
+hud_layer_hostile | HOSTILE | 
+hud_layer_unnaned_system | UNNAMED | 
+hud_maximumoccupancy | Maximum Occupancy: *X/*Y | 
+hud_mission_collection | WARNING - MISSION COLLECTION UNDERWAY | 
+hud_noftl | NO FTL FOUND | 
+hud_noships | NO SHIPS SELECTED | 
+hud_open_tooltip | [LMB] Open Window | 
+hud_orders | ORDERS | 
+hud_outofalignment | Misaligned... | 
+hud_overlay_atmosphere | Atmosphere | 
+hud_overlay_cables | Cables | 
+hud_overlay_creativemode | - Creative Mode - | 
+hud_overlay_exterior | Exterior | 
+hud_overlay_habitation | Habitation | 
+hud_overlay_jobs | Jobs | 
+hud_overlay_pipes | Pipes | 
+hud_overlay_radiation | Radiation | 
+hud_overlay_schematic | Schematic | 
+hud_overlay_show | Show | 
+hud_overlay_structure | Structure | 
+hud_overlay_tactical | Tactical | 
+hud_overlay_walls | Walls | 
+hud_overlays | OVERLAYS | 
+hud_panel_storagecrate_ctrlclick | [CTRL] x9999 Containers | 
+hud_panel_storagecrate_leftclick | [LMB] x1 Container | 
+hud_panel_storagecrate_permitload | Allow crew members to load this crate.\n\nIf disabled then only robot arms can load. | 
+hud_panel_storagecrate_permitunload | Allow crew members to unload from this crate.\n\nIf disabled then only robot arms can unload. | 
+hud_panel_storagecrate_quantity | The number of items or stacks of the chosen type that is being stored. | 
+hud_panel_storagecrate_selecttype | The type that the storage crate will be storing. | 
+hud_panel_storagecrate_shiftclick | [SHIFT] x5 Containers | 
+hud_preparejump | Prepare Jump | 
+hud_preparingjump | Preparing Jump | 
+hud_ready | READY | 
+hud_readytojump | Ready to Jump | 
+hud_recipes_chooseequipment | CHOOSE EQUIPMENT | 
+hud_recipes_chooseinput | CHOOSE INPUT | 
+hud_recipes_goback | GO BACK | 
+hud_removefromtrack | [RMB] Remove from track | 
+hud_repairship | REPAIR | 
+hud_repairyourship | You should repair the damage to your ship at a SHIPYARD. | 
+hud_scoresystem_population | Population | 
+hud_scoresystem_sectorjump | Sector Jump | 
+hud_sellship | SELL YOUR SHIP | 
+hud_shipforsale | SHIP FOR SALE | 
+hud_shipmaximumoccupancy | Ship Maximum Occupancy: *X/*Y | 
+hud_shipyard | Shipyard | 
+hud_shipyard_buildarmour | Install Armour | 
+hud_shipyard_buildbuyfromlibrary | Buy ship | 
+hud_shipyard_buildhabitation | Add Habitation Deck | 
+hud_shipyard_buildhull | Build Hull | 
+hud_shipyard_buildinterior | Build Interior | 
+hud_shipyard_buildrepairall | Repair ALL Damage | 
+hud_shipyard_buildrepairone | Repair 100 Damage | 
+hud_shipyard_buildscaffold | Build Scaffold | 
+hud_shipyard_costofrepairs | Cost of repairs | 
+hud_shipyard_repairship | Repair Ship | 
+hud_shipyard_selectship | Select a ship | 
+hud_shipyardservices | SHIPYARD SERVICES | 
+hud_spacewalking_crew | WARNING - CREW IN SPACE: *X | 
+hud_status_allocated | Allocated | 
+hud_status_inprogress | In Progress | 
+hud_storage | Storage | 
+hud_storage_cargo | ANY CARGO | 
+hud_storage_component | Any Components | 
+hud_storage_equipment | ANY EQUIPMENT | 
+hud_storagecrate_tooltip_capacity | Capacity: *X | 
+hud_storagecrate_tooltip_dumping | Dumping *X | 
+hud_storagecrate_tooltip_quantity | Quantity: *X | 
+hud_storagecrate_tooltip_remaining | Quantity Remaining: *X | 
+hud_storagecrate_tooltip_storing | Storing *X | 
+hud_surveyinprogress | WARNING - SURVEY WILL BE CANCELLED | 
+hud_tactical | TACTICAL ({ToggleTactical}) | 
+hud_techtree_tooltip | Researching: | 
+hud_toandromeda | TO ANDROMEDA GALAXY | 
+hud_tooltip_boxed | [BOXED] | 
+hud_tooltip_charge | Charge | 
+hud_tooltip_joinpipes | [LMB] Join Pipes | 
+hud_tooltip_leftclickbuild | [LMB] Build | 
+hud_tooltip_leftclickchangerecipe | [LMB] Cycle recipe | 
+hud_tooltip_leftclickdismantle | [LMB] Dismantle | 
+hud_tooltip_leftclickerase | [LMB] Erase | 
+hud_tooltip_leftclickplace | [LMB] Place | 
+hud_tooltip_leftclickresearch | [LMB] Research | 
+hud_tooltip_rightclickcancel | [RMB] Cancel | 
+hud_tooltip_rightclickclear | [RMB] Clear | 
+hud_tooltip_rightclickconfigure | [RMB] Configure | 
+hud_tooltip_rightclickdelete | [RMB] Delete | 
+hud_tooltip_rightclickpurge | [RMB] Purge | 
+hud_tooltip_rotate | [{RotateObject}] Rotate | 
+hud_tooltip_separatepipes | [LMB] Separate Pipes | 
+hud_totalconsumption | TOTAL CONSUMPTION | 
+hud_totalproduction | TOTAL PRODUCTION | 
+hud_trade | Trade | 
+hud_trade_hint | You must travel to a Colony or Shipyard to trade | 
+hud_trade_incoming | WARNING - TRADE INCOMING | 
+hud_trade_owed | WARNING - TRADE OWED | 
+hud_uninstall | Dismantle | 
+hud_window_construction | CONSTRUCTION | 
+hud_window_designation | DESIGNATION | 
+hud_window_editor | EDITOR | 
+hud_window_ftl | FTL | 
+hud_window_logistics | LOGISTICS | 
+hud_window_missions | CONTRACTS | 
+hud_window_orders | ORDERS | 
+hud_window_power | POWERGRID | 
+hud_window_recipes | RECIPES | 
+hud_window_score | SCORE | 
+hud_window_sectormap | SECTOR MAP ({ToggleMap}) | 
+hud_window_shipyard | SHIPYARD | 
+hud_window_stargate | STARGATE | 
+hud_window_storage | STORAGE ZONES | 
+hud_window_techtree | RESEARCH | 
+hud_window_trade | TRADE | 
+hud_zones | Zones | 
