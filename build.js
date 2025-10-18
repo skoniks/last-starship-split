@@ -9,7 +9,9 @@ parse(file, { columns: true, bom: true }, (err, data) => {
       if (!line.trim()) return;
       const [newkey, , newTranslation] = line.split(' | ');
       const index = data.findIndex(({ key, state }) => {
-        return key === newkey && state !== 'OBSOLETE';
+        if (state == 'OBSOLETE') return false;
+        if (state === 'PREVIOUS') return false;
+        return key === newkey;
       });
       if (index === -1) throw new Error('Key not found: ' + newkey);
       data[index].translation = newTranslation;
