@@ -10,6 +10,7 @@ parse(file, { columns: true, bom: true }, (err, data) => {
   data.sort((a, b) => a.key.localeCompare(b.key));
   data.forEach(({ state, key, english, translation }) => {
     if (state === 'OBSOLETE') return;
+    if (state === 'PREVIOUS') return;
     const [name] = key.split('_');
     if (TRANSLATE) translation = '';
     // if (english.endsWith('.') && !translation.endsWith('.')) translation += '.';
@@ -22,7 +23,7 @@ parse(file, { columns: true, bom: true }, (err, data) => {
   rmSync(dir, { recursive: true, force: true });
   mkdirSync(dir, { recursive: true });
   for (let [name, lines] of Object.entries(blocks)) {
-    if (lines.length < 20) name = '_short';
+    if (SHORT && lines.length < 20) name = '_short';
     const path = dir + '/' + name + '.csv';
     writeFileSync(path, lines.join('\n') + '\n', {
       flag: 'a',

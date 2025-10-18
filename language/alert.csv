@@ -22,7 +22,7 @@ alert_type_hostilesinbound | HOSTILES INBOUND | ВРАГИ ПРИБЛИЖАЮТ�
 alert_type_hostilesinbound_caption | *X seconds | *X секунд
 alert_type_hullbreach | HULL BREACH | ПРОЛОМ КОРПУСА
 alert_type_hullbreach_caption | Repair *X% | Ремонт *X%
-alert_type_hullbreach_tooltip | There is a hole in your ship hull and the cabin is depressurising. Your crew will fix the breach, but you should consider closing your Door Vents to seal off the area. | В корпусе вашего корабля есть пробоина, и салон разгерметизируется. Ваш экипаж устранит пробоину, но вам следует закрыть Двери, чтобы изолировать область.
+alert_type_hullbreach_tooltip | There is a hole in your ship hull and the cabin is depressurising. Your crew will fix the breach, but you should consider closing your Door Vents to seal off the area. | В корпусе вашего корабля есть пробоина, и салон разгерметизируется. Ваш экипаж устранит пробоину, но вам следует закрыть Клапаны Дверей, чтобы изолировать область.
 alert_type_hungry | CREW HUNGRY | ЭКИПАЖ ГОЛОДЕН
 alert_type_lowbattery | BATTERY LOW | БАТАРЕИ РАЗРЯЖЕНЫ
 alert_type_lowbattery_caption | *X% | *X%
@@ -39,7 +39,7 @@ alert_type_nostorage | NO STORAGE | НЕТ МЕСТА ДЛЯ ХРАНЕНИЯ
 alert_type_oxygen | Oxygen must be at 50% to be breathable. | Кислород должен быть не менее 50%, чтобы быть пригодным для дыхания.
 alert_type_powercut | POWER CUT | ОТКЛЮЧЕНИЕ ПИТАНИЯ
 alert_type_powercut_nofuel | Fuel supply interrupted | Подача топлива прервана
-alert_type_powercut_tooltip | Your reactor has cut out. It is likely the fuel supply has been interrupted.  Consider using storage tanks to create a permanent store of fuel for your Reactor to draw from. | Ваш реактор отключился. Вероятно, подача топлива была прервана. Рассмотрите возможность использования резервуаров для хранения, чтобы создать постоянный запас топлива для вашего Реактора.
+alert_type_powercut_tooltip | Your reactor has cut out. It is likely the fuel supply has been interrupted.  Consider using storage tanks to create a permanent store of fuel for your Reactor to draw from. | Ваш реактор отключился. Вероятно, подача топлива была прервана.  Рассмотрите возможность использования резервуаров для хранения, чтобы создать постоянный запас топлива для вашего Реактора.
 alert_type_radiation | RADIATION POISONING | ОБЛУЧЕНИЕ
 alert_type_radiation_caption | *X have radiation poisoning | *X облучены
 alert_type_severely_dehydrated | CREW SEVERELY DEHYDRATED | ЭКИПАЖ СИЛЬНО ОБЕЗВОЖЕН
