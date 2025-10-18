@@ -112,7 +112,7 @@ hud_status_inprogress | In Progress | В Процессе
 hud_storage | Storage | Хранилище
 hud_storage_cargo | ANY CARGO | ЛЮБОЙ ГРУЗ
 hud_storage_component | Any Components | Любые Компоненты
-hud_storage_equipment | ANY EQUIPMENT | ЛЮБОЕ ОБОРУДОВАНИЕ
+hud_storage_equipment | ANY EQUIPMENT | ОБОРУДОВАНИЕ
 hud_storagecrate_tooltip_capacity | Capacity: *X | Вместимость: *X
 hud_storagecrate_tooltip_dumping | Dumping *X | Выгрузка *X
 hud_storagecrate_tooltip_quantity | Quantity: *X | Количество: *X

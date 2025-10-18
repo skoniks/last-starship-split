@@ -92,6 +92,7 @@
 - Hydroponic Garden = Гидропонный Сад
 - Hyperspace Scoop = Гиперпространственный Совок
 - Hyperspace Isotopes = Гиперпространственные Изотопы
+- Hyperspace Modulators = Гиперпространственные Модуляторы
 - Hyperspace Sensor = Гиперпространственный Сенсор
 - Hyperspace Sensor LR = Гиперпространственный Сенсор LR
 - Water Ice = Водяной Лед

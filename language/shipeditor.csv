@@ -23,7 +23,7 @@ shipeditor_mode_deconstruct | Destroy | Разрушить
 shipeditor_mode_dock | Dock | Стыковка
 shipeditor_mode_equipment | Equipment | Оборудование
 shipeditor_mode_eyedropper | Eyedropper | Пипетка
-shipeditor_mode_habitation | Habitation | Жилые Отсеки
+shipeditor_mode_habitation | Habitation | Каюты
 shipeditor_mode_hull | Hull | Корпус
 shipeditor_mode_interior | Floors | Полы
 shipeditor_mode_paintstencils | Repaint Walls | Перекрасить Стены

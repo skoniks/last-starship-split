@@ -24,7 +24,7 @@ newmainmenu_createnewupload | CREATE NEW WORKSHOP ITEM | СОЗДАТЬ НОВЫ
 newmainmenu_createship | CREATE NEW SHIP | СОЗДАТЬ НОВЫЙ КОРАБЛЬ
 newmainmenu_darkmode | Galaxy Map Dark Mode | Темный Режим Карты Галактики
 newmainmenu_debug_freespace | Enable FreeSpace Debugging | Включить Отладку FreeSpace
-newmainmenu_defensiveenemies | Defensive Enemies | Оборонительные Враги
+newmainmenu_defensiveenemies | Defensive Enemies | Мирные Враги
 newmainmenu_defensiveenemiestooltip | Hostile ships will only target you once you have targeted them first. | Вражеские корабли будут атаковать вас только после того, как вы первыми выберете их целью.
 newmainmenu_deletegame | DELETE GAME | УДАЛИТЬ ИГРУ
 newmainmenu_deleteship | DELETE SHIP | УДАЛИТЬ КОРАБЛЬ
@@ -46,7 +46,7 @@ newmainmenu_multisectorsimtooltip | Enables multi-system simulation, allowing yo
 newmainmenu_multisystem_simulation | Enable Multi-system Simulation | Включить Мультисистемную Симуляцию
 newmainmenu_newgame | NEW GAME | НОВАЯ ИГРА
 newmainmenu_newgameoptions | Game Options | Настройки Игры
-newmainmenu_parallax | Parallax effect | Использовать эффект параллакса
+newmainmenu_parallax | Parallax effect | Использовать Эффект Параллакса
 newmainmenu_quit | QUIT | ВЫХОД
 newmainmenu_quitmessage | We hope you enjoyed playing the demo of The Last Starship. Your journey has just begun!  Unlock the full game to explore more Story Episodes, Survival Mode, Arena Mode, a full Ship Editor and more! | Мы надеемся, что вам понравилась демоверсия The Last Starship. Ваше путешествие только началось!  Разблокируйте полную версию игры, чтобы исследовать больше Сюжетных Эпизодов, Режим Выживания, Режим Арены, полноценный Редактор Кораблей и многое другое!
 newmainmenu_resume | RESUME | ПРОДОЛЖИТЬ
@@ -57,7 +57,7 @@ newmainmenu_setshipname | SET SHIP NAME | ЗАДАТЬ ИМЯ КОРАБЛЯ
 newmainmenu_settings | SETTINGS | НАСТРОЙКИ
 newmainmenu_shipeditor | CREATIVE MODE | ТВОРЧЕСКИЙ РЕЖИМ
 newmainmenu_showautosaves | AUTOSAVES | АВТОСОХРАНЕНИЯ
-newmainmenu_slowcombat | Slow during combat | Замедление во время боя
+newmainmenu_slowcombat | Slow during combat | Замедление в Бою
 newmainmenu_steamcloud | STEAM CLOUD | STEAM CLOUD
 newmainmenu_steamworkshop | STEAM WORKSHOP | МАСТЕРСКАЯ STEAM
 newmainmenu_tooltip_changeship | [LMB] Change ship | [ЛКМ] Сменить корабль

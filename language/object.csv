@@ -6,7 +6,7 @@ object_assembler | Assembly Table | Сборочный Стол
 object_asteroid | Asteroid | Астероид
 object_battery | Battery | Батарея
 object_battery_description | Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage. | Хранит избыточную энергию, доступную в энергосети, до 1000МВт. Батарея будет подавать энергию при нехватке.
-object_box | Box | Ящик
+object_box | Box | Упаковано
 object_brokenhopdrive | Broken Hop Drive | Сломанный Скачковый Двигатель
 object_brokenhopdrive_description | Broken hop drive, capable of hopping within systems | Сломанный скачковый двигатель, способный совершать прыжки внутри систем
 object_bullets | Bullets | Пулеметные Патроны

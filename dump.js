@@ -7,9 +7,7 @@ parse(file, { columns: true, bom: true }, (err, custom) => {
   parse(file, { columns: true, bom: true }, (err, original) => {
     const data = custom.filter((i) => {
       const j = original.find((j) => j.key === i.key);
-      if (!j) throw new Error(`Missing key: ${i.key}`);
-      if (j.translation !== i.translation) return true;
-      return false;
+      return j && j.translation !== i.translation;
     });
     const columns = Object.keys(data[0]);
     stringify(data, { columns, header: true, bom: true }, (err, output) => {

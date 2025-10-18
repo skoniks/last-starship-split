@@ -69,7 +69,7 @@ mission_flightready_ftljump | Jump to the marked destination | Прыгнуть 
 mission_flightready_ftljump_help | An FTL Drive.  Test your new FTL engine by making a jump to the destination marked on the map. | Гипердвигатель.  Испытайте ваш новый Гипердвигатель, совершив прыжок к месту назначения, отмеченному на карте.
 mission_flightready_lifesupport | Life support to make the interior habitable [*X%] | Система жизнеобеспечения, чтобы сделать интерьер пригодным для жизни [*X%]
 mission_flightready_lifesupport_help | Life support to make the cabin breathable.  Use an Airduct to pressurise the cabin, connected to an Oxygen Loader to supply the air. | Система жизнеобеспечения, чтобы сделать каюту пригодной для дыхания.  Используйте Воздуховод для наполнения каюты давлением, подключенный к Погрузчику Кислорода для подачи воздуха.
-mission_flightready_movement | Test the engines from the TACTICAL screen | Испытать двигатели на экране ТАКТИЧЕСКИЙ
+mission_flightready_movement | Test the engines from the TACTICAL screen | Испытать двигатели на экране ТАКТИКА
 mission_flightready_name | Flight Ready | Готовность К Полету
 mission_flightready_power | A Reactor, generating power. | Реактор, вырабатывающий энергию.
 mission_flightready_power_help | A reactor to generate power. Use a Fuel Loader to pipe fuel into the Reactor. | Реактор для выработки энергии. Используйте Погрузчик Топлива для подачи топлива в Реактор.
@@ -306,7 +306,7 @@ mission_type_episodetiddlets | Deliver Tiddlets | Доставить Тиддл�
 mission_type_episodetiddletssale | WANTED: Tiddlets | ТРЕБУЮТСЯ: Тиддлеты
 mission_type_fortress | Destroy Hostile Fortress | Уничтожить Вражескую Крепость
 mission_type_industry | Asteroid Mining | Добыча На Астероидах
-mission_type_passengers | Transport passengers | Перевозка пассажиров
+mission_type_passengers | Transport passengers | Перевозка
 mission_type_production | Production | Производство
 mission_type_refugees | Refugees | Беженцы
 mission_type_rescue | Rescue | Спасение

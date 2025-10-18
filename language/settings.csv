@@ -1,6 +1,6 @@
 settings_accentinsensitivesearch | Accent Insensitive Search | Поиск Без Учета Акцентов
 settings_accentinsensitivesearch_description | When searching in lists, ignore accented characters, e.g. "é" will match "e" | При поиске в списках игнорировать символы с диакритическими знаками, например "é" будет соответствовать "e"
-settings_analytics | Analytics | Сбор Данных
+settings_analytics | Analytics | Сбор Анилитически
 settings_analytics_tooltip | We need to collect usage data to help us to better understand how people are playing and to help us to improve the game. \n\nWe do not collect any personally identifiable information.\n\nTo find out more visit Legal Information (bottom of the screen) | Нам необходимо собирать данные об использовании, чтобы лучше понимать, как люди играют, и помочь нам улучшить игру. \n\nМы не собираем никакой личной информации.\n\nЧтобы узнать больше, посетите Правовую Информацию (внизу экрана)
 settings_appearance | APPEARANCE | ИНТЕРФЕЙС
 settings_arraytextures | Use Array Textures | Использовать Массивы Текстур
@@ -22,8 +22,8 @@ settings_minutes_shortened | Mins. | Мин.
 settings_music | Music | Музыка
 settings_musicvolume | Music Volume | Громкость Музыки
 settings_other | OTHER | ПРОЧЕЕ
-settings_resolution | Resolution | Разрешение
+settings_resolution | Resolution | Разрешение Экрана
 settings_sound | SOUND | ГРОМКОСТЬ
 settings_translatorassist | Translator Assist (Ctrl, Alt) | Помощник Переводчика (Ctrl, Alt)
 settings_translatorassist_description | Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key. Enables the translation editing window ({TranslatorWindow}). | Включить функции для помощи переводчикам, такие как Alt для отображения английского текста и Ctrl для отображения ключа фразы. Включает окно редактирования перевода ({TranslatorWindow}).
-settings_uibounce | UI Highlight Bounce | Подсветка с эффектом отскока
+settings_uibounce | UI Highlight Bounce | Подсветка с Эффектом Отскока

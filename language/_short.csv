@@ -22,8 +22,8 @@ boost_waterrecyclingefficiency | Water Recycling Efficiency +*X% | Эффект�
 buynow_button | BUY NOW | КУПИТЬ СЕЙЧАС
 calltoarms_harken_1 | Captain, I'm the chief of security for this sector, and I need your help. | Капитан, я начальник безопасности этого сектора, и мне нужна ваша помощь.
 calltoarms_harken_2 | All across the sector, there are people in trouble who need our assistance. | По всему сектору есть люди в беде, которым нужна наша помощь.
-calltoarms_harken_3 | I'm spread too thin. I can't be everywhere. You're more than capable, and I'll be there to offer advice when I can. | Я слишком распылен. Я не могу быть везде. Вы более чем способны, и я буду рядом, чтобы предложить совет, когда смогу.
-calltoarms_harken_4 | If you chose to help, I've marked the locations on your map, as GOLD HIGHLIGHTS. | Если вы решите помочь, я отметил местоположения на вашей карте как ЗОЛОТЫЕ МАРКЕРЫ.
+calltoarms_harken_3 | I'm spread too thin. I can't be everywhere. You're more than capable, and I'll be there to offer advice when I can. | Я слишком перегружен. Не могу уследить за всем. Ваших способностей достаточно, и я буду рядом, чтобы дать совет, когда смогу.
+calltoarms_harken_4 | If you chose to help, I've marked the locations on your map, as GOLD HIGHLIGHTS. | На случай, если вы решите помочь, я отметил местоположения на вашей карте ЗОЛОТЫМИ МАРКЕРАМИ.
 calltoarms_harken_5 | Thank you, Captain. | Спасибо, Капитан.
 calltoarms_harkenrailroad_1 | My name is Commander Harken, and I'm the Chief of Private Security for the sector. | Меня зовут Командир Харкен, и я Начальник Частной Безопасности сектора.
 calltoarms_harkenrailroad_2 | There is a crisis underway, Captain.  Commercial vessels are going missing, all across the sector.  I suspect foul play, and I need your help to investigate. | Происходит кризис, Капитан.  Торговые суда пропадают по всему сектору.  Я подозреваю нечестную игру, и мне нужна ваша помощь для расследования.
@@ -122,7 +122,7 @@ format_per_square | *X / sq | *X / кв
 ftl_galacticjump | This will be the final journey of your fleet.\nBe prepared for a long journey to the Andromeda galaxy, and save as many as you can! | Это будет финальное путешествие вашего флота.\nБудьте готовы к долгому путешествию в галактику Андромеды и спасите столько, сколько сможете!
 hudmode_external | EXTERNAL | ВНЕШНИЙ
 hudmode_multisystemsimulation | MULTISYSTEM SIMULATION | МУЛЬТИСИСТЕМНАЯ СИМУЛЯЦИЯ
-hudmode_tactical | TACTICAL | ТАКТИЧЕСКИЙ
+hudmode_tactical | TACTICAL | ТАКТИКА
 intergalactic_travel | INTERGALACTIC TRAVEL | МЕЖГАЛАКТИЧЕСКОЕ ПУТЕШЕСТВИЕ
 interstellar_travel | INTERSTELLAR TRAVEL | МЕЖЗВЕЗДНОЕ ПУТЕШЕСТВИЕ
 language_helpustranslate | Help Us Translate! | Помогите Нам С Переводом!
@@ -179,17 +179,17 @@ opentextcrawlstory_4 | Powerful corporations dominate entire regions, but beyond
 opentextcrawlstory_5 | The CEO of the INTERSTELLAR MINING CORPORATION has issued a daring challenge: build a stargate powerful enough to reach our nearest galaxy. | Генеральный директор INTERSTELLAR MINING CORPORATION бросил дерзкий вызов: построить звездные врата, достаточно мощные, чтобы достичь нашей ближайшей галактики.
 opentextcrawlstory_6 | With trillions in funding up for grabs, the stage is set for fearless adventurers to forge their own path in the cosmos. | С триллионами финансирования, готовыми к захвату, сцена подготовлена для бесстрашных искателей приключений, чтобы проложить свой собственный путь в космосе.
 opentextcrawlstory_7 | Will you rise to the challenge, and chart your own course among the stars? | Примете ли вы вызов и проложите свой собственный курс среди звезд?
-order_autotradeactive | Auto Trade | Авто Торговля
+order_autotradeactive | Auto Trade | Автоторговля
 order_battlestations | Battle Stations | Боевая Тревога
 order_exteriorwork | Exterior Work | Внешние Работы
-order_fleetlogistics | Fleet Logistics | Флотская Логистика
-order_gather | Gather Materials | Собрать Материалы
-order_mining | Mining | Добыча
+order_fleetlogistics | Fleet Logistics | Логистика Флота
+order_gather | Gather Materials | Собр Материалов
+order_mining | Mining | Шахтерские Работы
 order_none | None | Нет
-order_repairhull | Repair Hull | Ремонт Корпуса
+order_repairhull | Repair Hull | Ремонтные Работы
 order_salvage | Gather Salvage | Сбор Обломков
-order_shiftwork | Shift Work | Посменная Работа
-order_suitson | Suits On | Скафандры Надеты
+order_shiftwork | Shift Work | Работа Посменно
+order_suitson | Suits On | Надеть Скафандры
 order_weaponsactive | Weapons Free | Огонь По Противнику
 orders_crew | CREW | ЭКИПАЖ
 orders_doors | DOORS | ДВЕРИ
