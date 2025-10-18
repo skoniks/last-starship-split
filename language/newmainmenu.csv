@@ -1,67 +1,67 @@
 newmainmenu_abandon | ABANDON GAME | ПОКИНУТЬ ИГРУ
-newmainmenu_aiselection_auto | AI Controlled - Auto-select | Управляется ИИ — автоподбор
-newmainmenu_aiselection_none | Player Controlled | Управляется игроком
+newmainmenu_aiselection_auto | AI Controlled - Auto-select | Управляется ИИ - Автовыбор
+newmainmenu_aiselection_none | Player Controlled | Управляется Игроком
 newmainmenu_arena | ARENA MODE | РЕЖИМ АРЕНЫ
 newmainmenu_arena_collapsestats | HIDE INFO | СКРЫТЬ ИНФОРМАЦИЮ
 newmainmenu_arena_combatratings | COMBAT RATINGS | БОЕВОЙ РЕЙТИНГ
-newmainmenu_arena_expandstats | SHOW INFO | ИНФОРМАЦИЯ
+newmainmenu_arena_expandstats | SHOW INFO | ПОКАЗАТЬ ИНФОРМАЦИЮ
 newmainmenu_arena_generateenemyfleet | GENERATE | СОЗДАТЬ
 newmainmenu_arena_greenteamtitle | GREEN TEAM | ЗЕЛЕНАЯ КОМАНДА
 newmainmenu_arena_redteamtitle | RED TEAM | КРАСНАЯ КОМАНДА
-newmainmenu_arena_selectship | SELECT A SHIP | ВЫБРАТЬ КОРАБЛЬ
+newmainmenu_arena_selectship | SELECT A SHIP | ВЫБЕРИТЕ КОРАБЛЬ
 newmainmenu_arena_shipquantity | Quantity | Количество
-newmainmenu_arena_tradevalues | SHIP VALUES | ЗНАЧЕНИЯ ДЛЯ КОРАБЛЕЙ
-newmainmenu_autosavewarning | Auto-save load warning | Предупреждение об автосохранении нагрузки
+newmainmenu_arena_tradevalues | SHIP VALUES | СТОИМОСТЬ КОРАБЛЕЙ
+newmainmenu_autosavewarning | Auto-save load warning | Предупреждение о загрузке автосохранения
 newmainmenu_battle | BATTLE | БИТВА
 newmainmenu_begingame | BEGIN GAME | НАЧАТЬ ИГРУ
-newmainmenu_cancel | CANCEL | ОТМЕНИТЬ
-newmainmenu_chooseship | CHOOSE STARTING SHIP | ВЫБРАТЬ СТАРТОВЫЙ КОРАБЛЬ
-newmainmenu_cloudquotaremaining | Used: *X / *Y (*Z% remaining) | Используется: *X / *Y (осталось *Z%)
+newmainmenu_cancel | CANCEL | ОТМЕНА
+newmainmenu_chooseship | CHOOSE STARTING SHIP | ВЫБЕРИТЕ СТАРТОВЫЙ КОРАБЛЬ
+newmainmenu_cloudquotaremaining | Used: *X / *Y (*Z% remaining) | Использовано: *X / *Y (осталось *Z%)
 newmainmenu_confirm | CONFIRM | ПОДТВЕРДИТЬ
 newmainmenu_createnewexport | CREATE NEW EXPORT | СОЗДАТЬ НОВЫЙ ЭКСПОРТ
 newmainmenu_createnewsave | CREATE NEW SAVE | СОЗДАТЬ НОВОЕ СОХРАНЕНИЕ
 newmainmenu_createnewupload | CREATE NEW WORKSHOP ITEM | СОЗДАТЬ НОВЫЙ ЭЛЕМЕНТ МАСТЕРСКОЙ
 newmainmenu_createship | CREATE NEW SHIP | СОЗДАТЬ НОВЫЙ КОРАБЛЬ
-newmainmenu_darkmode | Galaxy Map Dark Mode | Темный режим Карты сектора
-newmainmenu_debug_freespace | Enable FreeSpace Debugging | Включить отладку в свободном пространстве
-newmainmenu_defensiveenemies | Defensive Enemies | Мирные враги
-newmainmenu_defensiveenemiestooltip | Hostile ships will only target you once you have targeted them first. | Вражеские корабли будут нацеливаться на вас только после того, как вы нацелитесь на них первыми.
+newmainmenu_darkmode | Galaxy Map Dark Mode | Темный Режим Карты Галактики
+newmainmenu_debug_freespace | Enable FreeSpace Debugging | Включить Отладку FreeSpace
+newmainmenu_defensiveenemies | Defensive Enemies | Оборонительные Враги
+newmainmenu_defensiveenemiestooltip | Hostile ships will only target you once you have targeted them first. | Вражеские корабли будут атаковать вас только после того, как вы первыми выберете их целью.
 newmainmenu_deletegame | DELETE GAME | УДАЛИТЬ ИГРУ
 newmainmenu_deleteship | DELETE SHIP | УДАЛИТЬ КОРАБЛЬ
 newmainmenu_editship | EDIT SHIP | РЕДАКТИРОВАТЬ КОРАБЛЬ
 newmainmenu_exitsaves | Auto-save on exit | Автосохранение при выходе
-newmainmenu_exportship | EXPORT SHIP | ЭКСПОРТ КОРАБЛЯ
-newmainmenu_filter | SEARCH... | ПОИСК..
-newmainmenu_importfriendly | IMPORT FRIENDLY | ИМПОРТ СОЮЗНИКА
-newmainmenu_importhostile | IMPORT HOSTILE | ИМПОРТ ПРОТИВНИКА
+newmainmenu_exportship | EXPORT SHIP | ЭКСПОРТИРОВАТЬ КОРАБЛЬ
+newmainmenu_filter | SEARCH... | ПОИСК...
+newmainmenu_importfriendly | IMPORT FRIENDLY | ИМПОРТИРОВАТЬ ДРУЖЕСТВЕННЫЙ
+newmainmenu_importhostile | IMPORT HOSTILE | ИМПОРТИРОВАТЬ ВРАЖЕСКИЙ
 newmainmenu_includedocked | INCLUDE DOCKED SHIPS IN EXPORT | ВКЛЮЧИТЬ ПРИСТЫКОВАННЫЕ КОРАБЛИ В ЭКСПОРТ
 newmainmenu_loadgame | LOAD GAME | ЗАГРУЗИТЬ ИГРУ
 newmainmenu_loadgamedev | LOAD GAME (DEV) | ЗАГРУЗИТЬ ИГРУ (DEV)
 newmainmenu_loadship | LOAD SHIP | ЗАГРУЗИТЬ КОРАБЛЬ
-newmainmenu_locked | (LOCKED) | (ЗАБЛОКИРОВАН)
-newmainmenu_lockedindemo | LOCKED IN DEMO | ЗАБЛОКИРОВАН В ДЕМОНСТРАЦИОННОМ РЕЖИМЕ
+newmainmenu_locked | (LOCKED) | (ЗАБЛОКИРОВАНО)
+newmainmenu_lockedindemo | LOCKED IN DEMO | ЗАБЛОКИРОВАНО В ДЕМО
 newmainmenu_mainmenu | MAIN MENU | ГЛАВНОЕ МЕНЮ
-newmainmenu_multisectorsim | Multi-System Simulation | Мультисистемное моделирование
-newmainmenu_multisectorsimtooltip | Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously. | Включает мультисистемное моделирование, позволяя вам разделить свой флот между несколькими системами/секторами одновременно.
-newmainmenu_multisystem_simulation | Enable Multi-system Simulation | Включить моделирование мультисистем
+newmainmenu_multisectorsim | Multi-System Simulation | Мультисистемная Симуляция
+newmainmenu_multisectorsimtooltip | Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously. | Включает мультисистемную симуляцию, позволяя разделить ваш флот между несколькими системами/секторами одновременно.
+newmainmenu_multisystem_simulation | Enable Multi-system Simulation | Включить Мультисистемную Симуляцию
 newmainmenu_newgame | NEW GAME | НОВАЯ ИГРА
-newmainmenu_newgameoptions | Game Options | Параметры игры
+newmainmenu_newgameoptions | Game Options | Настройки Игры
 newmainmenu_parallax | Parallax effect | Использовать эффект параллакса
-newmainmenu_quit | QUIT | ВЫЙТИ
-newmainmenu_quitmessage | We hope you enjoyed playing the demo of The Last Starship. Your journey has just begun!  Unlock the full game to explore more Story Episodes, Survival Mode, Arena Mode, a full Ship Editor and more! | Надеемся, вам понравилось играть в демо-версию Последнего звездолета. Ваше путешествие только началось!  Разблокируйте полную версию игры, чтобы узнать больше о сюжетных эпизодах, режиме выживания, режиме арены, полном редакторе кораблей и многом другом!
-newmainmenu_resume | RESUME | ВОЗОБНОВИТЬ
+newmainmenu_quit | QUIT | ВЫХОД
+newmainmenu_quitmessage | We hope you enjoyed playing the demo of The Last Starship. Your journey has just begun!  Unlock the full game to explore more Story Episodes, Survival Mode, Arena Mode, a full Ship Editor and more! | Мы надеемся, что вам понравилась демоверсия The Last Starship. Ваше путешествие только началось!  Разблокируйте полную версию игры, чтобы исследовать больше Сюжетных Эпизодов, Режим Выживания, Режим Арены, полноценный Редактор Кораблей и многое другое!
+newmainmenu_resume | RESUME | ПРОДОЛЖИТЬ
 newmainmenu_returntomainmenu | RETURN TO MAIN MENU | ВЕРНУТЬСЯ В ГЛАВНОЕ МЕНЮ
 newmainmenu_savegame | SAVE GAME | СОХРАНИТЬ ИГРУ
-newmainmenu_savetosteamcloud | SAVE TO STEAM CLOUD | СОХРАНИТЬ В ОБЛАКЕ STEAM
-newmainmenu_setshipname | SET SHIP NAME | УСТАНОВИТЬ НАЗВАНИЕ КОРАБЛЯ
+newmainmenu_savetosteamcloud | SAVE TO STEAM CLOUD | СОХРАНИТЬ В STEAM CLOUD
+newmainmenu_setshipname | SET SHIP NAME | ЗАДАТЬ ИМЯ КОРАБЛЯ
 newmainmenu_settings | SETTINGS | НАСТРОЙКИ
 newmainmenu_shipeditor | CREATIVE MODE | ТВОРЧЕСКИЙ РЕЖИМ
-newmainmenu_showautosaves | AUTOSAVES | СОХРАНЕНИЯ
+newmainmenu_showautosaves | AUTOSAVES | АВТОСОХРАНЕНИЯ
 newmainmenu_slowcombat | Slow during combat | Замедление во время боя
-newmainmenu_steamcloud | STEAM CLOUD | ОБЛАКО STEAM
+newmainmenu_steamcloud | STEAM CLOUD | STEAM CLOUD
 newmainmenu_steamworkshop | STEAM WORKSHOP | МАСТЕРСКАЯ STEAM
-newmainmenu_tooltip_changeship | [LMB] Change ship | [LMB] Сменить корабль
-newmainmenu_tooltip_removeship | [RMB] Remove ship | [RMB] Убрать корабль
+newmainmenu_tooltip_changeship | [LMB] Change ship | [ЛКМ] Сменить корабль
+newmainmenu_tooltip_removeship | [RMB] Remove ship | [ПКМ] Убрать корабль
 newmainmenu_updateexistingupload | UPDATE EXISTING WORKSHOP ITEM | ОБНОВИТЬ СУЩЕСТВУЮЩИЙ ЭЛЕМЕНТ МАСТЕРСКОЙ
 newmainmenu_uploadprogress | UPLOAD PROGRESS: *P % | ПРОГРЕСС ЗАГРУЗКИ: *P %
 newmainmenu_uploadship | UPLOAD TO STEAM | ЗАГРУЗИТЬ В STEAM

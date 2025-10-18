@@ -1,9 +1,9 @@
 dialog_add | Add | Добавить
-dialog_cancel | Cancel | Отменить
+dialog_cancel | Cancel | Отмена
 dialog_close | Close | Закрыть
 dialog_closed | Closed | Закрыто
 dialog_delete | Delete | Удалить
-dialog_down | Down | Уменьшить
+dialog_down | Down | Вниз
 dialog_exit | Exit | Выход
 dialog_h | H | H
 dialog_height | Height | Высота
@@ -16,10 +16,10 @@ dialog_name | Name | Название
 dialog_new | New | Новый
 dialog_no | No | Нет
 dialog_none | None | Нет
-dialog_ok | Ok | Ok
+dialog_ok | Ok | Ок
 dialog_open | Open | Открыть
 dialog_save | Save | Сохранить
-dialog_saveas | Save As | Сохранить как
+dialog_saveas | Save As | Сохранить Как
 dialog_type | Type | Тип
 dialog_up | Up | Вверх
 dialog_w | W | W

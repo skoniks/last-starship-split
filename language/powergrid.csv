@@ -1,8 +1,8 @@
 powergrid_batteryhint | Install some Batteries to store reserve power from your Reactor. | Установите несколько Батарей, чтобы запастись энергией из Реактора.
-powergrid_category_battery | BATTERY | БАТАРЕЯ
+powergrid_category_battery | BATTERY | БАТАРЕИ
 powergrid_category_defenses | DEFENSES | ОБОРОНА
 powergrid_category_engines | ENGINES | ДВИГАТЕЛИ
-powergrid_category_FTL | FTL | СВЕРХСВЕТОВОЙ
+powergrid_category_FTL | FTL | ГИПЕРДВИГАТЕЛИ
 powergrid_category_lifesupport | LIFE SUPPORT | ЖИЗНЕОБЕСПЕЧЕНИЕ
 powergrid_category_logistics | LOGISTICS | ЛОГИСТИКА
 powergrid_category_other | OTHER | ПРОЧЕЕ
@@ -10,13 +10,13 @@ powergrid_category_reactor | REACTOR | РЕАКТОР
 powergrid_category_science | SCIENCE | НАУКА
 powergrid_category_stargate | STARGATE | ЗВЕЗДНЫЕ ВРАТА
 powergrid_category_weapons | WEAPONS | ОРУЖИЕ
-powergrid_controls_decrease | [RMB] Decrease | [RMB] Уменьшение
-powergrid_controls_increase | [LMB] Increase | [LMB] Увеличить
+powergrid_controls_decrease | [RMB] Decrease | [ПКМ] Уменьшить
+powergrid_controls_increase | [LMB] Increase | [ЛКМ] Увеличить
 powergrid_controls_shift | [Shift] All | [Shift] Все
-powergrid_controls_title | Power Grid Controls | Управление электросетями
+powergrid_controls_title | Power Grid Controls | Управление Энергией
 powergrid_demand | DEMAND *X Mw | ПОТРЕБЛЕНИЕ *X МВт
-powergrid_output | OUTPUT *X Mw | ВЫХОД *X МВт
-powergrid_power | POWER | ЭЛЕКТРОЭНЕРГИЯ
-powergrid_powershortagehint | Your ship cannot generate enough power. Consider installing more Reactors. | Ваш корабль не может генерировать достаточно энергии. Рассмотрите возможность установки большего количества Реакторов.
-powergrid_stored | STORED *X Mw | ХРАНЕНИЕ *X МВт
-powergrid_title | POWER GRID | ЭЛЕКТРОСЕТЬ
+powergrid_output | OUTPUT *X Mw | ВЫРАБОТКА *X МВт
+powergrid_power | POWER | ПИТАНИЕ
+powergrid_powershortagehint | Your ship cannot generate enough power. Consider installing more Reactors. | Ваш корабль не может вырабатывать достаточно энергии. Рассмотрите возможность установки дополнительных Реакторов.
+powergrid_stored | STORED *X Mw | НАКОПЛЕНО *X МВт
+powergrid_title | POWER GRID | ЭНЕРГОСЕТЬ

@@ -7,22 +7,22 @@ steamworkshopmenu_refreshpublishedsavegamelist | Refresh List | Обновить
 steamworkshopmenu_refreshpublishedshiplist | Refresh List | Обновить Список
 steamworkshopmenu_refreshsubscribedsavegamelist | Refresh List | Обновить Список
 steamworkshopmenu_refreshsubscribedshiplist | Refresh List | Обновить Список
-steamworkshopmenu_savegamelegalagreementbutton | workshop terms of service | условиями обслуживания мастерской
-steamworkshopmenu_savegamelegalagreementtext | By submitting this item, you agree to the | Отправляя этот элемент, вы соглашаетесь с
+steamworkshopmenu_savegamelegalagreementbutton | workshop terms of service | условия использования мастерской
+steamworkshopmenu_savegamelegalagreementtext | By submitting this item, you agree to the | Публикуя это, вы принимаете
 steamworkshopmenu_savegamesectionlabel |  ========================== Save Games ========================== |  ========================== Сохранения ==========================
-steamworkshopmenu_shiplegalagreementbutton | workshop terms of service | условиями обслуживания мастерской
-steamworkshopmenu_shiplegalagreementtext | By submitting this item, you agree to the | Отправляя этот элемент, вы соглашаетесь с
+steamworkshopmenu_shiplegalagreementbutton | workshop terms of service | условия использования мастерской
+steamworkshopmenu_shiplegalagreementtext | By submitting this item, you agree to the | Публикуя это, вы принимаете
 steamworkshopmenu_shipsectionlabel |  =============================== Ships =============================== |  =============================== Корабли ===============================
-steamworkshopmenu_subscribedsavegamelistlabel | Subscribed Save Games | Сохранения из Мастерской
-steamworkshopmenu_subscribedshiplistlabel | Subscribed Ships | Корабли из Мастерской
+steamworkshopmenu_subscribedsavegamelistlabel | Subscribed Save Games | Загруженные Сохранения
+steamworkshopmenu_subscribedshiplistlabel | Subscribed Ships | Загруженные Корабли
 steamworkshopmenu_title | Steam Workshop Menu | Меню Мастерской Steam
 steamworkshopmenu_updateselectedsavegame | Update Selected | Обновить Выбранное
 steamworkshopmenu_updateselectedship | Update Selected | Обновить Выбранное
-steamworkshopmenu_uploadsavegame | Upload | Загрузить
+steamworkshopmenu_uploadsavegame | Upload | Опубликовать
 steamworkshopmenu_uploadsavegamedesclabel | Description | Описание
 steamworkshopmenu_uploadsavegameprogress |  = |  =
 steamworkshopmenu_uploadsavegametitlelabel | Title | Название
-steamworkshopmenu_uploadship | Upload | Загрузить
+steamworkshopmenu_uploadship | Upload | Опубликовать
 steamworkshopmenu_uploadshipdesclabel | Description | Описание
 steamworkshopmenu_uploadshipprogress |  = |  =
 steamworkshopmenu_uploadshiptitlelabel | Title | Название

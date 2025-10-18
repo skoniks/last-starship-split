@@ -1,27 +1,27 @@
-scienceobjective_accepted1 | We've designed a custom sensor package that will give us the information we need. | Мы разработали специальный комплект датчиков, который даст нам необходимую информацию.
-scienceobjective_accepted2 | A shuttle is on its way now with two of these sensors. | Челнок уже в пути с двумя такими датчиками.
+scienceobjective_accepted1 | We've designed a custom sensor package that will give us the information we need. | Мы разработали специальный набор сенсоров, который даст нам необходимую информацию.
+scienceobjective_accepted2 | A shuttle is on its way now with two of these sensors. | Челнок с двумя такими сенсорами уже в пути.
 scienceobjective_award | SCIENCE AWARD | НАУЧНАЯ НАГРАДА
-scienceobjective_capturedata | You have captured *X Data from the anomaly. | Вы захватили *X Данных из аномалии.
-scienceobjective_description1 | We need more data so we can understand what this anomaly is. | Нам нужно больше Данных, чтобы понять, что это за аномалия.
-scienceobjective_description2 | And we can't possibly stop the anomaly until we understand it. | И мы не сможем остановить аномалию, пока не поймем ее.
-scienceobjective_description3 | If you can gather enough science data for us, we think there's a good chance we can design a way to counteract the anomaly. | Если вы сможете собрать для нас достаточно научных Данных, мы считаем, что у нас есть все шансы разработать способ противодействия аномалии.
-scienceobjective_funding | We can send you research funding as you collect data. Capture 10 data from the Anomaly and we'll send the first funding grant. | Мы можем высылать вам средства на исследования по мере сбора Данных. Захватите 10 Данных из Аномалии, и мы вышлем первый грант на финансирование.
-scienceobjective_installsensors | Install the sensors on your ship (*X/2) | Установите датчики на свой корабль (*X/2)
-scienceobjective_installsensors2 | Ensure the sensors are powered and operational | Убедитесь, что датчики запитаны и работают
-scienceobjective_milestone1a | We've received your preliminary sensor data. Fascinating! It looks like the anomaly is expanding, and the rate of expansion is increasing. | Мы получили ваши предварительные данные с датчиков. Потрясающе! Похоже, что аномалия расширяется, и скорость расширения увеличивается.
-scienceobjective_milestone1b | We've just paid you a science grant of $10,000. Capture 100 data to unlock more funding. The closer you fly to the anomaly, the faster the sensors collect data. | Мы только что выплатили вам научный грант в размере 10 000 долларов. Захватите 100 Данных, чтобы получить больше средств. Чем ближе вы подлетаете к аномалии, тем быстрее датчики собирают данные.
-scienceobjective_milestone2a | We've now received 100 science packets from your sensors, thank you. This is invaluable data for us. | Мы получили 100 научных пакетов от ваших сенсоров, спасибо. Это бесценные данные для нас.
-scienceobjective_milestone2b | We've just sent you another $100,000.  The next bonus will be $1 Million for 1000 sensor data.  You can buy more hyperspace sensors at starbases and colonies. | Мы только что отправили вам еще 100 000 долларов.  Следующая премия составит 1 миллион долларов за 1000 Данных с сенсоров.  Вы можете купить больше Гиперпространственных датчиков на Звездных базах и в Колониях.
-scienceobjective_milestone3a | Your sensors have now captured 1000 data from the anomaly. We have our best minds working on a solution and your data has been invaluable. | Ваши датчики уже собрали 1000 Данных об аномалии. Над решением работают наши лучшие умы, и ваши данные оказались бесценными.
-scienceobjective_milestone3b | We're sending a $1M science grant to you now.  Keep doing what you're doing! More funding will be unlocked at 10,000 science data. | Сейчас мы отправляем вам научный грант в размере 1 миллиона долларов.  Продолжайте делать то, что вы делаете! Больше средств будет выделено при получении 10 000 научных Данных.
-scienceobjective_milestone4a | 10,000 science data received. Payment $10M. | Получено 10 000 научных Данных. Выплата $10M.
-scienceobjective_milestone4b | Next bonus at 100,000 science data | Следующий бонус при получении 100 000 научных Данных
-scienceobjective_nextbonus | Next bonus for *X Captured data : $*Y. | Следующий бонус за *X захваченных Данных : $*Y.
-scienceobjective_receivedsensors1 | Both sensors are on board your ship. You need to install them. | Оба датчика находятся на борту вашего корабля. Вам нужно установить их.
-scienceobjective_scientist | Research Institute | Исследовательский институт
-scienceobjective_sensorsinstalled | Sensors Installed | Датчики установлены
-scienceobjective_success | Captured *X Data | Захваченные Данные *X
-scienceobjective_successbonus | Captured *X Data. Funding bonus $*Y. | Захвачено *X Данных. Бонус за финансирование $*Y.
-scienceobjective_title | SPECIAL MISSION: ANALYSE ANOMALY | СПЕЦИАЛЬНОЕ ЗАДАНИЕ: АНАЛИЗ АНОМАЛИИ
-scienceobjective_usesensors1 | These sensors will collect data from the anomaly while you are in Hyperspace. | Эти датчики будут собирать данные об аномалии, пока вы находитесь в гиперпространстве.
+scienceobjective_capturedata | You have captured *X Data from the anomaly. | Вы собрали *X Данных от аномалии.
+scienceobjective_description1 | We need more data so we can understand what this anomaly is. | Нам нужно больше данных, чтобы понять, что это за аномалия.
+scienceobjective_description2 | And we can't possibly stop the anomaly until we understand it. | И мы не можем остановить аномалию, пока не поймем её.
+scienceobjective_description3 | If you can gather enough science data for us, we think there's a good chance we can design a way to counteract the anomaly. | Если вы сможете собрать для нас достаточно научных данных, мы считаем, что есть хороший шанс разработать способ противодействовать аномалии.
+scienceobjective_funding | We can send you research funding as you collect data. Capture 10 data from the Anomaly and we'll send the first funding grant. | Мы можем отправлять вам финансирование исследований по мере сбора данных. Соберите 10 данных от Аномалии, и мы отправим первый финансовый грант.
+scienceobjective_installsensors | Install the sensors on your ship (*X/2) | Установите сенсоры на ваш корабль (*X/2)
+scienceobjective_installsensors2 | Ensure the sensors are powered and operational | Убедитесь, что сенсоры получают питание и работают
+scienceobjective_milestone1a | We've received your preliminary sensor data. Fascinating! It looks like the anomaly is expanding, and the rate of expansion is increasing. | Мы получили ваши предварительные данные сенсоров. Захватывающе! Похоже, аномалия расширяется, и скорость расширения увеличивается.
+scienceobjective_milestone1b | We've just paid you a science grant of $10,000. Capture 100 data to unlock more funding. The closer you fly to the anomaly, the faster the sensors collect data. | Мы только что выплатили вам научный грант в размере $10,000. Соберите 100 данных, чтобы разблокировать дополнительное финансирование. Чем ближе вы летите к аномалии, тем быстрее сенсоры собирают данные.
+scienceobjective_milestone2a | We've now received 100 science packets from your sensors, thank you. This is invaluable data for us. | Мы получили 100 пакетов данных с ваших сенсоров, спасибо. Это бесценные данные для нас.
+scienceobjective_milestone2b | We've just sent you another $100,000.  The next bonus will be $1 Million for 1000 sensor data.  You can buy more hyperspace sensors at starbases and colonies. | Мы только что отправили вам еще $100,000. Следующий бонус составит $1 миллион за 1000 данных сенсоров. Вы можете купить больше гиперпространственных сенсоров на звездных базах и колониях.
+scienceobjective_milestone3a | Your sensors have now captured 1000 data from the anomaly. We have our best minds working on a solution and your data has been invaluable. | Ваши сенсоры собрали 1000 данных от аномалии. Наши лучшие умы работают над решением, и ваши данные были бесценны.
+scienceobjective_milestone3b | We're sending a $1M science grant to you now.  Keep doing what you're doing! More funding will be unlocked at 10,000 science data. | Мы отправляем вам научный грант в размере $1 миллиона. Продолжайте в том же духе! Дополнительное финансирование будет разблокировано при 10,000 научных данных.
+scienceobjective_milestone4a | 10,000 science data received. Payment $10M. | Получено 10,000 научных данных. Выплата $10 миллионов.
+scienceobjective_milestone4b | Next bonus at 100,000 science data | Следующий бонус при 100,000 научных данных
+scienceobjective_nextbonus | Next bonus for *X Captured data : $*Y. | Следующий бонус за *X Собранных данных : $*Y.
+scienceobjective_receivedsensors1 | Both sensors are on board your ship. You need to install them. | Оба сенсора находятся на борту вашего корабля. Вам нужно установить их.
+scienceobjective_scientist | Research Institute | Исследовательский Институт
+scienceobjective_sensorsinstalled | Sensors Installed | Сенсоры Установлены
+scienceobjective_success | Captured *X Data | Собрано *X Данных
+scienceobjective_successbonus | Captured *X Data. Funding bonus $*Y. | Собрано *X Данных. Финансовый бонус $*Y.
+scienceobjective_title | SPECIAL MISSION: ANALYSE ANOMALY | СПЕЦИАЛЬНАЯ МИССИЯ: ИССЛЕДОВАНИЕ АНОМАЛИИ
+scienceobjective_usesensors1 | These sensors will collect data from the anomaly while you are in Hyperspace. | Эти сенсоры будут собирать данные от аномалии, пока вы находитесь в Гиперпространстве.
 scienceobjective_usesensors2 | The closer you can hyperjump to the anomaly, the faster they will collect data. | Чем ближе вы сможете совершить гиперпрыжок к аномалии, тем быстрее они будут собирать данные.

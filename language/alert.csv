@@ -1,53 +1,53 @@
 alert_title | ALERTS | ОПОВЕЩЕНИЯ
 alert_type_abouttoautosave | AUTOSAVE | АВТОСОХРАНЕНИЕ
-alert_type_abouttoautosave_caption | Autosaving in *X... | Автосохранение в *X...
+alert_type_abouttoautosave_caption | Autosaving in *X... | Сохранение через *X...
 alert_type_autotradeinactive | AUTO-TRADE INACTIVE | АВТОТОРГОВЛЯ НЕАКТИВНА
-alert_type_autotradeinactive_tooltip | One or more of your auto-orders have been made inactive. This may be because you owe a large payment to X. | Один или несколько ваших автозаказов стали неактивными. Это может быть связано с тем, что вы задолжали крупный платеж X.
-alert_type_co2 | CO2 WARNING | ПРЕДУПРЕЖДЕНИЕ О СО2
-alert_type_co2_caption | *X% Fatal | *X% Критический
-alert_type_co2_tooltip | There is a dangerous build up of CO2 inside your ship. If it reaches 100%, your crew will suffocate. Consider buying a CO2 Scrubber and connecting it to a storage tank. | Внутри вашего корабля наблюдается опасное скопление CO2. Если оно достигнет 100%, ваш экипаж задохнется. Подумайте о покупке Скруббера CO2 и подключении его к Резервуару для хранения.
-alert_type_crewoverworked | HIRE MORE CREW | НАНЯТЬ БОЛЬШЕ ЭКИПАЖА
-alert_type_dead | DEATHS | УМЕРШИЕ
-alert_type_dead_caption | *X dead | *X мертв
+alert_type_autotradeinactive_tooltip | One or more of your auto-orders have been made inactive. This may be because you owe a large payment to X. | Один или несколько ваших автоматических заказов были деактивированы. Возможно, это связано с большим долгом перед X.
+alert_type_co2 | CO2 WARNING | ОПАСНОСТЬ CO2
+alert_type_co2_caption | *X% Fatal | *X% Смертельно
+alert_type_co2_tooltip | There is a dangerous build up of CO2 inside your ship. If it reaches 100%, your crew will suffocate. Consider buying a CO2 Scrubber and connecting it to a storage tank. | Внутри вашего корабля опасное скопление CO2. Если оно достигнет 100%, ваш экипаж задохнется. Рассмотрите возможность покупки Скруббера CO2 и подключения его к резервуару для хранения.
+alert_type_crewoverworked | HIRE MORE CREW | ТРЕБУЕТСЯ БОЛЬШЕ ЭКИПАЖА
+alert_type_dead | DEATHS | СМЕРТИ
+alert_type_dead_caption | *X dead | *X мертвых
 alert_type_dehydrated | CREW DEHYDRATED | ЭКИПАЖ ОБЕЗВОЖЕН
 alert_type_emp | EMP | ЭМИ
-alert_type_emp_caption | *X piece(s) disabled | *X элемент(ов) отключены
-alert_type_emp_tooltip | Your ship has been struck by lightning, temporarily disabling some of your equipment. | В ваш корабль ударила молния, временно выведя из строя часть оборудования.
-alert_type_famished | CREW FAMISHED | ЭКИПАЖ СИЛЬНО ГОЛОДЕН
-alert_type_heavydamage | HEAVY DAMAGE | СИЛЬНЫЙ УРОН
-alert_type_heavydamage_caption | Damage *X% | Повреждения *X%
+alert_type_emp_caption | *X piece(s) disabled | *X устройств отключено
+alert_type_emp_tooltip | Your ship has been struck by lightning, temporarily disabling some of your equipment. | Ваш корабль был поражен молнией, временно отключив часть вашего оборудования.
+alert_type_famished | CREW FAMISHED | ЭКИПАЖ ИСТОЩЕН
+alert_type_heavydamage | HEAVY DAMAGE | СЕРЬЕЗНЫЙ УРОН
+alert_type_heavydamage_caption | Damage *X% | Урон *X%
 alert_type_hostileforces | HOSTILE CONTACT | ВРАЖДЕБНЫЙ КОНТАКТ
 alert_type_hostileforces_caption | *X enemy ships | *X вражеских кораблей
 alert_type_hostilesinbound | HOSTILES INBOUND | ВРАГИ ПРИБЛИЖАЮТСЯ
 alert_type_hostilesinbound_caption | *X seconds | *X секунд
-alert_type_hullbreach | HULL BREACH | ПРОБОИНА В КОРПУСЕ
+alert_type_hullbreach | HULL BREACH | ПРОЛОМ КОРПУСА
 alert_type_hullbreach_caption | Repair *X% | Ремонт *X%
-alert_type_hullbreach_tooltip | There is a hole in your ship hull and the cabin is depressurising. Your crew will fix the breach, but you should consider closing your Door Vents to seal off the area. | В корпусе вашего корабля образовалась дыра, и салон разгерметизировался. Ваш экипаж устранит пробоину, но вам следует закрыть вентиляцию, чтобы загерметизировать зону.
-alert_type_hungry | CREW HUNGRY | ЭКИПАЖ ИСПЫТЫВАЕТ ГОЛОД
-alert_type_lowbattery | BATTERY LOW | НИЗКИЙ ЗАРЯД БАТАРЕИ
+alert_type_hullbreach_tooltip | There is a hole in your ship hull and the cabin is depressurising. Your crew will fix the breach, but you should consider closing your Door Vents to seal off the area. | В корпусе вашего корабля есть пробоина, и салон разгерметизируется. Ваш экипаж устранит пробоину, но вам следует закрыть Двери, чтобы изолировать область.
+alert_type_hungry | CREW HUNGRY | ЭКИПАЖ ГОЛОДЕН
+alert_type_lowbattery | BATTERY LOW | БАТАРЕИ РАЗРЯЖЕНЫ
 alert_type_lowbattery_caption | *X% | *X%
-alert_type_lowbattery_tooltip | Your batteries have been drained. It is likely your reactors are not creating enough power to meet the needs of your ship. You will need either more Reactors, or more battery storage, or both. | Ваши Батареи разряжены. Вероятно, ваши Реакторы не вырабатывают достаточно энергии для удовлетворения потребностей вашего корабля. Вам потребуется либо больше Реакторов, либо больше Батарей, либо и то, и другое.
-alert_type_lowfood | LOW FOOD | МАЛО ПИЩИ
-alert_type_lowftl | FTL CHARGES | МАЛО СВЕРХСВЕТОВЫХ ЗАРЯДОВ
+alert_type_lowbattery_tooltip | Your batteries have been drained. It is likely your reactors are not creating enough power to meet the needs of your ship. You will need either more Reactors, or more battery storage, or both. | Ваши батареи разряжены. Вероятно, ваши реакторы не вырабатывают достаточно энергии для удовлетворения потребностей вашего корабля. Вам потребуется либо больше Реакторов, либо больше батарей, либо и то, и другое.
+alert_type_lowfood | LOW FOOD | МАЛО ЕДЫ
+alert_type_lowftl | FTL CHARGES | МАЛО ГИПЕРТОПЛИВА
 alert_type_lowfuel | LOW FUEL | МАЛО ТОПЛИВА
 alert_type_lowoxygen | LOW OXYGEN | МАЛО КИСЛОРОДА
 alert_type_lowresource_caption | *X | *X
 alert_type_lowwater | LOW WATER | МАЛО ВОДЫ
-alert_type_meteorshower | METEOR SHOWER | МЕТЕОРНЫЙ ДОЖДЬ
-alert_type_none | NO ALERT | НЕТ ОПОВЕЩЕНИЯ
-alert_type_nostorage | NO STORAGE | НЕТ МЕСТА В ХРАНИЛИЩЕ
-alert_type_oxygen | Oxygen must be at 50% to be breathable. | Кислород должен быть на уровне 50%, чтобы можно было дышать.
+alert_type_meteorshower | METEOR SHOWER | МЕТЕОРИТНЫЙ ДОЖДЬ
+alert_type_none | NO ALERT | НЕТ ОПОВЕЩЕНИЙ
+alert_type_nostorage | NO STORAGE | НЕТ МЕСТА ДЛЯ ХРАНЕНИЯ
+alert_type_oxygen | Oxygen must be at 50% to be breathable. | Кислород должен быть не менее 50%, чтобы быть пригодным для дыхания.
 alert_type_powercut | POWER CUT | ОТКЛЮЧЕНИЕ ПИТАНИЯ
-alert_type_powercut_nofuel | Fuel supply interrupted | Прекращена подача топлива
-alert_type_powercut_tooltip | Your reactor has cut out. It is likely the fuel supply has been interrupted.  Consider using storage tanks to create a permanent store of fuel for your Reactor to draw from. | Ваш Реактор отключился. Вероятно, прервалась подача топлива.  Рассмотрите возможность использования Резервуаров для хранения топлива, чтобы создать постоянный запас топлива для вашего Реактора.
-alert_type_radiation | RADIATION POISONING | РАДИАЦИОННОЕ ОБЛУЧЕНИЕ
-alert_type_radiation_caption | *X have radiation poisoning | *X получить радиационное облучение
+alert_type_powercut_nofuel | Fuel supply interrupted | Подача топлива прервана
+alert_type_powercut_tooltip | Your reactor has cut out. It is likely the fuel supply has been interrupted.  Consider using storage tanks to create a permanent store of fuel for your Reactor to draw from. | Ваш реактор отключился. Вероятно, подача топлива была прервана. Рассмотрите возможность использования резервуаров для хранения, чтобы создать постоянный запас топлива для вашего Реактора.
+alert_type_radiation | RADIATION POISONING | ОБЛУЧЕНИЕ
+alert_type_radiation_caption | *X have radiation poisoning | *X облучены
 alert_type_severely_dehydrated | CREW SEVERELY DEHYDRATED | ЭКИПАЖ СИЛЬНО ОБЕЗВОЖЕН
-alert_type_stargatelosingpower | STARGATE LOSING POWER | ЗВЕЗДНЫЕ ВРАТА ТЕРЯЮТ ЭНЕРГИЮ
+alert_type_stargatelosingpower | STARGATE LOSING POWER | ЗВЕЗДНЫЕ ВРАТА ТЕРЯЮТ ПИТАНИЕ
 alert_type_stargatelosingpower_caption | *X MW / *Y MW Supplied | *X МВт / *Y МВт Поставляется
-alert_type_stargatelosingpower_tooltip | The stargate isn't being supplied with enough power. Use energy transmitters to supply the Stargate with power. | Звездные врата не получают достаточно энергии. Используйте Передатчики энергии, чтобы снабдить Звездные врата энергией.
-alert_type_starving | CREW STARVING | ЭКИПАЖ УМИРАЕТ ОТ ГОЛОДА
+alert_type_stargatelosingpower_tooltip | The stargate isn't being supplied with enough power. Use energy transmitters to supply the Stargate with power. | Звездные врата не получают достаточно энергии. Используйте передатчики энергии для снабжения Звездных Врат энергией.
+alert_type_starving | CREW STARVING | ЭКИПАЖ ГОЛОДАЕТ
 alert_type_suffocating | CREW SUFFOCATING | ЭКИПАЖ ЗАДЫХАЕТСЯ
-alert_type_suffocating_caption | *X suffocating | *X удушье
-alert_type_test | TEST ALERT | ТЕСТОВАЯ ТРЕВОГА
+alert_type_suffocating_caption | *X suffocating | *X задыхается
+alert_type_test | TEST ALERT | ТЕСТОВОЕ ОПОВЕЩЕНИЕ
 alert_type_thirsty | CREW THIRSTY | ЭКИПАЖ ИСПЫТЫВАЕТ ЖАЖДУ

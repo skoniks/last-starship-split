@@ -1,42 +1,42 @@
-keybinding_alttool | Alt Editor Tool | Инструмент Alt Editor
-keybinding_decreasethrust | Engines - | Уменьшить тягу
-keybinding_gamespeed0 | Half Speed | Половина скорости
-keybinding_gamespeed1 | Normal Speed | Обычная скорость
-keybinding_gamespeed2 | 2x Speed | 2x скорость
-keybinding_gamespeed3 | 3x Speed | 3x скорость
-keybinding_gamespeed4 | 4x Speed | 4x скорость
-keybinding_gamespeed5 | 5x Speed | 5x скорость
-keybinding_gamespeed6 | 6x Speed | 6x скорость
-keybinding_gamespeed7 | 7x Speed | 7x скорость
-keybinding_gamespeed8 | 8x Speed | 8x скорость
-keybinding_gamespeed9 | 9x Speed | 9x скорость
-keybinding_hudscaledown | Decrease HUD Scale | Уменьшение масштаба
-keybinding_hudscaleup | Increase HUD Scale | Увеличение масштаба
-keybinding_increasethrust | Engines + | Увеличить тягу
-keybinding_ManoeuvreClockwise | Thrust Clockwise | Вращение по часовой
-keybinding_ManoeuvreCounterClockwise | Thrust C-Clockwise | Вращение против часовой
-keybinding_ManoeuvreDown | Thrust Down | Импульс вниз
-keybinding_ManoeuvreLeft | Thrust Left | Импульс влево
-keybinding_ManoeuvreRight | Thrust Right | Импульс вправо
-keybinding_ManoeuvreUp | Thrust Up | Импульс вверх
-keybinding_pandown1 | Pan Down (1) | Сдвиг вниз (1)
-keybinding_pandown2 | Pan Down (2) | Сдвиг вниз (2)
-keybinding_panleft1 | Pan Left (1) | Сдвиг влево (1)
-keybinding_panleft2 | Pan Left (2) | Сдвиг влево (2)
-keybinding_panright1 | Pan Right (1) | Сдвиг вправо (1)
-keybinding_panright2 | Pan Right (2) | Сдвиг вправо (2)
-keybinding_panup1 | Pan Up (1) | Сдвиг вверх (1)
-keybinding_panup2 | Pan Up (2) | Сдвиг вверх (2)
+keybinding_alttool | Alt Editor Tool | Доп. Инструмент Редактора
+keybinding_decreasethrust | Engines - | Уменьшить Тягу
+keybinding_gamespeed0 | Half Speed | 0.5x Скорость
+keybinding_gamespeed1 | Normal Speed | 1x Скорость
+keybinding_gamespeed2 | 2x Speed | 2x Скорость
+keybinding_gamespeed3 | 3x Speed | 3x Скорость
+keybinding_gamespeed4 | 4x Speed | 4x Скорость
+keybinding_gamespeed5 | 5x Speed | 5x Скорость
+keybinding_gamespeed6 | 6x Speed | 6x Скорость
+keybinding_gamespeed7 | 7x Speed | 7x Скорость
+keybinding_gamespeed8 | 8x Speed | 8x Скорость
+keybinding_gamespeed9 | 9x Speed | 9x Скорость
+keybinding_hudscaledown | Decrease HUD Scale | Уменьшение Масштаба
+keybinding_hudscaleup | Increase HUD Scale | Увеличение Масштаба
+keybinding_increasethrust | Engines + | Увеличить Тягу
+keybinding_ManoeuvreClockwise | Thrust Clockwise | Вращение По Часовой
+keybinding_ManoeuvreCounterClockwise | Thrust C-Clockwise | Вращение Против Часовой
+keybinding_ManoeuvreDown | Thrust Down | Тяга Вниз
+keybinding_ManoeuvreLeft | Thrust Left | Тяга Влево
+keybinding_ManoeuvreRight | Thrust Right | Тяга Вправо
+keybinding_ManoeuvreUp | Thrust Up | Тяга Вверх
+keybinding_pandown1 | Pan Down (1) | Камера Вниз (1)
+keybinding_pandown2 | Pan Down (2) | Камера Вниз (2)
+keybinding_panleft1 | Pan Left (1) | Камера Влево (1)
+keybinding_panleft2 | Pan Left (2) | Камера Влево (2)
+keybinding_panright1 | Pan Right (1) | Камера Вправо (1)
+keybinding_panright2 | Pan Right (2) | Камера Вправо (2)
+keybinding_panup1 | Pan Up (1) | Камера Вверх (1)
+keybinding_panup2 | Pan Up (2) | Камера Вверх (2)
 keybinding_press_a_key | PRESS A KEY | НАЖМИТЕ КЛАВИШУ
-keybinding_recentrehome | Recentre Ship | Центрировать корабль
+keybinding_recentrehome | Recentre Ship | Центрировать Корабль
 keybinding_revert | RESET | СБРОС
-keybinding_rotateobject | Rotate Object | Повернуть объект
+keybinding_rotateobject | Rotate Object | Повернуть Объект
 keybinding_takescreenshot | Screenshot (+ {MetaCtrl}) | Скриншот (+ {MetaCtrl})
 keybinding_title_action | Action | Действие
-keybinding_title_key | Key | Ключ
-keybinding_togglemap | Toggle Map | Карта сектора
+keybinding_title_key | Key | Клавиша
+keybinding_togglemap | Toggle Map | Карта Сектора
 keybinding_togglepause | Pause | Пауза
-keybinding_toggletactical | Toggle Tactical | Тактический вид
-keybinding_translatorwindow | Translator Window | Окно переводчика
+keybinding_toggletactical | Toggle Tactical | Тактический Вид
+keybinding_translatorwindow | Translator Window | Окно Переводчика
 keybinding_zoomin | Zoom In | Приблизить
 keybinding_zoomout | Zoom Out | Отдалить

@@ -132,7 +132,7 @@
 - Radiation Blocker = Блокатор Радиации
 - Radiation Emitter = Излучатель Радиации
 - Railgun = Рельсотрон
-- Railgun Slugs = Рельсотронные Снаряды
+- Railgun Slugs = Рельсовые Пули
 - Reactor = Реактор
 - Refined Metreon = Обработанный Метреон
 - Tilium Crystals = Тилиевые Кристаллы
@@ -157,10 +157,10 @@
 - Ship Wreckage = Обломки Корабля
 - Ammo = Патроны
 - Shells = Снаряды
-- Dtrm = Dtrm
-- FTL = FTL
-- O2 = O2
-- Slugs = Снаряды
+- Dtrm = Дейтерий
+- FTL = Гипертопливо
+- O2 = Кислород
+- Slugs = Пули
 - Shuttle = Челнок
 - Small Storage Crate = Малое Хранилище
 - Small Table = Маленький Столик
