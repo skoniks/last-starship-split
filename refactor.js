@@ -8,7 +8,7 @@ parse(file, { columns: true, bom: true }, (err, data) => {
   data = data
     .sort((a, b) => a.key.localeCompare(b.key))
     .filter(({ state }) => !filter.includes(state))
-    .map(({ state, key, english, translation }) => {
+    .map(({ key, translation }) => {
       return [key, translation].join(' | ');
     });
 

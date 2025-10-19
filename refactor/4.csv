@@ -1,6 +1,6 @@
 format_currency | $*X
 format_per_square | *X / кв
-ftl_galacticjump | Это будет финальное путешествие вашего флота.\nБудьте готовы к долгому путешествию в галактику Андромеды и спасите столько, сколько сможете!
+ftl_galacticjump | Это будет последнее путешествие вашего флота.\nГотовьтесь к долгому пути в галактику Андромеды и спасите как можно больше.
 galaxymap_civilians | ГРАЖДАНСКИЕ
 galaxymap_colony | КОЛОНИЯ
 galaxymap_comet | КОМЕТА
@@ -100,8 +100,8 @@ hud_overlay_walls | Стены
 hud_overlays | НАЛОЖЕНИЯ
 hud_panel_storagecrate_ctrlclick | [CTRL] x9999 Контейнеров
 hud_panel_storagecrate_leftclick | [ЛКМ] x1 Контейнер
-hud_panel_storagecrate_permitload | Разрешить членам экипажа загружать в это хранилище.\n\nЕсли отключено, то загружать могут только руки робота.
-hud_panel_storagecrate_permitunload | Разрешить членам экипажа разгружать из этого хранилища.\n\nЕсли отключено, то разгружать могут только руки робота.
+hud_panel_storagecrate_permitload | Разрешить членам экипажа загружать это хранилище.\n\nЕсли отключено, загружать могут только руки робота.
+hud_panel_storagecrate_permitunload | Разрешить членам экипажа разгружать это хранилище.\n\nЕсли отключено, разгружать могут только руки робота.
 hud_panel_storagecrate_quantity | Количество предметов или стопок выбранного типа, которые хранятся.
 hud_panel_storagecrate_selecttype | Тип, который будет хранить хранилище.
 hud_panel_storagecrate_shiftclick | [SHIFT] x5 Контейнеров

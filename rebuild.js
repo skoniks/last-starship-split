@@ -1,6 +1,7 @@
 const { parse, stringify } = require('csv');
 const { readFileSync, readdirSync, writeFileSync } = require('node:fs');
 
+const filter = ['OBSOLETE', 'PREVIOUS'];
 const file = readFileSync('./language.csv', 'utf8');
 parse(file, { columns: true, bom: true }, (err, data) => {
   for (const subfile of readdirSync('./refactor')) {
@@ -9,8 +10,7 @@ parse(file, { columns: true, bom: true }, (err, data) => {
       if (!line.trim()) return;
       const [newKey, newTranslation] = line.split(' | ');
       const index = data.findIndex(({ key, state }) => {
-        if (state == 'OBSOLETE') return false;
-        if (state === 'PREVIOUS') return false;
+        if (filter.includes(state)) return false;
         return key === newKey;
       });
       if (index === -1) throw new Error('Key not found: ' + newKey);

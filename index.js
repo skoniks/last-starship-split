@@ -4,13 +4,13 @@ const { readFileSync, writeFileSync, rmSync, mkdirSync } = require('node:fs');
 const SHORT = true;
 const TRANSLATE = false;
 
+const filter = ['OBSOLETE', 'PREVIOUS'];
 const file = readFileSync('./language.csv', 'utf8');
 parse(file, { columns: true, bom: true }, (err, data) => {
   const blocks = {};
   data.sort((a, b) => a.key.localeCompare(b.key));
   data.forEach(({ state, key, english, translation }) => {
-    if (state === 'OBSOLETE') return;
-    if (state === 'PREVIOUS') return;
+    if (filter.includes(state)) return;
     const [name] = key.split('_');
     if (TRANSLATE) translation = '';
     // if (english.endsWith('.') && !translation.endsWith('.')) translation += '.';

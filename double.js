@@ -1,14 +1,16 @@
-const { readFileSync, readdirSync } = require('node:fs');
+const { parse } = require('csv');
+const { readFileSync } = require('node:fs');
 
-for (const subfile of readdirSync('./language')) {
-  const content = readFileSync('./language/' + subfile, 'utf8');
-  content.split('\n').forEach((line) => {
-    if (!line.trim()) return;
-    const [key, en, ru] = line.split(' | ');
-    const ens = en.match(/  /g) || [];
-    const rus = ru.match(/  /g) || [];
-    if (ens.length != rus.length) {
-      console.log(key);
-    }
-  });
-}
+const filter = ['OBSOLETE', 'PREVIOUS'];
+const file = readFileSync('./language.csv', 'utf8');
+parse(file, { columns: true, bom: true }, (err, data) => {
+  data
+    .filter(({ state }) => !filter.includes(state))
+    .forEach(({ key, english, translation }) => {
+      const ens = english.match(/  /g) || [];
+      const rus = translation.match(/  /g) || [];
+      if (ens.length != rus.length) {
+        console.log(key, ens.length, rus.length);
+      }
+    });
+});
