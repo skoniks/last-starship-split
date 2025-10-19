@@ -73,8 +73,8 @@ hud_overlay_walls | Walls | Стены
 hud_overlays | OVERLAYS | НАЛОЖЕНИЯ
 hud_panel_storagecrate_ctrlclick | [CTRL] x9999 Containers | [CTRL] x9999 Контейнеров
 hud_panel_storagecrate_leftclick | [LMB] x1 Container | [ЛКМ] x1 Контейнер
-hud_panel_storagecrate_permitload | Allow crew members to load this crate.\n\nIf disabled then only robot arms can load. | Разрешить членам экипажа загружать в это хранилище.\n\nЕсли отключено, то загружать могут только руки робота.
-hud_panel_storagecrate_permitunload | Allow crew members to unload from this crate.\n\nIf disabled then only robot arms can unload. | Разрешить членам экипажа разгружать из этого хранилища.\n\nЕсли отключено, то разгружать могут только руки робота.
+hud_panel_storagecrate_permitload | Allow crew members to load this crate.\n\nIf disabled then only robot arms can load. | Разрешить членам экипажа загружать это хранилище.\n\nЕсли отключено, загружать могут только руки робота.
+hud_panel_storagecrate_permitunload | Allow crew members to unload from this crate.\n\nIf disabled then only robot arms can unload. | Разрешить членам экипажа разгружать это хранилище.\n\nЕсли отключено, разгружать могут только руки робота.
 hud_panel_storagecrate_quantity | The number of items or stacks of the chosen type that is being stored. | Количество предметов или стопок выбранного типа, которые хранятся.
 hud_panel_storagecrate_selecttype | The type that the storage crate will be storing. | Тип, который будет хранить хранилище.
 hud_panel_storagecrate_shiftclick | [SHIFT] x5 Containers | [SHIFT] x5 Контейнеров
@@ -127,7 +127,7 @@ hud_tooltip_charge | Charge | Зарядить
 hud_tooltip_joinpipes | [LMB] Join Pipes | [ЛКМ] Соединить Трубы
 hud_tooltip_leftclickbuild | [LMB] Build | [ЛКМ] Построить
 hud_tooltip_leftclickchangerecipe | [LMB] Cycle recipe | [ЛКМ] Сменить рецепт
-hud_tooltip_leftclickdismantle | [LMB] Dismantle | [ЛКМ] Разобрать
+hud_tooltip_leftclickdismantle | [LMB] Dismantle | [ЛКМ] Демонтировать
 hud_tooltip_leftclickerase | [LMB] Erase | [ЛКМ] Стереть
 hud_tooltip_leftclickplace | [LMB] Place | [ЛКМ] Разместить
 hud_tooltip_leftclickresearch | [LMB] Research | [ЛКМ] Исследовать
@@ -144,7 +144,7 @@ hud_trade | Trade | Торговля
 hud_trade_hint | You must travel to a Colony or Shipyard to trade | Вы должны прибыть в Колонию или на Верфь для торговли
 hud_trade_incoming | WARNING - TRADE INCOMING | ВНИМАНИЕ - ИДЕТ ТОРГОВЛЯ
 hud_trade_owed | WARNING - TRADE OWED | ВНИМАНИЕ - ТОРГОВЫЙ ДОЛГ
-hud_uninstall | Dismantle | Разобрать
+hud_uninstall | Dismantle | Демонтировать
 hud_window_construction | CONSTRUCTION | СТРОИТЕЛЬСТВО
 hud_window_designation | DESIGNATION | НАЗНАЧЕНИЕ
 hud_window_editor | EDITOR | РЕДАКТОР

@@ -154,7 +154,7 @@ hud_tooltip_charge | Зарядить
 hud_tooltip_joinpipes | [ЛКМ] Соединить Трубы
 hud_tooltip_leftclickbuild | [ЛКМ] Построить
 hud_tooltip_leftclickchangerecipe | [ЛКМ] Сменить рецепт
-hud_tooltip_leftclickdismantle | [ЛКМ] Разобрать
+hud_tooltip_leftclickdismantle | [ЛКМ] Демонтировать
 hud_tooltip_leftclickerase | [ЛКМ] Стереть
 hud_tooltip_leftclickplace | [ЛКМ] Разместить
 hud_tooltip_leftclickresearch | [ЛКМ] Исследовать
@@ -171,7 +171,7 @@ hud_trade | Торговля
 hud_trade_hint | Вы должны прибыть в Колонию или на Верфь для торговли
 hud_trade_incoming | ВНИМАНИЕ - ИДЕТ ТОРГОВЛЯ
 hud_trade_owed | ВНИМАНИЕ - ТОРГОВЫЙ ДОЛГ
-hud_uninstall | Разобрать
+hud_uninstall | Демонтировать
 hud_window_construction | СТРОИТЕЛЬСТВО
 hud_window_designation | НАЗНАЧЕНИЕ
 hud_window_editor | РЕДАКТОР

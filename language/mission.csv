@@ -61,18 +61,18 @@ mission_difficulty_short | DIFFICULTY *X | СЛОЖНОСТЬ *X
 mission_episode_1 | EPISODE 1 | ЭПИЗОД 1
 mission_failed | FAILED | ПРОВАЛЕНО
 mission_flightready_description1 | All ships must pass basic flight ready certification before being allowed on operations. | Все корабли должны пройти базовую сертификацию готовности к полету, прежде чем им будет разрешено участвовать в операциях.
-mission_flightready_description2 | A ship requires each of the following capabilities in order to be certified 'Flight Ready': | Корабль требует каждой из следующих возможностей для получения сертификата 'Готовность К Полету':
+mission_flightready_description2 | A ship requires each of the following capabilities in order to be certified 'Flight Ready': | Корабль должен иметь следующие возможности, чтобы получить сертификат 'Готовность К Полету':
 mission_flightready_engines | Engines capable of propulsion | Двигатели, способные к движению
-mission_flightready_engines_help | Engines for propulsion.  Test fire your engines (From the TACTICAL view) to certify them. | Двигатели для движения.  Испытайте ваши двигатели (Из ТАКТИЧЕСКОГО режима), чтобы сертифицировать их.
+mission_flightready_engines_help | Engines for propulsion.  Test fire your engines (From the TACTICAL view) to certify them. | Двигатели для движения.  Испытайте двигатели (из ТАКТИЧЕСКОГО режима), чтобы сертифицировать их.
 mission_flightready_ftl | An FTL Drive capable of Hyperspace jumps | Гипердвигатель, способный совершать гиперпространственные прыжки
 mission_flightready_ftljump | Jump to the marked destination | Прыгнуть к отмеченному месту назначения
-mission_flightready_ftljump_help | An FTL Drive.  Test your new FTL engine by making a jump to the destination marked on the map. | Гипердвигатель.  Испытайте ваш новый Гипердвигатель, совершив прыжок к месту назначения, отмеченному на карте.
+mission_flightready_ftljump_help | An FTL Drive.  Test your new FTL engine by making a jump to the destination marked on the map. | Гипердвигатель.  Испытайте новый Гипердвигатель, совершив прыжок к отмеченному на карте месту назначения.
 mission_flightready_lifesupport | Life support to make the interior habitable [*X%] | Система жизнеобеспечения, чтобы сделать интерьер пригодным для жизни [*X%]
-mission_flightready_lifesupport_help | Life support to make the cabin breathable.  Use an Airduct to pressurise the cabin, connected to an Oxygen Loader to supply the air. | Система жизнеобеспечения, чтобы сделать каюту пригодной для дыхания.  Используйте Воздуховод для наполнения каюты давлением, подключенный к Погрузчику Кислорода для подачи воздуха.
+mission_flightready_lifesupport_help | Life support to make the cabin breathable.  Use an Airduct to pressurise the cabin, connected to an Oxygen Loader to supply the air. | Система жизнеобеспечения делает интерьер пригодным для жизни.  Используйте Воздуховод, подключив его к Погрузчику Кислорода, чтобы создать давление в каюте.
 mission_flightready_movement | Test the engines from the TACTICAL screen | Испытать двигатели на экране ТАКТИКА
 mission_flightready_name | Flight Ready | Готовность К Полету
 mission_flightready_power | A Reactor, generating power. | Реактор, вырабатывающий энергию.
-mission_flightready_power_help | A reactor to generate power. Use a Fuel Loader to pipe fuel into the Reactor. | Реактор для выработки энергии. Используйте Погрузчик Топлива для подачи топлива в Реактор.
+mission_flightready_power_help | A reactor to generate power. Use a Fuel Loader to pipe fuel into the Reactor. | Реактор вырабатывает энергию. Используйте Погрузчик Топлива для подачи топлива в Реактор.
 mission_flightready_title | Make your new ship ready for flight | Подготовить ваш новый корабль к полету
 mission_fortress_accept | We have marked the location of the fortress on your map. Good luck, Captain. | Мы отметили местоположение крепости на вашей карте. Удачи, Капитан.
 mission_fortress_description1 | Hostiles have set up a fortress within the sector. It appears to be where they are fabricating their ships. | Враги установили крепость в секторе. Похоже, это место, где они производят свои корабли.

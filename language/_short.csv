@@ -108,7 +108,7 @@ evacuationobjective_description1 | Some of our scientists don't believe the void
 evacuationobjective_description2 | If that's true then billions of people are going to need evacuation from our home planets. | Если это правда, то миллиарды людей потребуют эвакуации с наших родных планет.
 evacuationobjective_description3 | There has never been an evacuation of so many people at once. | Никогда не было эвакуации такого количества людей одновременно.
 evacuationobjective_description4 | And we don't even know where we can go that will be safe. | И мы даже не знаем, куда мы можем отправиться, чтобы быть в безопасности.
-evacuationobjective_nextbonus | Next bonus upon evacuation of *X civilians : $*Y. | Следующий бонус при эвакуации *X гражданских : $*Y.
+evacuationobjective_nextbonus | Next bonus upon evacuation of *X civilians : $*Y. | Следующий бонус при эвакуации *X гражданских: $*Y.
 evacuationobjective_success | Evacuated *X civilians | Эвакуировано *X гражданских
 evacuationobjective_successbonus | Evacuated *X civilians. Funding bonus $*Y. | Эвакуировано *X гражданских. Бонус финансирования $*Y.
 evacuationobjective_title | SPECIAL MISSION: EVACUATION | ОСОБАЯ МИССИЯ: ЭВАКУАЦИЯ
@@ -119,7 +119,7 @@ feedback_button | Give Feedback | Оставить Отзыв
 filedialog_title | Choose a File | Выберите Файл
 format_currency | $*X | $*X
 format_per_square | *X / sq | *X / кв
-ftl_galacticjump | This will be the final journey of your fleet.\nBe prepared for a long journey to the Andromeda galaxy, and save as many as you can! | Это будет финальное путешествие вашего флота.\nБудьте готовы к долгому путешествию в галактику Андромеды и спасите столько, сколько сможете!
+ftl_galacticjump | This will be the final journey of your fleet.\nBe prepared for a long journey to the Andromeda galaxy, and save as many as you can! | Это будет последнее путешествие вашего флота.\nГотовьтесь к долгому пути в галактику Андромеды и спасите как можно больше.
 hudmode_external | EXTERNAL | ВНЕШНИЙ
 hudmode_multisystemsimulation | MULTISYSTEM SIMULATION | МУЛЬТИСИСТЕМНАЯ СИМУЛЯЦИЯ
 hudmode_tactical | TACTICAL | ТАКТИКА

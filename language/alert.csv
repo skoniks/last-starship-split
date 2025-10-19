@@ -36,7 +36,7 @@ alert_type_lowwater | LOW WATER | МАЛО ВОДЫ
 alert_type_meteorshower | METEOR SHOWER | МЕТЕОРИТНЫЙ ДОЖДЬ
 alert_type_none | NO ALERT | НЕТ ОПОВЕЩЕНИЙ
 alert_type_nostorage | NO STORAGE | НЕТ МЕСТА ДЛЯ ХРАНЕНИЯ
-alert_type_oxygen | Oxygen must be at 50% to be breathable. | Кислород должен быть не менее 50%, чтобы быть пригодным для дыхания.
+alert_type_oxygen | Oxygen must be at 50% to be breathable. | Кислорода должно быть не менее 50%, чтобы воздух был пригоден для дыхания.
 alert_type_powercut | POWER CUT | ОТКЛЮЧЕНИЕ ПИТАНИЯ
 alert_type_powercut_nofuel | Fuel supply interrupted | Подача топлива прервана
 alert_type_powercut_tooltip | Your reactor has cut out. It is likely the fuel supply has been interrupted.  Consider using storage tanks to create a permanent store of fuel for your Reactor to draw from. | Ваш реактор отключился. Вероятно, подача топлива была прервана.  Рассмотрите возможность использования резервуаров для хранения, чтобы создать постоянный запас топлива для вашего Реактора.
