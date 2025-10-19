@@ -1,0 +1,200 @@
+mission_type_refugees | Беженцы
+mission_type_rescue | Спасение
+mission_type_SectorDestroy | Уничтожить Вражеские Силы
+mission_type_sectorevacuate | Эвакуировать Сектор
+mission_type_sectorjumpgate | Прыжковые Врата (Сектор)
+mission_type_SectorProtect | Защитить (Сектор)
+mission_type_SectorRescue | Спасти (Сектор)
+mission_type_tutorialflightready | МЕСТО НАЗНАЧЕНИЯ
+mission_youarehere | ВЫ ЗДЕСЬ
+missions_title | КОНТРАКТЫ
+newmainmenu_abandon | ПОКИНУТЬ ИГРУ
+newmainmenu_aiselection_auto | Управляется ИИ - Автовыбор
+newmainmenu_aiselection_none | Управляется Игроком
+newmainmenu_arena | РЕЖИМ АРЕНЫ
+newmainmenu_arena_collapsestats | СКРЫТЬ ИНФОРМАЦИЮ
+newmainmenu_arena_combatratings | БОЕВОЙ РЕЙТИНГ
+newmainmenu_arena_expandstats | ПОКАЗАТЬ ИНФОРМАЦИЮ
+newmainmenu_arena_generateenemyfleet | СОЗДАТЬ
+newmainmenu_arena_greenteamtitle | ЗЕЛЕНАЯ КОМАНДА
+newmainmenu_arena_redteamtitle | КРАСНАЯ КОМАНДА
+newmainmenu_arena_selectship | ВЫБЕРИТЕ КОРАБЛЬ
+newmainmenu_arena_shipquantity | Количество
+newmainmenu_arena_tradevalues | СТОИМОСТЬ КОРАБЛЕЙ
+newmainmenu_autosavewarning | Предупреждение о загрузке автосохранения
+newmainmenu_battle | БИТВА
+newmainmenu_begingame | НАЧАТЬ ИГРУ
+newmainmenu_cancel | ОТМЕНА
+newmainmenu_chooseship | ВЫБЕРИТЕ СТАРТОВЫЙ КОРАБЛЬ
+newmainmenu_cloudquotaremaining | Использовано: *X / *Y (осталось *Z%)
+newmainmenu_confirm | ПОДТВЕРДИТЬ
+newmainmenu_createnewexport | СОЗДАТЬ НОВЫЙ ЭКСПОРТ
+newmainmenu_createnewsave | СОЗДАТЬ НОВОЕ СОХРАНЕНИЕ
+newmainmenu_createnewupload | СОЗДАТЬ НОВЫЙ ЭЛЕМЕНТ МАСТЕРСКОЙ
+newmainmenu_createship | СОЗДАТЬ НОВЫЙ КОРАБЛЬ
+newmainmenu_darkmode | Темный Режим Карты Галактики
+newmainmenu_debug_freespace | Включить Отладку FreeSpace
+newmainmenu_defensiveenemies | Мирные Враги
+newmainmenu_defensiveenemiestooltip | Вражеские корабли будут атаковать вас только после того, как вы первыми выберете их целью.
+newmainmenu_deletegame | УДАЛИТЬ ИГРУ
+newmainmenu_deleteship | УДАЛИТЬ КОРАБЛЬ
+newmainmenu_editship | РЕДАКТИРОВАТЬ КОРАБЛЬ
+newmainmenu_exitsaves | Автосохранение при выходе
+newmainmenu_exportship | ЭКСПОРТИРОВАТЬ КОРАБЛЬ
+newmainmenu_filter | ПОИСК...
+newmainmenu_importfriendly | ИМПОРТИРОВАТЬ ДРУЖЕСТВЕННЫЙ
+newmainmenu_importhostile | ИМПОРТИРОВАТЬ ВРАЖЕСКИЙ
+newmainmenu_includedocked | ВКЛЮЧИТЬ ПРИСТЫКОВАННЫЕ КОРАБЛИ В ЭКСПОРТ
+newmainmenu_loadgame | ЗАГРУЗИТЬ ИГРУ
+newmainmenu_loadgamedev | ЗАГРУЗИТЬ ИГРУ (DEV)
+newmainmenu_loadship | ЗАГРУЗИТЬ КОРАБЛЬ
+newmainmenu_locked | (ЗАБЛОКИРОВАНО)
+newmainmenu_lockedindemo | ЗАБЛОКИРОВАНО В ДЕМО
+newmainmenu_mainmenu | ГЛАВНОЕ МЕНЮ
+newmainmenu_multisectorsim | Мультисистемная Симуляция
+newmainmenu_multisectorsimtooltip | Включает мультисистемную симуляцию, позволяя разделить ваш флот между несколькими системами/секторами одновременно.
+newmainmenu_multisystem_simulation | Включить Мультисистемную Симуляцию
+newmainmenu_newgame | НОВАЯ ИГРА
+newmainmenu_newgameoptions | Настройки Игры
+newmainmenu_parallax | Использовать Эффект Параллакса
+newmainmenu_quit | ВЫХОД
+newmainmenu_quitmessage | Мы надеемся, что вам понравилась демоверсия The Last Starship. Ваше путешествие только началось!  Разблокируйте полную версию игры, чтобы исследовать больше Сюжетных Эпизодов, Режим Выживания, Режим Арены, полноценный Редактор Кораблей и многое другое!
+newmainmenu_resume | ПРОДОЛЖИТЬ
+newmainmenu_returntomainmenu | ВЕРНУТЬСЯ В ГЛАВНОЕ МЕНЮ
+newmainmenu_savegame | СОХРАНИТЬ ИГРУ
+newmainmenu_savetosteamcloud | СОХРАНИТЬ В STEAM CLOUD
+newmainmenu_setshipname | ЗАДАТЬ ИМЯ КОРАБЛЯ
+newmainmenu_settings | НАСТРОЙКИ
+newmainmenu_shipeditor | ТВОРЧЕСКИЙ РЕЖИМ
+newmainmenu_showautosaves | АВТОСОХРАНЕНИЯ
+newmainmenu_slowcombat | Замедление в Бою
+newmainmenu_steamcloud | STEAM CLOUD
+newmainmenu_steamworkshop | МАСТЕРСКАЯ STEAM
+newmainmenu_tooltip_changeship | [ЛКМ] Сменить корабль
+newmainmenu_tooltip_removeship | [ПКМ] Убрать корабль
+newmainmenu_updateexistingupload | ОБНОВИТЬ СУЩЕСТВУЮЩИЙ ЭЛЕМЕНТ МАСТЕРСКОЙ
+newmainmenu_uploadprogress | ПРОГРЕСС ЗАГРУЗКИ: *P %
+newmainmenu_uploadship | ЗАГРУЗИТЬ В STEAM
+newplayerhelp_fuelpipe | <ТОПЛИВНАЯ ТРУБА
+nomadobjective_accepted1 | Вам нужно будет превратить ваши корабли в долгосрочный самодостаточный флот.
+nomadobjective_accepted2 | Возьмите с собой столько людей, сколько сможете, и не оглядывайтесь назад.
+nomadobjective_award | НАГРАДА КОЧЕВНИКА
+nomadobjective_current | В настоящее время в вашем флоте *X жителей.
+nomadobjective_description1 | Возможно, мы никогда не сможем остановить аномалию коллапса пустоты.
+nomadobjective_description2 | Она может просто продолжать расширяться вечно. Может не быть безопасного места для остановки.
+nomadobjective_description3 | В таком случае нам нужно привыкнуть жить на самодостаточных кораблях бесконечно долго.
+nomadobjective_nextbonus | Следующий бонус, когда население достигнет *X жителей - $*Y.
+nomadobjective_success | *X жителей флота
+nomadobjective_successbonus | Население достигло *X жителей. Бонус финансирования $*Y.
+nomadobjective_title | ОСОБАЯ МИССИЯ: КОЧЕВНИК
+nomadobjective_total | Ваше наибольшее население составляло *X жителей в вашем флоте.
+object_airduct | Воздуховод
+object_airduct_description | Закачивает кислород в окружающую каюту до достижения пригодной для дыхания атмосферы. Должен снабжаться Кислородом через трубу.
+object_airreprocessor | Редуктор Воздуха
+object_airreprocessor_description | Преобразует CO2 в пригодный для дыхания Кислород.
+object_assembler | Сборочный Стол
+object_asteroid | Астероид
+object_battery | Батарея
+object_battery_description | Хранит избыточную энергию, доступную в энергосети, до 1000МВт. Батарея будет подавать энергию при нехватке.
+object_box | Упаковано
+object_brokenhopdrive | Сломанный Скачковый Двигатель
+object_brokenhopdrive_description | Сломанный скачковый двигатель, способный совершать прыжки внутри систем
+object_bullets | Пулеметные Патроны
+object_bullets_description | Ящик патронов для Пулемета (PDC).
+object_cannon | Пушка
+object_cannon_description | Оружейная система средней дальности, которая запускает шквал взрывных снарядов по цели. Пушечные Снаряды отлично наносят урон по площади вражескому кораблю и разрывают броню корпуса.
+object_cannonshell | Пушечные Снаряды
+object_carbondioxide | CO2
+object_cargo | Груз
+object_chair | Стул
+object_chargedcrystal | Заряженный Кристалл
+object_chemicallab | Химическая Лаборатория
+object_chemicallab_description | Сложное научное оборудование.  Может объединять несколько различных химических входов (жидкости, газы и твердые вещества) в различные выходы. Пользователь может переключать активный 'рецепт', нажав на него.
+object_civilian | Гражданский
+object_coilcomponent | Катушка Энергии
+object_comet | Комета
+object_compost | Компост
+object_copperingot | Медный Слиток
+object_copperminerals | Медная Руда
+object_crewmember | Экипаж
+object_crystalinfuser_description | Лазерный инфузор, насыщает объекты энергией. Ни один тиддлет не пострадал при создании этого оборудования.
+object_data | Данные
+object_deflector | Дефлектор
+object_deflector_description | Оборонительная система, которая использует луч дефлектора для отклонения входящих ракетных снарядов
+object_deuterium | Дейтерий
+object_deuterium_description | Топливо для Реактора Синтеза.
+object_dockingport | Стыковочный Порт
+object_dockingport_description | Обеспечивает точку доступа к кораблю, чтобы челноки могли стыковаться и отстыковываться.
+object_door | Дверь
+object_door_description | Тяжелая герметичная дверь, которая может использоваться для изоляции областей в случае пролома корпуса или пожара.
+object_dronebay | Отсек Для Дронов
+object_dronebay_description | Это оборудование требуется для запуска Логистических Дронов с вашего корабля. Дроны могут собирать ресурсы и обломки из космоса, затем доставлять их обратно на корабль через Отсек Для Дронов. Один Отсек Для Дронов может запускать несколько Дронов.
+object_emptycomputegridcomponent | Пустая Вычислительная Сеть
+object_emptycrystalcomponent | Пустой Кристалл
+object_energycell | Энергетическая Ячейка
+object_energycellframecomponent | Каркас Энергетической Ячейки
+object_energytransmitter | Передатчик Энергии
+object_energytransmitter_description | Крупное оборудование, способное передавать до 200МВт на Звездные Врата.
+object_engine | Двигатель
+object_engine_description | Основной источник тяги корабля вперед.  Должен снабжаться Топливом (через трубу) и Энергией (через кабель).
+object_entity | Сущность
+object_equipment | Оборудование
+object_explosives | Взрывчатка
+object_fabricator | Фабрикатор
+object_fighter | Истребитель
+object_FlightRecorder | Бортовой Самописец
+object_food | Еда
+object_framecomponent | Рама
+object_ftlcharge | Гипертопливо
+object_ftldrive | Гипердвигатель
+object_fuel | Топливо
+object_fuelloader | Погрузчик Топлива
+object_fuelloader_description | Берет канистру Топлива и закачивает её в подпольную трубу. Используйте трубы для подключения к вашему Реактору и Двигателям.
+object_fusionreactor | Реактор Синтеза
+object_fusionreactor_description | Использует ядерный синтез Дейтерия для генерации больших количеств энергии. Однако реактор синтеза должен быть 'запущен' огромным количеством энергии, прежде чем начнет генерировать энергию сам.\n\nГенерирует максимальную выходную мощность 500МВт.
+object_gascollector | Газосборник
+object_gascollector_description | Большое внешнее вентиляционное отверстие, которое всасывает газы из космоса. Многие газы, найденные в туманностях, могут использоваться для производства полезных ресурсов, таких как Топливо, Гипертопливо и взрывчатка.
+object_gatlinggun | Пулемет
+object_gatlinggun_description | Оружейная система ближнего боя с быстрой стрельбой, в первую очередь предназначенная для защиты от приближающихся истребителей и боеприпасов.  Пулемет превосходно уничтожает быстродвижущиеся цели на близком расстоянии, но не хватает мощности для пробития бронированных целей.
+object_generator | Генератор
+object_hullbreach | Пролом Корпуса
+object_hydroponics | Гидропонный Сад
+object_hydroponics_description | Закрытое тепличное устройство, которое можно использовать для выращивания культур, чтобы кормить ваш экипаж.  Требуется компост и вода, и Семена для начала.
+object_hyperspacecollector | Гиперпространственный Совок
+object_hyperspacecollector_description | Гиперпространственный Совок располагается в передней части звездолета и обращен в направлении движения. Во время гиперпространства вперед проецируется сильное магнитное поле, втягивающее большие объемы межзвездной материи. Изотопы, собранные таким образом, могут быть переработаны в Гипертопливо.
+object_hyperspaceisotopes | Гиперпространственные Изотопы
+object_hyperspacesensor | Гиперпространственный Сенсор
+object_hyperspacesensorlr | Гиперпространственный Сенсор LR
+object_hyperspacesensorlr_description | Дальнобойная и чрезвычайно чувствительная прототипная версия стандартного гиперпространственного сенсора.
+object_ice | Водяной Лед
+object_icegrinder | Измельчитель Льда
+object_icegrinder_description | Измельчает гигантские куски льда на мелкие части, затем нагревает лед, пока он не растает в жидкость. Полученную воду необходимо отфильтровать, прежде чем её можно будет безопасно пить.
+object_laserinfuser | Лазерный Инфузор
+object_lenscomponent | Объектив
+object_lightningrod | Громоотвод
+object_lightningrod_description | Они устанавливаются во внешнюю стену вашего корабля, уменьшая повреждающие эффекты молнии и обеспечивая больший контроль над тем, куда ударяет молния. Их нельзя отремонтировать, но они поставят в очередь установку своей замены, когда будут уничтожены молнией.
+object_loader | Погрузчик
+object_loader_description | Это универсальная версия Погрузчика Топлива и Погрузчика Кислорода, которая может взять любую канистру с жидкостью или газом.  Известна тем, что сильно запутывает новых капитанов.  Используйте трубы для подключения Погрузчика к другому оборудованию.
+object_logisticsdrone | Логистический Дрон
+object_logisticsdrone_description | Невероятно полезный полуразумный робот, способный собирать обломки из глубокого космоса. Также может выполнять мелкий ремонт поврежденного корпуса. Должен быть запущен из Отсека Для Дронов.
+object_metalingot | Железный Слиток
+object_metallicminerals | Железная Руда
+object_meteor | Метеор
+object_metreongas | Газ Метреона
+object_mineralpatch | Месторождение Минералов
+object_mininglaser | Шахтерский Лазер
+object_mininglaser_description | Может бурить месторождения минералов (найденные в поясах астероидов) для извлечения ценных минералов.
+object_missioncargo | Груз Миссии
+object_motorcomponent | Двигатель
+object_munitionsfactory | Верстак Боеприпасов
+object_munitionsfactory_description | Верстак, где опытный член экипажа может изготавливать различные формы боеприпасов для корабельных оружейных систем. Использует металл и взрывчатку для производства Пулеметных Патронов, Рельсовых Пуль, Пушечных Снарядов и т.д.
+object_neubidiumcapacitor | Нейбидиумный Конденсатор
+object_neubidiumingot | Нейбидиумный Слиток
+object_neubidiumore | Нейбидиумная Руда
+object_none | Неопознанный
+object_ordnance | Боеприпасы
+object_oxygen | Кислород
+object_oxygenloader | Погрузчик Кислорода
+object_oxygenloader_description | Берет канистру со сжатым кислородом и закачивает её в подпольную трубу.  Используйте трубы для подключения к вашему Воздуховоду, чтобы снабжать каюту кислородом.
+object_oxygenmaker | Генератор Кислорода
+object_oxygenmaker_description | Использует электрическую энергию для извлечения Кислорода из Воды.

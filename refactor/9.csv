@@ -1,0 +1,200 @@
+rating_title_humanitarian | Гуманитарный Рейтинг
+rating_title_industry | Промышленный Рейтинг
+rating_title_logistics | Логистический Рейтинг
+rating_word | рейтинг
+ratings | РЕЙТИНГИ
+recipe_created_in | Создается в *X
+recipe_duration | Длительность: *X секунд
+recipe_quantity_required | *X x *Y
+recipe_resources_required | Требуемые ресурсы
+researchcredit_hint | Загрузите в Научную Станцию для анализа
+rise_ai_awaken1 | МММ...М.Н.ННННН.Н.НМММ.ААА.А.А.ХХ.ХХХ.ХХ.Х.Х.ХХ
+rise_ai_awaken2 | Что это было?
+rise_ai_awaken3 | ЭЭЭ.А.А.ААО.О.ОУУ.УУУM.М.ММ.ММ.ММ
+rise_ai_name | ядро.нав.ии
+rise_aicall1 | Корабельный компьютер сейчас загружается.
+rise_aicall2 | Мы должны получить некоторые ответы. Пусть ваш экипаж начнет передачу данных, чтобы мы могли получить бортовые журналы.
+rise_explorenebula1 | Туманность настолько плотная, что ограничивает видимость. Но мы что-то обнаруживаем на сенсорах. Они где-то здесь.
+rise_explorenebula2 | Вам придется прочесать область. Действуйте медленно и используйте обзор сенсоров в ТАКТИЧЕСКОМ режиме, чтобы попытаться найти корабль.
+rise_explorenebula3 | Поле обломков. Зловещее.
+rise_explorenebula3b | Продолжайте поиск, Капитан.
+rise_explorenebula4 | О боже.
+rise_explorenebula5 | Еще обломки. Еще тела.  Корабль должен быть где-то поблизости.
+rise_foundship1 | Что, черт возьми, произошло?
+rise_foundship2 | Кораблю даже не удалось активировать свой Бортовой Самописец.  Мы должны расследовать это.
+rise_foundship3 | Стыковочный Порт все еще работает.  Пристыкуйте ваш корабль к Celestial Hammer и возьмите команду на борт для поиска выживших.
+rise_foundship4 | Они все мертвы.
+rise_foundship5 | Могла ли это быть какая-то катастрофа?
+rise_foundship6 | Я должен узнать, что произошло, Капитан.
+rise_foundship7 | Ваш экипаж отремонтирует реакторы и запустит корабль. Как только они закончат, доставьте корабль обратно на верфь. Мне нужно провести надлежащую экспертизу.
+rise_objective_combat | (Рекомендуется) Подготовьтесь к бою
+rise_objective_crewhammer | Переведите трех членов экипажа
+rise_objective_dockhammer | Пристыкуйтесь к Celestial Hammer
+rise_objective_findship | Найдите Celestial Hammer
+rise_objective_recovership | Доставьте корабль на Верфь для анализа
+rise_objective_repairreactors | Дождитесь Ремонта Реактора [*X/3]
+rise_objective_searchhammer | Ищите выживших
+rise_objective_traveltohammer | Отправьтесь к Celestial Hammer
+rise_part1_advert | Капитан, мне снова нужна ваша помощь. Один из моих кораблей пропал во время планового патруля. Опасаюсь худшего. Я хочу, чтобы вы нашли корабль и привели его домой.
+rise_part1_briefing1 | Спасибо, Капитан. Приятно снова работать с вами, хотя я хотел бы, чтобы это было при лучших обстоятельствах.
+rise_part1_briefing2 | Речь идет о корабле Celestial Hammer. Он был ключевым участником в битве против того замаскированного пиратского корабля. Я потерял с ним связь пару дней назад.
+rise_part1_briefing3 | Я подозреваю нечестную игру, Капитан. Корабль вроде Celestial Hammer не может просто исчезнуть. Что-то должно было произойти, и я предполагаю худшее.
+rise_part1_briefing4 | Корабль сильно вооружен. Если здесь замешана нечестная игра, что ж, я настоятельно советую вам подготовиться к бою.
+rise_part1_title | Восстание Машин
+rise_shipname_hammer | Celestial Hammer
+rise_summary | Помогите Командиру Харкену вернуть его корабль
+samplebank | (Банк Образцов)
+samplebankeditor_addsample | Добавить Звук
+samplebankeditor_title | Редактор Банка Образцов
+save_autosavewarning_body | Это сохранение, скорее всего, будет перезаписано игрой по мере продолжения игры, поэтому вам следует создать ручное сохранение, если вы еще не сделали этого, используя опцию "СОХРАНИТЬ ИГРУ".\n\nЭто предупреждение можно отключить в меню настроек.
+save_autosavewarning_header | ПРЕДУПРЕЖДЕНИЕ: Загружено автосохранение
+save_cloudsavefailed_body | Не удалось сохранить игру в облако, игра была сохранена локально.\n\nПожалуйста, проверьте, что у вас достаточно места в Облаке Steam, и попробуйте снова.
+save_cloudsavefailed_header | ПРЕДУПРЕЖДЕНИЕ: Ошибка облачного сохранения
+save_demofullgame_load_body | Демо-версия The Last Starship может загружать только сохранения, созданные в Демо-версии.
+save_demofullgame_load_header | Только Полная Версия
+save_episodewarning_body | Из-за несовместимых изменений в этой версии ваш прогресс в активных эпизодах будет сброшен.
+save_episodewarning_header | ПРЕДУПРЕЖДЕНИЕ: Прогресс Эпизода
+save_stargateresetwarning_body | Из-за новых фаз или сюжетных линий, связанных со Звездными Вратами, ваш прогресс по Звездным Вратам был сброшен.
+save_stargateresetwarning_header | ПРЕДУПРЕЖДЕНИЕ: Прогресс Звездных Врат
+save_warning_body | Вы загрузили игру с будущим форматом сохранения, вы можете столкнуться с тем, что некоторые части игры не работают корректно
+save_warning_header | ПРЕДУПРЕЖДЕНИЕ: Загрузка будущей версии сохранения
+scenario_armour | Броня: *X%
+scenario_carrierfrigate | Огромный корпус корабля, построенный сообществом Zion - идеально подходит для любой карьеры, которую желает Капитан. Корабль обладает огромной вместимостью кают, но очень медленный и тяжелый.
+scenario_carrierfrigate_title | Carrier Frigate
+scenario_crabclaw | Действительно массивный корабль, спроектированный с прицелом на тяжелую промышленность, науку и логистику.  Большой, медленный и тяжелый - требующий мощной энергосети и группы двигателей.
+scenario_crabclaw_title | The Crab Claw
+scenario_funds | СРЕДСТВА
+scenario_habitation | Каюты: *X
+scenario_industry | Проект Звездные Врата требует вашей помощи! Промышленность и Автоматизация выходят на первый план, когда вы производите детали для мегапроекта звездных врат в Галактику Андромеды.
+scenario_innershapes | Еще один большой корабль, хорошо подходящий для боя и опасных операций.  Передняя часть корпуса заключена в тяжелую броню, что делает корабль намного прочнее, но также медленнее и менее маневренным.
+scenario_innershapes_title | Inner Shapes
+scenario_largelogistics | Модульная и легко расширяемая конструкция корабля, идеальная для межзвездной логистики и горнодобывающих операций. С пространством кают более чем на 50 членов экипажа или пассажиров.
+scenario_largelogistics_title | Large Logistics
+scenario_mass | Масса: *X
+scenario_noarmour | Броня: Нет
+scenario_praxis | Крошечный и быстрый научный корабль со всем необходимым оборудованием для межзвездных приключений и укомплектованный достаточными запасами для небольшого экипажа.
+scenario_praxis_title | Praxis
+scenario_procyoncruiser | Корабль сообщества, построенный Orion Industries - идеальное сочетание формы и функциональности. Приличное пространство кают и место для оборудования, но достаточно маленький и легкий, чтобы быть быстрым и проворным.
+scenario_procyoncruiser_title | Procyon Cruiser
+scenario_shipyard | Абсолютный минимум корпуса корабля, но вы пристыкованы к полностью рабочей Верфи со значительным начальным бюджетом, чтобы построить любой корабль, какой захотите, с нуля.
+scenario_shipyard_title | Build New Ship
+scenario_sleek | Более сложная установка. Большой и мощный корабль с большим количеством места для улучшений, но с более тяжелым и медленным корпусом.
+scenario_sleek_title | Sleek ship
+scenario_value | Стоимость: $*X
+scienceobjective_accepted1 | Мы разработали специальный набор сенсоров, который даст нам необходимую информацию.
+scienceobjective_accepted2 | Челнок с двумя такими сенсорами уже в пути.
+scienceobjective_award | НАУЧНАЯ НАГРАДА
+scienceobjective_capturedata | Вы собрали *X Данных от аномалии.
+scienceobjective_description1 | Нам нужно больше данных, чтобы понять, что это за аномалия.
+scienceobjective_description2 | И мы не можем остановить аномалию, пока не поймем её.
+scienceobjective_description3 | Если вы сможете собрать для нас достаточно научных данных, мы считаем, что есть хороший шанс разработать способ противодействовать аномалии.
+scienceobjective_funding | Мы можем отправлять вам финансирование исследований по мере сбора данных. Соберите 10 данных от Аномалии, и мы отправим первый финансовый грант.
+scienceobjective_installsensors | Установите сенсоры на ваш корабль (*X/2)
+scienceobjective_installsensors2 | Убедитесь, что сенсоры получают питание и работают
+scienceobjective_milestone1a | Мы получили ваши предварительные данные сенсоров. Захватывающе! Похоже, аномалия расширяется, и скорость расширения увеличивается.
+scienceobjective_milestone1b | Мы только что выплатили вам научный грант в размере $10,000. Соберите 100 данных, чтобы разблокировать дополнительное финансирование. Чем ближе вы летите к аномалии, тем быстрее сенсоры собирают данные.
+scienceobjective_milestone2a | Мы получили 100 пакетов данных с ваших сенсоров, спасибо. Это бесценные данные для нас.
+scienceobjective_milestone2b | Мы только что отправили вам еще $100,000.  Следующий бонус составит $1 миллион за 1000 данных сенсоров.  Вы можете купить больше гиперпространственных сенсоров на звездных базах и колониях.
+scienceobjective_milestone3a | Ваши сенсоры собрали 1000 данных от аномалии. Наши лучшие умы работают над решением, и ваши данные были бесценны.
+scienceobjective_milestone3b | Мы отправляем вам научный грант в размере $1 миллиона. Продолжайте в том же духе!  Дополнительное финансирование будет разблокировано при 10,000 научных данных.
+scienceobjective_milestone4a | Получено 10,000 научных данных. Выплата $10 миллионов.
+scienceobjective_milestone4b | Следующий бонус при 100,000 научных данных
+scienceobjective_nextbonus | Следующий бонус за *X Собранных данных : $*Y.
+scienceobjective_receivedsensors1 | Оба сенсора находятся на борту вашего корабля. Вам нужно установить их.
+scienceobjective_scientist | Исследовательский Институт
+scienceobjective_sensorsinstalled | Сенсоры Установлены
+scienceobjective_success | Собрано *X Данных
+scienceobjective_successbonus | Собрано *X Данных. Финансовый бонус $*Y.
+scienceobjective_title | СПЕЦИАЛЬНАЯ МИССИЯ: ИССЛЕДОВАНИЕ АНОМАЛИИ
+scienceobjective_usesensors1 | Эти сенсоры будут собирать данные от аномалии, пока вы находитесь в Гиперпространстве.
+scienceobjective_usesensors2 | Чем ближе вы сможете совершить гиперпрыжок к аномалии, тем быстрее они будут собирать данные.
+sector_start | ДОМАШНИЙ СЕКТОР
+settings_accentinsensitivesearch | Поиск Без Учета Акцентов
+settings_accentinsensitivesearch_description | При поиске в списках игнорировать символы с диакритическими знаками, например "é" будет соответствовать "e"
+settings_analytics | Сбор Анилитически
+settings_analytics_tooltip | Нам необходимо собирать данные об использовании, чтобы лучше понимать, как люди играют, и помочь нам улучшить игру. \n\nМы не собираем никакой личной информации.\n\nЧтобы узнать больше, посетите Правовую Информацию (внизу экрана)
+settings_appearance | ИНТЕРФЕЙС
+settings_arraytextures | Использовать Массивы Текстур
+settings_autosaveinterval | Интервал Автосохранения
+settings_autosaveonftl | Автосохранение при выходе из гиперпрыжка
+settings_autosaveontimeinterval | Автосохранение по интервалу времени
+settings_autosaves | СОХРАНЕНИЯ
+settings_credit_tooltip | С благодарностью:
+settings_dynamiclighting | Использовать Динамическое Освещение
+settings_effectsvolume | Громкость Эффектов
+settings_exitsaves_tooltip | Когда включено, текущая игра создаст автосохранение при выходе или завершении игры.
+settings_fullscreen | На Весь Экран
+settings_hud | Показать Интерфейс
+settings_hudscale | Масштаб Интерфейса
+settings_keybindings | УПРАВЛЕНИЕ
+settings_language | Язык Интерфейса
+settings_mastervolume | Общая Громкость
+settings_minutes_shortened | Мин.
+settings_music | Музыка
+settings_musicvolume | Громкость Музыки
+settings_other | ПРОЧЕЕ
+settings_resolution | Разрешение Экрана
+settings_sound | ГРОМКОСТЬ
+settings_translatorassist | Помощник Переводчика (Ctrl, Alt)
+settings_translatorassist_description | Включить функции для помощи переводчикам, такие как Alt для отображения английского текста и Ctrl для отображения ключа фразы. Включает окно редактирования перевода ({TranslatorWindow}).
+settings_uibounce | Подсветка с Эффектом Отскока
+shipai_closerangeaggressive | ИИ Управление - Близкая Орбита
+shipai_fastmovingjet | ИИ Управление - Штурмовые Заходы
+shipai_longrangesniper | ИИ Управление - Дальняя Дистанция
+shipai_mediumrangeorbit | ИИ Управление - Средняя Дистанция
+shipai_strategyverycloseorbit | ИИ Управление - Очень Близкая Орбита
+shipeditor_brush_box | КВАДРАТ
+shipeditor_brush_freehand | КИСТЬ
+shipeditor_brush_oval | КРУГ
+shipeditor_commit | ПОДТВЕРДИТЬ
+shipeditor_draw | РИСОВАТЬ
+shipeditor_equipment_autobuy | Включить Автопокупку
+shipeditor_equipment_autobuyconfirm | Подтвердить Изменения Автопокупки
+shipeditor_equipment_autobuyenable | Автопокупка *X
+shipeditor_equipment_available | Торговый Пост имеет *X в наличии
+shipeditor_equipment_expected | Вам будет не хватать *X, когда текущие поставки/логистика завершатся
+shipeditor_equipment_expectedcost | Ожидаемая Будущая Стоимость: *X
+shipeditor_equipment_immediatecost | Немедленная Стоимость: *X
+shipeditor_equipment_incoming | У вас *X входящих
+shipeditor_equipment_manualbuy | Купить Все Доступное
+shipeditor_equipment_missing | Вам требуется *X
+shipeditor_equipment_outgoing | У вас *X исходящих
+shipeditor_equipment_title | Отсутствующее Оборудование
+shipeditor_equipment_totalcost | Общая Стоимость
+shipeditor_erase | СТЕРЕТЬ
+shipeditor_mode_armour | Броня
+shipeditor_mode_createship | Создать Корабль
+shipeditor_mode_deconstruct | Разрушить
+shipeditor_mode_dock | Стыковка
+shipeditor_mode_equipment | Оборудование
+shipeditor_mode_eyedropper | Пипетка
+shipeditor_mode_habitation | Каюты
+shipeditor_mode_hull | Корпус
+shipeditor_mode_interior | Полы
+shipeditor_mode_paintstencils | Перекрасить Стены
+shipeditor_mode_scaffold | Каркас
+shipeditor_mode_spawn | Объекты
+shipeditor_mode_stencils | Стены
+shipeditor_mode_walls | Стены
+shipeditor_paint | КРАСИТЬ
+shipeditor_paint_custom | Пользовательская Краска
+shipeditor_paint_detailprimary | Детали Первичные
+shipeditor_paint_detailsecondary | Детали Вторичные
+shipeditor_paint_detailtertiary | Детали Третичные
+shipeditor_paint_erase | Задний План
+shipeditor_paint_name | Название Краски
+shipeditor_paint_paint | Передний План
+shipeditor_paint_primary | Основная База
+shipeditor_paint_secondary | Вторичная База
+shipeditor_paint_standard | Стандартная Краска
+shipeditor_palettelibrary_cancel | ОТМЕНА
+shipeditor_palettelibrary_confirm | ПОДТВЕРДИТЬ
+shipeditor_palettelibrary_createname | СОЗДАТЬ НОВУЮ ПАЛИТРУ
+shipeditor_palettelibrary_delete | УДАЛИТЬ
+shipeditor_palettelibrary_export | ЭКСПОРТ
+shipeditor_palettelibrary_import | ИМПОРТ
+shipeditor_palettelibrary_title_export | ЭКСПОРТ ПАЛИТР
+shipeditor_palettelibrary_title_import | ИМПОРТ ПАЛИТР
+shipeditor_palettelibrary_upload | ЗАГРУЗИТЬ
+shipeditor_price_button | Стоимость
+shipeditor_shipyardrequired1 | Вы должны посетить Верфь

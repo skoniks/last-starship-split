@@ -1,0 +1,200 @@
+keybinding_gamespeed2 | 2x Скорость
+keybinding_gamespeed3 | 3x Скорость
+keybinding_gamespeed4 | 4x Скорость
+keybinding_gamespeed5 | 5x Скорость
+keybinding_gamespeed6 | 6x Скорость
+keybinding_gamespeed7 | 7x Скорость
+keybinding_gamespeed8 | 8x Скорость
+keybinding_gamespeed9 | 9x Скорость
+keybinding_hudscaledown | Уменьшение Масштаба
+keybinding_hudscaleup | Увеличение Масштаба
+keybinding_increasethrust | Увеличить Тягу
+keybinding_ManoeuvreClockwise | Вращение По Часовой
+keybinding_ManoeuvreCounterClockwise | Вращение Против Часовой
+keybinding_ManoeuvreDown | Тяга Вниз
+keybinding_ManoeuvreLeft | Тяга Влево
+keybinding_ManoeuvreRight | Тяга Вправо
+keybinding_ManoeuvreUp | Тяга Вверх
+keybinding_pandown1 | Камера Вниз (1)
+keybinding_pandown2 | Камера Вниз (2)
+keybinding_panleft1 | Камера Влево (1)
+keybinding_panleft2 | Камера Влево (2)
+keybinding_panright1 | Камера Вправо (1)
+keybinding_panright2 | Камера Вправо (2)
+keybinding_panup1 | Камера Вверх (1)
+keybinding_panup2 | Камера Вверх (2)
+keybinding_press_a_key | НАЖМИТЕ КЛАВИШУ
+keybinding_recentrehome | Центрировать Корабль
+keybinding_revert | СБРОС
+keybinding_rotateobject | Повернуть Объект
+keybinding_takescreenshot | Скриншот (+ {MetaCtrl})
+keybinding_title_action | Действие
+keybinding_title_key | Клавиша
+keybinding_togglemap | Карта Сектора
+keybinding_togglepause | Пауза
+keybinding_toggletactical | Тактический Режим
+keybinding_translatorwindow | Окно Переводчика
+keybinding_zoomin | Приблизить
+keybinding_zoomout | Отдалить
+language_helpustranslate | Помогите Нам С Переводом!
+language_system | Системный
+legal_button | Юридическая Информация
+loader_auto | АВТО
+loader_mode_load | Загрузить
+loader_mode_stop | Стоп
+loader_mode_unload | Выгрузить
+logistics_tooltip_cancel_transfer | [ПКМ] Отменить 1 из *X
+logistics_tooltip_modifiers | Модификаторы:
+logistics_tooltip_transfer | [ЛКМ] Передать 1 из *X
+logisticswindow_title | ЛОГИСТИКА
+mainmenu_abandongame | Покинуть Игру
+mainmenu_arena_caption | Создавайте эпические космические сражения между флотами кораблей и наблюдайте за разворачивающейся бойней.
+mainmenu_createship | РАЗРАБОТЧИК Создать Корабль
+mainmenu_exportship | Экспортировать Корабль
+mainmenu_gamemode_arena | Арена
+mainmenu_gamemode_arena_tooltip | Создавайте эпические космические сражения между флотами кораблей и наблюдайте за разворачивающейся бойней.
+mainmenu_gamemode_creative | Творческий Режим
+mainmenu_gamemode_creative_tooltip | У вас есть неограниченные ресурсы для постройки любого корабля, какого захотите
+mainmenu_gamemode_freeroam | Свободная Игра
+mainmenu_gamemode_freeroam_locked | Постройте готовый к полету корабль в Творческом Режиме для разблокировки
+mainmenu_gamemode_freeroam_tooltip | Вы свободны выбирать любую карьеру в своем темпе. Никаких аномалий, никаких звездных врат.
+mainmenu_gamemode_industry | СМЕЛО ВПЕРЕД
+mainmenu_gamemode_industry_old | ЗВЕЗДНЫЕ ВРАТА
+mainmenu_gamemode_industry_tooltip | Отправьтесь в новое путешествие через наши сюжетные научно-фантастические эпизоды
+mainmenu_gamemode_industry_tooltip_old | Ваша цель — исследовать и построить звездные врата в Андромеду
+mainmenu_gamemode_survival | Выживание
+mainmenu_gamemode_survival_locked | Завершите любой сюжетный эпизод в 'Смело Вперед' для разблокировки
+mainmenu_gamemode_survival_tooltip | Оставайтесь на шаг впереди разрушительной аномалии так долго, как сможете
+mainmenu_gamemode_unlocked | РАЗБЛОКИРОВАНО
+mainmenu_gamemode_unlocked_freeroam | Режим Игры: Свободная Игра
+mainmenu_gamemode_unlocked_survival | Режим Игры: Выживание
+mainmenu_importfriendly | Импортировать Дружественный Корабль
+mainmenu_importhostile | Импортировать Вражеский Корабль
+mainmenu_importship | Импортировать Корабль
+mainmenu_legal | Конфиденциальность / Правовая Информация
+mainmenu_loadgame | Загрузить Игру
+mainmenu_loadgamedev | РАЗРАБОТЧИК Загрузить Тестовую Игру
+mainmenu_loadship | РАЗРАБОТЧИК Загрузить Корабль
+mainmenu_newgameA | Новая Игра - Praxis
+mainmenu_newgameB | Новая Игра - Sleek
+mainmenu_newgameC | Новая Игра - Inner Shapes
+mainmenu_newgameD | Новая Игра - Shipyard
+mainmenu_newgameE | Новая Игра - Large Logistics
+mainmenu_quit | Выход
+mainmenu_savegame | Сохранить Игру
+mainmenu_stargate_caption | Прокладывайте свой путь через сюжетные эпизоды по всему сектору и примите участие в строительстве галактического мегапроекта
+mainmenu_stargate_caption_old | Примите участие в строительстве галактического мегапроекта - ЗВЕЗДНЫХ ВРАТ с достаточной дальностью, чтобы достичь нашей ближайшей соседней галактики АНДРОМЕДЫ
+mainmenu_steamworkshop | Мастерская Steam
+mainmenu_survival_caption | Оставайтесь на шаг впереди разрушительной аномалии, поглощающей все на своем пути, и спасите как можно больше, пока не стало слишком поздно
+mainmenu_title | Главное Меню
+mainmenu_tools | Инструменты Разработчика
+mission_accept | Принять
+mission_accepted | Принято
+mission_acceptonlayer | Принять и назначить *X
+mission_arenaprep_summary | Подготовьте свой корабль и экипаж к предстоящей битве!\nВозобновление игры начнет бой.
+mission_arenaprep_title | Приготовьтесь к битве!
+mission_arenaprep_useeditor | ОПЦИОНАЛЬНО: Используйте редактор кораблей для подготовки
+mission_assignedto | (Назначено *X)
+mission_assignedtolayer | Принято и назначено L*X
+mission_bypassed | ПРОЙДЕНО
+mission_cannotaccept | Вы не можете принять эту миссию
+mission_cannotassigntolayer | Невозможно назначить *X
+mission_collected | СОБРАНО
+mission_combat_accept | Мы отметили местоположение вражеских сил на вашей карте. Удачной охоты.
+mission_combat_alldestroyed | Все вражеские силы уничтожены. Общая оплата $*X.
+mission_combat_attacknow | Вы обнаружили вражеские силы! Уничтожьте их немедленно.
+mission_combat_description1 | В близлежащей звездной системе в этом секторе действует небольшой флот вражеских кораблей, работающих незаконно.
+mission_combat_description2 | Они слишком долго нападали на торговые и гуманитарные корабли.
+mission_combat_description3 | Отправляйтесь в систему, вступите с ними в бой и уничтожьте их.
+mission_combat_destroyed | Вы уничтожили *X врагов из *Y
+mission_combat_failure | Оставшиеся вражеские силы сбежали.
+mission_combat_location | Вражеские корабли находятся в системе S*X.
+mission_combat_mines_description1 | Пиратские силы создали опасное минное поле на оживленном торговом маршруте.
+mission_combat_mines_description2 | Их цель, похоже, состоит в том, чтобы повредить любые торговые корабли, которые подойдут слишком близко, а затем ограбить застрявшие корабли от ценного груза.
+mission_combat_mines_description3 | Отправляйтесь в систему и уничтожьте минное поле, прежде чем появятся пиратские силы.
+mission_combat_mines_requirement | Вам понадобится оружейная система для уничтожения мин на расстоянии.
+mission_combat_objective | Обнаружить и атаковать вражеские силы
+mission_combat_piratecount | Сообщения указывают, что во вражеском флоте *X кораблей, скрывающихся в звездной системе *Y.
+mission_combat_requirements | Вам потребуется вооруженный боевой корабль для принятия этой миссии.
+mission_combat_success | Уничтожено *X/*Y Врагов
+mission_combat_title_armouredthugs | Уничтожить бронированных головорезов
+mission_combat_title_communityships | Атаковать и уничтожить вражескую пиратскую банду
+mission_combat_title_mercenarystation | Уничтожить вражескую наемную оружейную платформу
+mission_combat_title_mines | Очистить опасное минное поле
+mission_combat_title_pirategang | Нейтрализовать пиратскую банду
+mission_combat_title_roguefighters | Атаковать и уничтожить мятежные истребители
+mission_completed | ЗАВЕРШЕНО
+mission_contractcompleted | Контракт Завершен
+mission_courseplotted | КУРС ПРОЛОЖЕН
+mission_deliver | Доставить
+mission_delivered | ДОСТАВЛЕНО
+mission_delivery_alldelivered | Весь груз доставлен. Удачи.
+mission_delivery_delivery | Доставлено *X из *Y предметов.
+mission_delivery_description | У меня есть *X ящиков припасов, которые нужно доставить.
+mission_delivery_descriptionfurther | Место назначения находится в *Y Прыжках Между Секторами, в Секторе *X.
+mission_delivery_destination | Место назначения находится в этом Секторе, в Звездной Системе S*X.
+mission_delivery_location | Отправиться в систему доставки
+mission_delivery_lost | Оставшиеся *X предметов груза не учтены.
+mission_delivery_outoftime | Слишком поздно - вам больше не заплатят за оставшийся груз.
+mission_delivery_received | Получено *X из *Y предметов. Общая причитающаяся оплата $*Z.
+mission_delivery_shuttle | Челнок уже в пути к вам с припасами.
+mission_delivery_success | Доставлено *X из *Y предметов
+mission_delivery_timed | Эти товары требуются немедленно. У вас будет всего *X минут. (+50% оплата)
+mission_delivery_timeremaining | У вас осталось всего *X секунд для совершения доставки!
+mission_delivery_title | Курьерская миссия: Доставить груз в близлежащую систему
+mission_delivery_titlefurther | Доставить груз в другой сектор
+mission_delivery_toolate | Получено *X из *Y предметов, но срок теперь истек.
+mission_delivery_turnin | Челнок уже в пути для сбора груза.
+mission_delivery_wrongdestination | Часть груза была доставлена не в то место. Вам не заплатят.
+mission_difficulty | Этой миссии присвоен рейтинг сложности *X.
+mission_difficulty_short | СЛОЖНОСТЬ *X
+mission_episode_1 | ЭПИЗОД 1
+mission_failed | ПРОВАЛЕНО
+mission_flightready_description1 | Все корабли должны пройти базовую сертификацию готовности к полету, прежде чем им будет разрешено участвовать в операциях.
+mission_flightready_description2 | Корабль требует каждой из следующих возможностей для получения сертификата 'Готовность К Полету':
+mission_flightready_engines | Двигатели, способные к движению
+mission_flightready_engines_help | Двигатели для движения.  Испытайте ваши двигатели (Из ТАКТИЧЕСКОГО режима), чтобы сертифицировать их.
+mission_flightready_ftl | Гипердвигатель, способный совершать гиперпространственные прыжки
+mission_flightready_ftljump | Прыгнуть к отмеченному месту назначения
+mission_flightready_ftljump_help | Гипердвигатель.  Испытайте ваш новый Гипердвигатель, совершив прыжок к месту назначения, отмеченному на карте.
+mission_flightready_lifesupport | Система жизнеобеспечения, чтобы сделать интерьер пригодным для жизни [*X%]
+mission_flightready_lifesupport_help | Система жизнеобеспечения, чтобы сделать каюту пригодной для дыхания.  Используйте Воздуховод для наполнения каюты давлением, подключенный к Погрузчику Кислорода для подачи воздуха.
+mission_flightready_movement | Испытать двигатели на экране ТАКТИКА
+mission_flightready_name | Готовность К Полету
+mission_flightready_power | Реактор, вырабатывающий энергию.
+mission_flightready_power_help | Реактор для выработки энергии. Используйте Погрузчик Топлива для подачи топлива в Реактор.
+mission_flightready_title | Подготовить ваш новый корабль к полету
+mission_fortress_accept | Мы отметили местоположение крепости на вашей карте. Удачи, Капитан.
+mission_fortress_description1 | Враги установили крепость в секторе. Похоже, это место, где они производят свои корабли.
+mission_fortress_description2 | Крепость дает им значительную силу по всему сектору и должна быть уничтожена.
+mission_fortress_description3 | Отправляйтесь к крепости, уничтожьте её и устраните всех оставшихся врагов
+mission_fortress_destroyfortress | Уничтожить крепость
+mission_fortress_destroyhostiles | Устранить всех оставшихся врагов
+mission_fortress_objective | Отправиться к крепости
+mission_fortress_success | Штурм крепости был успешным.
+mission_fortress_title | Уничтожить вражескую крепость
+mission_illegal | НЕЗАКОННАЯ ДЕЯТЕЛЬНОСТЬ
+mission_industry_accepted1 | Мы отметили местоположение пояса астероидов на вашей карте.
+mission_industry_description | Существует огромный спрос на элементы Гипертоплива для питания эвакуационных кораблей.
+mission_industry_description2 | Мы можем производить Гипертопливо, но нам нужна Тилиевая Руда, которую можно найти только в определенных поясах астероидов.
+mission_industry_description3 | К счастью, такой пояс астероидов находится поблизости, в этом секторе, в системе S*X.
+mission_industry_description3b | Ближайший пояс астероидов находится в следующем секторе.
+mission_industry_description4 | Затем сдайте Руду на любом торговом посту для получения оплаты.
+mission_industry_gathered | У вас есть *X Тилиевой Руды на этом корабле (Нам нужно *Y)
+mission_industry_hostiles | ПРЕДУПРЕЖДЕНИЕ: Вражеские силы расположились лагерем рядом с поясом астероидов. (+50% оплата)
+mission_industry_location | Отправиться к поясу астероидов
+mission_industry_lost | На борту вашего корабля больше нет Тилиевой Руды.
+mission_industry_meteorshower | ПРЕДУПРЕЖДЕНИЕ: Есть сообщения о метеоритном дожде в этой системе. (+50% оплата).
+mission_industry_received | Мы получили *X Тилиевой Руды из общего количества *Y. Общая причитающаяся оплата $*Z.
+mission_industry_refined |  ==> Тилиевую Руду необходимо сначала переработать в Плавильной Печи перед доставкой. <==
+mission_industry_refined_title | Добыть и переработать критические ресурсы
+mission_industry_refinedrequired | Затем переработать добытую руду в Плавильной Печи.
+mission_industry_requirements | Этот контракт требует подходящего шахтерского корабля, оснащенного Шахтерскими Лазерами и Логистическими Дронами.
+mission_industry_return | Вернуться в систему с колонией или верфью для доставки Тилиевой Руды.
+mission_industry_shuttle | Мы отправили челнок для сбора Тилиевой Руды.
+mission_industry_success | Добыто *X/*Y Руды
+mission_industry_tiliumrequired | Отправиться к поясу астероидов и добыть *X Тилиевой Руды.
+mission_industry_title | Шахтерский контракт: Добыть критически важные минералы
+mission_missioncompleted | КОНТРАКТ ЗАВЕРШЕН
+mission_new | НОВЫЙ
+mission_onroute | В ПУТИ

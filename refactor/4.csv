@@ -1,0 +1,200 @@
+format_currency | $*X
+format_per_square | *X / кв
+ftl_galacticjump | Это будет финальное путешествие вашего флота.\nБудьте готовы к долгому путешествию в галактику Андромеды и спасите столько, сколько сможете!
+galaxymap_civilians | ГРАЖДАНСКИЕ
+galaxymap_colony | КОЛОНИЯ
+galaxymap_comet | КОМЕТА
+galaxymap_demo | ДЕМО
+galaxymap_derelict | ЗАБРОШЕННЫЙ ОБЪЕКТ
+galaxymap_distresscall | СИГНАЛ БЕДСТВИЯ
+galaxymap_endof | КОНЕЦ
+galaxymap_entrysystem | Прибытие
+galaxymap_exitsystem | В Следующий Сектор
+galaxymap_fleet | ВЫ ЗДЕСЬ
+galaxymap_fortress | КРЕПОСТЬ
+galaxymap_hostile | ВРАЖДЕБНЫЕ СИЛЫ
+galaxymap_jumpgate | ПРЫЖКОВЫЕ ВРАТА
+galaxymap_noescape | НЕТ ВЫХОДА
+galaxymap_objectives | КОНТРАКТЫ СЕКТОРА
+galaxymap_playtest | ТЕСТИРОВАНИЕ
+galaxymap_sectorgone | ПОГЛОЩЕНО АНОМАЛИЕЙ
+galaxymap_sectornumber | СЕКТОР *X
+galaxymap_shipyard | ВЕРФЬ
+galaxymap_starbase | ЗВЕЗДНАЯ БАЗА
+galaxymap_survivalexit | Доберитесь до ЗВЕЗДНЫХ ВРАТ!
+galaxymap_switchsector | Переключить Вид Сектора
+galaxymap_title | КАРТА СЕКТОРА
+galaxymap_unreachable | НЕДОСТУПНО
+hud_abortjump | Отменить Прыжок
+hud_aligning | Выравнивание...
+hud_battlestations | БОЕВОЙ РЕЖИМ
+hud_buyship | КУПИТЬ
+hud_cabins | Каюты: *X/*Y
+hud_camerattracking | Слежение Камеры
+hud_collector_tooltip_gathering | Сбор *X *Y в секунду
+hud_collector_tooltip_totalgathered | ВСЕГО СОБРАНО
+hud_convertsplittertotrack | [ПКМ] Преобразовать в конвейер
+hud_converttracktosplitter | [ПКМ] Преобразовать в разделитель
+hud_debugbuild | Отладка
+hud_deselectlayer | СНЯТЬ ВЫБОР КОРАБЛЯ
+hud_direction_down | Правый Борт
+hud_direction_left | Корма
+hud_direction_right | Нос
+hud_direction_up | Левый Борт
+hud_disabled | Отключено
+hud_drones_deployed | ВНИМАНИЕ - ДРОНЫ В КОСМОСЕ: *X
+hud_editor | РЕДАКТОР
+hud_enabled | Включено
+hud_endcreativemode | Творческий Режим завершится
+hud_endcreativemode2 | Когда вы прыгнете в гиперпространство
+hud_endcreativemodefull | Творческий Режим завершится, когда вы прыгнете в гиперпространство
+hud_endcreativemodewarning | ВЫХОД ИЗ ТВОРЧЕСКОГО РЕЖИМА
+hud_fabricateship | ПОСТРОИТЬ КОРАБЛЬ
+hud_ftl | Гипердвигатель
+hud_ftl_jump_tooltip | [ПКМ] Прыжок
+hud_ftlcharging | Зарядка...
+hud_ftlcooldown | Перезарядка...
+hud_ftlexcluded | Остаться
+hud_ftlincluded | Прыгнуть
+hud_ftlloading | Загрузка...
+hud_ftlnodestination | НЕТ ПУНКТА НАЗНАЧЕНИЯ
+hud_ftlshipnotviablewarning | Кораблю нужен корпус или каркас для перехода в гиперпространство
+hud_ftlwaiting | Ожидание...
+hud_hyperspace | ГИПЕРПРОСТРАНСТВО
+hud_idle | Ожидание
+hud_install | Установить
+hud_invalidplacement | НЕВЕРНОЕ РАЗМЕЩЕНИЕ
+hud_invalidplacement_tooltip | Это оборудование не может правильно функционировать при установке в этой позиции.
+hud_jump | ПРЫЖОК
+hud_jumpgalaxies | ПОКИНУТЬ ГАЛАКТИКУ
+hud_jumpgatedamage | ПРЫЖКОВЫЕ ВРАТА ОТКЛЮЧЕНЫ ИЗ-ЗА ПОВРЕЖДЕНИЙ
+hud_jumpgatedistance | ВСЕ КОРАБЛИ ДОЛЖНЫ ВОЙТИ В ПРЫЖКОВЫЕ ВРАТА
+hud_jumpgaterequires | ПРЫЖКОВЫЕ ВРАТА НЕДОСТУПНЫ
+hud_jumpnextsector | ПРЫГНУТЬ В СЛЕДУЮЩИЙ СЕКТОР
+hud_jumpthroughstargate | ПРЫГНУТЬ ЧЕРЕЗ ЗВЕЗДНЫЕ ВРАТА
+hud_last_ftl_charge | ВНИМАНИЕ - ПОСЛЕДНЕЕ ГИПЕРТОПЛИВО\nНЕВОЗМОЖНО КУПИТЬ В ПУНКТЕ НАЗНАЧЕНИЯ
+hud_layer_derelict | ЗАБРОШЕННЫЙ ОБЪЕКТ
+hud_layer_forsale | [ПРОДАЕТСЯ]
+hud_layer_hostile | ВРАЖДЕБНЫЕ СИЛЫ
+hud_layer_unnaned_system | БЕЗЫМЯННЫЙ
+hud_maximumoccupancy | Максимальная Вместимость: *X/*Y
+hud_mission_collection | ВНИМАНИЕ - ВЫПОЛНЯЕТСЯ СБОР ПО МИССИИ
+hud_noftl | ГИПЕРДВИГАТЕЛЬ НЕ НАЙДЕН
+hud_noships | НЕТ ВЫБРАННЫХ КОРАБЛЕЙ
+hud_open_tooltip | [ЛКМ] Открыть Окно
+hud_orders | ПРИКАЗЫ
+hud_outofalignment | Не выровнен...
+hud_overlay_atmosphere | Атмосфера
+hud_overlay_cables | Кабели
+hud_overlay_creativemode | - Творческий Режим -
+hud_overlay_exterior | Внешний вид
+hud_overlay_habitation | Каюты
+hud_overlay_jobs | Задачи
+hud_overlay_pipes | Трубы
+hud_overlay_radiation | Радиация
+hud_overlay_schematic | Схема
+hud_overlay_show | Показать
+hud_overlay_structure | Структура
+hud_overlay_tactical | Тактика
+hud_overlay_walls | Стены
+hud_overlays | НАЛОЖЕНИЯ
+hud_panel_storagecrate_ctrlclick | [CTRL] x9999 Контейнеров
+hud_panel_storagecrate_leftclick | [ЛКМ] x1 Контейнер
+hud_panel_storagecrate_permitload | Разрешить членам экипажа загружать в это хранилище.\n\nЕсли отключено, то загружать могут только руки робота.
+hud_panel_storagecrate_permitunload | Разрешить членам экипажа разгружать из этого хранилища.\n\nЕсли отключено, то разгружать могут только руки робота.
+hud_panel_storagecrate_quantity | Количество предметов или стопок выбранного типа, которые хранятся.
+hud_panel_storagecrate_selecttype | Тип, который будет хранить хранилище.
+hud_panel_storagecrate_shiftclick | [SHIFT] x5 Контейнеров
+hud_preparejump | Подготовить Прыжок
+hud_preparingjump | Подготовка Прыжка
+hud_ready | ГОТОВ
+hud_readytojump | Готов к Прыжку
+hud_recipes_chooseequipment | ВЫБРАТЬ ОБОРУДОВАНИЕ
+hud_recipes_chooseinput | ВЫБРАТЬ ИСТОЧНИК
+hud_recipes_goback | ВЕРНУТЬСЯ
+hud_removefromtrack | [ПКМ] Убрать с конвейера
+hud_repairship | РЕМОНТ
+hud_repairyourship | Вам следует отремонтировать повреждения вашего корабля на ВЕРФИ.
+hud_scoresystem_population | Население
+hud_scoresystem_sectorjump | Прыжок Через Сектор
+hud_sellship | ПРОДАТЬ ВАШ КОРАБЛЬ
+hud_shipforsale | КОРАБЛЬ ПРОДАЕТСЯ
+hud_shipmaximumoccupancy | Максимальная Вместимость Корабля: *X/*Y
+hud_shipyard | Верфь
+hud_shipyard_buildarmour | Установить Броню
+hud_shipyard_buildbuyfromlibrary | Купить корабль
+hud_shipyard_buildhabitation | Добавить Жилой Отсек
+hud_shipyard_buildhull | Построить Корпус
+hud_shipyard_buildinterior | Построить Интерьер
+hud_shipyard_buildrepairall | Починить ВСЕ Повреждения
+hud_shipyard_buildrepairone | Починить 100 Повреждений
+hud_shipyard_buildscaffold | Построить Каркас
+hud_shipyard_costofrepairs | Стоимость ремонта
+hud_shipyard_repairship | Отремонтировать Корабль
+hud_shipyard_selectship | Выберите корабль
+hud_shipyardservices | УСЛУГИ ВЕРФИ
+hud_spacewalking_crew | ВНИМАНИЕ - ЭКИПАЖ В КОСМОСЕ: *X
+hud_status_allocated | Назначено
+hud_status_inprogress | В Процессе
+hud_storage | Хранилище
+hud_storage_cargo | ЛЮБОЙ ГРУЗ
+hud_storage_component | Любые Компоненты
+hud_storage_equipment | ОБОРУДОВАНИЕ
+hud_storagecrate_tooltip_capacity | Вместимость: *X
+hud_storagecrate_tooltip_dumping | Выгрузка *X
+hud_storagecrate_tooltip_quantity | Количество: *X
+hud_storagecrate_tooltip_remaining | Осталось Количество: *X
+hud_storagecrate_tooltip_storing | Хранение *X
+hud_surveyinprogress | ВНИМАНИЕ - ИССЛЕДОВАНИЕ БУДЕТ ОТМЕНЕНО
+hud_tactical | ТАКТИКА ({ToggleTactical})
+hud_techtree_tooltip | Исследуется:
+hud_toandromeda | В ГАЛАКТИКУ АНДРОМЕДЫ
+hud_tooltip_boxed | [УПАКОВАНО]
+hud_tooltip_charge | Зарядить
+hud_tooltip_joinpipes | [ЛКМ] Соединить Трубы
+hud_tooltip_leftclickbuild | [ЛКМ] Построить
+hud_tooltip_leftclickchangerecipe | [ЛКМ] Сменить рецепт
+hud_tooltip_leftclickdismantle | [ЛКМ] Разобрать
+hud_tooltip_leftclickerase | [ЛКМ] Стереть
+hud_tooltip_leftclickplace | [ЛКМ] Разместить
+hud_tooltip_leftclickresearch | [ЛКМ] Исследовать
+hud_tooltip_rightclickcancel | [ПКМ] Отменить
+hud_tooltip_rightclickclear | [ПКМ] Очистить
+hud_tooltip_rightclickconfigure | [ПКМ] Настроить
+hud_tooltip_rightclickdelete | [ПКМ] Удалить
+hud_tooltip_rightclickpurge | [ПКМ] Очистить
+hud_tooltip_rotate | [{RotateObject}] Повернуть
+hud_tooltip_separatepipes | [ЛКМ] Разделить Трубы
+hud_totalconsumption | ОБЩЕЕ ПОТРЕБЛЕНИЕ
+hud_totalproduction | ОБЩЕЕ ПРОИЗВОДСТВО
+hud_trade | Торговля
+hud_trade_hint | Вы должны прибыть в Колонию или на Верфь для торговли
+hud_trade_incoming | ВНИМАНИЕ - ИДЕТ ТОРГОВЛЯ
+hud_trade_owed | ВНИМАНИЕ - ТОРГОВЫЙ ДОЛГ
+hud_uninstall | Разобрать
+hud_window_construction | СТРОИТЕЛЬСТВО
+hud_window_designation | НАЗНАЧЕНИЕ
+hud_window_editor | РЕДАКТОР
+hud_window_ftl | ГИПЕРПРЫЖОК
+hud_window_logistics | ЛОГИСТИКА
+hud_window_missions | КОНТРАКТЫ
+hud_window_orders | ПРИКАЗЫ
+hud_window_power | ЭНЕРГОСЕТЬ
+hud_window_recipes | РЕЦЕПТЫ
+hud_window_score | СЧЕТ
+hud_window_sectormap | КАРТА СЕКТОРА ({ToggleMap})
+hud_window_shipyard | ВЕРФЬ
+hud_window_stargate | ЗВЕЗДНЫЕ ВРАТА
+hud_window_storage | ЗОНЫ ХРАНЕНИЯ
+hud_window_techtree | ИССЛЕДОВАНИЯ
+hud_window_trade | ТОРГОВЛЯ
+hud_zones | Зоны
+hudmode_external | ВНЕШНИЙ
+hudmode_multisystemsimulation | МУЛЬТИСИСТЕМНАЯ СИМУЛЯЦИЯ
+hudmode_tactical | ТАКТИКА
+intergalactic_travel | МЕЖГАЛАКТИЧЕСКОЕ ПУТЕШЕСТВИЕ
+interstellar_travel | МЕЖЗВЕЗДНОЕ ПУТЕШЕСТВИЕ
+keybinding_alttool | Доп. Инструмент Редактора
+keybinding_decreasethrust | Уменьшить Тягу
+keybinding_gamespeed0 | 0.5x Скорость
+keybinding_gamespeed1 | 1x Скорость
