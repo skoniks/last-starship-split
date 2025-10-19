@@ -1042,7 +1042,7 @@ CURRENT,scenario_habitation,2448,Cabins: *X,Каюты: *X
 CURRENT,scenario_armour,2448,Armour: *X%,Броня: *X%
 CURRENT,scenario_noarmour,2448,Armour: None,Броня: Нет
 CURRENT,debugbuildpanel_hull,2448,Hull,Корпус
-CURRENT,debugbuildpanel_scaffold,2448,Scaffold,Леса
+CURRENT,debugbuildpanel_scaffold,2448,Scaffold,Каркас
 CURRENT,debugbuildpanel_interior,2448,Interior,Интерьер
 CURRENT,debugbuildpanel_armour,2448,Armour,Броня
 CURRENT,debugbuildpanel_cable,2448,Cable,Кабель

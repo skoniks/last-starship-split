@@ -44,7 +44,7 @@ debugbuildpanel_habitation | Habitation | Жилье
 debugbuildpanel_hull | Hull | Корпус
 debugbuildpanel_interior | Interior | Интерьер
 debugbuildpanel_pipe | Pipe | Труба
-debugbuildpanel_scaffold | Scaffold | Леса
+debugbuildpanel_scaffold | Scaffold | Каркас
 debugbuildpanel_wall | Wall | Стена
 designation_civilian | Civilian | Гражданский
 designation_crewquarters | Crew Quarters | Каюты Экипажа
@@ -346,7 +346,7 @@ tactical_throttle | THROTTLE | СКОРОСТЬ
 tactical_undock | UNDOCK | ОТСТЫКОВАТЬСЯ
 tactical_velocity | VELOCITY | СКОРОСТЬ
 tactical_weapons | WEAPONS | ОРУЖИЕ
-tagline | THE LAST STARSHIP | ПОСЛЕДНИЙ ЗВЕЗДОЛЕТ
+tagline | THE LAST STARSHIP | THE LAST STARSHIP
 tiddlet_boxed | Boxed | В Ящике
 tiddlet_child | Baby | Малыш
 tiddlets3_summary | Assist the Institute with their experiments | Помочь Институту с их экспериментами
