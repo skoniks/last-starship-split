@@ -2,14 +2,14 @@ galaxymap_civilians | CIVILIANS | ГРАЖДАНСКИЕ
 galaxymap_colony | COLONY | КОЛОНИЯ
 galaxymap_comet | COMET | КОМЕТА
 galaxymap_demo | DEMO | ДЕМО
-galaxymap_derelict | DERELICT | ЗАБРОШЕННЫЙ ОБЪЕКТ
+galaxymap_derelict | DERELICT | ОБЛОМКИ
 galaxymap_distresscall | DISTRESS CALL | СИГНАЛ БЕДСТВИЯ
 galaxymap_endof | END OF | КОНЕЦ
 galaxymap_entrysystem | Arrival | Прибытие
 galaxymap_exitsystem | To Next Sector | В Следующий Сектор
 galaxymap_fleet | YOU ARE HERE | ВЫ ЗДЕСЬ
 galaxymap_fortress | FORTRESS | КРЕПОСТЬ
-galaxymap_hostile | HOSTILES | ВРАЖДЕБНЫЕ СИЛЫ
+galaxymap_hostile | HOSTILES | ВРАГИ
 galaxymap_jumpgate | JUMPGATE | ПРЫЖКОВЫЕ ВРАТА
 galaxymap_noescape | NO ESCAPE | НЕТ ВЫХОДА
 galaxymap_objectives | SECTOR CONTRACTS | КОНТРАКТЫ СЕКТОРА
