@@ -1,14 +1,16 @@
 {
   "scripts": {
-    "index": "node index.js",
-    "build": "node build.js",
-    "watch": "nodemon --watch language.csv --exec 'node dump.js'"
+    "index": "node scripts/index.js",
+    "build": "node scripts/build.js",
+    "double": "node scripts/double.js",
+    "export": "node scripts/export.js",
+    "watch": "nodemon --watch language.csv --exec 'npm run export'"
   },
   "dependencies": {
     "csv": "^6.4.1"
   },
   "devDependencies": {
-    "@types/node": "^24.3.0",
+    "@types/node": "^24.9.1",
     "nodemon": "^3.1.10"
   }
 }

@@ -1,9 +1,10 @@
-const { parse } = require('csv');
+const { parse } = require('csv/sync');
 const { readFileSync } = require('node:fs');
 
-const filter = ['OBSOLETE', 'PREVIOUS'];
-const file = readFileSync('./language.csv', 'utf8');
-parse(file, { columns: true, bom: true }, (err, data) => {
+async function bootstrap() {
+  const filter = ['OBSOLETE', 'PREVIOUS'];
+  const file = readFileSync('./language.csv', 'utf8');
+  const data = parse(file, { columns: true, bom: true });
   data
     .filter(({ state }) => !filter.includes(state))
     .forEach(({ key, english, translation }) => {
@@ -13,4 +14,6 @@ parse(file, { columns: true, bom: true }, (err, data) => {
         console.log(key, ens.length, rus.length);
       }
     });
-});
+}
+
+bootstrap().catch(console.error);

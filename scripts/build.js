@@ -1,16 +1,18 @@
-const { parse, stringify } = require('csv');
+const { parse, stringify } = require('csv/sync');
 const { readFileSync, readdirSync, writeFileSync } = require('node:fs');
 
-const file = readFileSync('./language.csv', 'utf8');
-parse(file, { columns: true, bom: true }, (err, data) => {
+async function bootstrap() {
+  const filter = ['OBSOLETE', 'PREVIOUS'];
+  const file = readFileSync('./language.csv', 'utf8');
+  const data = parse(file, { columns: true, bom: true });
+  //
   for (const subfile of readdirSync('./language')) {
     const content = readFileSync('./language/' + subfile, 'utf8');
     content.split('\n').forEach((line) => {
       if (!line.trim()) return;
       const [newKey, , newTranslation] = line.split(' | ');
       const index = data.findIndex(({ key, state }) => {
-        if (state == 'OBSOLETE') return false;
-        if (state === 'PREVIOUS') return false;
+        if (filter.includes(state)) return false;
         return key === newKey;
       });
       if (index === -1) throw new Error('Key not found: ' + newKey);
@@ -18,8 +20,10 @@ parse(file, { columns: true, bom: true }, (err, data) => {
       console.log(newKey, newTranslation, index);
     });
   }
+  //
   const columns = Object.keys(data[0]);
-  stringify(data, { columns, header: true, bom: true }, (err, output) => {
-    writeFileSync('./language.csv', output, 'utf8');
-  });
-});
+  const output = stringify(data, { columns, header: true, bom: true });
+  writeFileSync('./language.csv', output, 'utf8');
+}
+
+bootstrap().catch(console.error);
