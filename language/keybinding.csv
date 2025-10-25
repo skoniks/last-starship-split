@@ -13,12 +13,12 @@ keybinding_gamespeed9 | 9x Speed | 9x Скорость
 keybinding_hudscaledown | Decrease HUD Scale | Уменьшение Масштаба
 keybinding_hudscaleup | Increase HUD Scale | Увеличение Масштаба
 keybinding_increasethrust | Engines + | Увеличить Тягу
-keybinding_ManoeuvreClockwise | Thrust Clockwise | Вращение По Часовой
-keybinding_ManoeuvreCounterClockwise | Thrust C-Clockwise | Вращение Против Часовой
-keybinding_ManoeuvreDown | Thrust Down | Тяга Вниз
-keybinding_ManoeuvreLeft | Thrust Left | Тяга Влево
-keybinding_ManoeuvreRight | Thrust Right | Тяга Вправо
-keybinding_ManoeuvreUp | Thrust Up | Тяга Вверх
+keybinding_manoeuvreclockwise | Thrust Clockwise | Вращение По Часовой
+keybinding_manoeuvrecounterclockwise | Thrust C-Clockwise | Вращение Против Часовой
+keybinding_manoeuvredown | Thrust Down | Тяга Вниз
+keybinding_manoeuvreleft | Thrust Left | Тяга Влево
+keybinding_manoeuvreright | Thrust Right | Тяга Вправо
+keybinding_manoeuvreup | Thrust Up | Тяга Вверх
 keybinding_pandown1 | Pan Down (1) | Камера Вниз (1)
 keybinding_pandown2 | Pan Down (2) | Камера Вниз (2)
 keybinding_panleft1 | Pan Left (1) | Камера Влево (1)

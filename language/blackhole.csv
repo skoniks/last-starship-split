@@ -90,7 +90,7 @@ blackhole_part3_objective_jumpin | Jump to the stricken ship | Прыгните 
 blackhole_part3_objective_jumpout | Jump away from the black hole | Прыгните прочь от черной дыры
 blackhole_part3_objective_rescue | Rescue Dr. Marcus Martinez | Спасите Доктора Маркуса Мартинеса
 blackhole_part3_objective_stargate | Recover the Stargate data | Восстановите данные Звездных Врат
-blackhole_part3_objective_stargateX | Recover the Stargate data [*X%] | Восстановите данные Звездных Врат [*X%]
+blackhole_part3_objective_stargatex | Recover the Stargate data [*X%] | Восстановите данные Звездных Врат [*X%]
 blackhole_part3_outcomea1 | I'm just glad you're safe. | Я просто рад, что ты в безопасности.
 blackhole_part3_outcomea2 | Thank you so much, Captain. I couldn't have succeeded without your help. I'm so grateful you took my call and were here for us when we needed you. | Большое спасибо, Капитан. Я не смог бы справиться без вашей помощи. Я так благодарен, что вы ответили на мой звонок и были здесь для нас, когда мы нуждались в вас.
 blackhole_part3_outcomea3 | Here's your payment, and a little bonus. | Вот ваша оплата и небольшой бонус.
@@ -118,5 +118,4 @@ blackhole_part3_stargateoutcomec2 | We're sorry to hear about the condition of D
 blackhole_part3_stargateoutcomec3 | Please accept our payment as a sign of our gratitude. We look forward to continuing to work with you. | Пожалуйста, примите нашу оплату как знак нашей благодарности. Мы с нетерпением ждем продолжения работы с вами.
 blackhole_part3_title | Black Hole Sun, Part 3 | Солнце Черной Дыры, Часть 3
 blackhole_shipname_julian | Julian Martinez | Julian Martinez
-blackhole_shipname_marcus | Marcus Martinez | Marcus Martinez
 blackhole_summary | Help Dr. Martinez rescue his brother. | Помогите Доктору Мартинесу спасти его брата.

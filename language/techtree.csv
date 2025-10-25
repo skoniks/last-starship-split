@@ -8,12 +8,12 @@ techtree_boosts | Performance Boosts: | Бонусы Производитель�
 techtree_busy | RESEARCHERS ARE BUSY | ИССЛЕДОВАТЕЛИ ЗАНЯТЫ
 techtree_cannot_afford | CANNOT AFFORD RESEARCH | НЕ ХВАТАЕТ НА ИССЛЕДОВАНИЕ
 techtree_collection | Collection | Коллекция
-techtree_computationPoints | Computation Points: | Очки Вычислений:
-techtree_cost_CP | Cost: *X CP | Стоимость: *X ОВ
-techtree_cost_RP | Cost: *X RP | Стоимость: *X ОИ
-techtree_cost_RP+CP | Cost: *X RP + *Y CP | Стоимость: *X ОИ + *Y ОВ
+techtree_computationpoints | Computation Points: | Очки Вычислений:
+techtree_cost_cp | Cost: *X CP | Стоимость: *X ОВ
+techtree_cost_rp | Cost: *X RP | Стоимость: *X ОИ
+techtree_cost_rp+cp | Cost: *X RP + *Y CP | Стоимость: *X ОИ + *Y ОВ
 techtree_creditsrequired | CREDITS REQUIRED: *X/*Y | ТРЕБУЕТСЯ ЧИПОВ: *X/*Y
-techtree_currentResearch | Currently Researching: | Сейчас Исследуется:
+techtree_currentresearch | Currently Researching: | Сейчас Исследуется:
 techtree_deselect | Deselect | Отменить Выбор
 techtree_editor_reset | RELOAD TREE | ОБНОВИТЬ ДЕРЕВО
 techtree_editor_save | SAVE CHANGES | СОХРАНИТЬ ИЗМЕНЕНИЯ
@@ -21,24 +21,24 @@ techtree_in_progress | RESEARCH IN PROGRESS | ИССЛЕДОВАНИЕ В ПРО
 techtree_lose_progress | Starting a new research project will lose all progress on the current one. | Начало нового исследовательского проекта приведет к тому, что весь прогресс будет утерян.
 techtree_missing_equipment | This research project requires a *X to be completed | Для завершения этого исследовательского проекта требуется *X
 techtree_node_caption_advancedtracks | Unlocks the ability to convert tracks into splitters, and vice versa. Splitters will evenly distribute items between their output directions. | Открывает возможность преобразовать конвейеры в разделители и наоборот. Разделители будут равномерно распределить предметы между выходными направлениями.
-techtree_node_caption_Automation | Unlocks schematics for Tracks and Robot Arms | Открывает чертежи для Конвейеров и Рук Робота
-techtree_node_caption_CompactAutomation | Unlocks schematic for Short Robot Arm | Открывает чертеж для Короткой Руки Робота
+techtree_node_caption_automation | Unlocks schematics for Tracks and Robot Arms | Открывает чертежи для Конвейеров и Рук Робота
+techtree_node_caption_compactautomation | Unlocks schematic for Short Robot Arm | Открывает чертеж для Короткой Руки Робота
 techtree_node_caption_deflectorbeams | Unlocks schematics to build a defensive system that can deflect incoming cannon shells | Открывает чертежи для постройки оборонительной системы, которая может отклонить входящие пушечные снаряды
 techtree_node_caption_droneassembly | Unlocks schematics for construction of Logistics Drones | Открывает чертежи для создания Логистических Дронов
 techtree_node_caption_droneintelligence | Upgrades drones so they collect minerals in batches, greatly speeding up the process | Улучшает дронов, чтобы они собирали минералы пачками, значительно ускоряя процесс
 techtree_node_caption_dronespeed1 | Increases the top speed of Drones by 50% | Увеличивает максимальную скорость Дронов на 50%
 techtree_node_caption_dronespeed2 | Increases the top speed of Drones by 100% | Увеличивает максимальную скорость Дронов на 100%
 techtree_node_caption_dronespeedrepeatable | Spend research credits to continually increase the speed of our drones. | Тратьте чипы данных, чтобы постоянно увеличивать скорость наших дронов.
-techtree_node_caption_EnergyTransmission | Unlocks schematic for Energy Transmitter and Receiver | Открывает чертеж для Передатчика Энергии и Приемника
+techtree_node_caption_energytransmission | Unlocks schematic for Energy Transmitter and Receiver | Открывает чертеж для Передатчика Энергии и Приемника
 techtree_node_caption_habitation | Unlocks efficiency improvements for all areas of life support and crew survival | Открывает улучшения эффективности для всех областей жизнеобеспечения и выживания экипажа
 techtree_node_caption_hydroponics1 | Improves crop yield to produce more food per cycle | Улучшает урожайность для производства большего количества еды за цикл
 techtree_node_caption_hydroponics2 | Further improves crop yield, and unlocks schematics to manufacture Hydroponics Modules | Дополнительно улучшает урожайность и открывает чертежи для производства Гидропонных Модулей
 techtree_node_caption_hydroponicsrepeatable | Spend research credits to continually increase our crop yield. | Тратьте чипы данных, чтобы постоянно увеличивать нашу урожайность.
-techtree_node_caption_Logistics1 | Unlocks schematics for small logistics storage | Открывает чертежи для малого логистического хранилища
-techtree_node_caption_Logistics2 | Unlocks schematics for Medium sized storage | Открывает чертежи для среднего хранилища
-techtree_node_caption_Logistics3 | Unlocks schematics for Large logistics storage | Открывает чертежи для большого логистического хранилища
-techtree_node_caption_Metallurgy1 | Smelters produce 50% more output | Плавильные Печи производят на 50% больше продукции
-techtree_node_caption_Metallurgy2 | Smelters produce 100% more output | Плавильные Печи производят на 100% больше продукции
+techtree_node_caption_logistics1 | Unlocks schematics for small logistics storage | Открывает чертежи для малого логистического хранилища
+techtree_node_caption_logistics2 | Unlocks schematics for Medium sized storage | Открывает чертежи для среднего хранилища
+techtree_node_caption_logistics3 | Unlocks schematics for Large logistics storage | Открывает чертежи для большого логистического хранилища
+techtree_node_caption_metallurgy1 | Smelters produce 50% more output | Плавильные Печи производят на 50% больше продукции
+techtree_node_caption_metallurgy2 | Smelters produce 100% more output | Плавильные Печи производят на 100% больше продукции
 techtree_node_caption_metallurgyrepeatable | Spend research credits to continually increase our smelting efficiency. | Тратьте чипы данных, чтобы постоянно увеличивать эффективность нашей плавки.
 techtree_node_caption_mininglaseraccuracy | Mining Lasers extract twice as many minerals per shot | Шахтерские Лазеры добывают в два раза больше минералов за выстрел
 techtree_node_caption_mininglaseraccuracy2 | Mining Lasers extract three times as many minerals per shot | Шахтерские Лазеры добывают в три раза больше минералов за выстрел
@@ -52,7 +52,7 @@ techtree_node_caption_robotarmspeed | Doubles the speed of all Robot Arms | Уд
 techtree_node_caption_robotarmspeedrepeatable | Spend research credits to continually increase our robot arm speed. | Тратьте чипы данных, чтобы постоянно увеличивать скорость наших рук робота.
 techtree_node_caption_science | Unlocks improvements in all areas of advanced physics | Открывает улучшения во всех областях продвинутой физики
 techtree_node_caption_sectorsurvey | Unlock surveying the current sector for new systems nearby. | Открывает исследование текущего сектора для поиска новых систем поблизости.
-techtree_node_caption_SmartAutomation | Unlocks schematic for Smart Robot Arm | Открывает чертеж для Умной Руки Робота
+techtree_node_caption_smartautomation | Unlocks schematic for Smart Robot Arm | Открывает чертеж для Умной Руки Робота
 techtree_node_caption_stargatepart1 | Unlocks Phase 1 and 2 of the Andromeda Project. | Открывает Фазы 1 и 2 Проекта Андромеда.
 techtree_node_caption_stargatepart2 | Unlocks Phase 3 of the Andromeda Project. | Открывает Фазу 3 Проекта Андромеда.
 techtree_node_caption_stargatepart3 | Unlocks Phases 4 and 5 of the Andromeda Project. | Открывает Фазы 4 и 5 Проекта Андромеда.
@@ -61,24 +61,24 @@ techtree_node_caption_trackspeed2 | Triples the speed of all Tracks | Утраи
 techtree_node_caption_zeleonenergycontainment | Stable Zeleon is a safe, energy-dense gas that could be used for advanced energy storage. | Стабильный Зелеон - это безопасный, энергоемкий газ, который можно использовать для продвинутого хранения энергии.
 techtree_node_caption_zeleongasrefining | The new gas we've observed seems to be quite unstable and is radiating high amounts of energy, our scientists need to find a safe way to collect and stabilise it. | Новый газ, который мы наблюдали, кажется довольно нестабильным и излучает большое количество энергии, наши ученые должны найти безопасный способ собрать и стабилизировать его.
 techtree_node_title_advancedtracks | Advanced Tracks | Продвинутые Конвейеры
-techtree_node_title_Automation | Automation | Автоматизация
-techtree_node_title_CompactAutomation | Compact Robot Arms | Компактные Руки Робота
+techtree_node_title_automation | Automation | Автоматизация
+techtree_node_title_compactautomation | Compact Robot Arms | Компактные Руки Робота
 techtree_node_title_deflectorbeams | Deflector Beams | Лучи Дефлектора
 techtree_node_title_droneassembly | Drone Assembly | Сборка Дронов
 techtree_node_title_droneintelligence | Drone Intelligence | Интеллект Дронов
 techtree_node_title_dronespeed1 | Drone Speed 1 | Скорость Дронов 1
 techtree_node_title_dronespeed2 | Drone Speed 2 | Скорость Дронов 2
 techtree_node_title_dronespeedrepeatable | Drone Speed | Скорость Дронов
-techtree_node_title_EnergyTransmission | Energy Transmission | Передача Энергии
+techtree_node_title_energytransmission | Energy Transmission | Передача Энергии
 techtree_node_title_habitation | Habitation | Выживание
 techtree_node_title_hydroponics1 | Hydroponics 1 | Гидропоника 1
 techtree_node_title_hydroponics2 | Hydroponics 2 | Гидропоника 2
 techtree_node_title_hydroponicsrepeatable | Hydroponics | Гидропоника
-techtree_node_title_Logistics1 | Logistics | Логистика
-techtree_node_title_Logistics2 | Logistics Level 2 | Логистика Уровень 2
-techtree_node_title_Logistics3 | Logistics Level 3 | Логистика Уровень 3
-techtree_node_title_Metallurgy1 | Metallurgy Level 1 | Металлургия Уровень 1
-techtree_node_title_Metallurgy2 | Metallurgy Level 2 | Металлургия Уровень 2
+techtree_node_title_logistics1 | Logistics | Логистика
+techtree_node_title_logistics2 | Logistics Level 2 | Логистика Уровень 2
+techtree_node_title_logistics3 | Logistics Level 3 | Логистика Уровень 3
+techtree_node_title_metallurgy1 | Metallurgy Level 1 | Металлургия Уровень 1
+techtree_node_title_metallurgy2 | Metallurgy Level 2 | Металлургия Уровень 2
 techtree_node_title_metallurgyrepeatable | Metallurgy | Металлургия
 techtree_node_title_mininglaseraccuracy | Mining Laser Precision | Точность Шахтерского Лазера
 techtree_node_title_mininglaseraccuracy2 | Mining Laser Precision 2 | Точность Шахтерского Лазера 2
@@ -92,7 +92,7 @@ techtree_node_title_robotarmspeed | Robot Arm Speed 1 | Скорость Рук�
 techtree_node_title_robotarmspeedrepeatable | Robot Arm Speed | Скорость Руки Робота
 techtree_node_title_science | Science | Наука
 techtree_node_title_sectorsurvey | Sector Surveying | Исследование Сектора
-techtree_node_title_SmartAutomation | Smart Robot Arms | Умные Руки Робота
+techtree_node_title_smartautomation | Smart Robot Arms | Умные Руки Робота
 techtree_node_title_stargatepart1 | Andromeda Project Part 1 | Проект Андромеда Часть 1
 techtree_node_title_stargatepart2 | Andromeda Project Part 2 | Проект Андромеда Часть 2
 techtree_node_title_stargatepart3 | Andromeda Project Part 3 | Проект Андромеда Часть 3
@@ -104,7 +104,8 @@ techtree_node_title_zeleongasrefining | Zeleon Gas | Газ Зелеона
 techtree_refining | Refining | Переработка
 techtree_researchcredit_tooltip | Perform sector scans to find derelict ships that contain research credits. | Проводите сканирования сектора, чтобы найти заброшенные корабли, содержащие чипы данных.
 techtree_researched | RESEARCHED | ИССЛЕДОВАНО
-techtree_researchPoints | Research Points: | Очки Исследований:
+techtree_researchpercent | *X% Complete | *X% Завершено
+techtree_researchpoints | Research Points: | Очки Исследований:
 techtree_rewards | Rewards: | Награды:
 techtree_smelting | Smelting | Плавка
 techtree_spendcredits | Accelerate Research (Cost: 1 Credit ) | Ускорить Исследование (Стоимость: 1 Чип)

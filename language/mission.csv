@@ -310,10 +310,10 @@ mission_type_passengers | Transport passengers | Перевозка
 mission_type_production | Production | Производство
 mission_type_refugees | Refugees | Беженцы
 mission_type_rescue | Rescue | Спасение
-mission_type_SectorDestroy | Destroy Hostile Forces | Уничтожить Вражеские Силы
+mission_type_sectordestroy | Destroy Hostile Forces | Уничтожить Вражеские Силы
 mission_type_sectorevacuate | Evacuate Sector | Эвакуировать Сектор
 mission_type_sectorjumpgate | Jumpgate (Sector) | Прыжковые Врата (Сектор)
-mission_type_SectorProtect | Protect (Sector) | Защитить (Сектор)
-mission_type_SectorRescue | Rescue (Sector) | Спасти (Сектор)
+mission_type_sectorprotect | Protect (Sector) | Защитить (Сектор)
+mission_type_sectorrescue | Rescue (Sector) | Спасти (Сектор)
 mission_type_tutorialflightready | DESTINATION | МЕСТО НАЗНАЧЕНИЯ
 mission_youarehere | YOU ARE HERE | ВЫ ЗДЕСЬ

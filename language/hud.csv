@@ -2,13 +2,16 @@ hud_abortjump | Abort Jump | Отменить Прыжок
 hud_aligning | Aligning... | Выравнивание...
 hud_battlestations | BATTLE STATIONS | БОЕВОЙ РЕЖИМ
 hud_buyship | BUY | КУПИТЬ
+hud_byauthor | BY *X | ОТ *X
 hud_cabins | Cabins: *X/*Y | Каюты: *X/*Y
 hud_camerattracking | Camera Tracking | Слежение Камеры
 hud_collector_tooltip_gathering | Gathering *X *Y per second | Сбор *X *Y в секунду
 hud_collector_tooltip_totalgathered | TOTAL GATHERED | ВСЕГО СОБРАНО
-hud_convertsplittertotrack | [RMB] Convert to track | [ПКМ] Преобразовать в конвейер
-hud_converttracktosplitter | [RMB] Convert to splitter | [ПКМ] Преобразовать в разделитель
+hud_consumingperhour | Consuming *X per hour | Потребление *X в час
+hud_convertsplittertotrack | [CTRL + RMB] Convert to track | [CTRL + ПКМ] Преобразовать в конвейер
+hud_converttracktosplitter | [CTRL + RMB] Convert to splitter | [CTRL + ПКМ] Преобразовать в разделитель
 hud_debugbuild | Debug | Отладка
+hud_dehydrationperperson | Dehydration *X per person | Обезвоживание *X на человека
 hud_deselectlayer | DESELECT SHIP | СНЯТЬ ВЫБОР КОРАБЛЯ
 hud_direction_down | Starboard | Правый Борт
 hud_direction_left | Aft | Корма
@@ -33,8 +36,11 @@ hud_ftlloading | Loading... | Загрузка...
 hud_ftlnodestination | NO DESTINATION | НЕТ ПУНКТА НАЗНАЧЕНИЯ
 hud_ftlshipnotviablewarning | Ship needs either hull or scaffolding to be brought into hyperspace | Кораблю нужен корпус или каркас для перехода в гиперпространство
 hud_ftlwaiting | Waiting... | Ожидание...
+hud_hull_integrity | HULL | КОРПУС
+hud_hungerperperson | Hunger *X per person | Голод *X на человека
 hud_hyperspace | HYPERSPACE | ГИПЕРПРОСТРАНСТВО
 hud_idle | Idle | Ожидание
+hud_idlecrew | Idle Crew | Без Работы
 hud_install | Install | Установить
 hud_invalidplacement | INVALID PLACEMENT | НЕВЕРНОЕ РАЗМЕЩЕНИЕ
 hud_invalidplacement_tooltip | This equipment can not function properly when installed in this position. | Это оборудование не может правильно функционировать при установке в этой позиции.
@@ -46,9 +52,9 @@ hud_jumpgaterequires | JUMPGATE UNAVAILABLE | ПРЫЖКОВЫЕ ВРАТА НЕ
 hud_jumpnextsector | JUMP TO NEXT SECTOR | ПРЫГНУТЬ В СЛЕДУЮЩИЙ СЕКТОР
 hud_jumpthroughstargate | JUMP THROUGH STARGATE | ПРЫГНУТЬ ЧЕРЕЗ ЗВЕЗДНЫЕ ВРАТА
 hud_last_ftl_charge | WARNING - LAST FTL CHARGE\nCANNOT BUY AT DESTINATION | ВНИМАНИЕ - ПОСЛЕДНЕЕ ГИПЕРТОПЛИВО\nНЕВОЗМОЖНО КУПИТЬ В ПУНКТЕ НАЗНАЧЕНИЯ
-hud_layer_derelict | DERELICT | ЗАБРОШЕННЫЙ ОБЪЕКТ
-hud_layer_forsale | [FOR SALE] | [ПРОДАЕТСЯ]
-hud_layer_hostile | HOSTILE | ВРАЖДЕБНЫЕ СИЛЫ
+hud_layer_derelict | DERELICT *X | ЗАБРОШЕННЫЙ *X
+hud_layer_forsale | [FOR SALE] *X | [ПРОДАЕТСЯ] *X
+hud_layer_hostile | HOSTILE *X | ВРАЖДЕБНЫЙ *X
 hud_layer_unnaned_system | UNNAMED | БЕЗЫМЯННЫЙ
 hud_maximumoccupancy | Maximum Occupancy: *X/*Y | Максимальная Вместимость: *X/*Y
 hud_mission_collection | WARNING - MISSION COLLECTION UNDERWAY | ВНИМАНИЕ - ВЫПОЛНЯЕТСЯ СБОР ПО МИССИИ
@@ -78,6 +84,8 @@ hud_panel_storagecrate_permitunload | Allow crew members to unload from this cra
 hud_panel_storagecrate_quantity | The number of items or stacks of the chosen type that is being stored. | Количество предметов или стопок выбранного типа, которые хранятся.
 hud_panel_storagecrate_selecttype | The type that the storage crate will be storing. | Тип, который будет хранить хранилище.
 hud_panel_storagecrate_shiftclick | [SHIFT] x5 Containers | [SHIFT] x5 Контейнеров
+hud_power_battery | BATTERY | БАТАРЕЯ
+hud_power_powershortage | POWER SHORTAGE | МАЛО ЭНЕРГИИ
 hud_preparejump | Prepare Jump | Подготовить Прыжок
 hud_preparingjump | Preparing Jump | Подготовка Прыжка
 hud_ready | READY | ГОТОВ
@@ -90,7 +98,7 @@ hud_repairship | REPAIR | РЕМОНТ
 hud_repairyourship | You should repair the damage to your ship at a SHIPYARD. | Вам следует отремонтировать повреждения вашего корабля на ВЕРФИ.
 hud_scoresystem_population | Population | Население
 hud_scoresystem_sectorjump | Sector Jump | Прыжок Через Сектор
-hud_sellship | SELL YOUR SHIP | ПРОДАТЬ ВАШ КОРАБЛЬ
+hud_sellship | SELL YOUR SHIP | ПРОДАТЬ КОРАБЛЬ
 hud_shipforsale | SHIP FOR SALE | КОРАБЛЬ ПРОДАЕТСЯ
 hud_shipmaximumoccupancy | Ship Maximum Occupancy: *X/*Y | Максимальная Вместимость Корабля: *X/*Y
 hud_shipyard | Shipyard | Верфь
@@ -124,6 +132,8 @@ hud_techtree_tooltip | Researching: | Исследуется:
 hud_toandromeda | TO ANDROMEDA GALAXY | В ГАЛАКТИКУ АНДРОМЕДЫ
 hud_tooltip_boxed | [BOXED] | [УПАКОВАНО]
 hud_tooltip_charge | Charge | Зарядить
+hud_tooltip_currentflooring | Current style: *X | Текущий стиль: *X
+hud_tooltip_gratedflooring | Grated | Рельефный
 hud_tooltip_joinpipes | [LMB] Join Pipes | [ЛКМ] Соединить Трубы
 hud_tooltip_leftclickbuild | [LMB] Build | [ЛКМ] Построить
 hud_tooltip_leftclickchangerecipe | [LMB] Cycle recipe | [ЛКМ] Сменить рецепт
@@ -131,6 +141,7 @@ hud_tooltip_leftclickdismantle | [LMB] Dismantle | [ЛКМ] Демонтиров
 hud_tooltip_leftclickerase | [LMB] Erase | [ЛКМ] Стереть
 hud_tooltip_leftclickplace | [LMB] Place | [ЛКМ] Разместить
 hud_tooltip_leftclickresearch | [LMB] Research | [ЛКМ] Исследовать
+hud_tooltip_normalflooring | Normal | Нормальный
 hud_tooltip_rightclickcancel | [RMB] Cancel | [ПКМ] Отменить
 hud_tooltip_rightclickclear | [RMB] Clear | [ПКМ] Очистить
 hud_tooltip_rightclickconfigure | [RMB] Configure | [ПКМ] Настроить
@@ -138,6 +149,7 @@ hud_tooltip_rightclickdelete | [RMB] Delete | [ПКМ] Удалить
 hud_tooltip_rightclickpurge | [RMB] Purge | [ПКМ] Очистить
 hud_tooltip_rotate | [{RotateObject}] Rotate | [{RotateObject}] Повернуть
 hud_tooltip_separatepipes | [LMB] Separate Pipes | [ЛКМ] Разделить Трубы
+hud_tooltip_switchflooring | [{RotateObject}] Switch flooring style | [{RotateObject}] Переключить стиль напольного покрытия
 hud_totalconsumption | TOTAL CONSUMPTION | ОБЩЕЕ ПОТРЕБЛЕНИЕ
 hud_totalproduction | TOTAL PRODUCTION | ОБЩЕЕ ПРОИЗВОДСТВО
 hud_trade | Trade | Торговля

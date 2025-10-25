@@ -54,11 +54,11 @@ shipeditor_palettelibrary_upload | UPLOAD | ЗАГРУЗИТЬ
 shipeditor_price_button | Cost | Стоимость
 shipeditor_shipyardrequired1 | You must visit a Shipyard | Вы должны посетить Верфь
 shipeditor_shipyardrequired2 | to apply your modifications | чтобы применить ваши изменения
-shipeditor_stat_Capacity | Cabins | Каюты
-shipeditor_stat_Damage | Damage | Урон
-shipeditor_stat_Mass | Mass | Масса
-shipeditor_stat_Toughness | Toughness | Прочность
-shipeditor_stat_Value | Value | Стоимость
+shipeditor_stat_capacity | Cabins | Каюты
+shipeditor_stat_damage | Damage | Урон
+shipeditor_stat_mass | Mass | Масса
+shipeditor_stat_toughness | Toughness | Прочность
+shipeditor_stat_value | Value | Стоимость
 shipeditor_stencil | DECALS | НАКЛЕЙКИ
 shipeditor_stencils_paint | Paints | Краски
 shipeditor_stencils_selectedpaint | Selected Paint | Выбранная Краска

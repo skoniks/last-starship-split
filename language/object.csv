@@ -52,7 +52,7 @@ object_equipment | Equipment | Оборудование
 object_explosives | Explosives | Взрывчатка
 object_fabricator | Fabricator | Фабрикатор
 object_fighter | Fighter | Истребитель
-object_FlightRecorder | Flight Recorder | Бортовой Самописец
+object_flightrecorder | Flight Recorder | Бортовой Самописец
 object_food | Food | Еда
 object_framecomponent | Frame | Рама
 object_ftlcharge | FTL Charge | Гипертопливо
@@ -157,7 +157,7 @@ object_sewagepipe | Sewage Pipe | Канализационная Труба
 object_sewagepipe_description | This pipe extracts sewage from the habitation deck above. You can then pipe the sewage into a storage tank and (eventually) reprocess it back into water.  The Pipe MUST BE DIRECTLY UNDER THE HABITATION DECK to function. | Эта труба извлекает отходы канализации из жилого отсека сверху. Затем вы можете направить отходы канализации в резервуар для хранения и (в конечном итоге) переработать их обратно в воду.  Труба ДОЛЖНА БЫТЬ НЕПОСРЕДСТВЕННО ПОД ЖИЛЫМ ОТСЕКОМ для функционирования.
 object_shieldedcanistercomponent | Shielded Canister | Экранированная Канистра
 object_shieldedzeleoncanister | Shielded Zeleon | Экранированный Зелеон
-object_ShipWreckage | Ship Wreckage | Обломки Корабля
+object_shipwreckage | Ship Wreckage | Обломки Корабля
 object_short_bullets | Ammo | Патроны
 object_short_cannonshell | Shells | Снаряды
 object_short_deuterium | Dtrm | Дейтерий

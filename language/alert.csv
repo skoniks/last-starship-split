@@ -27,6 +27,7 @@ alert_type_hungry | CREW HUNGRY | ЭКИПАЖ ГОЛОДЕН
 alert_type_lowbattery | BATTERY LOW | БАТАРЕИ РАЗРЯЖЕНЫ
 alert_type_lowbattery_caption | *X% | *X%
 alert_type_lowbattery_tooltip | Your batteries have been drained. It is likely your reactors are not creating enough power to meet the needs of your ship. You will need either more Reactors, or more battery storage, or both. | Ваши батареи разряжены. Вероятно, ваши реакторы не вырабатывают достаточно энергии для удовлетворения потребностей вашего корабля. Вам потребуется либо больше Реакторов, либо больше батарей, либо и то, и другое.
+alert_type_lowdeuterium | LOW DEUTERIUM | МАЛО ДЕЙТЕРИЯ
 alert_type_lowfood | LOW FOOD | МАЛО ЕДЫ
 alert_type_lowftl | FTL CHARGES | МАЛО ГИПЕРТОПЛИВА
 alert_type_lowfuel | LOW FUEL | МАЛО ТОПЛИВА

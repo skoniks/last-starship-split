@@ -9,6 +9,7 @@ settings_autosaveonftl | Auto-save when leaving FTL | Автосохранени
 settings_autosaveontimeinterval | Auto-save on time interval | Автосохранение по интервалу времени
 settings_autosaves | AUTOSAVES | СОХРАНЕНИЯ
 settings_credit_tooltip | With thanks to: | С благодарностью:
+settings_credits | CREDITS | ТИТРЫ
 settings_dynamiclighting | Use Dynamic Lighting | Использовать Динамическое Освещение
 settings_effectsvolume | Effects Volume | Громкость Эффектов
 settings_exitsaves_tooltip | When enabled, the current game will create an auto-save when abandoned or when the game is quit. | Когда включено, текущая игра создаст автосохранение при выходе или завершении игры.

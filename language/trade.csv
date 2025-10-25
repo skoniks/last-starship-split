@@ -11,6 +11,8 @@ trade_boxed | Boxed | Упаковано
 trade_buy | BUY | КУПИТЬ
 trade_buying | Buying *X | Покупка *X
 trade_cancelautotrade | CANCEL AUTO-TRADE | ОТМЕНИТЬ АВТОТОРГОВЛЮ
+trade_cancellationcost | CANCELLATION COST | СТОИМОСТЬ ОТМЕНЫ
+trade_canceltrade | CANCEL TRADE AND REFUND | ОТМЕНА СДЕЛКИ И ВОЗВРАТ
 trade_cannot | CANNOT | НЕВОЗМОЖНО
 trade_cannot_afford | CANNOT AFFORD | НЕ ХВАТАЕТ СРЕДСТВ
 trade_cash | Cash | Средства
@@ -29,15 +31,24 @@ trade_equipment_powered | - Powered | - С питанием
 trade_equipment_rotatable | - Rotatable | - Вращается
 trade_equipment_size | - Size *X x *Y | - Размер *X x *Y
 trade_estimatedvalue | ESTIMATED VALUE: | РАСЧЕТНОЕ ЗНАЧЕНИЕ:
+trade_incompletecomponent | INCOMPLETE COMPONENT | НЕЗАВЕРШЕННЫЙ КОМПОНЕНТ
 trade_neworder | NEW ORDER | НОВЫЙ ЗАКАЗ
 trade_nextcollection | NEXT SHUTTLE IN *Xs | СЛЕДУЮЩИЙ ЧЕЛНОК ЧЕРЕЗ *Xс
+trade_order_buy_on_sell_screen | (BUY *X) | (КУПИТЬ *X)
+trade_order_normal | (*X) | (*X)
+trade_order_sack_on_buy_screen | (SACK *X) | (УВОЛИТЬ *X)
+trade_order_sell_on_buy_screen | (SELL *X) | (ПРОДАТЬ *X)
 trade_ourstock | You have *X on-board | У вас на борту *X
 trade_overlay_boxed | [boxed] | [упаковано]
 trade_overlay_price | PRICE | ЦЕНА
 trade_overlay_them | THEM | ОНИ
 trade_overlay_you | YOU | ВЫ
+trade_partiallyfilled | PARTIALLY FILLED | ЧАСТИЧНО ЗАПОЛНЕННО
 trade_profit | Profit | Прибыль
+trade_refundvalue | REFUND VALUE | СТОИМОСТЬ ОТМЕНЫ
 trade_remove | REMOVE | УБРАТЬ
+trade_removeincomplete | REMOVE INCOMPLETE | УБРАТЬ НЕЗАВЕРШЕННОЕ
+trade_removepartiallyfilled | REMOVE PARTIALLY FILLED | УБРАТЬ ЧАСТИЧНО ЗАПОЛНЕННОЕ
 trade_sack | SACK | УВОЛИТЬ
 trade_sacking | Sacking *X | Увольнение *X
 trade_sell | SELL | ПРОДАТЬ
@@ -63,13 +74,13 @@ trade_tooltip_sell | [LMB] Sell | [ЛКМ] Продать
 trade_tooltip_shift | [SHIFT] x5 | [SHIFT] x5
 trade_transaction | *X: *Y | *X: *Y
 trade_waitingfor | Waiting for *X x *Y | Ожидание *X x *Y
-trade_window_Components | Components | Компоненты
-trade_window_Crew | Crew | Экипаж
-trade_window_Defense | Defense | Оборона
-trade_window_Energy | Energy | Энергия
-trade_window_Habitation | Habitation | Выживание
-trade_window_Industry | Industry | Производство
-trade_window_Logistics | Logistics | Логистика
-trade_window_Propulsion | Propulsion | Движение
-trade_window_Resources | Resources | Ресурсы
-trade_window_Science | Science | Наука
+trade_window_components | Components | Компоненты
+trade_window_crew | Crew | Экипаж
+trade_window_defense | Defense | Оборона
+trade_window_energy | Energy | Энергия
+trade_window_habitation | Habitation | Выживание
+trade_window_industry | Industry | Производство
+trade_window_logistics | Logistics | Логистика
+trade_window_propulsion | Propulsion | Движение
+trade_window_resources | Resources | Ресурсы
+trade_window_science | Science | Наука

@@ -2,7 +2,7 @@ powergrid_batteryhint | Install some Batteries to store reserve power from your 
 powergrid_category_battery | BATTERY | БАТАРЕИ
 powergrid_category_defenses | DEFENSES | ОБОРОНА
 powergrid_category_engines | ENGINES | ДВИГАТЕЛИ
-powergrid_category_FTL | FTL | ГИПЕРДВИГАТЕЛИ
+powergrid_category_ftl | FTL | ГИПЕРДВИГАТЕЛИ
 powergrid_category_lifesupport | LIFE SUPPORT | ЖИЗНЕОБЕСПЕЧЕНИЕ
 powergrid_category_logistics | LOGISTICS | ЛОГИСТИКА
 powergrid_category_other | OTHER | ПРОЧЕЕ

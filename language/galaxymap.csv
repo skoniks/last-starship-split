@@ -18,6 +18,7 @@ galaxymap_sectorgone | LOST TO THE ANOMALY | ПОГЛОЩЕНО АНОМАЛИЕ
 galaxymap_sectornumber | SECTOR *X | СЕКТОР *X
 galaxymap_shipyard | SHIPYARD | ВЕРФЬ
 galaxymap_starbase | STARBASE | ЗВЕЗДНАЯ БАЗА
+galaxymap_stargate | STARGATE | ЗВЕЗДНЫЕ ВРАТА
 galaxymap_survivalexit | Reach the STARGATE! | Доберитесь до ЗВЕЗДНЫХ ВРАТ!
 galaxymap_switchsector | Switch Sector View | Переключить Вид Сектора
 galaxymap_title | SECTOR MAP | КАРТА СЕКТОРА

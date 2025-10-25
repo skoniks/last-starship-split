@@ -34,7 +34,7 @@ newmainmenu_exportship | EXPORT SHIP | ЭКСПОРТИРОВАТЬ КОРАБЛ
 newmainmenu_filter | SEARCH... | ПОИСК...
 newmainmenu_importfriendly | IMPORT FRIENDLY | ИМПОРТИРОВАТЬ ДРУЖЕСТВЕННЫЙ
 newmainmenu_importhostile | IMPORT HOSTILE | ИМПОРТИРОВАТЬ ВРАЖЕСКИЙ
-newmainmenu_includedocked | INCLUDE DOCKED SHIPS IN EXPORT | ВКЛЮЧИТЬ ПРИСТЫКОВАННЫЕ КОРАБЛИ В ЭКСПОРТ
+newmainmenu_includedocked | INCLUDE DOCKED SHIPS | ВКЛЮЧИТЬ ПРИСТЫКОВАННЫЕ КОРАБЛИ
 newmainmenu_loadgame | LOAD GAME | ЗАГРУЗИТЬ ИГРУ
 newmainmenu_loadgamedev | LOAD GAME (DEV) | ЗАГРУЗИТЬ ИГРУ (DEV)
 newmainmenu_loadship | LOAD SHIP | ЗАГРУЗИТЬ КОРАБЛЬ
@@ -52,7 +52,9 @@ newmainmenu_quitmessage | We hope you enjoyed playing the demo of The Last Stars
 newmainmenu_resume | RESUME | ПРОДОЛЖИТЬ
 newmainmenu_returntomainmenu | RETURN TO MAIN MENU | ВЕРНУТЬСЯ В ГЛАВНОЕ МЕНЮ
 newmainmenu_savegame | SAVE GAME | СОХРАНИТЬ ИГРУ
-newmainmenu_savetosteamcloud | SAVE TO STEAM CLOUD | СОХРАНИТЬ В STEAM CLOUD
+newmainmenu_saveoptions | Save Options | Параметры сохранения
+newmainmenu_savetosteamcloud | SAVE TO STEAM CLOUD | STEAM CLOUD
+newmainmenu_savetosteamcloud_tooltip | The game will be saved to Steam Cloud when enabled. A warning will show if the save fails. | Игра будет сохраняться в Облаке Steam, если включить эту функцию. При неудачном сохранении появится предупреждение.
 newmainmenu_setshipname | SET SHIP NAME | ЗАДАТЬ ИМЯ КОРАБЛЯ
 newmainmenu_settings | SETTINGS | НАСТРОЙКИ
 newmainmenu_shipeditor | CREATIVE MODE | ТВОРЧЕСКИЙ РЕЖИМ
