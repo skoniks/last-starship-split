@@ -6,10 +6,10 @@ dsi_character_x | Alexander James Elistar | Александр Джеймс Эл
 dsi_character_y | Raymond Darnell | Рэймонд Дарнелл
 dsi_funding_title | Funding Received | Получено Финансирование
 dsi_objective_revenue | Total sales revenue: $*X | Общая выручка от продаж: $*X
-dsi_part1_action_callx | Call X | Позвонить X
+dsi_part1_action_callx | Call X | Связаться X
 dsi_part1_action_deliverframes | Deliver 10 Stargate Frames | Доставить 10 Рам Звездных Врат
 dsi_part1_advert1 | My name is Alexander James Elistar, and I'm the chairman and founder of A.J.E Industries.  I have a business proposition for you.  If you would be interested in setting up a production facility for me, I believe with some luck and a good deal of hard work we can both make substantial returns. | Меня зовут Александр Джеймс Элистар, и я председатель и основатель A.J.E Industries.  У меня есть деловое предложение для вас.  Если вы будете заинтересованы в создании производственного объекта для меня, я верю, что с некоторой удачей и хорошей работой мы оба сможем получить существенную прибыль.
-dsi_part1_advert2 | Please give me a call to discuss the details. | Пожалуйста, позвоните мне, чтобы обсудить детали.
+dsi_part1_advert2 | Please give me a call to discuss the details. | Пожалуйста, свяжитесь со мной, чтобы обсудить детали.
 dsi_part1_call1 | Captain.  Perhaps you are already aware, but there are big plans underway within this sector.  There are designs to build something... incredible, a transportation system with near infinite range, requiring state of the art manufacturing and industry. | Капитан.  Возможно, вы уже знаете, но в этом секторе разрабатываются большие планы.  Есть проекты построить нечто... невероятное, транспортную систему с практически бесконечной дальностью, требующую современнейшего производства и промышленности.
 dsi_part1_call2 | A stargate, big enough for our most massive fleets, shuttling humanity between galaxies as if they were nothing but neighbouring stars.  A new multi-galactic era for humanity. | Звездные Врата, достаточно большие для наших самых массивных флотов, перемещающие человечество между галактиками, как будто они не более чем соседние звезды.  Новая мультигалактическая эра для человечества.
 dsi_part1_call3 | In all my years I've never known so much capital to be allocated to one project. | За все мои годы я никогда не видел, чтобы столько капитала выделялось на один проект.
@@ -35,7 +35,7 @@ dsi_part1_manufactureframes4 | They want us to provide an initial batch of 10 St
 dsi_part1_manufactureframes5 | It shouldn't take too long.  If you run out of metal, remember you can recycle more of the ruined equipment around the facility. | Это не должно занять слишком много времени.  Если у вас закончится металл, помните, что вы можете переработать больше разрушенного оборудования вокруг объекта.
 dsi_part1_objective_accept | Accept Alexander's proposal | Принять предложение Александра
 dsi_part1_objective_addcrew | Add Crew to the station | Добавить Экипаж на станцию
-dsi_part1_objective_callx | Call Alexander about the production facility | Позвонить Александру о производственном объекте
+dsi_part1_objective_callx | Call Alexander about the production facility | Связаться с Александром о производственном объекте
 dsi_part1_objective_dismantleequipment | Dismantle ruined equipment | Демонтировать разрушенное оборудование
 dsi_part1_objective_installairduct | Install Airduct | Установить Воздуховод
 dsi_part1_objective_installassemblytab | Install Assembly Table | Установить Сборочный Стол
@@ -68,7 +68,7 @@ dsi_part1_setupcall4 | Your first job is to send over a skeleton crew, and estab
 dsi_part1_setupstorage1 | Efficiency is going to be the key to this facility turning a profit.  Set up a storage zone for scrap metal near to your Smelter, and another for the Metal Ingots that come out.  Our crew will waste a lot less time carrying goods long distances. | Эффективность будет ключом к тому, чтобы этот объект приносил прибыль.  Настройте зону хранения для металлолома рядом с вашей Плавильной Печью и еще одну для Железных Слитков, которые выходят.  Наш экипаж будет тратить гораздо меньше времени на транспортировку товаров на большие расстояния.
 dsi_part1_stationname | A.J.E Foundry | A.J.E Foundry
 dsi_part1_title | Deep Space Industrialists | Промышленники Дальнего Космоса
-dsi_part2_action_accept | Call X | Позвонить X
+dsi_part2_action_accept | Call X | Связаться X
 dsi_part2_action_askaboutisotopes | Ask about Stable Isotopes | Спросить о Стабильных Изотопах
 dsi_part2_action_buyship | Buy gas fuselage | Купить Gas Capture
 dsi_part2_action_takecontrol | Take control of station | Взять контроль над станцией
@@ -77,7 +77,10 @@ dsi_part2_actuatorsintro2 | The Stargate Actuators are made on the Assembly Tabl
 dsi_part2_actuatorsintro3 | You'll need to mine Metallic Minerals and Copper Minerals, then melt those materials into ingots in an array of Smelters.  You can then fabricate the Motors and Frames, and finally assemble them into Stargate Actuators. | Вам нужно будет добыть Железную Руду и Медную Руду, затем переплавить эти материалы в слитки в массиве Плавильных Печей.  Затем вы можете изготовить Двигатели и Рамы, и наконец собрать их в Приводы Звездных Врат.
 dsi_part2_actuatorsintro4 | I'll release some more of the seed capital to cover the costs of the upgrade, but you can take care of the details. | Я выделю еще немного стартового капитала для покрытия расходов на модернизацию, но вы можете позаботиться о деталях.
 dsi_part2_actuatorsintro5 | One last thing, Captain.  I'm sure you've noticed, we aren't exactly surrounded by asteroids here.  I suggest you pair the station up with one of your FTL capable vessels, and jump them both to a suitable mining location.  You can leave the station there to do its work. | И последнее, Капитан.  Я уверен, вы заметили, что мы здесь не совсем окружены астероидами.  Я предлагаю вам соединить станцию с одним из ваших кораблей, способных к гиперпрыжкам, и переместить их обоих в подходящее место для добычи.  Вы можете оставить станцию там выполнять свою работу.
-dsi_part2_advertisement | Captain, I think it's time we resumed work on the Stargate contract.  I've had a look ahead and the next phase is a huge step up.  Give me a call when you're ready to continue work. | Капитан, я думаю, пришло время возобновить работу над контрактом Звездные Врата.  Я заглянул вперед, и следующая фаза - это огромный шаг вперед.  Позвоните мне, когда будете готовы продолжить работу.
+dsi_part2_advertisement | Captain, I think it's time we resumed work on the Stargate contract.  I've had a look ahead and the next phase is a huge step up.  Give me a call when you're ready to continue work. | Капитан, я думаю, пришло время возобновить работу над контрактом Звездные Врата.  Я заглянул вперед, и следующая фаза - это огромный шаг вперед.  Свяжитесь со мной, когда будете готовы продолжить работу.
+dsi_part2_dogmavessel1 | D.O.G.M.A Spartan | D.O.G.M.A Spartan
+dsi_part2_dogmavessel2 | D.O.G.M.A Citadel | D.O.G.M.A Citadel
+dsi_part2_dogmavessel3 | D.O.G.M.A Centurion | D.O.G.M.A Centurion
 dsi_part2_firstpartcomplete | Excellent work, Captain.  On time and to specification, as usual.  The Andromeda Project have enough of that item now, so you may as well stop production and save the energy and materials. | Отличная работа, Капитан.  Вовремя и по спецификации, как обычно.  У Проекта Андромеда теперь достаточно этого элемента, так что вы можете остановить производство и сэкономить энергию и материалы.
 dsi_part2_introcall1 | Welcome back, Captain.  I've been taking a look at the schematics published by the Andromeda Project, and the next phase is going to need a huge upgrade to our facilities. | С возвращением, Капитан.  Я изучал схемы, опубликованные Проектом Андромеда, и следующая фаза потребует огромной модернизации наших мощностей.
 dsi_part2_introcall2 | However, nothing they're asking us to produce is impossible, and I have a strong personal interest in seeing this project completed.  The sooner the better. | Однако ничто из того, что они просят нас произвести, не является невозможным, и у меня есть сильный личный интерес увидеть завершение этого проекта.  Чем скорее, тем лучше.

@@ -1,6 +1,6 @@
 settings_accentinsensitivesearch | Accent Insensitive Search | Поиск Без Учета Акцентов
 settings_accentinsensitivesearch_description | When searching in lists, ignore accented characters, e.g. "é" will match "e" | При поиске в списках игнорировать символы с диакритическими знаками, например "é" будет соответствовать "e"
-settings_analytics | Analytics | Сбор Анилитически
+settings_analytics | Analytics | Отправка Статистики
 settings_analytics_tooltip | We need to collect usage data to help us to better understand how people are playing and to help us to improve the game. \n\nWe do not collect any personally identifiable information.\n\nTo find out more visit Legal Information (bottom of the screen) | Нам необходимо собирать данные об использовании, чтобы лучше понимать, как люди играют, и помочь нам улучшить игру. \n\nМы не собираем никакой личной информации.\n\nЧтобы узнать больше, посетите Правовую Информацию (внизу экрана)
 settings_appearance | APPEARANCE | ИНТЕРФЕЙС
 settings_arraytextures | Use Array Textures | Использовать Массивы Текстур

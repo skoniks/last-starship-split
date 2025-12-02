@@ -1,9 +1,13 @@
 trade_afford | AFFORD | ДОСТУПНО
 trade_all | ALL | ВСЕ
 trade_allitems | ALL ITEMS | ВСЕ ПРЕДМЕТЫ
-trade_autobuyat | BUY BELOW | ПОКУПАТЬ НИЖЕ
+trade_autobuyat | BUY BELOW | ПОКУПАТЬ МЕНЬШЕ
+trade_autodisembarkat | DISEMBARK BELOW | ВЫСАЖИВАТЬ БОЛЬШЕ
+trade_autoembarkat | EMBARK BELOW | ПРИНИМАТЬ МЕНЬШЕ
+trade_autohireat | HIRE BELOW | НАНИМАТЬ МЕНЬШЕ
 trade_automatic | AUTO TRADE | АВТОТОРГОВЛЯ
-trade_autosellat | SELL ABOVE | ПРОДАВАТЬ ВЫШЕ
+trade_autosackat | SACK ABOVE | УВОЛЬНЯТЬ БОЛЬШЕ
+trade_autosellat | SELL ABOVE | ПРОДАВАТЬ БОЛЬШЕ
 trade_autotrade | AUTO-TRADE | АВТОТОРГОВЛЯ
 trade_autotradecancelled | LAST ORDER CANCELLED | ПОСЛЕДНИЙ ЗАКАЗ ОТМЕНЕН
 trade_autotradedisabled | DISABLED IN ORDER MENU | ОТКЛЮЧЕНО В МЕНЮ ЗАКАЗОВ
@@ -25,16 +29,25 @@ trade_cost | Cost | Стоимость
 trade_dangercivilians | Civilians are offering larger sums than normal for safe transit out of the sector | Гражданские предлагают большие суммы, чем обычно, за безопасный транзит из сектора
 trade_dangerdeflation | Prices for hardware and crew are lower than normal, due to panic | Цены на оборудование и экипаж ниже обычных из-за паники
 trade_dangerproximity | Shortages of critical resources have made prices higher than normal | Нехватка критических ресурсов привела к росту цен выше обычного
+trade_disembark | DISEMBARK | ВЫСАДКА
+trade_disembarking | Disembarking *X | Высадка *X
+trade_embark | EMBARK | ПОСАДКА
+trade_embarking | Embarking *X | Посадка *X
 trade_enabled | ENABLED | ВКЛЮЧЕНО
 trade_equipment_charge | - Charge (per use) : *X MW | - Заряд (на использование) : *X МВт
 trade_equipment_powered | - Powered | - С питанием
 trade_equipment_rotatable | - Rotatable | - Вращается
 trade_equipment_size | - Size *X x *Y | - Размер *X x *Y
 trade_estimatedvalue | ESTIMATED VALUE: | РАСЧЕТНОЕ ЗНАЧЕНИЕ:
+trade_hire | HIRE | НАЙМИ
+trade_hiring | Hiring *X | Найм *X
 trade_incompletecomponent | INCOMPLETE COMPONENT | НЕЗАВЕРШЕННЫЙ КОМПОНЕНТ
 trade_neworder | NEW ORDER | НОВЫЙ ЗАКАЗ
 trade_nextcollection | NEXT SHUTTLE IN *Xs | СЛЕДУЮЩИЙ ЧЕЛНОК ЧЕРЕЗ *Xс
 trade_order_buy_on_sell_screen | (BUY *X) | (КУПИТЬ *X)
+trade_order_disembark_on_buy_screen | (DISEMBARK *X) | (ВЫСАДИТЬ *X)
+trade_order_embark_on_sell_screen | (EMBARK *X) | (ПОСАДИТЬ *X)
+trade_order_hire_on_sell_screen | (HIRE *X) | (НАНЯТЬ *X)
 trade_order_normal | (*X) | (*X)
 trade_order_sack_on_buy_screen | (SACK *X) | (УВОЛИТЬ *X)
 trade_order_sell_on_buy_screen | (SELL *X) | (ПРОДАТЬ *X)
@@ -66,6 +79,9 @@ trade_tooltip_canceltrade | [LMB] Cancel | [ЛКМ] Отменить
 trade_tooltip_clear | [RMB] Clear | [ПКМ] Очистить
 trade_tooltip_control | [CTRL] All | [CTRL] Все
 trade_tooltip_disableorder | [CTRL + RMB] Disable | [CTRL + ПКМ] Отключить
+trade_tooltip_disembark | [LMB] Disembark | [LMB] Высадить
+trade_tooltip_embark | [LMB] Embark | [LMB] Посадить
+trade_tooltip_hire | [LMB] Hire | [LMB] Нанять
 trade_tooltip_remove | [RMB] Remove | [ПКМ] Убрать
 trade_tooltip_remove_rmb | [RMB] Remove | [ПКМ] Убрать
 trade_tooltip_reset | [RMB] Reset | [ПКМ] Сбросить

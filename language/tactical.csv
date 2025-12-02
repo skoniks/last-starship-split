@@ -1,0 +1,23 @@
+tactical_damaged | DAMAGED | ПОВРЕЖДЕН
+tactical_detach_all | DETACH ALL | ОТСТЫКОВАТЬ ВСЕ
+tactical_docked | --- DOCKED --- | --- ПРИСТЫКОВАН ---
+tactical_dockingassistant | DOCKING ASSIST | ПОМОШНИК СТЫКОВКИ
+tactical_evasion | EVASION | УКЛОНЕНИЕ
+tactical_fire | FIRE | ОГОНЬ
+tactical_fleetcombat | FLEET COMBAT AI | БОЙ ФЛОТА AI
+tactical_fleetformation | FLEET FORMATION | ФОРМАЦИЯ ФЛОТА
+tactical_hold | HOLD | УДЕРЖАНИЕ
+tactical_lowpower | LOW POWER | НИЗКАЯ МОЩНОСТЬ
+tactical_maneuvering | MANEUVERING | МАНЕВРИРОВАНИЕ
+tactical_off | OFF | ВЫКЛ
+tactical_on | ON | ВКЛ
+tactical_reloading | RELOADING | ПЕРЕЗАРЯДКА
+tactical_throttle | THROTTLE | СКОРОСТЬ
+tactical_tooltip_auto | AUTO-TARGETTING\n[LMB] Enable auto-targetting\n[RMB] Disable auto-targetting | АВТОНАВОДКА\n[LMB] Включить автонаводку\n[RMB] Отключить автонаводку
+tactical_tooltip_dockingassistant | When enabled, the Docking Assistant will perform the final maneuovers required to dock your ship with another, once you are close enough.\n\nIt is recommended you disable Fleet Formation when attempting to dock. | Если включить эту функцию, помощник по стыковке выполнит последние маневры, необходимые для стыковки твоего корабля с другим, как только ты окажешься достаточно близко.\n\nПри попытке стыковки рекомендуется отключить функцию Формация Флота.
+tactical_tooltip_fleetcombat | When enabled, your other fleet ships will take care of themselves during combat, moving to optimal range and engaging as best they can. | Когда эта функция включена, другие корабли твоего флота будут сами заботиться о себе во время боя, перемещаясь на оптимальную дистанцию и вступая в бой как можно лучше.
+tactical_tooltip_fleetformation | When enabled, all of the fleet ships within a system will fly together in close formation, following the lead of whichever ship you are directly controlling. | Когда эта функция включена, все корабли флота в пределах системы будут летать вместе в тесном строю, следуя за лидером того корабля, которым ты непосредственно управляешь.
+tactical_tooltip_weapon | [LMB] Select weapon\n[SHIFT-LMB] Select multiple weapons\n[RMB] Clear current target | [LMB] Выбрать оружие\n[SHIFT-LMB] Выбрать несколько видов оружия\n[RMB] Очистить текущую цель
+tactical_undock | UNDOCK | ОТСТЫКОВАТЬСЯ
+tactical_velocity | VELOCITY | СКОРОСТЬ
+tactical_weapons | WEAPONS | ОРУЖИЕ

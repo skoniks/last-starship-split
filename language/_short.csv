@@ -2,11 +2,13 @@ action_closedoors | Close All Doors | Закрыть Все Двери
 action_closevents | Close All Vents | Закрыть Все Клапаны
 action_opendoors | Open All Doors | Открыть Все Двери
 action_openvents | Open All Vents | Открыть Все Клапаны
+advancedlogisticswindow_title | INTERSTELLAR LOGISTICS | МЕЖЗВЕЗДНАЯ ЛОГИСТИКА
 analyticsconsentdialog_accept | Accept | Принять
 analyticsconsentdialog_moreinfo | More Info... | Подробнее...
 analyticsconsentdialog_reject | Reject | Отклонить
 analyticsconsentdialog_text | We need to collect usage data to help us to better understand how people are playing and to help us to improve the game. \n\nWe do not collect any personally identifiable information. If you are OK with this please hit the Accept button. | Нам необходимо собирать данные об использовании, чтобы лучше понимать, как люди играют, и улучшать игру. \n\nМы не собираем никакой личной информации. Если вы согласны с этим, пожалуйста, нажмите кнопку Принять.
 analyticsconsentdialog_title | Collection of Telemetry Data | Сбор Телеметрических Данных
+andromeda_travel | ANDROMEDA JOURNEY | ПУТЕШЕСТВИЕ В АНДРОМЕДУ
 award_rewards | Rewards | Награды
 battle_title | BATTLE | БИТВА
 boost_airrecyclingefficiency | Air Recycling Efficiency +*X% | Эффективность Переработки Воздуха +*X%
@@ -128,6 +130,7 @@ ftl_galacticjump | This will be the final journey of your fleet.\nBe prepared fo
 hudmode_external | EXTERNAL | ВНЕШНИЙ
 hudmode_multisystemsimulation | MULTISYSTEM SIMULATION | МУЛЬТИСИСТЕМНАЯ СИМУЛЯЦИЯ
 hudmode_tactical | TACTICAL | ТАКТИКА
+industryend_message | Now the Andromeda HQ has been captured, Harken and the Intergalactic Security Council will dismantle the Andromeda Project conglomerate and regain control of the Stargate, for the benefit of all mankind.  A new chapter has begun, as mankind spreads beyond our home galaxy and into the future. | Теперь штаб-квартира "Андромеды" захвачена, Харкен и Межгалактический совет безопасности ликвидируют конгломерат Проекта Андромеда и вернут себе контроль над Звездными вратами на благо всего человечества.  Началась новая глава, когда человечество выходит за пределы нашей родной галактики и устремляется в будущее.
 intergalactic_travel | INTERGALACTIC TRAVEL | МЕЖГАЛАКТИЧЕСКОЕ ПУТЕШЕСТВИЕ
 interstellar_travel | INTERSTELLAR TRAVEL | МЕЖЗВЕЗДНОЕ ПУТЕШЕСТВИЕ
 language_helpustranslate | Help Us Translate! | Помогите Нам С Переводом!
@@ -137,9 +140,6 @@ loader_auto | AUTO | АВТО
 loader_mode_load | Load | Загрузить
 loader_mode_stop | Stop | Стоп
 loader_mode_unload | Unload | Выгрузить
-logistics_tooltip_cancel_transfer | [RMB] Cancel 1 from *X | [ПКМ] Отменить 1 из *X
-logistics_tooltip_modifiers | Modifiers: | Модификаторы:
-logistics_tooltip_transfer | [LMB] Transfer 1 from *X | [ЛКМ] Передать 1 из *X
 logisticswindow_title | LOGISTICS | ЛОГИСТИКА
 missions_title | CONTRACTS | КОНТРАКТЫ
 newplayerhelp_fuelpipe | <FUEL PIPE | <ТОПЛИВНАЯ ТРУБА
@@ -184,6 +184,7 @@ opentextcrawlstory_4 | Powerful corporations dominate entire regions, but beyond
 opentextcrawlstory_5 | The CEO of the INTERSTELLAR MINING CORPORATION has issued a daring challenge: build a stargate powerful enough to reach our nearest galaxy. | Генеральный директор INTERSTELLAR MINING CORPORATION бросил дерзкий вызов: построить звездные врата, достаточно мощные, чтобы достичь нашей ближайшей галактики.
 opentextcrawlstory_6 | With trillions in funding up for grabs, the stage is set for fearless adventurers to forge their own path in the cosmos. | С триллионами финансирования, готовыми к захвату, сцена подготовлена для бесстрашных искателей приключений, чтобы проложить свой собственный путь в космосе.
 opentextcrawlstory_7 | Will you rise to the challenge, and chart your own course among the stars? | Примете ли вы вызов и проложите свой собственный курс среди звезд?
+order_advancedlogistics | Interstellar Logistics | Межзвездная логистика
 order_autotradeactive | Auto Trade | Автоторговля
 order_battlestations | Battle Stations | Боевая Тревога
 order_exteriorwork | Exterior Work | Внешние Работы
@@ -288,6 +289,7 @@ soundparametereditor_smoothing | Smoothing | Сглаживание
 soundparametereditor_title | Sound Parameter | Параметр Звука
 soundparametereditor_typetitle | Type | Тип
 soundparametereditor_updatetitle | Update Type | Тип Обновления
+special_advancedlogistics | Interstellar Logistics | Межзвездная логистика
 special_dronebatchcollection | Drone Batch Collection | Пакетный Сбор Дронами
 special_mininglaseraccuracy | Mining Laser Precision | Точность Шахтерского Лазера
 special_mininglaseraccuracy2 | Mining Laser Precision 2 | Точность Шахтерского Лазера 2
@@ -298,30 +300,12 @@ special_stargatepart3 | Andromeda Project Phases 4, 5 | Проект Андро�
 special_tracksplitter | Splitter Tracks | Конвейеры Разделителя
 speed_paused | PAUSED | ПАУЗА
 speed_slow | SLOW | МЕДЛЕННО
-stargate_available_subtitle | Phase *X Available | Фаза *X Доступна
-stargate_award_subtitle | Phase *X Completed | Фаза *X Завершена
-stargate_award_title | STARGATE PROGRESS | ПРОГРЕСС ЗВЕЗДНЫХ ВРАТ
-stargate_energy_received | RECEIVED: *X MW | ПОЛУЧЕНО: *X МВт
-stargate_energy_required | REQUIRED: *X MW | ТРЕБУЕТСЯ: *X МВт
-stargate_help | To submit completed parts to the stargate project, sell them at any trade outpost in the sector | Чтобы передать завершенные части проекту Звездных Врат, продайте их на любом торговом посту в секторе
-stargate_jumping | JUMP IN PROGRESS | ПРЫЖОК ВЫПОЛНЯЕТСЯ
-stargate_power_button | START | СТАРТ
-stargate_power_fraction | SUPPLIED:\n*X MW / *Y MW | ПОДАНО:\n*X МВт / *Y МВт
-stargate_power_on_failed | FAILED | ПРОВАЛ
-stargate_powered_off | POWERED OFF | ОТКЛЮЧЕНО
-stargate_powering_on | STARTING UP | ЗАПУСК
-stargate_ready_for_jump | READY FOR JUMP | ГОТОВЫ К ПРЫЖКУ
-stargate_testfire_help | Captain, the Stargate is ready for its first test. If supplied with enough power it should provide us access to a nearby uncharted sector. | Капитан, Звездные Врата готовы к первому тесту. Если будет подано достаточно энергии, они должны предоставить нам доступ к близлежащему неисследованному сектору.
-stargate_unknowncomponent | Unknown Component | Неизвестный компонент
-stargate_unknowncomponent_description | Unlock this component through research! | Разблокируй этот компонент с помощью исследований!
-stargate_unlocked_subtitle | Stargate window unlocked | Окно Звездных Врат разблокировано
-stargate_warming_up | WARMING UP | РАЗОГРЕВ
 stargatesectorwarning_harken_1 | Captain, the new sector needs to be surveyed before your sector map is populated with systems. We have a full scan underway for the sector, once it's completed more locations will be marked on your map. | Капитан, новый сектор необходимо исследовать, прежде чем ваша карта сектора будет заполнена системами. Мы проводим полное сканирование сектора, как только оно будет завершено, на вашей карте появятся новые локации.
 stargatesectorwarning_harken_2 | In the systems surveyed so far we've found new resources and severe weather systems, which may be just a glimpse into what awaits us in this sector. | В системах, исследованных до сих пор, мы нашли новые ресурсы и суровые погодные системы, что может быть лишь проблеском того, что ждет нас в этом секторе.
 stargatesectorwarning_harken_3 | Who knows what you may find out here. Be careful, Captain. | Кто знает, что вы можете найти здесь. Будьте осторожны, Капитан.
 stations_title | STATIONS | СТАНЦИИ
 steamstore_button | Visit Steam Store | Посетить Магазин Steam
-survey_captionmultiple | *X layers surveying | *X слоев исследуют
+survey_captionmultiple | *X ships surveying | *X обследование кораблей
 survey_captionnone | No survey in progress | Исследование не ведется
 survey_captionsingle | Surveyed by *X | Исследуется *X
 survey_completed | SURVEY COMPLETED | ИССЛЕДОВАНИЕ ЗАВЕРШЕНО
@@ -340,19 +324,6 @@ survey_type_nebula | Nebula | Туманность
 survey_type_storm | Storm | Шторм
 survivalend_quitmessage | After a long and perilous journey, the survivors emerged into a new and uncharted galaxy.  Those left behind faced a desperate, nomadic life.  But those that made the jump face an even more uncertain future.  Humanity's survival remains on a knife edge... | После долгого и опасного путешествия выжившие оказались в новой и неизведанной галактике.  Те, кто остался позади, столкнулись с отчаянной кочевой жизнью.  Но те, кто совершил прыжок, сталкиваются с еще более неопределенным будущим.  Выживание человечества остается на грани...
 survivalend_quitmessage1 | We hope you enjoyed playing the demo of The Last Starship. Your journey has just begun!  Unlock the full game to explore more Story Episodes, Survival Mode, Arena Mode, a full Ship Editor and more! | Мы надеемся, что вам понравилось играть в демо-версию The Last Starship. Ваше путешествие только началось!  Разблокируйте полную версию игры, чтобы исследовать больше Сюжетных Эпизодов, Режим Выживания, Режим Арены, полный Редактор Кораблей и многое другое!
-tactical_damaged | DAMAGED | ПОВРЕЖДЕН
-tactical_detach_all | DETACH ALL | ОТСТЫКОВАТЬ ВСЕ
-tactical_docked | --- DOCKED --- | --- ПРИСТЫКОВАН ---
-tactical_evasion | EVASION | УКЛОНЕНИЕ
-tactical_fire | FIRE | ОГОНЬ
-tactical_hold | HOLD | УДЕРЖИВАТЬ
-tactical_lowpower | LOW POWER | НИЗКАЯ МОЩНОСТЬ
-tactical_maneuvering | MANEUVERING | МАНЕВРИРОВАНИЕ
-tactical_reloading | RELOADING | ПЕРЕЗАРЯДКА
-tactical_throttle | THROTTLE | СКОРОСТЬ
-tactical_undock | UNDOCK | ОТСТЫКОВАТЬСЯ
-tactical_velocity | VELOCITY | СКОРОСТЬ
-tactical_weapons | WEAPONS | ОРУЖИЕ
 tagline | THE LAST STARSHIP | THE LAST STARSHIP
 tiddlet_boxed | Boxed | В Ящике
 tiddlet_child | Baby | Малыш

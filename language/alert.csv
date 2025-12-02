@@ -24,6 +24,8 @@ alert_type_hullbreach | HULL BREACH | ПРОЛОМ КОРПУСА
 alert_type_hullbreach_caption | Repair *X% | Ремонт *X%
 alert_type_hullbreach_tooltip | There is a hole in your ship hull and the cabin is depressurising. Your crew will fix the breach, but you should consider closing your Door Vents to seal off the area. | В корпусе вашего корабля есть пробоина, и салон разгерметизируется. Ваш экипаж устранит пробоину, но вам следует закрыть Клапаны Дверей, чтобы изолировать область.
 alert_type_hungry | CREW HUNGRY | ЭКИПАЖ ГОЛОДЕН
+alert_type_interstellarlogistics | INTERSTELLAR LOGISTICS | МЕЖЗВЕЗДНАЯ ЛОГИСТИКА
+alert_type_interstellarlogistics_caption | Orders stuck | Заказы застряли
 alert_type_lowbattery | BATTERY LOW | БАТАРЕИ РАЗРЯЖЕНЫ
 alert_type_lowbattery_caption | *X% | *X%
 alert_type_lowbattery_tooltip | Your batteries have been drained. It is likely your reactors are not creating enough power to meet the needs of your ship. You will need either more Reactors, or more battery storage, or both. | Ваши батареи разряжены. Вероятно, ваши реакторы не вырабатывают достаточно энергии для удовлетворения потребностей вашего корабля. Вам потребуется либо больше Реакторов, либо больше батарей, либо и то, и другое.

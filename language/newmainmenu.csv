@@ -18,6 +18,7 @@ newmainmenu_cancel | CANCEL | ОТМЕНА
 newmainmenu_chooseship | CHOOSE STARTING SHIP | ВЫБЕРИТЕ СТАРТОВЫЙ КОРАБЛЬ
 newmainmenu_cloudquotaremaining | Used: *X / *Y (*Z% remaining) | Использовано: *X / *Y (осталось *Z%)
 newmainmenu_confirm | CONFIRM | ПОДТВЕРДИТЬ
+newmainmenu_continue | CONTINUE GAME | ПРОДОЛЖИТЬ ИГРУ
 newmainmenu_createnewexport | CREATE NEW EXPORT | СОЗДАТЬ НОВЫЙ ЭКСПОРТ
 newmainmenu_createnewsave | CREATE NEW SAVE | СОЗДАТЬ НОВОЕ СОХРАНЕНИЕ
 newmainmenu_createnewupload | CREATE NEW WORKSHOP ITEM | СОЗДАТЬ НОВЫЙ ЭЛЕМЕНТ МАСТЕРСКОЙ

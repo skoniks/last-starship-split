@@ -7,16 +7,12 @@ hud_cabins | Cabins: *X/*Y | Каюты: *X/*Y
 hud_camerattracking | Camera Tracking | Слежение Камеры
 hud_collector_tooltip_gathering | Gathering *X *Y per second | Сбор *X *Y в секунду
 hud_collector_tooltip_totalgathered | TOTAL GATHERED | ВСЕГО СОБРАНО
-hud_consumingperhour | Consuming *X per hour | Потребление *X в час
+hud_consumingperhour | Consuming *X per day | Потребление *X в день
 hud_convertsplittertotrack | [CTRL + RMB] Convert to track | [CTRL + ПКМ] Преобразовать в конвейер
 hud_converttracktosplitter | [CTRL + RMB] Convert to splitter | [CTRL + ПКМ] Преобразовать в разделитель
 hud_debugbuild | Debug | Отладка
 hud_dehydrationperperson | Dehydration *X per person | Обезвоживание *X на человека
 hud_deselectlayer | DESELECT SHIP | СНЯТЬ ВЫБОР КОРАБЛЯ
-hud_direction_down | Starboard | Правый Борт
-hud_direction_left | Aft | Корма
-hud_direction_right | Forward | Нос
-hud_direction_up | Port | Левый Борт
 hud_disabled | Disabled | Отключено
 hud_drones_deployed | WARNING - DRONES DEPLOYED: *X | ВНИМАНИЕ - ДРОНЫ В КОСМОСЕ: *X
 hud_editor | EDITOR | РЕДАКТОР
@@ -34,8 +30,14 @@ hud_ftlexcluded | Stay | Остаться
 hud_ftlincluded | Jump | Прыгнуть
 hud_ftlloading | Loading... | Загрузка...
 hud_ftlnodestination | NO DESTINATION | НЕТ ПУНКТА НАЗНАЧЕНИЯ
+hud_ftlshipblockedfromftl | Ship cannot enter hyperspace with your fleet | Корабль не может войти в гиперпространство вместе с вашим флотом
 hud_ftlshipnotviablewarning | Ship needs either hull or scaffolding to be brought into hyperspace | Кораблю нужен корпус или каркас для перехода в гиперпространство
 hud_ftlwaiting | Waiting... | Ожидание...
+hud_gun_aft | Aft *X | *X на Корме
+hud_gun_forward | Forward *X | *X на Носу
+hud_gun_gattling | PDC | ПУЛЕМЕТ
+hud_gun_port | Port *X | *X по Левому Борту
+hud_gun_starboard | Starboard *X | *X по Правому Борту
 hud_hull_integrity | HULL | КОРПУС
 hud_hungerperperson | Hunger *X per person | Голод *X на человека
 hud_hyperspace | HYPERSPACE | ГИПЕРПРОСТРАНСТВО
@@ -161,6 +163,7 @@ hud_window_construction | CONSTRUCTION | СТРОИТЕЛЬСТВО
 hud_window_designation | DESIGNATION | НАЗНАЧЕНИЕ
 hud_window_editor | EDITOR | РЕДАКТОР
 hud_window_ftl | FTL | ГИПЕРПРЫЖОК
+hud_window_interstellarlogistics | INTERSTELLAR LOGISTICS | МЕЖЗВЕЗДНАЯ ЛОГИСТИКА
 hud_window_logistics | LOGISTICS | ЛОГИСТИКА
 hud_window_missions | CONTRACTS | КОНТРАКТЫ
 hud_window_orders | ORDERS | ПРИКАЗЫ

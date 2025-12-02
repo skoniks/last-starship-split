@@ -1,0 +1,58 @@
+logistics_condition_all | All Available | Все доступные
+logistics_condition_allbut | All But | Все кроме
+logistics_condition_containers | Containers | Контейнеры
+logistics_condition_none | Amount | Сумма
+logistics_condition_quantity | Quantity | Количество
+logistics_condition_stacks | Stacks | Стаки
+logistics_condition_storagefull | Until Storage Full | Пока хранилище не заполнится
+logistics_condition_time | Minutes | Минуты
+logistics_create_order | Create Order | Создайте заказ
+logistics_item_none | Select Item | Выберите предмет
+logistics_loop | Loop | Зациклить
+logistics_order_buy | Buy | Купить
+logistics_order_collect | Collect Gas | Собрать газ
+logistics_order_mine | Mine | Добыть
+logistics_order_none | Order Type | Тип заказа
+logistics_order_sell | Sell | Продать
+logistics_order_transferfrom | Transfer From | Передача из
+logistics_order_transferto | Transfer To | Передача в
+logistics_status_buy | Bought *X R*Y for $*Z | Купил *X R*Y для $*Z
+logistics_status_collect | Collected *X R*Y | Собрано *X R*Y
+logistics_status_collectcontainers | (*X/*Y containers) | (*X/*Y контейнеры)
+logistics_status_collectcontainers1 | (*X containers) | (*X контейнеры)
+logistics_status_mining | Mined *X R*Y | Добыто *X R*Y
+logistics_status_miningstacks | (*X/*Y stacks) | (*X/*Y stacks)
+logistics_status_miningstacks1 | (*X stacks) | (*X stacks)
+logistics_status_notlooping | Finished execution (not looping) | Законченное выполнение (не зацикленное)
+logistics_status_notrunning | No order currently running | Ни один заказ в данный момент не выполняется
+logistics_status_sell | Sold *X R*Y for $*Z | Продается *X R*Y для $*Z
+logistics_status_time1 | in *X:*Y | в *X:*Y
+logistics_status_time2 | in *X:0*Y | в *X:0*Y
+logistics_status_time3 | in 0*X:*Y | в 0*X:*Y
+logistics_status_time4 | in 0*X:0*Y | в 0*X:0*Y
+logistics_status_transferfrom | Transfering *X R*Y from L*Z | Передача *X R*Y из L*Z
+logistics_status_transferto | Transfering *X R*Y to L*Z | Передача *X R*Y в L*Z
+logistics_status_travelling | Travelling to system S*X | Путешествие в систему S*X
+logistics_stuck_default | Orders stuck | Заказы застряли
+logistics_stuck_equipment | L*X does not have a working R*Y | L*X не работает R*Y
+logistics_stuck_gas | System S*X does not have any R*Y to collect | В системе S*X нет ни одного R*Y, который можно было бы собрать
+logistics_stuck_invalidlayer | Ship L*X does not exist | Корабль L*X не существует
+logistics_stuck_invalidsystem | System S*X does not exist | Система S*X не существует
+logistics_stuck_patches | System S*X does not have any R*Y to mine | В системе S*X нет ни одного R*Y для Добычи
+logistics_stuck_resources | L*X does not have any R*Ys | L*X не имеет ни одного R*Ys
+logistics_stuck_resourcestosell | L*X does not have any R*Y to sell | L*X у него нет R*Y для продажи
+logistics_stuck_stargate | Stargate is not ready for jump | Звездные врата не готовы к прыжку
+logistics_stuck_tradingpost | System S*X does not have a trading post | В системе S*X нет торгового поста
+logistics_system_select | LOCATION | ЛОКАЦИЯ
+logistics_tooltip_add | [LMB] Add | [LMB] Добавить
+logistics_tooltip_cancel | [RMB] Cancel | [RMB] Отмена
+logistics_tooltip_cancel_transfer | [RMB] Cancel 1 from *X | [ПКМ] Отменить 1 из *X
+logistics_tooltip_control | [CTRL] x50 | [CTRL] x50
+logistics_tooltip_loop | Loop execution | Зациклить выполнение
+logistics_tooltip_modifiers | Modifiers: | Модификаторы:
+logistics_tooltip_remove_rmb | [RMB] Remove | [RMB] Убрать
+logistics_tooltip_shift | [SHIFT] x5 | [SHIFT] x5
+logistics_tooltip_skiporder | Skip currently executing order | Пропустить текущий заказ
+logistics_tooltip_transfer | [LMB] Transfer 1 from *X | [ЛКМ] Передать 1 из *X
+logistics_transferfrom_none | SOURCE SHIP | КОРАБЛЬ ИСТОЧНИК
+logistics_transferto_none | DESTINATION SHIP | КОРАБЛЬ НАЗНАЧЕНИЯ

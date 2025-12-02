@@ -21,6 +21,8 @@ techtree_in_progress | RESEARCH IN PROGRESS | ИССЛЕДОВАНИЕ В ПРО
 techtree_lose_progress | Starting a new research project will lose all progress on the current one. | Начало нового исследовательского проекта приведет к тому, что весь прогресс будет утерян.
 techtree_missing_equipment | This research project requires a *X to be completed | Для завершения этого исследовательского проекта требуется *X
 techtree_node_caption_advancedtracks | Unlocks the ability to convert tracks into splitters, and vice versa. Splitters will evenly distribute items between their output directions. | Открывает возможность преобразовать конвейеры в разделители и наоборот. Разделители будут равномерно распределить предметы между выходными направлениями.
+techtree_node_caption_atmosphericprocessing | Unlocks schematics for hardware required to maintain a breathable atmosphere | Открывает схемы оборудования, необходимого для поддержания пригодной для дыхания атмосферы
+techtree_node_caption_atmosphericprocessing2 | Unlocks more schematics for hardware required to maintain a breathable atmosphere | Открывает больше схем для оборудования, необходимого для поддержания пригодной для дыхания атмосферы
 techtree_node_caption_automation | Unlocks schematics for Tracks and Robot Arms | Открывает чертежи для Конвейеров и Рук Робота
 techtree_node_caption_compactautomation | Unlocks schematic for Short Robot Arm | Открывает чертеж для Короткой Руки Робота
 techtree_node_caption_deflectorbeams | Unlocks schematics to build a defensive system that can deflect incoming cannon shells | Открывает чертежи для постройки оборонительной системы, которая может отклонить входящие пушечные снаряды
@@ -58,9 +60,12 @@ techtree_node_caption_stargatepart2 | Unlocks Phase 3 of the Andromeda Project. 
 techtree_node_caption_stargatepart3 | Unlocks Phases 4 and 5 of the Andromeda Project. | Открывает Фазы 4 и 5 Проекта Андромеда.
 techtree_node_caption_trackspeed1 | Doubles the speed of all Tracks | Удваивает скорость всех Конвейеров
 techtree_node_caption_trackspeed2 | Triples the speed of all Tracks | Утраивает скорость всех Конвейеров
+techtree_node_caption_wasteprocessing | Unlocks schematics for hardware to capture and reprocess human waste | Раскрывает схемы аппаратуры для сбора и переработки человеческих отходов
 techtree_node_caption_zeleonenergycontainment | Stable Zeleon is a safe, energy-dense gas that could be used for advanced energy storage. | Стабильный Зелеон - это безопасный, энергоемкий газ, который можно использовать для продвинутого хранения энергии.
 techtree_node_caption_zeleongasrefining | The new gas we've observed seems to be quite unstable and is radiating high amounts of energy, our scientists need to find a safe way to collect and stabilise it. | Новый газ, который мы наблюдали, кажется довольно нестабильным и излучает большое количество энергии, наши ученые должны найти безопасный способ собрать и стабилизировать его.
 techtree_node_title_advancedtracks | Advanced Tracks | Продвинутые Конвейеры
+techtree_node_title_atmosphericprocessing | Atmospheric Processing | Атмосферная обработка
+techtree_node_title_atmosphericprocessing2 | Atmospheric Processing 2 | Атмосферная обработка 2
 techtree_node_title_automation | Automation | Автоматизация
 techtree_node_title_compactautomation | Compact Robot Arms | Компактные Руки Робота
 techtree_node_title_deflectorbeams | Deflector Beams | Лучи Дефлектора
@@ -99,6 +104,7 @@ techtree_node_title_stargatepart3 | Andromeda Project Part 3 | Проект Ан
 techtree_node_title_tiddletcrystals | Synthetic Crystals | Синтетические Кристаллы
 techtree_node_title_trackspeed1 | Track Speed 1 | Скорость Конвейера 1
 techtree_node_title_trackspeed2 | Track Speed 2 | Скорость Конвейера 2
+techtree_node_title_wasteprocessing | Waste Processing | Переработка отходов
 techtree_node_title_zeleonenergycontainment | Zeleon Energy Containment | Хранение Энергии Зелеона
 techtree_node_title_zeleongasrefining | Zeleon Gas | Газ Зелеона
 techtree_refining | Refining | Переработка

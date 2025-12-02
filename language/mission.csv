@@ -107,6 +107,7 @@ mission_industry_tiliumrequired | Travel to the asteroid belt and extract *X Til
 mission_industry_title | Mining contract: Extract critical minerals | Шахтерский контракт: Добыть критически важные минералы
 mission_missioncompleted | CONTRACT COMPLETED | КОНТРАКТ ЗАВЕРШЕН
 mission_new | NEW | НОВЫЙ
+mission_objective_done | DONE | ГОТОВО
 mission_onroute | ON ROUTE | В ПУТИ
 mission_passengers_alldelivered | That's it, all passengers are on board your ship. Travel safe commander. | Вот и все, все пассажиры на борту вашего корабля. Счастливого пути, командир.
 mission_passengers_collection | Collect all passengers | Собрать всех пассажиров

@@ -1,0 +1,27 @@
+stargate_available_subtitle | Phase *X Available | Фаза *X Доступна
+stargate_award_complete_subtitle | All phases completed | Все этапы завершены
+stargate_award_complete_title | STARGATE COMPLETED | ЗВЕЗДНЫЕ ВРАТА ЗАВЕРШЕНЫ
+stargate_award_subtitle | Phase *X Completed | Фаза *X Завершена
+stargate_award_title | STARGATE PROGRESS | ПРОГРЕСС ЗВЕЗДНЫХ ВРАТ
+stargate_distance_travelled | *X kly REMAINING | *X км ОСТАЛОСЬ
+stargate_energy_received | RECEIVED: *X MW | ПОЛУЧЕНО: *X МВт
+stargate_energy_required | REQUIRED: *X MW | ТРЕБУЕТСЯ: *X МВт
+stargate_help | To submit completed parts to the stargate project, sell them at any trade outpost in the sector | Чтобы передать завершенные части проекту Звездных Врат, продайте их на любом торговом посту в секторе
+stargate_journey_completed | *X% COMPLETED | *X% ВЫПОЛНЕНО
+stargate_jumping | JUMP IN PROGRESS | ПРЫЖОК ВЫПОЛНЯЕТСЯ
+stargate_power_button | START | НАЧАТЬ
+stargate_power_fraction | *X / *Y MW | *X / *Y MW
+stargate_power_on_failed | FAILED | ПРОВАЛ
+stargate_power_tooltip | POWER REQUIRED: *X MW | НЕОБХОДИМАЯ МОЩНОСТЬ: *X МВТ
+stargate_powered_off | POWERED OFF | ОТКЛЮЧЕНО
+stargate_powering_on | STARTING UP | ЗАПУСК
+stargate_price_per_unit | *X PER UNIT | *X ЗА ЕДИНИЦУ
+stargate_ready_for_jump | READY FOR JUMP | ГОТОВЫ К ПРЫЖКУ
+stargate_sell | SELL ALL (*X FOR *Y) | ПРОДАТЬ ВСЕ (*X ДЛЯ *Y)
+stargate_startandromedajump | TEST ANDROMEDA JUMP | ИСПЫТАНИЕ ПРЫЖКА АНДРОМЕДЫ
+stargate_testfire_help | Captain, the Stargate is ready for its first test. If supplied with enough power it should provide us access to a nearby uncharted sector. | Капитан, Звездные Врата готовы к первому тесту. Если будет подано достаточно энергии, они должны предоставить нам доступ к близлежащему неисследованному сектору.
+stargate_total_price | *X TOTAL | *X ВСЕ
+stargate_unknowncomponent | Unknown Component | Неизвестный компонент
+stargate_unknowncomponent_description | Unlock this component through research! | Разблокируй этот компонент с помощью исследований!
+stargate_unlocked_subtitle | Stargate window unlocked | Окно Звездных Врат разблокировано
+stargate_warming_up | WARMING UP | РАЗОГРЕВ
