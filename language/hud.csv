@@ -31,6 +31,7 @@ hud_ftlincluded | Jump | Прыгнуть
 hud_ftlloading | Loading... | Загрузка...
 hud_ftlnodestination | NO DESTINATION | НЕТ ПУНКТА НАЗНАЧЕНИЯ
 hud_ftlshipblockedfromftl | Ship cannot enter hyperspace with your fleet | Корабль не может войти в гиперпространство вместе с вашим флотом
+hud_ftlshipcontrolledbylogistics | Ship is controlled by interstellar logistics | Корабль управляется межзвездной логистикой
 hud_ftlshipnotviablewarning | Ship needs either hull or scaffolding to be brought into hyperspace | Кораблю нужен корпус или каркас для перехода в гиперпространство
 hud_ftlwaiting | Waiting... | Ожидание...
 hud_gun_aft | Aft *X | *X на Корме

@@ -1,4 +1,5 @@
 dsi_action_canceldeal | Cancel the deal with X | Отменить сделку с X
+dsi_action_confirmcancel | Confirm cancellation | Подтвердите отмену
 dsi_action_payx | Pay X (*X owed) | Заплатить X (долг: *X)
 dsi_character_dogma | DOGMA Security | Охрана DOGMA
 dsi_character_rep | Andromeda Project Representative | Представитель Проекта Андромеда
@@ -146,8 +147,10 @@ dsi_part2_thirdpartcomplete2 | Let's take another break and I'll contact you whe
 dsi_part2_thirdpartcomplete3 | You should know that my Doctors continue to bring me bad news.  Each time I talk to them... well, I don't know how long I have left.  This will be my final project.  I just hope I have time to finish it. | Вы должны знать, что мои врачи продолжают приносить мне плохие новости.  Каждый раз, когда я разговариваю с ними... что ж, я не знаю, сколько у меня осталось времени.  Это будет мой последний проект.  Я просто надеюсь, что у меня будет время его закончить.
 dsi_part2_title | Deep Space Industrialists, Part 2 | Промышленники Дальнего Космоса, Часть 2
 dsi_x_canceldeal1 | I'm disappointed, Captain. You're backing out after all the investment I've put into this project? | Я разочарован, Капитан. Вы отступаете после всех инвестиций, которые я вложил в этот проект?
-dsi_x_canceldeal2 | You will regret this. | Вы пожалеете об этом.
-dsi_x_canceldeal3 | Goodbye, Captain. | До свидания, Капитан.
+dsi_x_canceldeal2 | You will lose access to all the ships I've provided, are you sure you want to do this? | Вы потеряете доступ ко всем кораблям, которые я предоставил, вы уверены, что хотите этого?
+dsi_x_confirmcancel1 | How dare you! I still have the access keys. You will no longer be a part of this enterprise. | Да как вы смеете! Ключи доступа все еще у меня. Вы больше не будете участвовать в этом предприятии.
+dsi_x_confirmcancel2 | You will regret this. | Вы еще пожалеете об этом.
+dsi_x_confirmcancel3 | Goodbye, Captain. | До свидания, Капитан.
 dsi_xthanks1 | Thank you, Captain.  I appreciate the prompt payment. | Спасибо, Капитан.  Я ценю оперативный платеж.
 dsi_xthanks2 | Payment received, thank you, Captain. | Платеж получен, спасибо, Капитан.
 dsi_xthanks3 | I've received my share.  Excellent work, Captain. | Я получил свою долю.  Отличная работа, Капитан.

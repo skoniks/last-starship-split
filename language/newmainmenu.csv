@@ -11,6 +11,7 @@ newmainmenu_arena_redteamtitle | RED TEAM | КРАСНАЯ КОМАНДА
 newmainmenu_arena_selectship | SELECT A SHIP | ВЫБЕРИТЕ КОРАБЛЬ
 newmainmenu_arena_shipquantity | Quantity | Количество
 newmainmenu_arena_tradevalues | SHIP VALUES | СТОИМОСТЬ КОРАБЛЕЙ
+newmainmenu_autosavenameinvalid_caption | Save name reserved for autosaves. | Название сохранения, зарезервированное для автосохранений.
 newmainmenu_autosavewarning | Auto-save load warning | Предупреждение о загрузке автосохранения
 newmainmenu_battle | BATTLE | БИТВА
 newmainmenu_begingame | BEGIN GAME | НАЧАТЬ ИГРУ
@@ -36,6 +37,8 @@ newmainmenu_filter | SEARCH... | ПОИСК...
 newmainmenu_importfriendly | IMPORT FRIENDLY | ИМПОРТИРОВАТЬ ДРУЖЕСТВЕННЫЙ
 newmainmenu_importhostile | IMPORT HOSTILE | ИМПОРТИРОВАТЬ ВРАЖЕСКИЙ
 newmainmenu_includedocked | INCLUDE DOCKED SHIPS | ВКЛЮЧИТЬ ПРИСТЫКОВАННЫЕ КОРАБЛИ
+newmainmenu_invalidcharacters_caption | Save name contains invalid characters. | Название сохранения содержит недопустимые символы.
+newmainmenu_invalidsavename | Invalid Save Name | Неверное название сохранения
 newmainmenu_loadgame | LOAD GAME | ЗАГРУЗИТЬ ИГРУ
 newmainmenu_loadgamedev | LOAD GAME (DEV) | ЗАГРУЗИТЬ ИГРУ (DEV)
 newmainmenu_loadship | LOAD SHIP | ЗАГРУЗИТЬ КОРАБЛЬ

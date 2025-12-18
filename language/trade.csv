@@ -2,7 +2,7 @@ trade_afford | AFFORD | ДОСТУПНО
 trade_all | ALL | ВСЕ
 trade_allitems | ALL ITEMS | ВСЕ ПРЕДМЕТЫ
 trade_autobuyat | BUY BELOW | ПОКУПАТЬ МЕНЬШЕ
-trade_autodisembarkat | DISEMBARK BELOW | ВЫСАЖИВАТЬ БОЛЬШЕ
+trade_autodisembarkat | DISEMBARK ABOVE | ВЫСАЖИВАТЬ БОЛЬШЕ
 trade_autoembarkat | EMBARK BELOW | ПРИНИМАТЬ МЕНЬШЕ
 trade_autohireat | HIRE BELOW | НАНИМАТЬ МЕНЬШЕ
 trade_automatic | AUTO TRADE | АВТОТОРГОВЛЯ

@@ -107,6 +107,7 @@ techtree_node_title_trackspeed2 | Track Speed 2 | Скорость Конвей�
 techtree_node_title_wasteprocessing | Waste Processing | Переработка отходов
 techtree_node_title_zeleonenergycontainment | Zeleon Energy Containment | Хранение Энергии Зелеона
 techtree_node_title_zeleongasrefining | Zeleon Gas | Газ Зелеона
+techtree_queue | Queue Research | Очередь Исследований
 techtree_refining | Refining | Переработка
 techtree_researchcredit_tooltip | Perform sector scans to find derelict ships that contain research credits. | Проводите сканирования сектора, чтобы найти заброшенные корабли, содержащие чипы данных.
 techtree_researched | RESEARCHED | ИССЛЕДОВАНО

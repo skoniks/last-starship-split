@@ -130,7 +130,7 @@ ftl_galacticjump | This will be the final journey of your fleet.\nBe prepared fo
 hudmode_external | EXTERNAL | ВНЕШНИЙ
 hudmode_multisystemsimulation | MULTISYSTEM SIMULATION | МУЛЬТИСИСТЕМНАЯ СИМУЛЯЦИЯ
 hudmode_tactical | TACTICAL | ТАКТИКА
-industryend_message | Now the Andromeda HQ has been captured, Harken and the Intergalactic Security Council will dismantle the Andromeda Project conglomerate and regain control of the Stargate, for the benefit of all mankind.  A new chapter has begun, as mankind spreads beyond our home galaxy and into the future. | Теперь штаб-квартира "Андромеды" захвачена, Харкен и Межгалактический совет безопасности ликвидируют конгломерат Проекта Андромеда и вернут себе контроль над Звездными вратами на благо всего человечества.  Началась новая глава, когда человечество выходит за пределы нашей родной галактики и устремляется в будущее.
+industryend_message | With Andromeda HQ captured, Cmdr Harken and the Intergalactic Security Council will dismantle the Andromeda Project conglomerate and regain control of the Stargate, for the benefit of all mankind.  A new chapter has begun, as mankind expands beyond our home galaxy and into the future. | Захватив штаб-квартиру Андромеды, командир Харкен и Межгалактический совет безопасности ликвидируют конгломерат Проект Андромеда и вернут контроль над Звездными вратами на благо всего человечества.  Началась новая глава, когда человечество выходит за пределы нашей родной галактики и устремляется в будущее.
 intergalactic_travel | INTERGALACTIC TRAVEL | МЕЖГАЛАКТИЧЕСКОЕ ПУТЕШЕСТВИЕ
 interstellar_travel | INTERSTELLAR TRAVEL | МЕЖЗВЕЗДНОЕ ПУТЕШЕСТВИЕ
 language_helpustranslate | Help Us Translate! | Помогите Нам С Переводом!
@@ -231,6 +231,7 @@ rating_title_criminal | Criminal Rating | Криминальный Рейтин�
 rating_title_humanitarian | Humanitarian Rating | Гуманитарный Рейтинг
 rating_title_industry | Industry Rating | Промышленный Рейтинг
 rating_title_logistics | Logistics Rating | Логистический Рейтинг
+rating_trade | Trade | Торговля
 rating_word | rating | рейтинг
 ratings | RATINGS | РЕЙТИНГИ
 recipe_created_in | Created in *X | Создается в *X

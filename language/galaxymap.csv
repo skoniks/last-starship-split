@@ -1,6 +1,7 @@
 galaxymap_civilians | CIVILIANS | ГРАЖДАНСКИЕ
 galaxymap_colony | COLONY | КОЛОНИЯ
 galaxymap_comet | COMET | КОМЕТА
+galaxymap_darkmode | Dark Mode | Темный режим
 galaxymap_demo | DEMO | ДЕМО
 galaxymap_derelict | DERELICT | ОБЛОМКИ
 galaxymap_distresscall | DISTRESS CALL | СИГНАЛ БЕДСТВИЯ
@@ -11,6 +12,7 @@ galaxymap_fleet | YOU ARE HERE | ВЫ ЗДЕСЬ
 galaxymap_fortress | FORTRESS | КРЕПОСТЬ
 galaxymap_hostile | HOSTILES | ВРАГИ
 galaxymap_jumpgate | JUMPGATE | ПРЫЖКОВЫЕ ВРАТА
+galaxymap_lightmode | Light Mode | Светлый режим
 galaxymap_noescape | NO ESCAPE | НЕТ ВЫХОДА
 galaxymap_objectives | SECTOR CONTRACTS | КОНТРАКТЫ СЕКТОРА
 galaxymap_playtest | PLAYTEST | ТЕСТИРОВАНИЕ
