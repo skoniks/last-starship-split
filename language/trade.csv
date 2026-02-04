@@ -57,6 +57,7 @@ trade_overlay_price | PRICE | ЦЕНА
 trade_overlay_them | THEM | ОНИ
 trade_overlay_you | YOU | ВЫ
 trade_partiallyfilled | PARTIALLY FILLED | ЧАСТИЧНО ЗАПОЛНЕННО
+trade_paymentperjump | *X (+*Y) per sector jump | *X (+*Y) на один секторный прыжок
 trade_profit | Profit | Прибыль
 trade_refundvalue | REFUND VALUE | СТОИМОСТЬ ОТМЕНЫ
 trade_remove | REMOVE | УБРАТЬ

@@ -16,10 +16,13 @@ settings_exitsaves_tooltip | When enabled, the current game will create an auto-
 settings_fullscreen | Fullscreen | На Весь Экран
 settings_hud | Show HUD | Показать Интерфейс
 settings_hudscale | UI Scale | Масштаб Интерфейса
+settings_instantshipswitch_description | When switching between ships, skip the transition | Пропустить анимацию при переключении между кораблями
 settings_keybindings | KEYBOARD | УПРАВЛЕНИЕ
 settings_language | Language | Язык Интерфейса
 settings_mastervolume | Master Volume | Общая Громкость
 settings_minutes_shortened | Mins. | Мин.
+settings_motionsicknessmode | Motion Sickness Mode | Режим защиты от укачивания
+settings_motionsicknessmode_description | Background rotation is removed, which should help if you experience motion sickness in-game. | Вращение фона отключено, это должно помочь, если вас укачивает в игре.
 settings_music | Music | Музыка
 settings_musicvolume | Music Volume | Громкость Музыки
 settings_other | OTHER | ПРОЧЕЕ

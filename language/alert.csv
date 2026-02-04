@@ -6,13 +6,15 @@ alert_type_autotradeinactive_tooltip | One or more of your auto-orders have been
 alert_type_co2 | CO2 WARNING | ОПАСНОСТЬ CO2
 alert_type_co2_caption | *X% Fatal | *X% Смертельно
 alert_type_co2_tooltip | There is a dangerous build up of CO2 inside your ship. If it reaches 100%, your crew will suffocate. Consider buying a CO2 Scrubber and connecting it to a storage tank. | Внутри вашего корабля опасное скопление CO2. Если оно достигнет 100%, ваш экипаж задохнется. Рассмотрите возможность покупки Скруббера CO2 и подключения его к резервуару для хранения.
-alert_type_crewoverworked | HIRE MORE CREW | ТРЕБУЕТСЯ БОЛЬШЕ ЭКИПАЖА
+alert_type_crewoverworked | HIRE MORE CREW | ТРЕБУЮТСЯ БОЛЬШЕ ЧЛЕНОВ ЭКИПАЖА
 alert_type_dead | DEATHS | СМЕРТИ
 alert_type_dead_caption | *X dead | *X мертвых
 alert_type_dehydrated | CREW DEHYDRATED | ЭКИПАЖ ОБЕЗВОЖЕН
 alert_type_emp | EMP | ЭМИ
 alert_type_emp_caption | *X piece(s) disabled | *X устройств отключено
 alert_type_emp_tooltip | Your ship has been struck by lightning, temporarily disabling some of your equipment. | Ваш корабль был поражен молнией, временно отключив часть вашего оборудования.
+alert_type_failedtofindsuit | SPACESUITS REQUIRED | ТРЕБУЮТСЯ КОСМИЧЕСКИЕ СКАФАНДРЫ
+alert_type_failedtofindsuit_caption | *X crew members need spacesuits. | *X членам экипажа нужны скафандры.
 alert_type_famished | CREW FAMISHED | ЭКИПАЖ ИСТОЩЕН
 alert_type_heavydamage | HEAVY DAMAGE | СЕРЬЕЗНЫЙ УРОН
 alert_type_heavydamage_caption | Damage *X% | Урон *X%
@@ -51,6 +53,6 @@ alert_type_stargatelosingpower_caption | *X MW / *Y MW Supplied | *X МВт / *Y
 alert_type_stargatelosingpower_tooltip | The stargate isn't being supplied with enough power. Use energy transmitters to supply the Stargate with power. | Звездные врата не получают достаточно энергии. Используйте передатчики энергии для снабжения Звездных Врат энергией.
 alert_type_starving | CREW STARVING | ЭКИПАЖ ГОЛОДАЕТ
 alert_type_suffocating | CREW SUFFOCATING | ЭКИПАЖ ЗАДЫХАЕТСЯ
-alert_type_suffocating_caption | *X suffocating | *X задыхается
+alert_type_suffocating_caption | *X suffocating | *X задыхаются
 alert_type_test | TEST ALERT | ТЕСТОВОЕ ОПОВЕЩЕНИЕ
 alert_type_thirsty | CREW THIRSTY | ЭКИПАЖ ИСПЫТЫВАЕТ ЖАЖДУ

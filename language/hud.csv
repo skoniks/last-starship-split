@@ -58,6 +58,8 @@ hud_last_ftl_charge | WARNING - LAST FTL CHARGE\nCANNOT BUY AT DESTINATION | В�
 hud_layer_derelict | DERELICT *X | ЗАБРОШЕННЫЙ *X
 hud_layer_forsale | [FOR SALE] *X | [ПРОДАЕТСЯ] *X
 hud_layer_hostile | HOSTILE *X | ВРАЖДЕБНЫЙ *X
+hud_layer_neutralexpand | *X NEUTRAL SHIPS | *X НЕЙТРАЛЬНЫЕ КОРАБЛИ
+hud_layer_neutralexpandtooltip | Show neutral ships | Показать нейтральные корабли
 hud_layer_unnaned_system | UNNAMED | БЕЗЫМЯННЫЙ
 hud_maximumoccupancy | Maximum Occupancy: *X/*Y | Максимальная Вместимость: *X/*Y
 hud_mission_collection | WARNING - MISSION COLLECTION UNDERWAY | ВНИМАНИЕ - ВЫПОЛНЯЕТСЯ СБОР ПО МИССИИ

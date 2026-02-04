@@ -4,18 +4,21 @@ logistics_condition_containers | Containers | Контейнеры
 logistics_condition_none | Amount | Сумма
 logistics_condition_quantity | Quantity | Количество
 logistics_condition_stacks | Stacks | Стаки
-logistics_condition_storagefull | Until Storage Full | Пока хранилище не заполнится
 logistics_condition_time | Minutes | Минуты
+logistics_condition_untilstorage | Quantity on board | Количество на борту
 logistics_create_order | Create Order | Создайте заказ
+logistics_extras_anycargo | USE ANY CARGO STORAGE | ИСПОЛЬЗОВАТЬ ЛЮБОЙ СКЛАД
 logistics_hidelog | HIDE LOG | СКРЫТЬ ЖУРНАЛ
-logistics_item_none | Select Item | Выберите предмет
+logistics_item_none | SELECT ITEM | ВЫБЕРИТЕ ПРЕДМЕТ
 logistics_log_jumped | Travelled to system S*X | Отправился в систему S*X
-logistics_log_jumpedstargate | Travelled to system S*X through Stargate | Переместился в систему S*X через Звездные врата
+logistics_log_jumpedstargate | Travelled to system S*X through Stargate | Переместился в систему S*X через Звездные Врата
 logistics_log_skipped | Skipped order | Пропущенный заказ
 logistics_log_transferfrom | Transferred *X R*Y from L*Z | Переправлено *X R*Y из L*Z
-logistics_log_transferstoragefull | (destination storage full) | (хранилище назначения переполнено)
-logistics_log_transferstoragefull1 | out of the *X ordered (destination storage full) | из заказанного *X (хранилище назначения переполнено)
+logistics_log_transferfromfull | Transferred *X R*Y from L*Z - destination storage full | Перенесено *X R*Y с L*Z - хранилище назначения заполнено
+logistics_log_transferfromfull1 | Transferred *X R*Y from L*Z out of the *P desired - destination storage full | Перенес *X R*Y с L*Z на *P - хранилище назначения заполнено
 logistics_log_transferto | Transferred *X R*Y to L*Z | Перенесено *X R*Y на L*Z
+logistics_log_transfertofull | Transferred *X R*Y to L*Z - destination storage full | Перенес *X R*Y на L*Z - хранилище назначения заполнено
+logistics_log_transfertofull1 | Transferred *X R*Y to L*Z out of the *P desired - destination storage full | Перенес *X R*Y на L*Z из *P - хранилище назначения заполнено
 logistics_log_waited | Waited for T*X | Дождался T*X
 logistics_loop | Loop | Зациклить
 logistics_order_buy | Buy | Купить
@@ -26,29 +29,43 @@ logistics_order_none | Order Type | Тип заказа
 logistics_order_sell | Sell | Продать
 logistics_order_transferfrom | Transfer From | Передача из
 logistics_order_transferto | Transfer To | Передача в
+logistics_quantity_all | ALL | ВСЕ
+logistics_quantity_full | FULL | ПОЛНЫЙ
 logistics_showlog | SHOW LOG | ПОКАЗАТЬ ЖУРНАЛ
 logistics_status_alert | Alert | Оповещение
 logistics_status_buy | Bought *X R*Y for $*Z | Купил *X R*Y для $*Z
-logistics_status_buynomoney | out of the *X ordered (not enough money) | из заказанных на *X (не хватает денег)
-logistics_status_buynosupply | out of the *X ordered (not enough available) | из заказанных на *X (не хватает в наличии)
+logistics_status_buynomoney | Bought *X R*Y for $*Z out of the *P desired - insufficient funds | Купил *X R*Y за $*Z из желаемого *P - недостаточно средств
+logistics_status_buynosupply | Bought *X R*Y for $*Z out of the *P desired - insufficient supply | Купил *X R*Y за $*Z из *P желаемого - недостаточное предложение
+logistics_status_buyzero | Bought *X R*Y | Купил *X R*Y
+logistics_status_buyzeronomoney | Bought *X R*Y out of the *Z desired - insufficient funds | Купил *X R*Y из желаемого *Z - недостаточно средств
+logistics_status_buyzeronosupply | Bought *X R*Y out of the *Z desired - insufficient supply | Купил *X R*Y из желаемого *Z - недостаточное предложение
 logistics_status_collect | Collected *X R*Y | Собрано *X R*Y
-logistics_status_collectcontainers | (*X/*Y containers) | (*X/*Y контейнеры)
-logistics_status_collectcontainers1 | (*X containers) | (*X контейнеры)
-logistics_status_collectcontainersnostorage | (*X/*Y containers, storage full) | (*X/*Y контейнеры, хранилище заполнено)
-logistics_status_collectcontainersnostorage1 | (*X containers, storage full) | (*X контейнеры, хранилище заполнено)
+logistics_status_collectcontainers | Collected *X R*Y (*Z containers) | Собрано *X R*Y (*Z контейнеры)
+logistics_status_collectcontainersfull | Collected *X R*Y (*Z containers) - storage full | Собранные *X R*Y (*Z контейнеры) - хранилище заполнено
+logistics_status_collectcontainerstime | Collected *X R*Y (*Z containers) in T*P | Собранные *X R*Y (*Z контейнеры) в T*P
+logistics_status_collectcontainerstimefull | Collected *X R*Y (*Z containers) in T*P - storage full | Собранные *X R*Y (*Z контейнеры) в T*P - хранилище заполнено
+logistics_status_collectonboard | Collected *X R*Y (*Z containers on board, *P desired) - storage full | Собрано *X R*Y (*Z контейнеры на борту, *P желательно) - хранилище заполнено
+logistics_status_collectratio | Collected *X R*Y (*Z/*P containers) | Собрано *X R*Y (*Z/*P контейнеры)
+logistics_status_collectratiofull | Collected *X R*Y (*Z/*P containers) - storage full | Собранные *X R*Y (*Z/*P контейнеры) - хранилище заполнено
+logistics_status_default | Order running | Заказать бег
 logistics_status_mining | Mined *X R*Y | Добыто *X R*Y
-logistics_status_miningstacks | (*X/*Y stacks) | (*X/*Y стопки)
-logistics_status_miningstacks1 | (*X stacks) | (*X стопки)
-logistics_status_miningstacksnostorage | (*X/*Y stacks, storage full) | (*X/*Y стопки, хранилище заполнено)
-logistics_status_miningstacksnostorage1 | (*X stacks, storage full) | (*X стопки, хранилище заполнено)
+logistics_status_miningonboard | Mined *X R*Y (*Z stacks on board, *P desired) - storage full | Добыто *X R*Y (*Z стак на борту, *P желателен) - хранилище заполнено
+logistics_status_miningratio | Mined *X R*Y (*Z/*P stacks) | Добыто *X R*Y (*Z/*P стопки)
+logistics_status_miningratiofull | Mined *X R*Y (*Z/*P stacks) - storage full | Добыто *X R*Y (*Z/*P стопки) - хранилище заполнено
+logistics_status_miningstacks | Mined *X R*Y (*Z stacks) | Добыто *X R*Y (*Z стак)
+logistics_status_miningstacksfull | Mined *X R*Y (*Z stacks) - storage full | Добыто *X R*Y (*Z стопки) - хранилище заполнено
+logistics_status_miningstackstime | Mined *X R*Y (*Z stacks) in T*P | Добыто *X R*Y (*Z стопки) в Т*P
+logistics_status_miningstackstimefull | Mined *X R*Y (*Z stacks) in T*P - storage full | Добыто *X R*Y (*Z стопки) в T*P - хранилище заполнено
 logistics_status_notlooping | Finished execution (not looping) | Законченное выполнение (не зацикленное)
 logistics_status_notrunning | No order currently running | Ни один заказ в данный момент не выполняется
 logistics_status_sell | Sold *X R*Y for $*Z | Продается *X R*Y для $*Z
-logistics_status_sellnosupply | out of the *X ordered (not enough available) | из заказанных на *X (не хватает в наличии)
-logistics_status_time | in T*X | в T*X
+logistics_status_sellnosupply | Sold *X R*Y for $*Z out of the *P desired - insufficient cargo | Продается *X R*Y за $*Z из *P желаемого - недостаточный груз
+logistics_status_sellzero | Sold *X R*Y | Продается *X R*Y
+logistics_status_sellzeronosupply | Sold *X R*Y out of the *P desired - insufficient cargo | Продается *X R*Y из *P желаемого - недостаточный груз
 logistics_status_transferfrom | Transferring *X R*Y from L*Z | Перемещение *X R*Y из L*Z
-logistics_status_transfernosupply | out of the *X ordered (not enough available) | из заказанных на *X (не хватает в наличии)
+logistics_status_transferfromnosupply | Transferring *X R*Y from L*Z out of the *P desired - insufficient cargo | Перенос *X R*Y с L*Z на *P нежелателен - недостаточно груза
 logistics_status_transferto | Transferring *X R*Y to L*Z | Перемещение *X R*Y в L*Z
+logistics_status_transfertonosupply | Transferring *X R*Y to L*Z out of the *P desired - insufficient cargo | Перенос *X R*Y на L*Z из *P желаемого - недостаточный груз
 logistics_status_travelling | Travelling to system S*X | Путешествие в систему S*X
 logistics_status_waiting | Waiting T*X | Ожидание T*X
 logistics_status_warning | Warning | Внимание
@@ -57,18 +74,24 @@ logistics_stuck_equipment | L*X does not have a working R*Y | L*X не рабо�
 logistics_stuck_gas | System S*X does not have any R*Y to collect | В системе S*X нет ни одного R*Y, который можно было бы собрать
 logistics_stuck_invalidlayer | Ship L*X does not exist | Корабль L*X не существует
 logistics_stuck_invalidsystem | System S*X does not exist | Система S*X не существует
+logistics_stuck_layernotours | Ship L*X is not friendly | Корабль L*X не отличается дружелюбием
 logistics_stuck_patches | System S*X does not have any R*Y to mine | В системе S*X нет ни одного R*Y для Добычи
 logistics_stuck_resources | L*X does not have any R*Ys | L*X не имеет ни одного R*Ys
-logistics_stuck_resourcestosell | L*X does not have any R*Y to sell | L*X у него нет R*Y для продажи
-logistics_stuck_stargate | Stargate is not ready for jump | Звездные врата не готовы к прыжку
+logistics_stuck_stargate | Stargate is not ready for jump | Звездные Врата не готовы к прыжку
 logistics_stuck_tradingpost | System S*X does not have a trading post | В системе S*X нет торгового поста
 logistics_system_select | LOCATION | ЛОКАЦИЯ
 logistics_tooltip_add | [LMB] Add | [LMB] Добавить
 logistics_tooltip_cancel | [RMB] Cancel | [RMB] Отмена
 logistics_tooltip_cancel_transfer | [RMB] Cancel 1 from *X | [ПКМ] Отменить 1 из *X
 logistics_tooltip_control | [CTRL] x50 | [CTRL] x50
+logistics_tooltip_controlall | [CTRL] ALL | [CTRL] ALL
+logistics_tooltip_controlfull | [CTRL] FULL | [CTRL] FULL
+logistics_tooltip_extrastogglehide | Hide extra options for this order | Скрыть дополнительные опции для этого заказа
+logistics_tooltip_extrastogglenone | No extra options available | Никаких дополнительных опций не предусмотрено
+logistics_tooltip_extrastoggleshow | Show extra options for this order | Покажи дополнительные опции для этого заказа
 logistics_tooltip_loop | Loop execution | Зациклить выполнение
 logistics_tooltip_modifiers | Modifiers: | Модификаторы:
+logistics_tooltip_noitemrequired | This order does not require an item | Этот заказ не требует наличия предмета
 logistics_tooltip_remove_rmb | [RMB] Remove | [RMB] Убрать
 logistics_tooltip_shift | [SHIFT] x5 | [SHIFT] x5
 logistics_tooltip_skiporder | Skip currently executing order | Пропустить текущий заказ

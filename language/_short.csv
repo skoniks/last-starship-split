@@ -9,6 +9,8 @@ analyticsconsentdialog_reject | Reject | Отклонить
 analyticsconsentdialog_text | We need to collect usage data to help us to better understand how people are playing and to help us to improve the game. \n\nWe do not collect any personally identifiable information. If you are OK with this please hit the Accept button. | Нам необходимо собирать данные об использовании, чтобы лучше понимать, как люди играют, и улучшать игру. \n\nМы не собираем никакой личной информации. Если вы согласны с этим, пожалуйста, нажмите кнопку Принять.
 analyticsconsentdialog_title | Collection of Telemetry Data | Сбор Телеметрических Данных
 andromeda_travel | ANDROMEDA JOURNEY | ПУТЕШЕСТВИЕ В АНДРОМЕДУ
+award_civilianpayment | CIVILIAN PAYMENT | ГРАЖДАНСКИЙ ПЛАТЕЖ
+award_civilianpayment_caption | *X permanent residents in your fleet | *X постоянных жителей в вашем флоте
 award_rewards | Rewards | Награды
 battle_title | BATTLE | БИТВА
 boost_airrecyclingefficiency | Air Recycling Efficiency +*X% | Эффективность Переработки Воздуха +*X%
@@ -155,6 +157,7 @@ nomadobjective_success | *X fleet residents | *X жителей флота
 nomadobjective_successbonus | Population has reached *X residents. Funding bonus $*Y. | Население достигло *X жителей. Бонус финансирования $*Y.
 nomadobjective_title | SPECIAL MISSION: NOMAD | ОСОБАЯ МИССИЯ: КОЧЕВНИК
 nomadobjective_total | Your highest population was *X residents within your fleet. | Ваше наибольшее население составляло *X жителей в вашем флоте.
+objective_travel_to_location | Travel to S*X | Отправляйтесь в S*X
 opentextcrawl_1 | It is the 23rd century.  Humanity has colonised the stars. | Это 23-й век.  Человечество колонизировало звезды.
 opentextcrawl_2 | Millions of people now live off world, sometimes hundreds of light years from Earth. | Миллионы людей теперь живут за пределами мира, иногда в сотнях световых лет от Земли.
 opentextcrawl_3 | Word has reached Earth from one such colony. A dark anomaly has been seen, and cannot be explained. | Весть достигла Земли от одной из таких колоний. Темная аномалия была замечена и не может быть объяснена.
@@ -211,6 +214,7 @@ origin_steam | SUBSCRIBED ON STEAM WORKSHOP | ПОДПИСКА ИЗ МАСТЕР
 origin_steamuser | UPLOADED TO STEAM WORKSHOP | ЗАГРУЖЕНО В МАСТЕРСКУЮ STEAM
 origin_user | PLAYER-MADE | ПОЛЬЗОВАТЕЛЬСКИЙ
 phase_title | Phase *X | Фаза *X
+power_unit | *X MW | *X МВт
 pressanykey | - continue - | - продолжить -
 profiler_glfinishcaption | glFinish | glFinish
 profiler_name | Name | Имя

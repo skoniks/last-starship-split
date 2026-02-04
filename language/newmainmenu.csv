@@ -37,6 +37,7 @@ newmainmenu_filter | SEARCH... | ПОИСК...
 newmainmenu_importfriendly | IMPORT FRIENDLY | ИМПОРТИРОВАТЬ ДРУЖЕСТВЕННЫЙ
 newmainmenu_importhostile | IMPORT HOSTILE | ИМПОРТИРОВАТЬ ВРАЖЕСКИЙ
 newmainmenu_includedocked | INCLUDE DOCKED SHIPS | ВКЛЮЧИТЬ ПРИСТЫКОВАННЫЕ КОРАБЛИ
+newmainmenu_instantshipswitch | Switch instantly between ships | Мгновенное переключение между кораблями
 newmainmenu_invalidcharacters_caption | Save name contains invalid characters. | Название сохранения содержит недопустимые символы.
 newmainmenu_invalidsavename | Invalid Save Name | Неверное название сохранения
 newmainmenu_loadgame | LOAD GAME | ЗАГРУЗИТЬ ИГРУ
@@ -66,8 +67,10 @@ newmainmenu_showautosaves | AUTOSAVES | АВТОСОХРАНЕНИЯ
 newmainmenu_slowcombat | Slow during combat | Замедление в Бою
 newmainmenu_steamcloud | STEAM CLOUD | STEAM CLOUD
 newmainmenu_steamworkshop | STEAM WORKSHOP | МАСТЕРСКАЯ STEAM
+newmainmenu_tests | TESTS | ТЕСТЫ
 newmainmenu_tooltip_changeship | [LMB] Change ship | [ЛКМ] Сменить корабль
 newmainmenu_tooltip_removeship | [RMB] Remove ship | [ПКМ] Убрать корабль
 newmainmenu_updateexistingupload | UPDATE EXISTING WORKSHOP ITEM | ОБНОВИТЬ СУЩЕСТВУЮЩИЙ ЭЛЕМЕНТ МАСТЕРСКОЙ
 newmainmenu_uploadprogress | UPLOAD PROGRESS: *P % | ПРОГРЕСС ЗАГРУЗКИ: *P %
 newmainmenu_uploadship | UPLOAD TO STEAM | ЗАГРУЗИТЬ В STEAM
+newmainmenu_vsync | V-Sync | V-Sync

@@ -10,9 +10,9 @@ stargate_help | To submit completed parts to the stargate project, sell them at 
 stargate_journey_completed | *X% COMPLETED | *X% ВЫПОЛНЕНО
 stargate_jumping | JUMP IN PROGRESS | ПРЫЖОК ВЫПОЛНЯЕТСЯ
 stargate_power_button | START | НАЧАТЬ
-stargate_power_fraction | *X / *Y MW | *X / *Y MW
+stargate_power_fraction | *X / *Y MW | *X / *Y МВт
 stargate_power_on_failed | FAILED | ПРОВАЛ
-stargate_power_tooltip | POWER REQUIRED: *X MW | НЕОБХОДИМАЯ МОЩНОСТЬ: *X МВТ
+stargate_power_tooltip | POWER REQUIRED: *X MW | НЕОБХОДИМАЯ МОЩНОСТЬ: *X МВт
 stargate_powered_off | POWERED OFF | ОТКЛЮЧЕНО
 stargate_powering_on | STARTING UP | ЗАПУСК
 stargate_price_per_unit | *X PER UNIT | *X ЗА ЕДИНИЦУ

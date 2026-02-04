@@ -14,9 +14,9 @@ powergrid_controls_decrease | [RMB] Decrease | [ПКМ] Уменьшить
 powergrid_controls_increase | [LMB] Increase | [ЛКМ] Увеличить
 powergrid_controls_shift | [Shift] All | [Shift] Все
 powergrid_controls_title | Power Grid Controls | Управление Энергией
-powergrid_demand | DEMAND *X Mw | ПОТРЕБЛЕНИЕ *X МВт
-powergrid_output | OUTPUT *X Mw | ВЫРАБОТКА *X МВт
+powergrid_demand | DEMAND: *X MW | ПОТРЕБЛЕНИЕ: *X МВт
+powergrid_output | OUTPUT: *X MW | ВЫРАБОТКА: *X МВт
 powergrid_power | POWER | ПИТАНИЕ
 powergrid_powershortagehint | Your ship cannot generate enough power. Consider installing more Reactors. | Ваш корабль не может вырабатывать достаточно энергии. Рассмотрите возможность установки дополнительных Реакторов.
-powergrid_stored | STORED *X Mw | НАКОПЛЕНО *X МВт
+powergrid_stored | STORED: *X MJ | НАКОПЛЕНО: *X МДж
 powergrid_title | POWER GRID | ЭНЕРГОСЕТЬ

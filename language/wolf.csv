@@ -18,7 +18,7 @@ wolf_part1_flightrecordercount | You've delivered *X/*Y of the Flight Recorders 
 wolf_part1_intro1 | My name is Commander Harken, and I'm the Chief of Private Security for the sector. | Меня зовут Командир Харкен, и я Начальник Частной Охраны сектора.
 wolf_part1_intro2 | You have found the remains of the Interstellar Prospector. Please bring its Black Box Flight Recorder to me, and I will explain more. | Вы нашли останки Interstellar Prospector. Пожалуйста, привезите его Бортовой Самописец ко мне, и я объясню больше.
 wolf_part1_intro3 | In order to collect the Flight Recorder you will need Drones, launched from a Drone Bay on your ship.  If you don't already have this equipment, you'll need to buy at least one DRONE BAY, and at least one LOGISTICS DRONE, from any colony or shipyard. | Для сбора Бортового Самописца вам понадобятся Дроны, запускаемые из Отсека Для Дронов на вашем корабле.  Если у вас еще нет этого оборудования, вам нужно будет купить как минимум один ОТСЕК ДЛЯ ДРОНОВ и как минимум один ЛОГИСТИЧЕСКИЙ ДРОН на любой колонии или верфи.
-wolf_part1_objective_drones | Install a Drone Bay and at least one Logistics Drone | Установить Отсек Для Дронов и как минимум один Логистический Дрон
+wolf_part1_objective_drones | Install a Drone Bay and have at least one Logistics Drone | Установить отсек для дронов и иметь хотя бы одного логистического дрона
 wolf_part1_objective_recoverbox1 | Recover Flight Recorder from UMC Interstellar Prospector | Восстановить Бортовой Самописец с UMC Interstellar Prospector
 wolf_part1_objective_recoverbox2 | Recover Flight Recorder from UMC Infinite Horizon | Восстановить Бортовой Самописец с UMC Infinite Horizon
 wolf_part1_objective_recoverbox3 | Recover Flight Recorder from UMC Celestial Hauler | Восстановить Бортовой Самописец с UMC Celestial Hauler
@@ -64,7 +64,7 @@ wolf_part2_inperson_distress6 | The Reactor is reaching critical levels, Captain
 wolf_part2_inperson_distress7 | I'll try and buy you a few more seconds, but it's going to go critical any moment.  Get to a safe distance as soon as you can, Captain.  Save my crew! | Я попытаюсь выиграть вам еще несколько секунд, но он достигнет критической точки в любой момент.  Отойдите на безопасное расстояние как можно скорее, Капитан.  Спасите мой экипаж!
 wolf_part2_objective_dock | Dock with the UMC Orion Sentinel | Пристыковаться к UMC Orion Sentinel
 wolf_part2_objective_dropoff | Drop off the survivors at any shipyard or colony [*X/*Y] | Высадить выживших на любой верфи или колонии [*X/*Y]
-wolf_part2_objective_escape | Get to a safe distance before the Orion Sentinel explodes | Отойти на безопасное расстояние до взрыва Orion Sentinel
+wolf_part2_objective_escape | Undock and get to a safe distance before the Orion Sentinel explodes | Отстыкуйся и отойди на безопасное расстояние, пока Страж Ориона не взорвался
 wolf_part2_objective_rescue | Rescue the crew of the UMC Orion Sentinel [*X/40] | Спасти экипаж UMC Orion Sentinel [*X/40]
 wolf_part2_objective_thrusters | Fit four manoeuvering thrusters to your vessel [*X/4] | Установить четыре маневровых двигателя на ваш корабль [*X/4]
 wolf_part2_objective_visitharken | Travel to Commander Harken | Отправиться к Командиру Харкену

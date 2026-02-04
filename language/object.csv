@@ -5,7 +5,7 @@ object_airreprocessor_description | Converts CO2 into breathable Oxygen. | Пр�
 object_assembler | Assembly Table | Сборочный Стол
 object_asteroid | Asteroid | Астероид
 object_battery | Battery | Батарея
-object_battery_description | Stores any excess power available in the powergrid, up to 1000Mw. The battery will supply power whenever there is a shortage. | Хранит избыточную энергию, доступную в энергосети, до 1000МВт. Батарея будет подавать энергию при нехватке.
+object_battery_description | Stores any excess power available in the powergrid, up to 1000MJ. The battery will supply power whenever there is a shortage. | Хранит любые излишки энергии, имеющиеся в электросети, до 1000 МДж. Батарея будет поставлять энергию при любой нехватке.
 object_box | Box | Упаковано
 object_brokenhopdrive | Broken Hop Drive | Сломанный Скачковый Двигатель
 object_brokenhopdrive_description | Broken hop drive, capable of hopping within systems | Сломанный скачковый двигатель, способный совершать прыжки внутри систем
@@ -128,7 +128,7 @@ object_railgun_description | An extremely accurate and long range weapon system 
 object_railgunshell | Railgun Slugs | Рельсовые Пули
 object_railgunshell_description | A box of ammo for a Railgun. | Ящик боеприпасов для Рельсотрона.
 object_reactor | Reactor | Реактор
-object_reactor_description | Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\nGenerates a maximum power output of 100MW. | Сжигает высокоэнергетическое Топливо для производства энергии. Требует подачи Топлива через трубу и подключения кабелями к энергооборудованию.\nГенерирует максимальную выходную мощность 100МВт.
+object_reactor_description | Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\n\nGenerates a maximum power output of 100MW. | Сжигает высокоэнергетическое Топливо, чтобы получить энергию. Топливо должно поступать через трубу. Затем с помощью кабелей подключается к другому оборудованию.\n\nГенерирует максимальную мощность в 100 МВт.
 object_refinedmetreon | Refined Metreon | Обработанный Метреон
 object_refinedtilium | Tilium Crystals | Тилиевые Кристаллы
 object_refinery | Refinery | Химический Завод
@@ -162,7 +162,7 @@ object_short_bullets | Ammo | Патроны
 object_short_cannonshell | Shells | Снаряды
 object_short_deuterium | Dtrm | Дейтерий
 object_short_ftlcharge | FTL | Гипертопливо
-object_short_oxygen | O2 | Кислород
+object_short_oxygen | O2 | КИСЛОРОД
 object_short_railgunshell | Slugs | Пули
 object_shuttle | Shuttle | Челнок
 object_smallstoragecrate | Small Storage Crate | Малое Хранилище
