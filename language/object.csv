@@ -162,7 +162,7 @@ object_short_bullets | Ammo | Патроны
 object_short_cannonshell | Shells | Снаряды
 object_short_deuterium | Dtrm | Дейтерий
 object_short_ftlcharge | FTL | Гипертопливо
-object_short_oxygen | O2 | КИСЛОРОД
+object_short_oxygen | O2 | O2
 object_short_railgunshell | Slugs | Пули
 object_shuttle | Shuttle | Челнок
 object_smallstoragecrate | Small Storage Crate | Малое Хранилище

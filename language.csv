@@ -1,14 +1,14 @@
 ﻿state,key,svn,english,translation
 NEW,trade_paymentperjump,3472,*X (+*Y) per sector jump,*X (+*Y) на один секторный прыжок
 NEW,award_civilianpayment,3472,CIVILIAN PAYMENT,ГРАЖДАНСКИЙ ПЛАТЕЖ
-NEW,award_civilianpayment_caption,3472,*X permanent residents in your fleet,*X постоянно проживающие в вашем автопарке
-NEW,logistics_status_default,3472,Order running,Заказать бег
-NEW,logistics_status_miningstacksfull,3472,Mined *X R*Y (*Z stacks) - storage full,Шахта *X R*Y (*Z стопки) - хранилище заполнено
-NEW,logistics_status_miningstackstime,3472,Mined *X R*Y (*Z stacks) in T*P,Шахта *X R*Y (*Z стопки) в Т*P
-NEW,logistics_status_miningstackstimefull,3472,Mined *X R*Y (*Z stacks) in T*P - storage full,Шахта *X R*Y (*Z стопки) в T*P - хранилище заполнено
-NEW,logistics_status_miningratio,3472,Mined *X R*Y (*Z/*P stacks),Шахта *X R*Y (*Z/*P стопки)
-NEW,logistics_status_miningratiofull,3472,Mined *X R*Y (*Z/*P stacks) - storage full,Шахта *X R*Y (*Z/*P стопки) - хранилище заполнено
-NEW,logistics_status_miningonboard,3472,"Mined *X R*Y (*Z stacks on board, *P desired) - storage full","Шахта *X R*Y (*Z стак на борту, *P желателен) - хранилище заполнено"
+NEW,award_civilianpayment_caption,3472,*X permanent residents in your fleet,*X постоянных жителей в вашем флоте
+NEW,logistics_status_default,3472,Order running,Заказ выполняется
+NEW,logistics_status_miningstacksfull,3472,Mined *X R*Y (*Z stacks) - storage full,Добыто *X R*Y (*Z стопки) - хранилище заполнено
+NEW,logistics_status_miningstackstime,3472,Mined *X R*Y (*Z stacks) in T*P,Добыто *X R*Y (*Z стопки) в Т*P
+NEW,logistics_status_miningstackstimefull,3472,Mined *X R*Y (*Z stacks) in T*P - storage full,Добыто *X R*Y (*Z стопки) в T*P - хранилище заполнено
+NEW,logistics_status_miningratio,3472,Mined *X R*Y (*Z/*P stacks),Добыто *X R*Y (*Z/*P стопки)
+NEW,logistics_status_miningratiofull,3472,Mined *X R*Y (*Z/*P stacks) - storage full,Добыто *X R*Y (*Z/*P стопки) - хранилище заполнено
+NEW,logistics_status_miningonboard,3472,"Mined *X R*Y (*Z stacks on board, *P desired) - storage full","Добыто *X R*Y (*Z стак на борту, *P желателен) - хранилище заполнено"
 NEW,logistics_status_collectcontainersfull,3472,Collected *X R*Y (*Z containers) - storage full,Собранные *X R*Y (*Z контейнеры) - хранилище заполнено
 NEW,logistics_status_collectcontainerstime,3472,Collected *X R*Y (*Z containers) in T*P,Собранные *X R*Y (*Z контейнеры) в T*P
 NEW,logistics_status_collectcontainerstimefull,3472,Collected *X R*Y (*Z containers) in T*P - storage full,Собранные *X R*Y (*Z контейнеры) в T*P - хранилище заполнено
@@ -35,27 +35,27 @@ PREVIOUS,logistics_status_buynosupply,3329,out of the *X ordered (not enough ava
 UPDATED,logistics_status_sellnosupply,3472,Sold *X R*Y for $*Z out of the *P desired - insufficient cargo,Продается *X R*Y за $*Z из *P желаемого - недостаточный груз
 PREVIOUS,logistics_status_sellnosupply,3400,out of the *X desired (not enough available),из *X желаемого (недостаточно доступного)
 PREVIOUS,logistics_status_sellnosupply,3329,out of the *X ordered (not enough available),из заказанных на *X (не хватает в наличии)
-UPDATED,logistics_status_miningstacks,3472,Mined *X R*Y (*Z stacks),Шахта *X R*Y (*Z стак)
+UPDATED,logistics_status_miningstacks,3472,Mined *X R*Y (*Z stacks),Добыто *X R*Y (*Z стак)
 PREVIOUS,logistics_status_miningstacks,3239,(*X/*Y stacks),(*X/*Y стопки)
 UPDATED,logistics_status_collectcontainers,3472,Collected *X R*Y (*Z containers),Собрано *X R*Y (*Z контейнеры)
 PREVIOUS,logistics_status_collectcontainers,3239,(*X/*Y containers),(*X/*Y контейнеры)
 UPDATED,wolf_part2_objective_escape,3472,Undock and get to a safe distance before the Orion Sentinel explodes,"Отстыкуйся и отойди на безопасное расстояние, пока Страж Ориона не взорвался"
 PREVIOUS,wolf_part2_objective_escape,2448,Get to a safe distance before the Orion Sentinel explodes,Отойти на безопасное расстояние до взрыва Orion Sentinel
-CURRENT,settings_motionsicknessmode,3400,Motion Sickness Mode,Режим укачивания
-CURRENT,settings_motionsicknessmode_description,3400,"Background rotation is removed, which should help if you experience motion sickness in-game.","Вращение фона убрано, что должно помочь, если тебя укачивает в игре."
-CURRENT,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition",При переключении между кораблями пропускай переход
+CURRENT,settings_motionsicknessmode,3400,Motion Sickness Mode,Режим защиты от укачивания
+CURRENT,settings_motionsicknessmode_description,3400,"Background rotation is removed, which should help if you experience motion sickness in-game.","Вращение фона отключено, это должно помочь, если вас укачивает в игре."
+CURRENT,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition",Пропустить анимацию при переключении между кораблями
 CURRENT,newmainmenu_tests,3400,TESTS,ТЕСТЫ
-CURRENT,newmainmenu_instantshipswitch,3400,Switch instantly between ships,Мгновенно переключайтесь между кораблями
+CURRENT,newmainmenu_instantshipswitch,3400,Switch instantly between ships,Мгновенное переключение между кораблями
 CURRENT,newmainmenu_vsync,3400,V-Sync,V-Sync
 CURRENT,hud_layer_neutralexpand,3400,*X NEUTRAL SHIPS,*X НЕЙТРАЛЬНЫЕ КОРАБЛИ
-CURRENT,hud_layer_neutralexpandtooltip,3400,Show neutral ships,Покажи нейтральные корабли
-CURRENT,power_unit,3400,*X MW,*X MW
-CURRENT,tactical_focuslayer,3400,FOCUS LAYER,СЛОЙ ФОКУСА
+CURRENT,hud_layer_neutralexpandtooltip,3400,Show neutral ships,Показать нейтральные корабли
+CURRENT,power_unit,3400,*X MW,*X МВт
+CURRENT,tactical_focuslayer,3400,FOCUS LAYER,ФОКУСИРОВКА
 CURRENT,tactical_tooltip_focuslayer,3400,"When enabled, the camera's rotation and position track the currently selected layer.","Если эта функция включена, вращение и положение камеры отслеживают текущий выбранный слой."
 CURRENT,logistics_condition_untilstorage,3400,Quantity on board,Количество на борту
 CURRENT,logistics_quantity_all,3400,ALL,ВСЕ
 CURRENT,logistics_quantity_full,3400,FULL,ПОЛНЫЙ
-CURRENT,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,ИСПОЛЬЗУЙ ЛЮБОЙ СКЛАД ДЛЯ ХРАНЕНИЯ ГРУЗОВ
+CURRENT,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,ИСПОЛЬЗОВАТЬ ЛЮБОЙ СКЛАД
 CURRENT,logistics_stuck_layernotours,3400,Ship L*X is not friendly,Корабль L*X не отличается дружелюбием
 CURRENT,logistics_tooltip_controlall,3400,[CTRL] ALL,[CTRL] ALL
 CURRENT,logistics_tooltip_controlfull,3400,[CTRL] FULL,[CTRL] FULL
@@ -63,18 +63,18 @@ CURRENT,logistics_tooltip_noitemrequired,3400,This order does not require an ite
 CURRENT,logistics_tooltip_extrastoggleshow,3400,Show extra options for this order,Покажи дополнительные опции для этого заказа
 CURRENT,logistics_tooltip_extrastogglehide,3400,Hide extra options for this order,Скрыть дополнительные опции для этого заказа
 CURRENT,logistics_tooltip_extrastogglenone,3400,No extra options available,Никаких дополнительных опций не предусмотрено
-CURRENT,alert_type_failedtofindsuit,3400,SPACESUITS REQUIRED,КОСМИЧЕСКИЕ СКАФАНДРЫ ОБЯЗАТЕЛЬНЫ
+CURRENT,alert_type_failedtofindsuit,3400,SPACESUITS REQUIRED,ТРЕБУЮТСЯ КОСМИЧЕСКИЕ СКАФАНДРЫ
 CURRENT,alert_type_failedtofindsuit_caption,3400,*X crew members need spacesuits.,*X членам экипажа нужны скафандры.
-CURRENT,objective_travel_to_location,3400,Travel to S*X,Отправляйся в S*X
-CURRENT,logistics_item_none,3400,SELECT ITEM,ВЫБЕРИТЕ ЭЛЕМЕНТ
-CURRENT,powergrid_demand,3400,DEMAND: *X MW,ПОТРЕБНОСТЬ: *X МВТ
-CURRENT,powergrid_output,3400,OUTPUT: *X MW,ВЫХОД: *X МВТ
-CURRENT,powergrid_stored,3400,STORED: *X MJ,ХРАНИТСЯ: *X MJ
+CURRENT,objective_travel_to_location,3400,Travel to S*X,Отправляйтесь в S*X
+CURRENT,logistics_item_none,3400,SELECT ITEM,ВЫБЕРИТЕ ПРЕДМЕТ
+CURRENT,powergrid_demand,3400,DEMAND: *X MW,ПОТРЕБЛЕНИЕ: *X МВт
+CURRENT,powergrid_output,3400,OUTPUT: *X MW,ВЫРАБОТКА: *X МВт
+CURRENT,powergrid_stored,3400,STORED: *X MJ,НАКОПЛЕНО: *X МДж
 CURRENT,object_battery_description,3400,"Stores any excess power available in the powergrid, up to 1000MJ. The battery will supply power whenever there is a shortage.","Хранит любые излишки энергии, имеющиеся в электросети, до 1000 МДж. Батарея будет поставлять энергию при любой нехватке."
-CURRENT,object_reactor_description,3400,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\n\nGenerates a maximum power output of 100MW.,"Сжигай высокоэнергетическое Топливо, чтобы получить энергию. Топливо должно поступать к нему (через трубу). Затем с помощью кабелей подключись к другому оборудованию.\n\nГенерирует максимальную мощность в 100 МВт."
-CURRENT,wolf_part1_objective_drones,3400,Install a Drone Bay and have at least one Logistics Drone,Установи отсек для дронов и заведи хотя бы одного логистического дрона
+CURRENT,object_reactor_description,3400,Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\n\nGenerates a maximum power output of 100MW.,"Сжигает высокоэнергетическое Топливо, чтобы получить энергию. Топливо должно поступать через трубу. Затем с помощью кабелей подключается к другому оборудованию.\n\nГенерирует максимальную мощность в 100 МВт."
+CURRENT,wolf_part1_objective_drones,3400,Install a Drone Bay and have at least one Logistics Drone,Установить отсек для дронов и иметь хотя бы одного логистического дрона
 CURRENT,tutorial_stargatewindowhighlightframes2,3400,The button underneath each component can be clicked to quickly sell all your stock and submit it to the Andromeda Project.\n\nThey can also be sold from the trade screen.,"Кнопку под каждым компонентом можно нажать, чтобы быстро продать все свои запасы и отправить их в проект ""Андромеда"".\n\nИх также можно продать с экрана торговли."
-CURRENT,dsi_part2_thirdpartcomplete2,3400,"I'm going to take a short break from the project, I trust you'll be able to do the next couple of stages on your own.","Я собираюсь сделать небольшой перерыв в проекте, верю, что следующие пару этапов ты сможешь выполнить самостоятельно."
+CURRENT,dsi_part2_thirdpartcomplete2,3400,"I'm going to take a short break from the project, I trust you'll be able to do the next couple of stages on your own.","Я собираюсь сделать небольшой перерыв в проекте, верю, что следующие пару этапов вы сможете выполнить самостоятельно."
 CURRENT,logistics_log_skipped,3339,Skipped order,Пропущенный заказ
 CURRENT,hud_ftlshipcontrolledbylogistics,3331,Ship is controlled by interstellar logistics,Корабль управляется межзвездной логистикой
 CURRENT,newmainmenu_invalidsavename,3329,Invalid Save Name,Неверное название сохранения
@@ -90,7 +90,7 @@ CURRENT,logistics_status_waiting,3329,Waiting T*X,Ожидание T*X
 CURRENT,logistics_status_warning,3329,Warning,Внимание
 CURRENT,logistics_status_alert,3329,Alert,Оповещение
 CURRENT,logistics_log_jumped,3329,Travelled to system S*X,Отправился в систему S*X
-CURRENT,logistics_log_jumpedstargate,3329,Travelled to system S*X through Stargate,Переместился в систему S*X через Звездные врата
+CURRENT,logistics_log_jumpedstargate,3329,Travelled to system S*X through Stargate,Переместился в систему S*X через Звездные Врата
 CURRENT,logistics_log_transferto,3329,Transferred *X R*Y to L*Z,Перенесено *X R*Y на L*Z
 CURRENT,logistics_log_transferfrom,3329,Transferred *X R*Y from L*Z,Переправлено *X R*Y из L*Z
 CURRENT,logistics_log_waited,3329,Waited for T*X,Дождался T*X
@@ -107,7 +107,7 @@ CURRENT,logistics_status_transferto,3329,Transferring *X R*Y to L*Z,Переме
 CURRENT,logistics_status_transferfrom,3329,Transferring *X R*Y from L*Z,Перемещение *X R*Y из L*Z
 CURRENT,thefinalstand_harken1_intro,3329,"Captain! In direct violation of intergalactic law, the Andromeda Project has permanently closed access to the Stargate outside of their own ships. Colonists are stranded in the new sector, unable to return home.","Капитан! Нарушив межгалактические законы Проект Андромеда навсегда закрыл доступ к Звездным вратам всем, кроме своих кораблей. Колонисты застряли в новом секторе, не имея возможности вернуться домой."
 CURRENT,thefinalstand_battleoutro_ship1,3329,DANGER: POWER SYSTEMS DETERIORATING. POWER GRID OVERLOADED.\nNO POWER TO WEAPONS AND ENGINES.,ОПАСНОСТЬ: УХУДШЕНИЕ РАБОТЫ ЭНЕРГОСИСТЕМ. ЭНЕРГОСИСТЕМА ПЕРЕГРУЖЕНА.\nНЕТ ПИТАНИЯ ДЛЯ ОРУЖИЯ И ДВИГАТЕЛЕЙ.
-CURRENT,thefinalstand_battleoutro_harken3,3329,"It's over, Captain. The Andromeda HQ will be placed under the jurisdiction of the Intergalactic Security Council while I make the necessary arrests. The access codes for the Stargate are back under our control.","Все кончено, капитан. Штаб-квартира Андромеды будет передана под юрисдикцию Межгалактического совета безопасности, пока я произведу необходимые аресты. Коды доступа к Звездным вратам снова под нашим контролем."
+CURRENT,thefinalstand_battleoutro_harken3,3329,"It's over, Captain. The Andromeda HQ will be placed under the jurisdiction of the Intergalactic Security Council while I make the necessary arrests. The access codes for the Stargate are back under our control.","Все кончено, Капитан. Штаб-квартира Андромеды будет передана под юрисдикцию Межгалактического совета безопасности, пока я произведу необходимые аресты. Коды доступа к Звездным вратам снова под нашим контролем."
 CURRENT,tutorial_ftladdftldrive,3329,Add one <b>FTL drive</b> to our order by clicking on the entry in the list.,"добавьте один <b>Гипердвигатель</b> к нашему заказу, нажав на запись в списке."
 CURRENT,tutorial_ftladdftlfuel,3329,<b>FTL drives</b> consume one fuel charge per jump.\n\nAdd 5 <b>FTL charges</b> to the order as well.,<b>Гипердвигатели</b> расходуют один заряд Гипертоплива на один прыжок.\n\nДобавьте к заказу еще и 5 <b>зарядов Гипертоплива</b>.
 CURRENT,tutorial_ftlinstallftl,3329,Install the <b>FTL drive</b> anywhere in your ship.,Установите <b>Гипердвигатель</b> в любом месте своего корабля.
@@ -123,7 +123,7 @@ CURRENT,dsi_x_canceldeal2,3329,"You will lose access to all the ships I've provi
 CURRENT,tutorial_stargatewindowhighlightcomponent,3257,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,"Каждый компонент, который вам нужно изготовить, находится справа.\nНаведите курсор на иконку компонента, чтобы увидеть, как его изготовить."
 CURRENT,logistics_tooltip_skiporder,3248,Skip currently executing order,Пропустить текущий заказ
 CURRENT,logistics_tooltip_loop,3248,Loop execution,Зациклить выполнение
-CURRENT,thefinalstand_artemis1,3248,Hello again Captain!,"И снова здравствуй, капитан!"
+CURRENT,thefinalstand_artemis1,3248,Hello again Captain!,"И снова здравствуй, Капитан!"
 CURRENT,thefinalstand_artemis2,3248,"After some careful analysis of the Stargate's blueprints, I have found the backdoor that the late Alexander James Elistar has left you.","После тщательного анализа чертежей Звездных врат я обнаружил тот черный ход, который оставил вам покойный Александр Джеймс Элистар."
 CURRENT,thefinalstand_artemis3,3248,You will use this backdoor to upload a small virus that I have written to their command centre within the HQ. It will disable the station's offensive capabilities and place itself under your command.,"Вы воспользуетесь этим черным ходом, чтобы загрузить в командный центр штаб-квартиры небольшой вирус, который я написал. Он отключит боевые системы станции и поставит ее под ваше управление."
 CURRENT,thefinalstand_boss_artemis1,3248,"Captain, I can route a signal to their powergrid and overload their generators, tell me when to trigger it!","Капитан, я могу направить сигнал в их энергосистему и перегрузить генераторы, скажите, когда их активировать!"
@@ -133,8 +133,8 @@ CURRENT,thefinalstand_harken3,3248,"My plan is to use our fleets to take control
 CURRENT,thefinalstand_harken4,3248,"While you neutralise the HQ, my fleet will fight off the Andromeda Project navy. Once the battle is over, I will take control of the HQ and arrest everyone involved. Their conglomerate will be dismantled.","Пока вы нейтрализуете штаб-квартиру, мой флот будет отбиваться от флота Проекта Андромеда. Как только битва закончится, я возьму штаб-квартиру под контроль и арестую всех причастных. Их конгломерат будет ликвидирован."
 CURRENT,thefinalstand_harken6,3248,Meet me to discuss the plan further. Goodbye for now.,"Встретимся, чтобы обсудить план подробнее. Пока."
 CURRENT,thefinalstand_boss_harken2,3248,This is the Andromeda Navy's flagship! You should have access to its command centre from the HQ!,Это флагман флота Андромеды! У вас должен быть доступ к его командному центру из штаб-квартиры!
-CURRENT,bravenewsector_part4_rep9,3244,Hello Captain. The newly completed Stargate has put the Andromeda Project in a powerful position to control the flow of resources and people between this galaxy and the Andromeda galaxy.,"Здравствуйте, капитан. Недавно завершенные Звездные врата поставили Проект Андромеда в сильную позицию, позволяющее контролировать потоки ресурсов и людей между этой галактикой и галактикой Андромеда."
-CURRENT,thefinalstand_battleprep_1,3244,"Hello Captain, it's good to see you. These are all of the ships I control in this sector, the rest are on the other side of the Stargate, unable to reach us.","Здравствуйте, капитан, рад вас видеть. Это все корабли, которые я контролирую в этом секторе, остальные находятся по ту сторону Звездных врат и не могут до нас добраться."
+CURRENT,bravenewsector_part4_rep9,3244,Hello Captain. The newly completed Stargate has put the Andromeda Project in a powerful position to control the flow of resources and people between this galaxy and the Andromeda galaxy.,"Здравствуйте, Капитан. Недавно завершенные Звездные Врата поставили Проект Андромеда в сильную позицию, позволяющую контролировать потоки ресурсов и людей между этой галактикой и галактикой Андромеда."
+CURRENT,thefinalstand_battleprep_1,3244,"Hello Captain, it's good to see you. These are all of the ships I control in this sector, the rest are on the other side of the Stargate, unable to reach us.","Здравствуйте, Капитан, рад вас видеть. Это все корабли, которые я контролирую в этом секторе, остальные находятся по ту сторону Звездных врат и не могут до нас добраться."
 CURRENT,thefinalstand_battle_rep1,3244,Commander Harken! I see that my first fleet has failed to deal with you. I suppose if I want something done properly I should do it myself.,"Командир Харкен! Я вижу, что моя первая флотилия не справилась с вами. Полагаю, если я хочу, чтобы дело было сделано как следует, мне придется сделать это самому."
 CURRENT,newmainmenu_continue,3239,CONTINUE GAME,ПРОДОЛЖИТЬ ИГРУ
 CURRENT,hud_ftlshipblockedfromftl,3239,Ship cannot enter hyperspace with your fleet,Корабль не может войти в гиперпространство вместе с вашим флотом
@@ -164,12 +164,12 @@ CURRENT,techtree_node_caption_wasteprocessing,3239,Unlocks schematics for hardwa
 CURRENT,special_advancedlogistics,3239,Interstellar Logistics,Межзвездная логистика
 CURRENT,tactical_dockingassistant,3239,DOCKING ASSIST,ПОМОШНИК СТЫКОВКИ
 CURRENT,tactical_fleetformation,3239,FLEET FORMATION,ФОРМАЦИЯ ФЛОТА
-CURRENT,tactical_fleetcombat,3239,FLEET COMBAT AI,БОЙ ФЛОТА AI
+CURRENT,tactical_fleetcombat,3239,FLEET COMBAT AI,АВТОБОЙ ФЛОТА
 CURRENT,tactical_on,3239,ON,ВКЛ
 CURRENT,tactical_off,3239,OFF,ВЫКЛ
-CURRENT,tactical_tooltip_dockingassistant,3239,"When enabled, the Docking Assistant will perform the final maneuovers required to dock your ship with another, once you are close enough.\n\nIt is recommended you disable Fleet Formation when attempting to dock.","Если включить эту функцию, помощник по стыковке выполнит последние маневры, необходимые для стыковки твоего корабля с другим, как только ты окажешься достаточно близко.\n\nПри попытке стыковки рекомендуется отключить функцию Формация Флота."
-CURRENT,tactical_tooltip_fleetformation,3239,"When enabled, all of the fleet ships within a system will fly together in close formation, following the lead of whichever ship you are directly controlling.","Когда эта функция включена, все корабли флота в пределах системы будут летать вместе в тесном строю, следуя за лидером того корабля, которым ты непосредственно управляешь."
-CURRENT,tactical_tooltip_fleetcombat,3239,"When enabled, your other fleet ships will take care of themselves during combat, moving to optimal range and engaging as best they can.","Когда эта функция включена, другие корабли твоего флота будут сами заботиться о себе во время боя, перемещаясь на оптимальную дистанцию и вступая в бой как можно лучше."
+CURRENT,tactical_tooltip_dockingassistant,3239,"When enabled, the Docking Assistant will perform the final maneuovers required to dock your ship with another, once you are close enough.\n\nIt is recommended you disable Fleet Formation when attempting to dock.","Если включить эту функцию, помощник по стыковке выполнит последние маневры, необходимые для стыковки вашего корабля с другим, как только вы окажетесь достаточно близко.\n\nПри попытке стыковки рекомендуется отключить функцию Формация Флота."
+CURRENT,tactical_tooltip_fleetformation,3239,"When enabled, all of the fleet ships within a system will fly together in close formation, following the lead of whichever ship you are directly controlling.","Когда эта функция включена, все корабли флота в пределах системы будут летать вместе в тесном строю, следуя за лидером того корабля, которым вы непосредственно управляете."
+CURRENT,tactical_tooltip_fleetcombat,3239,"When enabled, your other fleet ships will take care of themselves during combat, moving to optimal range and engaging as best they can.","Когда эта функция включена, другие корабли вашего флота будут сами заботиться о себе во время боя, перемещаясь на оптимальную дистанцию и вступая в бой как можно лучше."
 CURRENT,tactical_tooltip_weapon,3239,[LMB] Select weapon\n[SHIFT-LMB] Select multiple weapons\n[RMB] Clear current target,[LMB] Выбрать оружие\n[SHIFT-LMB] Выбрать несколько видов оружия\n[RMB] Очистить текущую цель
 CURRENT,tactical_tooltip_auto,3239,AUTO-TARGETTING\n[LMB] Enable auto-targetting\n[RMB] Disable auto-targetting,АВТОНАВОДКА\n[LMB] Включить автонаводку\n[RMB] Отключить автонаводку
 CURRENT,logistics_tooltip_add,3239,[LMB] Add,[LMB] Добавить
@@ -205,7 +205,7 @@ CURRENT,logistics_stuck_resources,3239,L*X does not have any R*Ys,L*X не им�
 CURRENT,logistics_stuck_patches,3239,System S*X does not have any R*Y to mine,В системе S*X нет ни одного R*Y для Добычи
 CURRENT,logistics_stuck_gas,3239,System S*X does not have any R*Y to collect,"В системе S*X нет ни одного R*Y, который можно было бы собрать"
 CURRENT,logistics_stuck_tradingpost,3239,System S*X does not have a trading post,В системе S*X нет торгового поста
-CURRENT,logistics_stuck_stargate,3239,Stargate is not ready for jump,Звездные врата не готовы к прыжку
+CURRENT,logistics_stuck_stargate,3239,Stargate is not ready for jump,Звездные Врата не готовы к прыжку
 CURRENT,logistics_status_notrunning,3239,No order currently running,Ни один заказ в данный момент не выполняется
 CURRENT,logistics_status_travelling,3239,Travelling to system S*X,Путешествие в систему S*X
 CURRENT,logistics_status_mining,3239,Mined *X R*Y,Добыто *X R*Y
@@ -218,7 +218,7 @@ CURRENT,mission_objective_done,3239,DONE,ГОТОВО
 CURRENT,alert_type_interstellarlogistics,3239,INTERSTELLAR LOGISTICS,МЕЖЗВЕЗДНАЯ ЛОГИСТИКА
 CURRENT,alert_type_interstellarlogistics_caption,3239,Orders stuck,Заказы застряли
 CURRENT,stargate_startandromedajump,3239,TEST ANDROMEDA JUMP,ИСПЫТАНИЕ ПРЫЖКА АНДРОМЕДЫ
-CURRENT,stargate_power_tooltip,3239,POWER REQUIRED: *X MW,НЕОБХОДИМАЯ МОЩНОСТЬ: *X МВТ
+CURRENT,stargate_power_tooltip,3239,POWER REQUIRED: *X MW,НЕОБХОДИМАЯ МОЩНОСТЬ: *X МВт
 CURRENT,stargate_distance_travelled,3239,*X kly REMAINING,*X км ОСТАЛОСЬ
 CURRENT,stargate_journey_completed,3239,*X% COMPLETED,*X% ВЫПОЛНЕНО
 CURRENT,stargate_sell,3239,SELL ALL (*X FOR *Y),ПРОДАТЬ ВСЕ (*X ДЛЯ *Y)
@@ -236,9 +236,9 @@ CURRENT,dsi_part2_dogmavessel2,3239,D.O.G.M.A Citadel,D.O.G.M.A Citadel
 CURRENT,dsi_part2_dogmavessel3,3239,D.O.G.M.A Centurion,D.O.G.M.A Centurion
 CURRENT,bravenewsector_part4_title,3239,"Brave New Sector, Part 4","Дивный Новый Сектор, часть 4"
 CURRENT,bravenewsector_part4_summary,3239,Complete the final test.,Завершите финальный тест.
-CURRENT,bravenewsector_part4_intro,3239,"Captain, preparations have concluded for the final Stargate test. We are ready to send a ship to the Andromeda Galaxy. Please call us when you are ready.","Капитан, подготовка к финальному испытанию Звездных врат завершена. Мы готовы отправить корабль в галактику Андромеды. Пожалуйста, свяжитесь с нами, когда будете готовы."
+CURRENT,bravenewsector_part4_intro,3239,"Captain, preparations have concluded for the final Stargate test. We are ready to send a ship to the Andromeda Galaxy. Please call us when you are ready.","Капитан, подготовка к финальному испытанию Звездных Врат завершена. Мы готовы отправить корабль в галактику Андромеды. Пожалуйста, свяжитесь с нами, когда будете готовы."
 CURRENT,bravenewsector_part4_call_action,3239,Call the Representative,Связаться с представителем
-CURRENT,bravenewsector_part4_rep1,3239,The materials you provided to us have been fitted to the Stargate. It is fully functional and ready to test.,"Материалы, которые вы нам предоставили, были установлены на Звездные врата. Они полностью функциональны и готовы к испытаниям."
+CURRENT,bravenewsector_part4_rep1,3239,The materials you provided to us have been fitted to the Stargate. It is fully functional and ready to test.,"Материалы, которые вы нам предоставили, были установлены на Звездные Врата. Они полностью функциональны и готовы к испытаниям."
 CURRENT,bravenewsector_part4_rep2,3239,This is a monumental moment in the history of our species. If this test is successful the Andromeda Project will be the first entity to send mankind to another galaxy.,"Это монументальный момент в истории нашего вида. Если испытание пройдет успешно, Проект Андромеда станет первым, кто отправит человечество в другую галактику."
 CURRENT,bravenewsector_part4_rep3,3239,"Captain, you will need to begin the test and provide power for the entire journey so our test ship can reach the Andromeda Galaxy. This will require a significant amount of energy, more than what's needed to travel between sectors.","Капитан, вам нужно будет начать испытание и обеспечить энергией все путешествие, чтобы наш тестовый корабль смог достичь галактики Андромеды. Для этого потребуется значительное количество энергии, большее, чем то, что нужно для путешествия между секторами."
 CURRENT,bravenewsector_part4_rep4,3239,Please begin the test when you are ready.,"Пожалуйста, начинайте тест, когда будете готовы."
@@ -248,16 +248,16 @@ CURRENT,bravenewsector_part4_reachandromeda_award,3239,ANDROMEDA REACHED,АНД�
 CURRENT,bravenewsector_part4_reachandromeda_caption,3239,Signal received from test ship,"Сигнал, полученный с испытательного корабля"
 CURRENT,bravenewsector_part4_andromeda_bonus,3239,ANDROMEDA BONUS,БОНУС АНДРОМЕДЫ
 CURRENT,bravenewsector_part4_andromeda_caption,3239,Payment for sending the test ship,Оплата за отправку тестового корабля
-CURRENT,bravenewsector_part4_rep5,3239,"Captain, the Stargate has received a signal from the Andromeda Galaxy.","Капитан, Звездные врата приняли сигнал из галактики Андромеды."
+CURRENT,bravenewsector_part4_rep5,3239,"Captain, the Stargate has received a signal from the Andromeda Galaxy.","Капитан, Звездные Врата приняли сигнал из галактики Андромеды."
 CURRENT,bravenewsector_part4_rep6,3239,The test ship made it. The test was a complete and total success. This is a historic moment for all of mankind.,Испытательный корабль добрался до места. Испытание прошло с полным и абсолютным успехом. Это исторический момент для всего человечества.
-CURRENT,bravenewsector_part4_rep7,3239,It couldn't have been done without you Captain. Your industrial expertise and dedication to the project have been invaluable.,"Без вас, капитан, это было бы невозможно сделать. Ваш промышленный опыт и преданность проекту были бесценны."
-CURRENT,bravenewsector_part4_rep8,3239,"Thank you Captain, your contribution will not be forgotten. Goodbye for now.","Спасибо, капитан, ваш вклад не будет забыт. На этом прощаемся."
+CURRENT,bravenewsector_part4_rep7,3239,It couldn't have been done without you Captain. Your industrial expertise and dedication to the project have been invaluable.,"Без вас, Капитан, это было бы невозможно сделать. Ваш промышленный опыт и преданность проекту были бесценны."
+CURRENT,bravenewsector_part4_rep8,3239,"Thank you Captain, your contribution will not be forgotten. Goodbye for now.","Спасибо, Капитан, ваш вклад не будет забыт. На этом прощаемся."
 CURRENT,bravenewsector_part4_objective_wait,3239,Await further instructions,Ожидайте дальнейших указаний
-CURRENT,bravenewsector_part4_harken1,3239,"Captain, there are reports that the Andromeda Project are withholding access to the Stargate from any ships that aren't their own.","Капитан, есть сведения, что Проект Андромеда закрывает доступ к Звездным вратам для всех посторонних кораблей."
-CURRENT,bravenewsector_part4_harken2,3239,"My sensors are detecting major fleet movements towards the Stargate, it looks like the Andromeda Project is aiming to secure their control over it.","Мои сенсоры фиксируют крупные перемещения флота в сторону Звездных врат, похоже, что Проект Андромеда стремится закрепить свой контроль над ними."
+CURRENT,bravenewsector_part4_harken1,3239,"Captain, there are reports that the Andromeda Project are withholding access to the Stargate from any ships that aren't their own.","Капитан, есть сведения, что Проект Андромеда закрывает доступ к Звездным Вратам для всех посторонних кораблей."
+CURRENT,bravenewsector_part4_harken2,3239,"My sensors are detecting major fleet movements towards the Stargate, it looks like the Andromeda Project is aiming to secure their control over it.","Мои сенсоры фиксируют крупные перемещения флота в сторону Звездных Врат, похоже, что Проект Андромеда стремится закрепить свой контроль над ними."
 CURRENT,bravenewsector_part4_harken3,3239,"This is... concerning. Be careful, I don't like the look of this.","Это... вызывает опасения. Будь осторожен, мне не нравится, как это выглядит."
-CURRENT,bravenewsector_part4_rep10,3239,The next stage of the project has begun. Our fleet has obtained full control over the Stargate and we are currently in the process of moving our workforce into the new galaxy.,"Начался следующий этап проекта. Наш флот получил полный контроль над Звездными вратами, и сейчас мы занимаемся перемещением нашей рабочей силы в новую галактику."
-CURRENT,bravenewsector_part4_rep11,3239,"We will bring prosperity to all those who work with us. Speak to you soon, Captain. We may have some more work for you in the future.","Мы принесем процветание всем, кто будет работать с нами. До скорой связи, капитан. Возможно, в будущем у нас найдется для вас еще работа."
+CURRENT,bravenewsector_part4_rep10,3239,The next stage of the project has begun. Our fleet has obtained full control over the Stargate and we are currently in the process of moving our workforce into the new galaxy.,"Начался следующий этап проекта. Наш флот получил полный контроль над Звездными Вратами, и сейчас мы занимаемся перемещением нашей рабочей силы в новую галактику."
+CURRENT,bravenewsector_part4_rep11,3239,"We will bring prosperity to all those who work with us. Speak to you soon, Captain. We may have some more work for you in the future.","Мы принесем процветание всем, кто будет работать с нами. До скорой связи, Капитан. Возможно, в будущем у нас найдется для вас еще работа."
 CURRENT,bravenewsector_part4_testshipname,3239,Andromeda Test Ship MK.1,Испытательный корабль Андромеды MK.1
 CURRENT,thefinalstand_title,3239,The Final Stand,Последняя Битва
 CURRENT,thefinalstand_summary,3239,Stop the Andromeda Project.,Останови Проект Андромеда.
@@ -266,13 +266,13 @@ CURRENT,thefinalstand_call_action,3239,Call Harken,Связаться Харке
 CURRENT,thefinalstand_andromedahq_name,3239,ANDROMEDA HQ,ШТАБ-КВАРТИРА АНДРОМЕДЫ
 CURRENT,thefinalstand_andromedaflagship_name,3239,ANDROMEDA FLAGSHIP,ФЛАГМАН АНДРОМЕДЫ
 CURRENT,thefinalstand_ai_name,3239,ANDROMEDA SHIP CONTROL,УПРАВЛЕНИЕ КОРАБЛЕМ АНДРОМЕДА
-CURRENT,thefinalstand_harken1,3239,"Greetings Captain, I was worried you had taken their side in all of this.","Приветствую, капитан. Я опасался, что вы приняли их сторону во всем этом."
+CURRENT,thefinalstand_harken1,3239,"Greetings Captain, I was worried you had taken their side in all of this.","Приветствую, Капитан. Я опасался, что вы приняли их сторону во всем этом."
 CURRENT,thefinalstand_objective_traveltoharken,3239,Travel to Harken,Путешествие к Харкен
 CURRENT,thefinalstand_battleprep_2,3239,My officers have pin-pointed the position of their HQ. Upon arrival we expect to be met with heavy resistance from their private security forces.,Мои офицеры точно определили местоположение их штаба. По прибытии мы ожидаем сильного сопротивления со стороны их частных сил безопасности.
 CURRENT,thefinalstand_battleprep_3,3239,I should be able to grab their attention away from your fleet while you get close and take control of the station.,"Я смогу отвлечь их внимание от вашего флота, пока вы подберетесь ближе и возьмете станцию под контроль."
-CURRENT,thefinalstand_battleprep_4,3239,"Good luck Captain, I'll see you on the battlefield.","Удачи, капитан, увидимся на поле боя."
+CURRENT,thefinalstand_battleprep_4,3239,"Good luck Captain, I'll see you on the battlefield.","Удачи, Капитан, увидимся на поле боя."
 CURRENT,thefinalstand_objective_destroyhq,3239,Take control of the Andromeda Project HQ,Взять под контроль штаб-квартиру Проекта Андромеда
-CURRENT,thefinalstand_battleintro_rep1,3239,"I gave you a very clear warning, Captain. You could've had anything in the universe as our business partner.","Я дал вам очень ясное предупреждение, капитан. В качестве нашего делового партнера вы могли бы получить что угодно во Вселенной."
+CURRENT,thefinalstand_battleintro_rep1,3239,"I gave you a very clear warning, Captain. You could've had anything in the universe as our business partner.","Я дал вам очень ясное предупреждение, Капитан. В качестве нашего делового партнера вы могли бы получить что угодно во Вселенной."
 CURRENT,thefinalstand_battleintro_rep2,3239,Now you must be destroyed.,Теперь вы будете уничтожены.
 CURRENT,thefinalstand_battleintro_rep3,3239,It was a pleasure working with you.,Было приятно работать с вами.
 CURRENT,thefinalstand_battleintro_dogma1,3239,"This is DOGMA Private Security force, we are en-route to the disturbance. ETA: imminent.","Это частная охранная служба DOGMA, мы выдвигаемся к месту происшествия. Время прибытия: скоро."
@@ -281,8 +281,8 @@ CURRENT,thefinalstand_battleintro_harken2,3239,"They're about to arrive, hurry!"
 CURRENT,thefinalstand_objective_flytohq,3239,Fly close to the HQ,Подлететь близко к штаб-квартире
 CURRENT,thefinalstand_objective_destroyhostiles,3239,Destroy remaining hostiles: *X,Уничтожить оставшихся врагов: *X
 CURRENT,thefinalstand_backdoor_action,3239,Trigger Backdoor,Активировать черный ход
-CURRENT,thefinalstand_battle_harken1,3239,Great work Captain! But my sensors are detecting a massive signature headi-,"Отличная работа, капитан! Но мои сенсоры фиксируют массивный сигнатурный объект, направляющи-"
-CURRENT,thefinalstand_boss_harken1,3239,I've lost both of my frigates Captain! I don't have enough firepower to win this!,"Я потерял оба фрегата, капитан! У меня недостаточно огневой мощи, чтобы победить!"
+CURRENT,thefinalstand_battle_harken1,3239,Great work Captain! But my sensors are detecting a massive signature headi-,"Отличная работа, Капитан! Но мои сенсоры фиксируют массивный сигнатурный объект, направляющи-"
+CURRENT,thefinalstand_boss_harken1,3239,I've lost both of my frigates Captain! I don't have enough firepower to win this!,"Я потерял оба фрегата, Капитан! У меня недостаточно огневой мощи, чтобы победить!"
 CURRENT,thefinalstand_objective_destroyboss,3239,Destroy the Andromeda Flagship,Уничтожить флагман Андромеды
 CURRENT,thefinalstand_boss_overloadcaption,3239,OVERLOAD GENERATOR,ГЕНЕРАТОР ПЕРЕГРУЗКИ
 CURRENT,thefinalstand_battleoutro_rep1,3239,"I don't understand, how is that possible!?","Я не понимаю, как это возможно!?"
@@ -292,7 +292,7 @@ CURRENT,thefinalstand_battleoutro_harken1,3239,"This is a message for Andromeda 
 CURRENT,thefinalstand_battleoutro_harken2,3239,"The Andromeda Navy in this sector has been destroyed, you are now blockaded, there is nothing left to fight for.","Флот Андромеды в этом секторе уничтожен, вы заблокированы, больше не за что сражаться."
 CURRENT,thefinalstand_battleoutro_harken4,3239,The current leadership of the Andromeda Project will be dismantled and the new galaxy will be freed from their control.,"Нынешнее руководство Проекта Андромеда будет ликвидировано, а новая галактика освобождена от их контроля."
 CURRENT,thefinalstand_battleoutro_harken5,3239,"You've proven that you can be trusted with control of the Stargate, so I'll leave it in your hands.","Вы доказали, что вам можно доверить контроль над Звездными вратами, поэтому я оставляю их в ваших руках."
-CURRENT,thefinalstand_battleoutro_harken6,3239,"Goodbye Captain, and good luck with your new place in the galaxy.","Прощайте, капитан, и удачи вам на новом месте в галактике."
+CURRENT,thefinalstand_battleoutro_harken6,3239,"Goodbye Captain, and good luck with your new place in the galaxy.","Прощайте, Капитан, и удачи вам на новом месте в галактике."
 CURRENT,hud_consumingperhour,3239,Consuming *X per day,Потребление *X в день
 CURRENT,survey_captionmultiple,3239,*X ships surveying,*X обследование кораблей
 CURRENT,tutorial_radiationinstallinfuser,3239,Laser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area and power it.,Лазерные инфузоры используются для зарядки пустых кристаллов газом зелеона и при питании будут излучать радиацию вокруг себя.\n\nУстановите лазерный инфузор в свободной области и включите его.
@@ -300,9 +300,9 @@ CURRENT,tutorial_radiationsetupinfuser,3239,Let's set the laser infuser to use t
 CURRENT,tutorial_radiationwaitforinputs,3239,The laser infuser is set to start making charged crystals! Laser infusers use Zeleon Energy Cells to charge the crystals.\n\nLet's wait for it to begin charging crystals.,"Лазерный инфузор готов к изготовлению заряженных кристаллов! Лазерные инфузоры используют Энергетические Ячейки Зелеона для зарядки кристаллов.\n\nДавайте подождем, пока он начнет заряжать кристаллы."
 CURRENT,tutorial_surveystartsectorsurvey,3239,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one ship in a system can do a sector scan.\n\nClick the button to begin a sector scan.,"Сканирование сектора ищет зоны интереса в секторе вокруг системы, в которой находится ваш корабль.\n\nСканирование остановится после завершения. Только один корабль в системе может проводить сканирование.\n\nНажмите на кнопку, чтобы начать сканирование сектора."
 CURRENT,tutorial_surveystartlocalsurvey,3239,Areas of interest will expire after some time if they are not surveyed. Multiple ships can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,"Зоны интереса исчезнут через некоторое время, если их не обследовать. Несколько кораблей могут совместно проводить исследование в одной зоне.\n\nНажмите на зону интереса, чтобы начать локальное исследование."
-CURRENT,bravenewsector_part2_x4,3239,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. As a safeguard against the Andromeda Project, I have installed a back-door that allows you to take control of the Stargate and any devices commanding it.","Пожалуйста, не дайте этому случиться, капитан. Большинство проектов в моей жизни было создано исключительно ради прибыли, я не могу позволить, чтобы этот стал одним из них. В качестве защиты от Проекта Андромеда я установил черный ход, который позволит вам взять под контроль Звездные врата и любые связанные устройства."
-CURRENT,bravenewsector_part2_x5,3239,Please use it if they restrict the use of the Stargate for their own gain.,"Пожалуйста, используй его, если они ограничат использование Звездных врат в своих корыстных целях."
-CURRENT,stargate_power_fraction,3239,*X / *Y MW,*X / *Y MW
+CURRENT,bravenewsector_part2_x4,3239,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. As a safeguard against the Andromeda Project, I have installed a back-door that allows you to take control of the Stargate and any devices commanding it.","Пожалуйста, не дайте этому случиться, Капитан. Большинство проектов в моей жизни было создано исключительно ради прибыли, я не могу позволить, чтобы этот стал одним из них. В качестве защиты от Проекта Андромеда я установил черный ход, который позволит вам взять под контроль Звездные Врата и любые связанные устройства."
+CURRENT,bravenewsector_part2_x5,3239,Please use it if they restrict the use of the Stargate for their own gain.,"Пожалуйста, используйте его, если они ограничат использование Звездных Врат в своих корыстных целях."
+CURRENT,stargate_power_fraction,3239,*X / *Y MW,*X / *Y МВт
 CURRENT,blackhole_part1_setup7,3239,"I need materials to synthesise the resources we need.  You can help me with this, while I work on the calculations. I'll need Hyperspace Isotopes - you should be able to collect them easily enough, but you'll need to acquire a Hyperspace Scoop and a tank to store the isotopes in first.","Мне нужны материалы для синтеза необходимых нам ресурсов.  Вы можете помочь мне с этим, пока я работаю над расчетами. Мне понадобятся Гиперпространственные Изотопы - Вы легко сможете собрать их, но сначала Вам нужно будет приобрести Гиперпространственный Совок и Резервуар для хранения изотопов."
 CURRENT,settings_credits,3149,CREDITS,ТИТРЫ
 CURRENT,newmainmenu_savetosteamcloud_tooltip,3149,The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.,"Игра будет сохраняться в Облаке Steam, если включить эту функцию. При неудачном сохранении появится предупреждение."
@@ -637,7 +637,7 @@ CURRENT,bravenewsector_part1_representative3,2886,"Your co-operation has been pa
 CURRENT,bravenewsector_part1_representative4,2886,"Thank you, Captain. We will be in touch when you have completed your research.","Спасибо, Капитан. Мы свяжемся с вами, когда вы завершите свои исследования."
 CURRENT,bravenewsector_part1_researchneubidium,2886,Research Neubidium Processing,Исследуйте Обработку Нейбидиума
 CURRENT,bravenewsector_part1_researchzeleon,2886,Research Zeleon Gas,Исследуйте Газ Зелеона
-CURRENT,bravenewsector_part1_representative5,2886,"Hello again, Captain.","Снова здравствуйте, капитан."
+CURRENT,bravenewsector_part1_representative5,2886,"Hello again, Captain.","Снова здравствуйте, Капитан."
 CURRENT,bravenewsector_part1_representative6,2886,"The results of your research are very promising, and we'd like you to send us some refined samples of the new resources.","Результаты ваших исследований многообещающие, и мы хотели бы, чтобы вы отправили нам несколько обработанных образцов новых ресурсов."
 CURRENT,bravenewsector_part1_representative7,2886,We expect a shipment of Neubidium ingots and the stabilised Zeleon gas.,Мы ожидаем поставки Нейбидиумных слитков и стабилизированного газа Зелеона.
 CURRENT,bravenewsector_part1_representative8,2886,"Thank you for your co-operation, Captain.","Спасибо за ваше сотрудничество, Капитан."
@@ -1033,7 +1033,7 @@ CURRENT,tiddlets_part4_random_swanson3,2624,Oh god... they're in the reactor roo
 CURRENT,tiddlets_part4_debrief_artemis_a1,2624,"I want to thank you for helping, Captain, when it counted. For doing the right thing. I'll split the remaining grant money I have with you. You deserve it.","Я хочу поблагодарить вас за помощь, Капитан, когда это было важно. За то, что сделали правильный выбор. Я разделю с вами оставшиеся деньги гранта. Вы это заслужили."
 CURRENT,tiddlets_part4_debrief_artemis_a3,2624,"But I'd recommend you never bring a third aboard.  Look after them, Captain. I know you will.","Но я бы рекомендовал никогда не брать третьего на борт.  Позаботьтесь о них, Капитан. Я знаю, что вы будете."
 CURRENT,tiddlets_part4_debrief_artemis_b3,2624,"I suggest you look after them from now on, Captain. It won't atone for the things you've done, but it's a start.","Я предлагаю вам заботиться о них с этого момента, Капитан. Это не искупит то, что вы сделали, но это начало."
-CURRENT,rise_part1_briefing3,2624,"I suspect foul play here, Captain. There's no way a ship like the Celestial Hammer would just vanish. Something must have happened, and I'm assuming the worst.","Подозреваю нечистую игру, капитан. Celestial Hammer не может просто исчезнуть — должно быть что-то случилось."
+CURRENT,rise_part1_briefing3,2624,"I suspect foul play here, Captain. There's no way a ship like the Celestial Hammer would just vanish. Something must have happened, and I'm assuming the worst.","Подозреваю нечистую игру, Капитан. Celestial Hammer не может просто исчезнуть — должно быть что-то случилось."
 CURRENT,rise_foundship6,2624,"I have to know what happened, Captain.","Мне нужно выяснить, что произошло, Капитан."
 CURRENT,dsi_xthanks1,2624,"Thank you, Captain.  I appreciate the prompt payment.","Спасибо, Капитан.  Я ценю оперативный платеж."
 CURRENT,dsi_xthanks2,2624,"Payment received, thank you, Captain.","Платеж получен, спасибо, Капитан."
@@ -2231,7 +2231,7 @@ CURRENT,object_sewage,2448,Sewage,Отходы Канализации
 CURRENT,object_wastewater,2448,Waste Water,Сточные Воды
 CURRENT,object_compost,2448,Compost,Компост
 CURRENT,object_carbondioxide,2448,CO2,CO2
-CURRENT,object_short_oxygen,2448,O2,Кислород
+CURRENT,object_short_oxygen,2448,O2,O2
 CURRENT,object_short_ftlcharge,2448,FTL,Гипертопливо
 CURRENT,object_short_bullets,2448,Ammo,Патроны
 CURRENT,object_short_railgunshell,2448,Slugs,Пули
@@ -2353,11 +2353,11 @@ CURRENT,alert_type_hostileforces,2448,HOSTILE CONTACT,ВРАЖДЕБНЫЙ КО�
 CURRENT,alert_type_hostileforces_caption,2448,*X enemy ships,*X вражеских кораблей
 CURRENT,alert_type_hostilesinbound,2448,HOSTILES INBOUND,ВРАГИ ПРИБЛИЖАЮТСЯ
 CURRENT,alert_type_hostilesinbound_caption,2448,*X seconds,*X секунд
-CURRENT,alert_type_crewoverworked,2448,HIRE MORE CREW,ТРЕБУЕТСЯ БОЛЬШЕ ЭКИПАЖА
+CURRENT,alert_type_crewoverworked,2448,HIRE MORE CREW,ТРЕБУЮТСЯ БОЛЬШЕ ЧЛЕНОВ ЭКИПАЖА
 CURRENT,alert_type_heavydamage,2448,HEAVY DAMAGE,СЕРЬЕЗНЫЙ УРОН
 CURRENT,alert_type_heavydamage_caption,2448,Damage *X%,Урон *X%
 CURRENT,alert_type_suffocating,2448,CREW SUFFOCATING,ЭКИПАЖ ЗАДЫХАЕТСЯ
-CURRENT,alert_type_suffocating_caption,2448,*X suffocating,*X задыхается
+CURRENT,alert_type_suffocating_caption,2448,*X suffocating,*X задыхаются
 CURRENT,alert_type_hungry,2448,CREW HUNGRY,ЭКИПАЖ ГОЛОДЕН
 CURRENT,alert_type_starving,2448,CREW STARVING,ЭКИПАЖ ГОЛОДАЕТ
 CURRENT,alert_type_famished,2448,CREW FAMISHED,ЭКИПАЖ ИСТОЩЕН

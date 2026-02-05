@@ -47,7 +47,7 @@ logistics_status_collectcontainerstimefull | Collected *X R*Y (*Z containers) in
 logistics_status_collectonboard | Collected *X R*Y (*Z containers on board, *P desired) - storage full | Собрано *X R*Y (*Z контейнеры на борту, *P желательно) - хранилище заполнено
 logistics_status_collectratio | Collected *X R*Y (*Z/*P containers) | Собрано *X R*Y (*Z/*P контейнеры)
 logistics_status_collectratiofull | Collected *X R*Y (*Z/*P containers) - storage full | Собранные *X R*Y (*Z/*P контейнеры) - хранилище заполнено
-logistics_status_default | Order running | Заказать бег
+logistics_status_default | Order running | Заказ выполняется
 logistics_status_mining | Mined *X R*Y | Добыто *X R*Y
 logistics_status_miningonboard | Mined *X R*Y (*Z stacks on board, *P desired) - storage full | Добыто *X R*Y (*Z стак на борту, *P желателен) - хранилище заполнено
 logistics_status_miningratio | Mined *X R*Y (*Z/*P stacks) | Добыто *X R*Y (*Z/*P стопки)
