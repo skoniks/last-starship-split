@@ -53,7 +53,7 @@ tutorial_end_title | END OF TUTORIAL | КОНЕЦ ОБУЧЕНИЯ
 tutorial_engines_title | ENGINES | ДВИГАТЕЛИ
 tutorial_enginesconnectpipes | Let's start with the starboard engine. Use the pipes menu to run a pipe from the engine to your existing yellow fuel lines. | Давайте начнем с правого двигателя. Используйте меню труб, чтобы провести трубу от двигателя к вашим существующим желтым топливным линиям.
 tutorial_enginesconnectpower | Now use the <b>CABLES</b> menu to power up the engine, by connecting it to your existing red power lines. | Теперь используйте меню <b>КАБЕЛИ</b>, чтобы подключить двигатель к вашим существующим красным линиям питания.
-tutorial_enginesinformation | Engines require both <b>POWER</b> and <b>FUEL</b> to operate. We must connect both engines to fuel and power. | Для работы двигателям требуются и <b>ЭНЕРГИЯ</b>, и <b>ТОПЛИВО</b>. Подключите двигатель и к топливу, и к энергии.
+tutorial_enginesinformation | Engines require both <b>POWER</b> and <b>FUEL</b> to operate. We must connect both engines to fuel and power. | Для работы двигателям требуется и <b>ЭНЕРГИЯ</b>, и <b>ТОПЛИВО</b>. Подключите двигатель и к топливу, и к энергии.
 tutorial_enginesintro | The ship has two factory fitted engines ready to go, but we need to connect them up. | На корабле установлены два заводских двигателя, готовые к работе, но их нужно подключить.
 tutorial_enginesoperational | Both of our engines are now operational. | Оба двигателя теперь работают.
 tutorial_enginesportside | Now repeat the process with the port engine. Connect the fuel and power lines to start the engine. | Повторите процесс для левого двигателя: подключите топливные и энергетические линии, чтобы запустить его.
@@ -124,7 +124,7 @@ tutorial_logisticscrewclicktarget | Click in the <b>CREW</b> cell of the <b>DEST
 tutorial_logisticscrewclicktarget_shiftclick | <b>NOTE</b>: You can <b>SHIFT CLICK</b> to request transfer in multiples of 5. | <b>ПРИМЕЧАНИЕ</b>: Вы можете <b>ЗАЖАТЬ SHIFT И КЛИКНУТЬ</b> для запроса перевода кратно 5.
 tutorial_logisticscrewopen | Open the Fleet Logistics window. | Откройте окно Логистики Флота.
 tutorial_logisticscrewselectfrom | Select the <b>SOURCE</b> ship that the crew will come <b>FROM</b>. | Выберите корабль <b>ИСТОЧНИК</b>, с которого прибудет экипаж.
-tutorial_logisticscrewselectship | Select the <b>UMC Astral Temptress</b>. \n\n As you can see it has no crew. | Выбери <b>UMC Astral Temptress</b>. \n\n Как видите, у нее нет экипажа.
+tutorial_logisticscrewselectship | Select the <b>UMC Astral Temptress</b>. \n\n As you can see it has no crew. | Выбери <b>UMC Астральная Искусительница</b>. \n\n Как видите, у нее нет экипажа.
 tutorial_logisticscrewstart | We are now going to learn how to transfer crew from one ship to another.\n\nThe two ships must be docked so that the crew can walk from one ship to another. | Теперь мы научимся переводить экипаж с одного корабля на другой.\n\nДва корабля должны быть состыкованы, чтобы экипаж мог переходить с одного корабля на другой.
 tutorial_logisticscrewsuccess | Well done. You have transferred some crew successfully! | Отлично. Вы успешно перевели экипаж!
 tutorial_logisticscrewswitchtonormalview | First, switch back to normal view by leaving tactical mode. | Сначала вернитесь в обычный режим, выйдя из тактического режима.
