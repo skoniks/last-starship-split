@@ -674,7 +674,7 @@ CURRENT,tutorial_airinstallairloader,2886,"The <b>AIRDUCT</b> needs <b>OXYGEN</b
 CURRENT,tutorial_airpipes,2886,We need to connect the <b>OXYGEN LOADER</b> into the <b>AIRDUCT</b> using <b>PIPES</b>.\n\nSelect <b>PIPES</b> from the <b>CONSTRUCTION</b> menu.,Нам нужно подключить <b>ПОГРУЗЧИК КИСЛОРОДА</b> к <b>ВОЗДУХОВОДУ</b> с помощью <b>ТРУБ</b>.\n\nВыберите <b>ТРУБЫ</b> из меню <b>СТРОИТЕЛЬСТВО</b>.
 CURRENT,tutorial_airpipetoairduct,2886,"Drag a <b>PIPE</b> from the <b>OXYGEN LOADER</b> to the <b>AIRDUCT</b>, connecting the <b>BLUE</b> circles.","Протяните <b>ТРУБУ</b> от <b>ПОГРУЗЧИКА КИСЛОРОДА</b> к <b>ВОЗДУХОВОДУ</b>, соединив <b>СИНИЕ</b> круги."
 CURRENT,tutorial_airdone,2886,The <b>AIRDUCT</b> is activated and is pressurising the cabin! The atmosphere will soon be breathable.,<b>ВОЗДУХОВОД</b> активирован и наполняет каюту давлением! Атмосфера скоро станет пригодной для дыхания.
-CURRENT,tutorial_enginesinformation,2886,Engines require both <b>POWER</b> and <b>FUEL</b> to operate. We must connect both engines to fuel and power.,"Для работы двигателям требуются и <b>ЭНЕРГИЯ</b>, и <b>ТОПЛИВО</b>. Подключите двигатель и к топливу, и к энергии."
+CURRENT,tutorial_enginesinformation,2886,Engines require both <b>POWER</b> and <b>FUEL</b> to operate. We must connect both engines to fuel and power.,"Для работы двигателям требуется и <b>ЭНЕРГИЯ</b>, и <b>ТОПЛИВО</b>. Подключите двигатель и к топливу, и к энергии."
 CURRENT,tutorial_enginesconnectpower,2886,"Now use the <b>CABLES</b> menu to power up the engine, by connecting it to your existing red power lines.","Теперь используйте меню <b>КАБЕЛИ</b>, чтобы подключить двигатель к вашим существующим красным линиям питания."
 CURRENT,tutorial_ftlselectpropulsion,2886,The items we need are listed under <b>PROPULSION</b>. Select that category.,"Предметы, которые нам нужны, перечислены в разделе <b>ДВИЖЕНИЕ</b>. Выберите эту категорию."
 CURRENT,tutorial_stargatescreen2,2886,This screen shows the phases that require construction in order to complete the <b>STARGATE</b>.\n\nWe are in <b>PHASE</b> 1. Work has only just begun.,"Этот экран показывает фазы, требующие строительства для завершения <b>ЗВЕЗДНЫХ ВРАТ</b>.\n\nМы в <b>ФАЗЕ</b> 1. Работа только началась."
@@ -2353,7 +2353,7 @@ CURRENT,alert_type_hostileforces,2448,HOSTILE CONTACT,ВРАЖДЕБНЫЙ КО�
 CURRENT,alert_type_hostileforces_caption,2448,*X enemy ships,*X вражеских кораблей
 CURRENT,alert_type_hostilesinbound,2448,HOSTILES INBOUND,ВРАГИ ПРИБЛИЖАЮТСЯ
 CURRENT,alert_type_hostilesinbound_caption,2448,*X seconds,*X секунд
-CURRENT,alert_type_crewoverworked,2448,HIRE MORE CREW,ТРЕБУЮТСЯ БОЛЬШЕ ЧЛЕНОВ ЭКИПАЖА
+CURRENT,alert_type_crewoverworked,2448,HIRE MORE CREW,ТРЕБУЕТСЯ БОЛЬШЕ ЧЛЕНОВ ЭКИПАЖА
 CURRENT,alert_type_heavydamage,2448,HEAVY DAMAGE,СЕРЬЕЗНЫЙ УРОН
 CURRENT,alert_type_heavydamage_caption,2448,Damage *X%,Урон *X%
 CURRENT,alert_type_suffocating,2448,CREW SUFFOCATING,ЭКИПАЖ ЗАДЫХАЕТСЯ
