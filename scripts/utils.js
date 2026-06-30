@@ -1,6 +1,6 @@
 const { createInterface } = require('readline');
 
-const ask = (question) =>
+const ask = (question, defaultAnswer = '') =>
   new Promise((resolve) => {
     const readline = createInterface({
       input: process.stdin,
@@ -8,10 +8,10 @@ const ask = (question) =>
     });
     readline.question(question, (answer) => {
       readline.close();
-      resolve(answer);
+      resolve(answer || defaultAnswer);
     });
   });
 
-const isYes = (answer) => answer.toLowerCase() === 'y';
+const isYes = (answer) => answer.trim().toLowerCase() === 'y';
 
 module.exports = { ask, isYes };

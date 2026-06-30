@@ -1,0 +1,17 @@
+survey_captionmultiple | *X ships surveying | *X обследование кораблей
+survey_captionnone | No survey in progress | Исследование не ведется
+survey_captionsingle | Surveyed by *X | Исследуется *X
+survey_completed | SURVEY COMPLETED | ИССЛЕДОВАНИЕ ЗАВЕРШЕНО
+survey_local_award_caption | *X *Y Unlocked | *X *Y Разблокировано
+survey_local_noequipment | NO SUPERCOMPUTERS INSTALLED | НЕ УСТАНОВЛЕНЫ СУПЕРКОМПЬЮТЕРЫ
+survey_sector_award_caption | *X available to survey | *X доступно для исследования
+survey_sector_award_title | SURVEY AVAILABLE | ИССЛЕДОВАНИЕ ДОСТУПНО
+survey_sector_caption | *X scanning region | *X сканирует регион
+survey_sector_nothingtoscan | REGION FULLY SCANNED | РЕГИОН ПОЛНОСТЬЮ ОТСКАНИРОВАН
+survey_sector_title | SECTOR SCAN | СКАНИРОВАНИЕ СЕКТОРА
+survey_title | UNSURVEYED *X | НЕИССЛЕДОВАННЫЙ *X
+survey_type_asteroid | Asteroid belt | Астероидный пояс
+survey_type_colony | Colony | Колония
+survey_type_derelict | Derelict | Заброшенный объект
+survey_type_nebula | Nebula | Туманность
+survey_type_storm | Storm | Шторм

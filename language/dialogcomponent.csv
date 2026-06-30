@@ -1,0 +1,15 @@
+dialogcomponent_button | Button | Кнопка
+dialogcomponent_canvas | Canvas | Холст
+dialogcomponent_caption | Caption | Заголовок
+dialogcomponent_checkbox | Checkbox | Флажок
+dialogcomponent_container | Container | Контейнер
+dialogcomponent_custom | Custom | Пользовательский
+dialogcomponent_dropdownmenu | DropDownMenu | Выпадающее Меню
+dialogcomponent_iconbox | IconBox | Окно Иконки
+dialogcomponent_inputfield | InputField | Поле Ввода
+dialogcomponent_inputslider | InputSlider | Ползунок Ввода
+dialogcomponent_progressbar | ProgressBar | Полоса Прогресса
+dialogcomponent_scrollbar | Scrollbar | Полоса Прокрутки
+dialogcomponent_selectionlist | SelectionList | Список Выбора
+dialogcomponent_selectionlistitem | SelectionListItem | Элемент Списка Выбора
+dialogcomponent_titlecaption | TitleCaption | Заголовок Окна

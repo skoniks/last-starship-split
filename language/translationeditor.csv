@@ -1,0 +1,16 @@
+translationeditor_english_tooltip1 | Unformatted English phrase | Неформатированная английская фраза
+translationeditor_english_tooltip2 | Formatted English phrase | Форматированная английская фраза
+translationeditor_english_tooltip3 | This is what you are translating. | Это то, что вы переводите.
+translationeditor_english_tooltip4 | You cannot change the English phrases. | Вы не можете изменить английские фразы.
+translationeditor_folder | Open Folder | Открыть Папку
+translationeditor_folder_tooltip | Opens the folder in which your modified translations are saved.\n\n"language.csv" is the file containing your modified translations. | Открывает папку, в которой сохранены ваши измененные переводы.\n\n"language.csv" - это файл, содержащий ваши измененные переводы.
+translationeditor_modified | Modified Phrases | Измененные Фразы
+translationeditor_new_tooltip1 | Unformatted new translation | Неформатированный новый перевод
+translationeditor_new_tooltip2 | Formatted new translation | Форматированный новый перевод
+translationeditor_new_tooltip3 | This is where you can change the translation.\n\nThis will affect your game only, unless you submit your updated translations to Introversion. | Здесь вы можете изменить перевод.\n\nЭто повлияет только на вашу игру, если вы не отправите обновленные переводы в Introversion.
+translationeditor_original_tooltip1 | Unformatted original translation | Неформатированный оригинальный перевод
+translationeditor_original_tooltip2 | Formatted original translation | Форматированный оригинальный перевод
+translationeditor_original_tooltip3 | This is what is currently used in the game. | Это то, что в настоящее время используется в игре.
+translationeditor_reset | Revert | Вернуть
+translationeditor_reset_tooltip | Resets your modified translation back to the original translation. | Сбрасывает ваш измененный перевод обратно к оригинальному переводу.
+translationeditor_unmodified | Unmodified Phrases | Неизмененные Фразы

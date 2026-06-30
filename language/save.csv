@@ -1,0 +1,12 @@
+save_autosavewarning_body | This save is likely to be overwritten by the game as you continue playing, so you should create a manual save if you haven't already done so using the "SAVE GAME" option.\n\nThis warning can be disabled in the settings menu. | Это сохранение, скорее всего, будет перезаписано игрой по мере продолжения игры, поэтому вам следует создать ручное сохранение, если вы еще не сделали этого, используя опцию "СОХРАНИТЬ ИГРУ".\n\nЭто предупреждение можно отключить в меню настроек.
+save_autosavewarning_header | WARNING: Autosave loaded | ПРЕДУПРЕЖДЕНИЕ: Загружено автосохранение
+save_cloudsavefailed_body | The game failed to save to the cloud, the game has been saved locally instead.\n\nPlease check that you have enough storage in the Steam Cloud and try again. | Не удалось сохранить игру в облако, игра была сохранена локально.\n\nПожалуйста, проверьте, что у вас достаточно места в Облаке Steam, и попробуйте снова.
+save_cloudsavefailed_header | WARNING: Cloud Save Failed | ПРЕДУПРЕЖДЕНИЕ: Ошибка облачного сохранения
+save_demofullgame_load_body | The demo of The Last Starship can only load save games saved with the Demo. | Демо-версия The Last Starship может загружать только сохранения, созданные в Демо-версии.
+save_demofullgame_load_header | Full Game Only | Только Полная Версия
+save_episodewarning_body | Due to incompatible changes in this version, your progress in active episodes will be reset. | Из-за несовместимых изменений в этой версии ваш прогресс в активных эпизодах будет сброшен.
+save_episodewarning_header | WARNING: Episode Progress | ПРЕДУПРЕЖДЕНИЕ: Прогресс Эпизода
+save_stargateresetwarning_body | Due to new phases or storylines surrounding the stargate, your stargate progress has been reset. | Из-за новых фаз или сюжетных линий, связанных со Звездными Вратами, ваш прогресс по Звездным Вратам был сброшен.
+save_stargateresetwarning_header | WARNING: Stargate Progress | ПРЕДУПРЕЖДЕНИЕ: Прогресс Звездных Врат
+save_warning_body | You have loaded a game with a future save format, you may experience that some parts of the game do not work correctly | Вы загрузили игру с будущим форматом сохранения, вы можете столкнуться с тем, что некоторые части игры не работают корректно
+save_warning_header | WARNING: Loading future save version | ПРЕДУПРЕЖДЕНИЕ: Загрузка будущей версии сохранения

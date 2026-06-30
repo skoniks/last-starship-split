@@ -3,11 +3,13 @@ const { readFileSync, readdirSync, writeFileSync } = require('node:fs');
 
 async function bootstrap() {
   const filter = ['OBSOLETE', 'PREVIOUS'];
+  const translate = await ask('Translate mode? (y/N) ', 'n').then(isYes);
+  const dir = './' + (translate ? 'translate' : 'language');
   const file = readFileSync('./language.csv', 'utf8');
   const data = parse(file, { columns: true, bom: true });
   //
-  for (const subfile of readdirSync('./language')) {
-    const content = readFileSync('./language/' + subfile, 'utf8');
+  for (const subfile of readdirSync(dir)) {
+    const content = readFileSync(dir + '/' + subfile, 'utf8');
     content.split('\n').forEach((line) => {
       if (!line.trim()) return;
       const [newKey, , newTranslation] = line.split(' | ');

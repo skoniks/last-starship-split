@@ -1,0 +1,18 @@
+soundeditor_attacktitle | Attack | Атака
+soundeditor_dsptitle | DSP | DSP
+soundeditor_frequencytitle | Frequency | Частота
+soundeditor_instancetitle | Instance Type | Тип Экземпляра
+soundeditor_loopdelaytitle | Loop Delay | Задержка Цикла
+soundeditor_looptitle | Loop Type | Тип Цикла
+soundeditor_mindistancetitle | Min Distance | Мин. Дистанция
+soundeditor_newdsp | Add DSP | Добавить DSP
+soundeditor_nexteventtitle | Next Event | Следующее Событие
+soundeditor_play | Play | Воспроизвести
+soundeditor_positiontitle | Position Type | Тип Позиции
+soundeditor_releasetitle | Release | Освобождение
+soundeditor_soundnametitle | Sound Name | Название Звука
+soundeditor_sourcetypetitle | Sound Type | Тип Звука
+soundeditor_stop | Stop | Стоп
+soundeditor_sustaintitle | Sustain | Поддержка
+soundeditor_title | Sound Editor | Редактор Звука
+soundeditor_volumetitle | Volume | Громкость

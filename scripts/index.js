@@ -4,8 +4,8 @@ const { ask, isYes } = require('./utils');
 
 async function bootstrap() {
   const filter = ['OBSOLETE', 'PREVIOUS'];
-  const shorten = await ask('Short mode? (y/N) ').then(isYes);
-  const translate = await ask('Translate mode? (y/N) ').then(isYes);
+  const shorten = await ask('Combine unusual mode? (y/N) ', 'n').then(isYes);
+  const translate = await ask('Translate mode? (y/N) ', 'n').then(isYes);
   const file = readFileSync('./language.csv', 'utf8');
   const data = parse(file, { columns: true, bom: true });
   //
@@ -14,7 +14,7 @@ async function bootstrap() {
   data.forEach(({ state, key, english, translation }) => {
     if (filter.includes(state)) return;
     const [name] = key.split('_');
-    if (translate) translation = '';
+    if (translate && translation) return;
     const value = [key, english, translation].join(' | ');
     if (!blocks[name]) blocks[name] = [];
     blocks[name].push(value);
