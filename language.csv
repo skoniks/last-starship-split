@@ -1,49 +1,284 @@
 ﻿state,key,svn,english,translation
-NEW,trade_paymentperjump,3472,*X (+*Y) per sector jump,*X (+*Y) на один секторный прыжок
-NEW,award_civilianpayment,3472,CIVILIAN PAYMENT,ГРАЖДАНСКИЙ ПЛАТЕЖ
-NEW,award_civilianpayment_caption,3472,*X permanent residents in your fleet,*X постоянных жителей в вашем флоте
-NEW,logistics_status_default,3472,Order running,Заказ выполняется
-NEW,logistics_status_miningstacksfull,3472,Mined *X R*Y (*Z stacks) - storage full,Добыто *X R*Y (*Z стопки) - хранилище заполнено
-NEW,logistics_status_miningstackstime,3472,Mined *X R*Y (*Z stacks) in T*P,Добыто *X R*Y (*Z стопки) в Т*P
-NEW,logistics_status_miningstackstimefull,3472,Mined *X R*Y (*Z stacks) in T*P - storage full,Добыто *X R*Y (*Z стопки) в T*P - хранилище заполнено
-NEW,logistics_status_miningratio,3472,Mined *X R*Y (*Z/*P stacks),Добыто *X R*Y (*Z/*P стопки)
-NEW,logistics_status_miningratiofull,3472,Mined *X R*Y (*Z/*P stacks) - storage full,Добыто *X R*Y (*Z/*P стопки) - хранилище заполнено
-NEW,logistics_status_miningonboard,3472,"Mined *X R*Y (*Z stacks on board, *P desired) - storage full","Добыто *X R*Y (*Z стак на борту, *P желателен) - хранилище заполнено"
-NEW,logistics_status_collectcontainersfull,3472,Collected *X R*Y (*Z containers) - storage full,Собранные *X R*Y (*Z контейнеры) - хранилище заполнено
-NEW,logistics_status_collectcontainerstime,3472,Collected *X R*Y (*Z containers) in T*P,Собранные *X R*Y (*Z контейнеры) в T*P
-NEW,logistics_status_collectcontainerstimefull,3472,Collected *X R*Y (*Z containers) in T*P - storage full,Собранные *X R*Y (*Z контейнеры) в T*P - хранилище заполнено
-NEW,logistics_status_collectratio,3472,Collected *X R*Y (*Z/*P containers),Собрано *X R*Y (*Z/*P контейнеры)
-NEW,logistics_status_collectratiofull,3472,Collected *X R*Y (*Z/*P containers) - storage full,Собранные *X R*Y (*Z/*P контейнеры) - хранилище заполнено
-NEW,logistics_status_collectonboard,3472,"Collected *X R*Y (*Z containers on board, *P desired) - storage full","Собрано *X R*Y (*Z контейнеры на борту, *P желательно) - хранилище заполнено"
-NEW,logistics_status_transfertonosupply,3472,Transferring *X R*Y to L*Z out of the *P desired - insufficient cargo,Перенос *X R*Y на L*Z из *P желаемого - недостаточный груз
-NEW,logistics_status_transferfromnosupply,3472,Transferring *X R*Y from L*Z out of the *P desired - insufficient cargo,Перенос *X R*Y с L*Z на *P нежелателен - недостаточно груза
-NEW,logistics_status_buyzero,3472,Bought *X R*Y,Купил *X R*Y
-NEW,logistics_status_buyzeronomoney,3472,Bought *X R*Y out of the *Z desired - insufficient funds,Купил *X R*Y из желаемого *Z - недостаточно средств
-NEW,logistics_status_buyzeronosupply,3472,Bought *X R*Y out of the *Z desired - insufficient supply,Купил *X R*Y из желаемого *Z - недостаточное предложение
-NEW,logistics_status_sellzero,3472,Sold *X R*Y,Продается *X R*Y
-NEW,logistics_status_sellzeronosupply,3472,Sold *X R*Y out of the *P desired - insufficient cargo,Продается *X R*Y из *P желаемого - недостаточный груз
-NEW,logistics_log_transfertofull,3472,Transferred *X R*Y to L*Z - destination storage full,Перенес *X R*Y на L*Z - хранилище назначения заполнено
-NEW,logistics_log_transferfromfull,3472,Transferred *X R*Y from L*Z - destination storage full,Перенесено *X R*Y с L*Z - хранилище назначения заполнено
-NEW,logistics_log_transfertofull1,3472,Transferred *X R*Y to L*Z out of the *P desired - destination storage full,Перенес *X R*Y на L*Z из *P - хранилище назначения заполнено
-NEW,logistics_log_transferfromfull1,3472,Transferred *X R*Y from L*Z out of the *P desired - destination storage full,Перенес *X R*Y с L*Z на *P - хранилище назначения заполнено
-UPDATED,logistics_status_buynomoney,3472,Bought *X R*Y for $*Z out of the *P desired - insufficient funds,Купил *X R*Y за $*Z из желаемого *P - недостаточно средств
-PREVIOUS,logistics_status_buynomoney,3400,out of the *X desired (not enough money),из *X желаемого (недостаточно денег)
-PREVIOUS,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),из заказанных на *X (не хватает денег)
-UPDATED,logistics_status_buynosupply,3472,Bought *X R*Y for $*Z out of the *P desired - insufficient supply,Купил *X R*Y за $*Z из *P желаемого - недостаточное предложение
-PREVIOUS,logistics_status_buynosupply,3400,out of the *X desired (not enough available),из *X желаемого (недостаточно доступного)
-PREVIOUS,logistics_status_buynosupply,3329,out of the *X ordered (not enough available),из заказанных на *X (не хватает в наличии)
-UPDATED,logistics_status_sellnosupply,3472,Sold *X R*Y for $*Z out of the *P desired - insufficient cargo,Продается *X R*Y за $*Z из *P желаемого - недостаточный груз
-PREVIOUS,logistics_status_sellnosupply,3400,out of the *X desired (not enough available),из *X желаемого (недостаточно доступного)
-PREVIOUS,logistics_status_sellnosupply,3329,out of the *X ordered (not enough available),из заказанных на *X (не хватает в наличии)
-UPDATED,logistics_status_miningstacks,3472,Mined *X R*Y (*Z stacks),Добыто *X R*Y (*Z стак)
-PREVIOUS,logistics_status_miningstacks,3239,(*X/*Y stacks),(*X/*Y стопки)
-UPDATED,logistics_status_collectcontainers,3472,Collected *X R*Y (*Z containers),Собрано *X R*Y (*Z контейнеры)
-PREVIOUS,logistics_status_collectcontainers,3239,(*X/*Y containers),(*X/*Y контейнеры)
-UPDATED,wolf_part2_objective_escape,3472,Undock and get to a safe distance before the Orion Sentinel explodes,"Отстыкуйтесь и отойдите на безопасное расстояние, пока Страж Ориона не взорвался"
-PREVIOUS,wolf_part2_objective_escape,2448,Get to a safe distance before the Orion Sentinel explodes,Отойти на безопасное расстояние до взрыва Стража Ориона
+NEW,settings_language_category,3511,LANGUAGE,
+NEW,settings_communicator_speed,3511,Character text speed,
+NEW,settings_camerapan_speed,3511,Camera pan speed,
+NEW,settings_slowest,3511,Slowest,
+NEW,settings_slow,3511,Slow,
+NEW,settings_normal,3511,Normal,
+NEW,settings_fast,3511,Fast,
+NEW,settings_fastest,3511,Fastest,
+NEW,hud_atmosphere_no_oxygen,3511,NO OXYGEN,
+NEW,hud_habitation_info_title,3511,HABITATION,
+NEW,hud_habitation_info_cabins,3511,*X / *Y CABINS,
+NEW,hud_habitation_info_sewage,3511,*X SEWAGE,
+NEW,tactical_dockingnotpossible,3511,DOCKING IMPOSSIBLE,
+NEW,tactical_thrustersrequired,3511,THRUSTERS REQUIRED,
+NEW,creditstitle_special,3511,Special Thanks,
+NEW,settings_userinterface,3563,UI & GAME,
+NEW,settings_graphics,3563,GRAPHICS,
+NEW,settings_uibounce_description,3563,Enlarges GUI elements such as buttons on mouse over.,
+NEW,settings_softwarecursor,3563,Software Mouse Cursor,
+NEW,settings_softwarecursor_tooltip,3563,The game renders the mouse cursor instead of the operating system.,
+NEW,settings_softwarecursorsize,3563,Software Mouse Size,
+NEW,settings_mousesize_small,3563,Small,
+NEW,settings_mousesize_medium,3563,Medium,
+NEW,settings_mousesize_large,3563,Large,
+NEW,settings_mousesize_huge,3563,Huge,
+NEW,settings_opengamefolder,3563,OPEN GAME FOLDER,
+NEW,settings_opentranslationeditor,3563,TRANSLATION EDITOR ({TranslatorWindow}),
+NEW,settings_communicator_speed_description,3563,The speed at which character dialogue text is revealed in the communicator.,
+NEW,newmainmenu_parallax_description,3563,Use a parallax effect to give an impression of depth,
+NEW,newmainmenu_slowcombat_description,3563,Switch to slow game speed after taking damage during combat.,
+NEW,hud_tooltip_selectequipment,3563,[LMB/RMB] Select,
+NEW,hud_tooltip_selectequipmentadd,3563,[SHIFT + LMB/RMB] Toggle select,
+NEW,hud_tooltip_selectequipmentnearby,3563,[LMB x2] Select all nearby,
+NEW,hud_tooltip_selectequipmentdrag,3563,[LMB Drag] Box select,
+NEW,orders_layerscope,3563,SHIP-SPECIFIC ORDERS,
+NEW,orders_systemscope,3563,SYSTEM-WIDE ORDERS,
+NEW,order_tooltip_repairhull,3563,Allow drones to repair ship hull,
+NEW,order_tooltip_suitson,3563,Make crew put on spacesuits if available,
+NEW,order_tooltip_exteriorwork,3563,Allow crew to perform jobs in freespace,
+NEW,order_tooltip_weaponsactive,3563,Allow weapons to fire,
+NEW,order_tooltip_fleetlogistics,3563,Allow logistics transfers between ships,
+NEW,order_tooltip_battlestations,3563,Battle Stations,
+NEW,order_tooltip_mining,3563,Allow mining lasers to fire,
+NEW,order_tooltip_autotradeactive,3563,Allow auto trades to execute,
+NEW,order_tooltip_advancedlogistics,3563,Allow interstellar logistics to execute,
+NEW,object_fighterbay,3563,Fighter Bay,
+NEW,object_fighterbay_description,3563,"Install on the inside of your ship and provide materials to produce fighters. The fighter will launch from the top of the ship and return to the bay once the battle is over. If it dies, a new one can be built.",
+NEW,fighter_fuel,3563,FUEL: *X%,
+NEW,fighter_ammo,3563,BULLETS: *X,
+NEW,fighter_quantity,3563,*X / *Y,
+NEW,fighter_health_text,3563,HULL,
+NEW,fighter_ammo_text,3563,BULLETS,
+NEW,fighter_fuel_text,3563,FUEL,
+NEW,fighter_refuelling_text,3563,REFUELLING...,
+NEW,fighter_create,3563,CREATE FIGHTER,
+NEW,fighter_state_attackinglayer,3563,ATTACKING *X,
+NEW,fighter_state_attackingfighter,3563,ATTACKING ENEMY FIGHTER,
+NEW,fighter_state_returningtobay,3563,RETURNING TO BAY,
+NEW,fighter_state_idleinfreespace,3563,SEARCHING FOR BAY,
+NEW,translationeditor_usethistranslation,3563,Use This Translation,
+NEW,translationeditor_none,3563,None,
+NEW,translationeditor_yourchanges,3563,Your Changes,
+NEW,translationeditor_new,3563,New,
+NEW,translationeditor_updated,3563,Updated,
+NEW,translationeditor_showpreview,3563,Show Preview,
+NEW,translationeditor_english,3563,English,
+NEW,translationeditor_nenglish,3563,New English,
+NEW,translationeditor_previous,3563,Previous,
+NEW,translationeditor_fallback,3563,Suggestion,
+NEW,translationeditor_youredit,3563,Your Change,
+NEW,translationeditor_original,3563,Approved,
+NEW,translationeditor_empty,3563,No Manually Approved Translation Yet,
+NEW,translationeditor_empty_original_tooltip1,3563,Unformatted Approved translation,
+NEW,translationeditor_empty_original_tooltip2,3563,Formatted Approved translation,
+NEW,translationeditor_empty_original_tooltip3,3563,"As there is no currently approved translation, the game is using the suggested translation above.\n\nIf you think the suggested translation is good, you should copy it into your changes with the ""Use This Translation"" button.\n\nAfter you submit your changes to us, your translation will then appear as approved in the next game update.",
+NEW,translationeditor_fallback_tooltip1,3563,Suggested Translation,
+NEW,translationeditor_fallback_tooltip2,3563,Formatted Suggested Translation,
+NEW,translationeditor_fallback_tooltip3,3563,"This suggestion needs to be checked that it correctly matches the context of the game.\n\nIt will only be used if there is no ""approved"" translation.",
+NEW,translationeditor_previousenglish_tooltip1,3563,Previous English Phrase,
+NEW,translationeditor_previousenglish_tooltip2,3563,Formatted Previous English phrase,
+NEW,translationeditor_previousenglish_tooltip3,3563,The English phrase that was used in the previous version of the game.,
+NEW,translationeditor_previoustranslation_tooltip1,3563,Previous Translation Phrase,
+NEW,translationeditor_previoustranslation_tooltip2,3563,Formatted Previous Translation phrase,
+NEW,translationeditor_previoustranslation_tooltip3,3563,Translation of the English phrase that was used in the previous version of the game.,
+NEW,trade_tooltip_expandautotrade,3565,[LMB] Show Auto Trade Options,
+NEW,trade_tooltip_collapseautotrade,3565,[LMB] Hide Auto Trade Options,
+NEW,techtree_node_title_fighters1,3565,Fighters,
+NEW,techtree_node_caption_fighters1,3565,Improve the survivability and agility of fighters. Armour mitigates damage received.,
+NEW,techtree_node_title_fighterarmour1,3565,Fighter Survivability 1,
+NEW,techtree_node_caption_fighterarmour1,3565,Increase armour damage mitigation.,
+NEW,techtree_node_title_fighterarmour2,3565,Fighter Survivability 2,
+NEW,techtree_node_caption_fighterarmour2,3565,Increase armour damage mitigation.,
+NEW,techtree_node_title_fighterarmour3,3565,Fighter Survivability 3,
+NEW,techtree_node_caption_fighterarmour3,3565,Increase armour damage mitigation.,
+NEW,techtree_node_title_fighterspeed1,3565,Fighter Agility 1,
+NEW,techtree_node_caption_fighterspeed1,3565,Improve the fuel usage and speed of your fighters.,
+NEW,techtree_node_title_fighterspeed2,3565,Fighter Agility 2,
+NEW,techtree_node_caption_fighterspeed2,3565,Improve the fuel usage and speed of your fighters.,
+NEW,techtree_node_title_fighterspeed3,3565,Fighter Agility 3,
+NEW,techtree_node_caption_fighterspeed3,3565,Improve the fuel usage and speed of your fighters.,
+NEW,boost_fighterarmour,3565,Fighter Armour +*X%,
+NEW,boost_fighterspeed,3565,Fighter Speed +*X%,
+NEW,boost_fighterfuel,3565,Fighter Fuel Efficiency +*X%,
+NEW,hud_tooltip_leftclickboxplace,3629,[SHIFT + LMB Drag] Box place,
+NEW,hud_tooltip_leftclickboxdismantle,3629,[SHIFT + LMB Drag] Box dismantle,
+NEW,hud_tooltip_rightclickboxdelete,3629,[SHIFT + RMB Drag] Box delete,
+NEW,hud_installqueue_inproduction,3629,QUEUED FOR PRODUCTION,
+NEW,hud_installqueue_waitingforbox,3629,NONE AVAILABLE,
+NEW,hud_workqueue_waitingforcrew,3629,WAITING FOR CREW,
+NEW,hud_workqueue_installinprogress,3629,INSTALL IN PROGRESS,
+NEW,equipment_storagecrate_capacity_mixed,3629,CAPACITY: MIXED,
+NEW,equipment_storagecrate_refill_mixed,3629,MIXED PRIORITIES,
+NEW,equipment_multiple_recipes,3629,MULTIPLE RECIPES,
+NEW,equipment_multiple_fluids,3629,MULTIPLE FLUIDS,
+NEW,equipment_multiple_types,3629,MULTIPLE TYPES,
+NEW,equipment_multiple_names,3629,MULTIPLE NAMES,
+NEW,equipment_on_amount,3629,ON(*X),
+NEW,equipment_off_amount,3629,OFF(*X),
+NEW,equipment_on_off_amount,3629,ON(*X) OFF(*Y),
+NEW,shipeditor_equipment_autoproduce,3629,AUTO-PRODUCE,
+NEW,shipeditor_equipment_buymissing,3629,AUTO-BUY MATERIALS,
+NEW,shipeditor_equipment_buymissing_tooltip,3629,Automatically buy missing materials for production.\nThis includes ingots as well as components such as frames.,
+NEW,shipeditor_equipment_inboundonshuttle,3629,*X INBOUND ON SHUTTLE,
+NEW,shipeditor_equipment_inproduction,3629,*X IN PRODUCTION (*Y MORE QUEUED),
+NEW,shipeditor_equipment_queuedforproduction,3629,*X QUEUED FOR PRODUCTION,
+NEW,shipeditor_equipment_availablecount,3629,*X AVAILABLE TO BUY,
+NEW,shipeditor_equipment_waitingforstock,3629,WAITING FOR STOCK,
+NEW,trade_buy_quantity,3629,BUY *X,
+NEW,tactical_fighterdeployment_alert,3629,FIGHTER MODE: ALERT,
+NEW,tactical_fighterdeployment_stow,3629,FIGHTER MODE: STOW,
+NEW,tactical_tooltip_fighter_title,3629,Fighter Modes,
+NEW,tactical_tooltip_fighter_alertcaption,3629,ALERT,
+NEW,tactical_tooltip_fighter_alert,3629,Fighters will automatically deploy and engage hostile targets when battlestations is enabled.,
+NEW,tactical_tooltip_fighter_stowcaption,3629,STOW,
+NEW,tactical_tooltip_fighter_stow,3629,Fighters will remain stowed. Currently deployed fighters will return.,
+NEW,object_powerswitch,3629,Power Switch,
+NEW,object_powerswitch_description,3629,Install along a cable and toggle on and off to control power flow. Can be given a name to be easily toggled from the powergrid window.,
+NEW,loader_auto_multiple_fluids,3629,AUTO (MULTIPLE FLUIDS),
+NEW,loader_auto_resource,3629,AUTO (R*X),
+NEW,fighter_lowfuel,3629,LOW FUEL,
+NEW,fighter_noammo,3629,NO AMMO,
+NEW,alert_type_novalidfactory,3629,NO VALID FACTORY,
+NEW,alert_type_novalidfactory_tooltip,3629,"Your ship is trying to produce something, but there are no valid factories.\n\nThis could be due to missing pipe inputs or because a particular factory is missing (e.g. a fabricator).\n\nCheck the recipe using the recipe window and check what equipment is needed or if there are any pipe inputs.",
+NEW,powergrid_category_industry,3632,INDUSTRY,
+NEW,powergrid_category_mining,3632,MINING,
+NEW,hud_tooltip_drone_filterwarning,3708,WARNING: This type is excluded in the ship-wide gather filter.,
+NEW,hud_tooltip_drone_permitlaunch,3708,"Allow drones to launch from this drone bay. \n\nIf disabled, will prevent drones from being loaded.",
+NEW,hud_tooltip_drone_permitreturn,3708,"Allow drones to return to this drone bay. \n\nIf disabled, will allow drones to drop items off but not dock at this bay.",
+NEW,hud_tooltip_drone_selecttype,3708,The types that can be dropped off.,
+NEW,hud_tooltip_robotarm_selecttype,3708,The types that can be picked up.,
+NEW,brokenconstraint_none,3708,INVALID PLACEMENT,
+NEW,brokenconstraint_interior,3708,NOT ENOUGH INTERIOR SPACE,
+NEW,brokenconstraint_exterior,3708,NOT ENOUGH EXTERIOR SPACE,
+NEW,brokenconstraint_wall,3708,REQUIRES WALL,
+NEW,brokenconstraint_nowall,3708,OBSTRUCTED BY A WALL,
+NEW,brokenconstraint_unobstructed,3708,AREA NOT CLEAR,
+NEW,brokenconstraint_wallscaffold,3708,REQUIRES WALL OR SCAFFOLDING,
+NEW,brokenconstraint_unobstructedontop,3708,TOP OF SHIP NOT CLEAR,
+NEW,brokenconstraint_habitationontop,3708,NO HABITATION ABOVE,
+NEW,equipment_factory_idle,3708,IDLE,
+NEW,equipment_robotarm_numtypes,3708,*X types,
+NEW,equipment_dronebay_permitlaunch,3708,PERMIT LAUNCH,
+NEW,equipment_dronebay_permitreturn,3708,PERMIT RETURN,
+NEW,equipment_typefilter_none,3708,SELECT PERMITTED,
+NEW,equipment_typefilter_multiple,3708,MULTIPLE PERMITTED,
+NEW,equipment_typefilter_all,3708,ALL PERMITTED,
+NEW,equipment_typefilter_extras,3708,AND *X MORE,
+NEW,equipment_typefilter_invert,3708,ALL PERMITTED EXCEPT:,
+NEW,equipment_selectall,3708,SELECT ALL,
+NEW,equipment_deselectall,3708,DESELECT ALL,
+NEW,trade_schematics,3708,BLUEPRINTS,
+NEW,trade_schematic,3708,Blueprint,
+NEW,trade_schematic_warning,3708,This is a blueprint. Purchasing this will unlock the schematic but will not deliver any equipment.\n\nAssembly tables and fabricators are required to produce the equipment.,
+NEW,special_smartdronebays,3708,Smart Drone Bays,
+NEW,techtree_blueprintunlocked_title,3708,BLUEPRINT UNLOCKED,
+NEW,techtree_alreadyunlocked,3708,ALREADY UNLOCKED,
+NEW,logistics_window_tanks,3708,[STORED IN TANKS],
+NEW,logistics_extras_anycargo_tooltip,3708,"If this is checked, general storage zones will be considered alongside type specific storage zones when determining whether storage is full.",
+NEW,logistics_extras_preventdocking,3708,PREVENT DOCKING,
+NEW,logistics_extras_preventdocking_tooltip,3708,"If this is checked, the two ships won't dock. Otherwise, this ship will try to dock if the transfer is large or not enough drones are available.",
+NEW,logistics_status_travellingaligning,3708,Aligning for jump,
+NEW,logistics_status_travellingdrones,3708,Waiting for *X deployed drones,
+NEW,logistics_status_travellingtrade,3708,Waiting for trade to complete,
+NEW,logistics_status_transferdocking,3708,Docking with L*X to transfer R*Y through docking port,
+NEW,order_tooltip_dronegatherfilter,3708,Edit which items drones from this ship should pick up or ignore,
+NEW,orders_drones_alltoggle,3708,ALL RESOURCES,
+NEW,orders_drones_materialstoggle,3708,MATERIALS,
+NEW,object_superconductorcomponent,3708,Superconductor,
+NEW,object_reactorcorecomponent,3708,Reactor Core,
+NEW,object_computegridcomponent,3708,Compute Grid,
+NEW,object_thermalstabilisercomponent,3708,Heat Exchanger,
+NEW,alert_type_noreturndronebay,3718,DRONES STUCK,
+NEW,alert_type_noreturndronebay_caption1,3718,No drone bay to return to.,
+NEW,alert_type_noreturndronebay_caption2,3718,No drone bay permits return.,
+UPDATED,order_tooltip_gather,3708,Allow drones to gather,
+PREVIOUS,order_tooltip_gather,3563,"Allow drones to gather raw and refined materials (ores, minerals, ingots)",
+UPDATED,shipeditor_equipment_autoproduce_tooltip,3708,"Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to ""IDLE"" will be used. They will be set back to ""IDLE"" when production has finished.",
+PREVIOUS,shipeditor_equipment_autoproduce_tooltip,3629,"Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to ""STOP"" will be used. They will be set back to ""STOP"" when production has finished.",
+UPDATED,translationeditor_copytoclipboard,3563,Copy,
+PREVIOUS,translationeditor_copytoclipboard,3511,Copy To Clipboard,
+UPDATED,settings_instantshipswitch_description,3511,Skip rotation and panning effect when switching between ships.,
+PREVIOUS,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition",Пропустить анимацию при переключении между кораблями
+UPDATED,newmainmenu_parallax,3511,Parallax,
+PREVIOUS,newmainmenu_parallax,2448,Parallax effect,Использовать Эффект Параллакса
+UPDATED,wolf_part1_completion3,3511,So far they haven't left a single living witness. But the sensor data tells the full story. We've managed to extract another sensor image of the attacker.,
+PREVIOUS,wolf_part1_completion3,2448,So far they haven't left a single living witness. But the sensor data tells the full story. We've manged to extract another sensor image of the attacker.,Пока они не оставили ни одного живого свидетеля. Но данные сенсоров рассказывают всю историю. Нам удалось извлечь еще одно сенсорное изображение нападавшего.
+UPDATED,translationeditor_unmodified,3563,Unmodified,
+PREVIOUS,translationeditor_unmodified,3054,Unmodified Phrases,Неизмененные Фразы
+UPDATED,translationeditor_original_tooltip1,3563,Unformatted Approved Translation,
+PREVIOUS,translationeditor_original_tooltip1,3054,Unformatted original translation,Неформатированный оригинальный перевод
+UPDATED,translationeditor_original_tooltip2,3563,Formatted Approved Translation,
+PREVIOUS,translationeditor_original_tooltip2,3054,Formatted original translation,Форматированный оригинальный перевод
+UPDATED,translationeditor_original_tooltip3,3563,"This is what is currently used in the game. Even though the translation is ""Approved"" you can still submit changes to improve it further.",
+PREVIOUS,translationeditor_original_tooltip3,3054,This is what is currently used in the game.,"Это то, что в настоящее время используется в игре."
+UPDATED,translationeditor_new_tooltip1,3563,Unformatted New Translation,
+PREVIOUS,translationeditor_new_tooltip1,3054,Unformatted new translation,Неформатированный новый перевод
+UPDATED,translationeditor_new_tooltip2,3563,Formatted New Translation,
+PREVIOUS,translationeditor_new_tooltip2,3054,Formatted new translation,Форматированный новый перевод
+UPDATED,settings_dynamiclighting,3563,Dynamic Lighting,
+PREVIOUS,settings_dynamiclighting,2675,Use Dynamic Lighting,Использовать Динамическое Освещение
+UPDATED,settings_arraytextures,3563,Smooth Tiles,
+PREVIOUS,settings_arraytextures,2624,Use Array Textures,Использовать Массивы Текстур
+UPDATED,mainmenu_gamemode_freeroam_tooltip,3563,"You are free to pursue any career at your own pace. No anomaly, no stargate.",
+PREVIOUS,mainmenu_gamemode_freeroam_tooltip,2448,"You are free to persue any career at your own pace. No anomaly, no stargate.","Вы свободны выбирать любую карьеру в своем темпе. Никаких аномалий, никаких звездных врат."
+UPDATED,shipeditor_equipment_autobuy,3629,AUTO BUY,
+PREVIOUS,shipeditor_equipment_autobuy,2886,Enable Auto Buy,Включить Автопокупку
+UPDATED,equipment_storagecrate_capacity,3629,CAPACITY: *X,
+PREVIOUS,equipment_storagecrate_capacity,2448,CAPACITY,ВМЕСТИМОСТЬ
+UPDATED,logistics_condition_untilstorage,3708,Until on board,
+PREVIOUS,logistics_condition_untilstorage,3400,Quantity on board,Количество на борту
+UPDATED,logistics_extras_anycargo,3708,INCLUDE GENERAL STORAGE ZONES,
+PREVIOUS,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,ИСПОЛЬЗОВАТЬ ЛЮБОЙ СКЛАД
+UPDATED,logistics_tooltip_loop,3708,"Loop execution. If off, will stop after completing the last order.",
+PREVIOUS,logistics_tooltip_loop,3248,Loop execution,Зациклить выполнение
+UPDATED,tutorial_miningfleetorders,3708,You also need to make sure that <b>GATHER</b> is enabled in <b>FLEET ORDERS</b>.,
+PREVIOUS,tutorial_miningfleetorders,2886,You also need to make sure that <b>GATHER MATERIALS</b> is enabled in <b>FLEET ORDERS</b>.,"Вам также нужно убедиться, что <b>СОБИРАТЬ МАТЕРИАЛЫ</b> включено в <b>ПРИКАЗАХ ФЛОТА</b>."
+PREVIOUS,tutorial_miningfleetorders,2448,You also need to make sure that GATHER MATERIALS is enabled in FLEET ORDERS.,"Вам также нужно убедиться, что в FLEET ORDERS включена опция GATHER MATERIALS."
+UPDATED,techtree_node_caption_logistics1,3708,Unlocks schematics for small logistics storage. Unlocks smart drone bays allowing to filter which items are dropped off and whether drones should launch from and return to it,
+PREVIOUS,techtree_node_caption_logistics1,2448,Unlocks schematics for small logistics storage,Открывает чертежи для малого логистического хранилища
+UPDATED,order_gather,3708,Gather,
+PREVIOUS,order_gather,2448,Gather Materials,Собр Материалов
+CURRENT,equipment_on,3629,ON,ВКЛ
+CURRENT,equipment_off,3629,OFF,ВЫКЛ
+CURRENT,logistics_log_transfertonosupply,3492,Transferred *X R*Y to L*Z out of the *P desired - insufficient cargo,Перенес *X R*Y на L*Z из *P в желаемое - недостаточный груз
+CURRENT,logistics_log_transferfromnosupply,3492,Transferred *X R*Y from L*Z out of the *P desired - insufficient cargo,Перенес *X R*Y с L*Z из *P желаемое - недостаточный груз
+CURRENT,trade_paymentperjump,3472,*X (+*Y) per sector jump,*X (+*Y) на один секторный прыжок
+CURRENT,award_civilianpayment,3472,CIVILIAN PAYMENT,ГРАЖДАНСКИЙ ПЛАТЕЖ
+CURRENT,award_civilianpayment_caption,3472,*X permanent residents in your fleet,*X постоянных жителей в вашем флоте
+CURRENT,logistics_status_default,3472,Order running,Заказ выполняется
+CURRENT,logistics_status_miningstacksfull,3472,Mined *X R*Y (*Z stacks) - storage full,Добыто *X R*Y (*Z стопки) - хранилище заполнено
+CURRENT,logistics_status_miningstackstime,3472,Mined *X R*Y (*Z stacks) in T*P,Добыто *X R*Y (*Z стопки) в T*P
+CURRENT,logistics_status_miningstackstimefull,3472,Mined *X R*Y (*Z stacks) in T*P - storage full,Добыто *X R*Y (*Z стопки) в T*P - хранилище заполнено
+CURRENT,logistics_status_miningratio,3472,Mined *X R*Y (*Z/*P stacks),Добыто *X R*Y (*Z/*P стопки)
+CURRENT,logistics_status_miningratiofull,3472,Mined *X R*Y (*Z/*P stacks) - storage full,Добыто *X R*Y (*Z/*P стопки) - хранилище заполнено
+CURRENT,logistics_status_miningonboard,3472,"Mined *X R*Y (*Z stacks on board, *P desired) - storage full","Добыто *X R*Y (*Z стак на борту, *P желателен) - хранилище заполнено"
+CURRENT,logistics_status_collectcontainersfull,3472,Collected *X R*Y (*Z containers) - storage full,Собранные *X R*Y (*Z контейнеры) - хранилище заполнено
+CURRENT,logistics_status_collectcontainerstime,3472,Collected *X R*Y (*Z containers) in T*P,Собранные *X R*Y (*Z контейнеры) в T*P
+CURRENT,logistics_status_collectcontainerstimefull,3472,Collected *X R*Y (*Z containers) in T*P - storage full,Собранные *X R*Y (*Z контейнеры) в T*P - хранилище заполнено
+CURRENT,logistics_status_collectratio,3472,Collected *X R*Y (*Z/*P containers),Собрано *X R*Y (*Z/*P контейнеры)
+CURRENT,logistics_status_collectratiofull,3472,Collected *X R*Y (*Z/*P containers) - storage full,Собранные *X R*Y (*Z/*P контейнеры) - хранилище заполнено
+CURRENT,logistics_status_collectonboard,3472,"Collected *X R*Y (*Z containers on board, *P desired) - storage full","Собрано *X R*Y (*Z контейнеры на борту, *P желательно) - хранилище заполнено"
+CURRENT,logistics_status_transfertonosupply,3472,Transferring *X R*Y to L*Z out of the *P desired - insufficient cargo,Перенос *X R*Y на L*Z из *P желаемого - недостаточный груз
+CURRENT,logistics_status_transferfromnosupply,3472,Transferring *X R*Y from L*Z out of the *P desired - insufficient cargo,Перенос *X R*Y с L*Z на *P нежелателен - недостаточно груза
+CURRENT,logistics_status_buyzero,3472,Bought *X R*Y,Купил *X R*Y
+CURRENT,logistics_status_buyzeronomoney,3472,Bought *X R*Y out of the *Z desired - insufficient funds,Купил *X R*Y из желаемого *Z - недостаточно средств
+CURRENT,logistics_status_buyzeronosupply,3472,Bought *X R*Y out of the *Z desired - insufficient supply,Купил *X R*Y из желаемого *Z - недостаточное предложение
+CURRENT,logistics_status_sellzero,3472,Sold *X R*Y,Продается *X R*Y
+CURRENT,logistics_status_sellzeronosupply,3472,Sold *X R*Y out of the *P desired - insufficient cargo,Продается *X R*Y из *P желаемого - недостаточный груз
+CURRENT,logistics_log_transfertofull,3472,Transferred *X R*Y to L*Z - destination storage full,Перенес *X R*Y на L*Z - хранилище назначения заполнено
+CURRENT,logistics_log_transferfromfull,3472,Transferred *X R*Y from L*Z - destination storage full,Перенесено *X R*Y с L*Z - хранилище назначения заполнено
+CURRENT,logistics_log_transfertofull1,3472,Transferred *X R*Y to L*Z out of the *P desired - destination storage full,Перенес *X R*Y на L*Z из *P - хранилище назначения заполнено
+CURRENT,logistics_log_transferfromfull1,3472,Transferred *X R*Y from L*Z out of the *P desired - destination storage full,Перенес *X R*Y с L*Z на *P - хранилище назначения заполнено
+CURRENT,logistics_status_buynomoney,3472,Bought *X R*Y for $*Z out of the *P desired - insufficient funds,Купил *X R*Y за $*Z из желаемого *P - недостаточно средств
+CURRENT,logistics_status_buynosupply,3472,Bought *X R*Y for $*Z out of the *P desired - insufficient supply,Купил *X R*Y за $*Z из *P желаемого - недостаточное предложение
+CURRENT,logistics_status_sellnosupply,3472,Sold *X R*Y for $*Z out of the *P desired - insufficient cargo,Продается *X R*Y за $*Z из *P желаемого - недостаточный груз
+CURRENT,logistics_status_miningstacks,3472,Mined *X R*Y (*Z stacks),Добыто *X R*Y (*Z стак)
+CURRENT,logistics_status_collectcontainers,3472,Collected *X R*Y (*Z containers),Собрано *X R*Y (*Z контейнеры)
+CURRENT,wolf_part2_objective_escape,3472,Undock and get to a safe distance before the Orion Sentinel explodes,"Отстыкуйтесь и отойдите на безопасное расстояние, пока Страж Ориона не взорвался"
 CURRENT,settings_motionsicknessmode,3400,Motion Sickness Mode,Режим защиты от укачивания
 CURRENT,settings_motionsicknessmode_description,3400,"Background rotation is removed, which should help if you experience motion sickness in-game.","Вращение фона отключено, это должно помочь, если вас укачивает в игре."
-CURRENT,settings_instantshipswitch_description,3400,"When switching between ships, skip the transition",Пропустить анимацию при переключении между кораблями
 CURRENT,newmainmenu_tests,3400,TESTS,ТЕСТЫ
 CURRENT,newmainmenu_instantshipswitch,3400,Switch instantly between ships,Мгновенное переключение между кораблями
 CURRENT,newmainmenu_vsync,3400,V-Sync,V-Sync
@@ -52,10 +287,8 @@ CURRENT,hud_layer_neutralexpandtooltip,3400,Show neutral ships,Показать 
 CURRENT,power_unit,3400,*X MW,*X МВт
 CURRENT,tactical_focuslayer,3400,FOCUS LAYER,ФОКУСИРОВКА
 CURRENT,tactical_tooltip_focuslayer,3400,"When enabled, the camera's rotation and position track the currently selected layer.","Если эта функция включена, вращение и положение камеры отслеживают текущий выбранный слой."
-CURRENT,logistics_condition_untilstorage,3400,Quantity on board,Количество на борту
 CURRENT,logistics_quantity_all,3400,ALL,ВСЕ
 CURRENT,logistics_quantity_full,3400,FULL,ПОЛНЫЙ
-CURRENT,logistics_extras_anycargo,3400,USE ANY CARGO STORAGE,ИСПОЛЬЗОВАТЬ ЛЮБОЙ СКЛАД
 CURRENT,logistics_stuck_layernotours,3400,Ship L*X is not friendly,Корабль L*X не отличается дружелюбием
 CURRENT,logistics_tooltip_controlall,3400,[CTRL] ALL,[CTRL] ALL
 CURRENT,logistics_tooltip_controlfull,3400,[CTRL] FULL,[CTRL] FULL
@@ -122,7 +355,6 @@ CURRENT,tutorial_logisticscrewselectship,3329,Select the <b>UMC Astral Temptress
 CURRENT,dsi_x_canceldeal2,3329,"You will lose access to all the ships I've provided, are you sure you want to do this?","Вы потеряете доступ ко всем кораблям, которые я предоставил, вы уверены, что хотите этого?"
 CURRENT,tutorial_stargatewindowhighlightcomponent,3257,Each component you need to manufacture is on the right.\nPlacing your mouse over a component's icon shows how to produce it.,"Каждый компонент, который вам нужно изготовить, находится справа.\nНаведите курсор на иконку компонента, чтобы увидеть, как его изготовить."
 CURRENT,logistics_tooltip_skiporder,3248,Skip currently executing order,Пропустить текущий заказ
-CURRENT,logistics_tooltip_loop,3248,Loop execution,Зациклить выполнение
 CURRENT,thefinalstand_artemis1,3248,Hello again Captain!,"И снова здравствуй, Капитан!"
 CURRENT,thefinalstand_artemis2,3248,"After some careful analysis of the Stargate's blueprints, I have found the backdoor that the late Alexander James Elistar has left you.","После тщательного анализа чертежей Звездных врат я обнаружил тот черный ход, который оставил вам покойный Александр Джеймс Элистар."
 CURRENT,thefinalstand_artemis3,3248,You will use this backdoor to upload a small virus that I have written to their command centre within the HQ. It will disable the station's offensive capabilities and place itself under your command.,"Вы воспользуетесь этим черным ходом, чтобы загрузить в командный центр штаб-квартиры небольшой вирус, который я написал. Он отключит боевые системы станции и поставит ее под ваше управление."
@@ -365,8 +597,8 @@ CURRENT,newmainmenu_showautosaves,3054,AUTOSAVES,АВТОСОХРАНЕНИЯ
 CURRENT,newmainmenu_newgameoptions,3054,Game Options,Настройки Игры
 CURRENT,newmainmenu_defensiveenemies,3054,Defensive Enemies,Мирные Враги
 CURRENT,newmainmenu_defensiveenemiestooltip,3054,Hostile ships will only target you once you have targeted them first.,"Вражеские корабли будут атаковать вас только после того, как вы первыми выберете их целью."
-CURRENT,newmainmenu_multisectorsim,3054,Multi-System Simulation,Мультисистемная Симуляция
-CURRENT,newmainmenu_multisectorsimtooltip,3054,"Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously.","Включает мультисистемную симуляцию, позволяя разделить ваш флот между несколькими системами/секторами одновременно."
+CURRENT,newmainmenu_multisystemsim,3054,Multi-System Simulation,Мультисистемная Симуляция
+CURRENT,newmainmenu_multisystemsimtooltip,3054,"Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously.","Включает мультисистемную симуляцию, позволяя разделить ваш флот между несколькими системами/секторами одновременно."
 CURRENT,hud_shipmaximumoccupancy,3054,Ship Maximum Occupancy: *X/*Y,Максимальная Вместимость Корабля: *X/*Y
 CURRENT,hud_surveyinprogress,3054,WARNING - SURVEY WILL BE CANCELLED,ВНИМАНИЕ - ИССЛЕДОВАНИЕ БУДЕТ ОТМЕНЕНО
 CURRENT,shipeditor_tooltip_painthull,3054,Toggle painting the exterior panels of the hull of your ship,Переключить окраску внешних панелей корпуса вашего корабля
@@ -522,8 +754,6 @@ CURRENT,bravenewsector_part3_receivecrystal,3054,Receive an Empty Crystal,Пол
 CURRENT,bravenewsector_part3_receivezeleon,3054,Receive Zeleon Energy Cell,Получите Энергетическую Ячейку Зелеона
 CURRENT,bravenewsector_part3_artemis_results_5,3054,The next step is to research how this all applies to the Stargate. My hypothesis is that we can use the crystal's energy-density properties to enable jumps much farther than the next sector.,"Следующий шаг - исследовать, как все это применимо к Звездным Вратам. Моя гипотеза состоит в том, что мы можем использовать свойства энергетической плотности кристалла, чтобы обеспечить прыжки намного дальше, чем следующий сектор."
 CURRENT,bravenewsector_part3_artemis_results_6,3054,"Good luck with your research, Captain.","Удачи с вашими исследованиями, Капитан."
-CURRENT,translationeditor_unmodified,3054,Unmodified Phrases,Неизмененные Фразы
-CURRENT,translationeditor_modified,3054,Modified Phrases,Измененные Фразы
 CURRENT,translationeditor_reset,3054,Revert,Вернуть
 CURRENT,translationeditor_reset_tooltip,3054,Resets your modified translation back to the original translation.,Сбрасывает ваш измененный перевод обратно к оригинальному переводу.
 CURRENT,translationeditor_folder,3054,Open Folder,Открыть Папку
@@ -532,11 +762,6 @@ CURRENT,translationeditor_english_tooltip1,3054,Unformatted English phrase,Не�
 CURRENT,translationeditor_english_tooltip2,3054,Formatted English phrase,Форматированная английская фраза
 CURRENT,translationeditor_english_tooltip3,3054,This is what you are translating.,"Это то, что вы переводите."
 CURRENT,translationeditor_english_tooltip4,3054,You cannot change the English phrases.,Вы не можете изменить английские фразы.
-CURRENT,translationeditor_original_tooltip1,3054,Unformatted original translation,Неформатированный оригинальный перевод
-CURRENT,translationeditor_original_tooltip2,3054,Formatted original translation,Форматированный оригинальный перевод
-CURRENT,translationeditor_original_tooltip3,3054,This is what is currently used in the game.,"Это то, что в настоящее время используется в игре."
-CURRENT,translationeditor_new_tooltip1,3054,Unformatted new translation,Неформатированный новый перевод
-CURRENT,translationeditor_new_tooltip2,3054,Formatted new translation,Форматированный новый перевод
 CURRENT,translationeditor_new_tooltip3,3054,"This is where you can change the translation.\n\nThis will affect your game only, unless you submit your updated translations to Introversion.","Здесь вы можете изменить перевод.\n\nЭто повлияет только на вашу игру, если вы не отправите обновленные переводы в Introversion."
 CURRENT,credits_0,3054,The Last Starship,The Last Starship
 CURRENT,credits_1,3054,Created by\nIntroversion Software,Разработано\nIntroversion Software
@@ -592,7 +817,6 @@ CURRENT,shipeditor_mode_equipment,2886,Equipment,Оборудование
 CURRENT,shipeditor_tooltip_equipment,2886,Queue the installation of equipment inside your ship.,Поставьте в очередь установку оборудования внутри вашего корабля.
 CURRENT,shipeditor_brush_oval,2886,OVAL TOOL,КРУГ
 CURRENT,shipeditor_equipment_title,2886,Missing Equipment,Отсутствующее Оборудование
-CURRENT,shipeditor_equipment_autobuy,2886,Enable Auto Buy,Включить Автопокупку
 CURRENT,shipeditor_equipment_autobuyconfirm,2886,Confirm Auto Buy Changes,Подтвердить Изменения Автопокупки
 CURRENT,shipeditor_equipment_manualbuy,2886,Buy All Available,Купить Все Доступное
 CURRENT,shipeditor_equipment_autobuyenable,2886,Auto Buy *X,Автопокупка *X
@@ -757,7 +981,6 @@ CURRENT,tutorial_miningundock,2886,Make sure to <b>UNDOCK</b> from any other shi
 CURRENT,tutorial_miningflytosystem,2886,"Look at the rocks on the map, these indicate <b>ASTEROID BELTS</b>. \n\nFly to a system in an asteroid belt, it will probably contain Tilium Ore.","Посмотрите на камни на карте, они указывают на <b>ПОЯСА АСТЕРОИДОВ</b>. \n\nПолетите в систему в поясе астероидов, она, вероятно, содержит Тилиевую Руду."
 CURRENT,tutorial_miningselectlaser,2886,"You can also target specific mineral patches.\n\nFirst, select which laser you would like to use.\n\nYou can <b>SHIFT CLICK</b> to select multiple lasers.","Вы также можете нацеливаться на конкретные месторождения минералов.\n\nСначала выберите, какой лазер вы хотите использовать.\n\nВы можете <b>ЗАЖАТЬ SHIFT И КЛИКНУТЬ</b> для выбора нескольких лазеров."
 CURRENT,tutorial_mininginstalldronebay,2886,Drones will collect mined resources.\n\nInstall a <b>DRONE BAY</b> so your drones can collect the Tilium Ore.,"Дроны будут собирать добытые ресурсы.\n\nУстановите <b>ОТСЕК ДЛЯ ДРОНОВ</b>, чтобы ваши дроны могли собирать Тилиевую Руду."
-CURRENT,tutorial_miningfleetorders,2886,You also need to make sure that <b>GATHER MATERIALS</b> is enabled in <b>FLEET ORDERS</b>.,"Вам также нужно убедиться, что <b>СОБИРАТЬ МАТЕРИАЛЫ</b> включено в <b>ПРИКАЗАХ ФЛОТА</b>."
 CURRENT,tutorial_mininginstallsmelter,2886,You will need to smelt the raw Tilium Ore to crystals.\n\nInstall a <b>SMELTER</b>.,Вам нужно будет переплавить сырую Тилиевую Руду в кристаллы.\n\nУстановите <b>ПЛАВИЛЬНУЮ ПЕЧЬ</b>.
 CURRENT,tutorial_miningsetsmelter,2886,Right click on the <b>SMELTER</b> and select <b>TILIUM ORE</b> to smelt it into Tilium Crystals.,"Нажмите правой кнопкой мыши по <b>ПЛАВИЛЬНОЙ ПЕЧИ</b> и выберите <b>ТИЛИЕВАЯ РУДА</b>, чтобы переплавить её в Тилиевые Кристаллы."
 CURRENT,tutorial_buyshipinspect,2886,"Click on the <b>JMC MINING STATION</b>, an old unused industrial station for sale.","Нажмите на <b>JMC MINING STATION</b>, старую неиспользуемую промышленную станцию на продажу."
@@ -767,7 +990,6 @@ CURRENT,settings_accentinsensitivesearch,2803,Accent Insensitive Search,Поис
 CURRENT,settings_accentinsensitivesearch_description,2803,"When searching in lists, ignore accented characters, e.g. ""é"" will match ""e""","При поиске в списках игнорировать символы с диакритическими знаками, например ""é"" будет соответствовать ""e"""
 CURRENT,settings_translatorassist,2803,"Translator Assist (Ctrl, Alt)","Помощник Переводчика (Ctrl, Alt)"
 CURRENT,settings_sound,2793,SOUND,ГРОМКОСТЬ
-CURRENT,settings_appearance,2793,APPEARANCE,ИНТЕРФЕЙС
 CURRENT,settings_keybindings,2793,KEYBOARD,УПРАВЛЕНИЕ
 CURRENT,settings_other,2793,OTHER,ПРОЧЕЕ
 CURRENT,settings_uibounce,2793,UI Highlight Bounce,Подсветка с Эффектом Отскока
@@ -867,14 +1089,12 @@ CURRENT,origin_steam,2793,SUBSCRIBED ON STEAM WORKSHOP,ПОДПИСКА ИЗ М�
 CURRENT,origin_steamuser,2793,UPLOADED TO STEAM WORKSHOP,ЗАГРУЖЕНО В МАСТЕРСКУЮ STEAM
 CURRENT,special_stargatepart3,2793,"Andromeda Project Phases 4, 5","Проект Андромеда Фазы 4, 5"
 CURRENT,dsi_part2_objective_installengines,2793,OPTIONAL: Install engines in the A.J.E Foundry,НЕОБЯЗАТЕЛЬНО: Установить двигатели в A.J.E Foundry
-CURRENT,settings_dynamiclighting,2675,Use Dynamic Lighting,Использовать Динамическое Освещение
 CURRENT,hud_ftlshipnotviablewarning,2675,Ship needs either hull or scaffolding to be brought into hyperspace,Кораблю нужен корпус или каркас для перехода в гиперпространство
 CURRENT,trade_cancelautotrade,2675,CANCEL AUTO-TRADE,ОТМЕНИТЬ АВТОТОРГОВЛЮ
 CURRENT,hud_collector_tooltip_totalgathered,2675,TOTAL GATHERED,ВСЕГО СОБРАНО
 CURRENT,save_cloudsavefailed_header,2639,WARNING: Cloud Save Failed,ПРЕДУПРЕЖДЕНИЕ: Ошибка облачного сохранения
 CURRENT,save_cloudsavefailed_body,2639,"The game failed to save to the cloud, the game has been saved locally instead.\n\nPlease check that you have enough storage in the Steam Cloud and try again.","Не удалось сохранить игру в облако, игра была сохранена локально.\n\nПожалуйста, проверьте, что у вас достаточно места в Облаке Steam, и попробуйте снова."
 CURRENT,mission_type_sectorjumpgate,2639,Jumpgate (Sector),Прыжковые Врата (Сектор)
-CURRENT,settings_arraytextures,2624,Use Array Textures,Использовать Массивы Текстур
 CURRENT,newmainmenu_arena_shipquantity,2624,Quantity,Количество
 CURRENT,newmainmenu_arena_combatratings,2624,COMBAT RATINGS,БОЕВОЙ РЕЙТИНГ
 CURRENT,newmainmenu_arena_tradevalues,2624,SHIP VALUES,СТОИМОСТЬ КОРАБЛЕЙ
@@ -1227,7 +1447,6 @@ CURRENT,mainmenu_legal,2448,Privacy / Legal,Конфиденциальность
 CURRENT,mainmenu_gamemode_survival,2448,Survival,Выживание
 CURRENT,mainmenu_gamemode_survival_tooltip,2448,"Stay one step ahead of a devastating anomaly, for as long as you can","Оставайтесь на шаг впереди разрушительной аномалии так долго, как сможете"
 CURRENT,mainmenu_gamemode_freeroam,2448,Free Roam,Свободная Игра
-CURRENT,mainmenu_gamemode_freeroam_tooltip,2448,"You are free to persue any career at your own pace. No anomaly, no stargate.","Вы свободны выбирать любую карьеру в своем темпе. Никаких аномалий, никаких звездных врат."
 CURRENT,mainmenu_gamemode_freeroam_locked,2448,Build a flight-ready ship in Creative Mode to unlock,Постройте готовый к полету корабль в Творческом Режиме для разблокировки
 CURRENT,mainmenu_gamemode_creative,2448,Creative,Творческий Режим
 CURRENT,mainmenu_gamemode_creative_tooltip,2448,You have unlimited resources to build any ship you want,"У вас есть неограниченные ресурсы для постройки любого корабля, какого захотите"
@@ -1337,7 +1556,6 @@ CURRENT,newmainmenu_locked,2448,(LOCKED),(ЗАБЛОКИРОВАНО)
 CURRENT,newmainmenu_multisystem_simulation,2448,Enable Multi-system Simulation,Включить Мультисистемную Симуляцию
 CURRENT,newmainmenu_debug_freespace,2448,Enable FreeSpace Debugging,Включить Отладку FreeSpace
 CURRENT,newmainmenu_darkmode,2448,Galaxy Map Dark Mode,Темный Режим Карты Галактики
-CURRENT,newmainmenu_parallax,2448,Parallax effect,Использовать Эффект Параллакса
 CURRENT,newmainmenu_slowcombat,2448,Slow during combat,Замедление в Бою
 CURRENT,newmainmenu_filter,2448,SEARCH...,ПОИСК...
 CURRENT,shiplibrary_hullonly,2448,[EMPTY HULL],[ПУСТОЙ КОРПУС]
@@ -1496,7 +1714,6 @@ CURRENT,hud_tooltip_rightclickclear,2448,[RMB] Clear,[ПКМ] Очистить
 CURRENT,hud_tooltip_rightclickdelete,2448,[RMB] Delete,[ПКМ] Удалить
 CURRENT,hud_tooltip_rightclickpurge,2448,[RMB] Purge,[ПКМ] Очистить
 CURRENT,hud_tooltip_leftclickchangerecipe,2448,[LMB] Cycle recipe,[ЛКМ] Сменить рецепт
-CURRENT,hud_tooltip_rightclickconfigure,2448,[RMB] Configure,[ПКМ] Настроить
 CURRENT,hud_tooltip_boxed,2448,[BOXED],[УПАКОВАНО]
 CURRENT,hud_tooltip_charge,2448,Charge,Зарядить
 CURRENT,hud_totalproduction,2448,TOTAL PRODUCTION,ОБЩЕЕ ПРОИЗВОДСТВО
@@ -1552,7 +1769,6 @@ CURRENT,equipment_weaponsconsole_locked,2448,SLOT *X LOCKED,СЛОТ *X ЗАБЛ
 CURRENT,equipment_weaponsconsole_extradescription,2448,*X Connected weapons,*X Подключенных орудий
 CURRENT,equipment_weaponsconsole_connected,2448,Controlled by Weapons Console,Управляется Центром Управления Оружием
 CURRENT,equipment_storagecrate_quantity,2448,STORED: *X/*Y,ХРАНИТСЯ: *X/*Y
-CURRENT,equipment_storagecrate_capacity,2448,CAPACITY,ВМЕСТИМОСТЬ
 CURRENT,equipment_storagecrate_dumping,2448,DUMPING,СБРОС
 CURRENT,equipment_storagecrate_refill_enable,2448,PRIORITISE ZONES,ПРИОРИТЕТ ЗОНАМ
 CURRENT,equipment_storagecrate_refill_disable,2448,PRIORITISE CRATE,ПРИОРИТЕТ ХРАНИЛИЩУ
@@ -1707,7 +1923,6 @@ CURRENT,techtree_lose_progress,2448,Starting a new research project will lose al
 CURRENT,techtree_stargate_warning,2448,Completing Andromeda Project phases ahead of the Deep Space Industrialists storyline will bypass those episodes.,Завершение фаз Проекта Андромеда до сюжетной линии Промышленников Дальнего Космоса позволит пропустить эти эпизоды.
 CURRENT,techtree_missing_equipment,2448,This research project requires a *X to be completed,Для завершения этого исследовательского проекта требуется *X
 CURRENT,techtree_node_title_logistics1,2448,Logistics,Логистика
-CURRENT,techtree_node_caption_logistics1,2448,Unlocks schematics for small logistics storage,Открывает чертежи для малого логистического хранилища
 CURRENT,techtree_node_title_logistics2,2448,Logistics Level 2,Логистика Уровень 2
 CURRENT,techtree_node_caption_logistics2,2448,Unlocks schematics for Medium sized storage,Открывает чертежи для среднего хранилища
 CURRENT,techtree_node_title_logistics3,2448,Logistics Level 3,Логистика Уровень 3
@@ -1788,14 +2003,9 @@ CURRENT,logisticswindow_title,2448,LOGISTICS,ЛОГИСТИКА
 CURRENT,logistics_tooltip_transfer,2448,[LMB] Transfer 1 from *X,[ЛКМ] Передать 1 из *X
 CURRENT,logistics_tooltip_cancel_transfer,2448,[RMB] Cancel 1 from *X,[ПКМ] Отменить 1 из *X
 CURRENT,logistics_tooltip_modifiers,2448,Modifiers:,Модификаторы:
-CURRENT,orders_logistics,2448,LOGISTICS,ЛОГИСТИКА
-CURRENT,orders_crew,2448,CREW,ЭКИПАЖ
 CURRENT,orders_doors,2448,DOORS,ДВЕРИ
 CURRENT,order_none,2448,None,Нет
-CURRENT,order_salvage,2448,Gather Salvage,Сбор Обломков
-CURRENT,order_gather,2448,Gather Materials,Собр Материалов
 CURRENT,order_repairhull,2448,Repair Hull,Ремонтные Работы
-CURRENT,order_shiftwork,2448,Shift Work,Работа Посменно
 CURRENT,order_suitson,2448,Suits On,Надеть Скафандры
 CURRENT,order_exteriorwork,2448,Exterior Work,Внешние Работы
 CURRENT,order_weaponsactive,2448,Weapons Free,Огонь По Противнику
@@ -1804,8 +2014,6 @@ CURRENT,order_battlestations,2448,Battle Stations,Боевая Тревога
 CURRENT,order_mining,2448,Mining,Шахтерские Работы
 CURRENT,action_opendoors,2448,Open All Doors,Открыть Все Двери
 CURRENT,action_closedoors,2448,Close All Doors,Закрыть Все Двери
-CURRENT,action_openvents,2448,Open All Vents,Открыть Все Клапаны
-CURRENT,action_closevents,2448,Close All Vents,Закрыть Все Клапаны
 CURRENT,missions_title,2448,CONTRACTS,КОНТРАКТЫ
 CURRENT,mission_accept,2448,Accept,Принять
 CURRENT,mission_accepted,2448,Accepted,Принято
@@ -2555,7 +2763,6 @@ CURRENT,wolf_part1_recorderhint,2448,The flight recorder should be near the dere
 CURRENT,wolf_part1_dronehint,2448,Your ship will need a drone bay and drones to collect the flight recorder.,Вашему кораблю понадобится отсек для дронов и дроны для сбора бортового самописца.
 CURRENT,wolf_part1_completion1,2448,"We've analysed the black box recordings and the evidence is already pretty clear.  There's a pirate vessel out there somewhere, preying on high value commercial vessels.  They wait in silence, until the ship is alone, isolated, and defenseless.  They come out of nowhere and attack without warning, and before anybody can respond they've destroyed the ship and looted the cargo.","Мы проанализировали записи бортовых самописцев, и доказательства уже довольно ясны.  Где-то там Пиратский Корабль, охотящийся на ценные коммерческие суда.  Они ждут в тишине, пока корабль не окажется один, изолированный и беззащитный.  Они появляются из ниоткуда и атакуют без предупреждения, и прежде чем кто-либо может отреагировать, они уничтожают корабль и грабят груз."
 CURRENT,wolf_part1_completion2,2448,Most likely to be sold for vast profits to the Stargate Project - who don't seem keen to ask questions.,"Вероятнее всего, для продажи с огромной прибылью Проекту Звездные Врата - которые, похоже, не стремятся задавать вопросы."
-CURRENT,wolf_part1_completion3,2448,So far they haven't left a single living witness. But the sensor data tells the full story. We've manged to extract another sensor image of the attacker.,Пока они не оставили ни одного живого свидетеля. Но данные сенсоров рассказывают всю историю. Нам удалось извлечь еще одно сенсорное изображение нападавшего.
 CURRENT,wolf_part1_completion4,2448,"It's another grainy photograph, but it's all we have to go on.  This is without doubt the vessel responsible for all this death and destruction.","Это еще одна зернистая фотография, но это все, на что мы можем опираться.  Это без сомнения корабль, ответственный за всю эту смерть и разрушение."
 CURRENT,wolf_part1_completion6,2448,"In the mean time, we suggest you tend to your ships. If you've taken damage, you can repair the hull at any SHIPYARD. Use the funds we've sent to upgrade your defenses.","А пока мы предлагаем вам позаботиться о ваших кораблях. Если вы получили повреждения, вы можете отремонтировать корпус на любой ВЕРФИ. Используйте средства, которые мы отправили, для модернизации вашей защиты."
 CURRENT,wolf_character_ryker,2448,Captain Amelia Ryker,Капитан Амелия Райкер
@@ -3096,6 +3303,15 @@ CURRENT,dsi_part2_scene_z4,2448,We are authorised by deep space convention in th
 CURRENT,dsi_part2_scene_z5,2448,THERE WILL BE NO FURTHER WARNING.,БОЛЬШЕ ПРЕДУПРЕЖДЕНИЙ НЕ БУДЕТ.
 CURRENT,dsi_part2_scene_y7,2448,You've left me no choice.,Ты не оставил мне выбора.
 CURRENT,dsi_part2_scene_y8,2448,"I'll be coming for you Alexander, and this time I'm not asking for 10%. I want it all.","Я приду за тобой, Александр, и на этот раз я не прошу 10%. Я хочу все."
+OBSOLETE,logistics_status_buynomoney,3400,out of the *X desired (not enough money),из *X желаемого (недостаточно денег)
+OBSOLETE,logistics_status_buynomoney,3329,out of the *X ordered (not enough money),из заказанных на *X (не хватает денег)
+OBSOLETE,logistics_status_buynosupply,3400,out of the *X desired (not enough available),из *X желаемого (недостаточно доступного)
+OBSOLETE,logistics_status_buynosupply,3329,out of the *X ordered (not enough available),из заказанных на *X (не хватает в наличии)
+OBSOLETE,logistics_status_sellnosupply,3400,out of the *X desired (not enough available),из *X желаемого (недостаточно доступного)
+OBSOLETE,logistics_status_sellnosupply,3329,out of the *X ordered (not enough available),из заказанных на *X (не хватает в наличии)
+OBSOLETE,logistics_status_miningstacks,3239,(*X/*Y stacks),(*X/*Y стопки)
+OBSOLETE,logistics_status_collectcontainers,3239,(*X/*Y containers),(*X/*Y контейнеры)
+OBSOLETE,wolf_part2_objective_escape,2448,Get to a safe distance before the Orion Sentinel explodes,Отойти на безопасное расстояние до взрыва Orion Sentinel
 OBSOLETE,logistics_item_none,3239,Select Item,Выберите предмет
 OBSOLETE,powergrid_demand,2448,DEMAND *X Mw,ПОТРЕБЛЕНИЕ *X МВт
 OBSOLETE,powergrid_output,2448,OUTPUT *X Mw,ВЫРАБОТКА *X МВт
@@ -3304,7 +3520,6 @@ OBSOLETE,tutorial_miningundock,2448,Make sure to UNDOCK from any other ship (fro
 OBSOLETE,tutorial_miningflytosystem,2448,"Look at the rocks on the map, these indicate ASTEROID BELTS. \n\nFly to a system in an asteroid belt, it will probably contain Tilium Ore.","Посмотри на камни на карте, они обозначают АСТЕРОИДНЫЕ ПОЯСА.\n\nЛети к системе в астероидном поясе, там наверняка найдется Тилиевая руда."
 OBSOLETE,tutorial_miningselectlaser,2448,"You can also target specific mineral patches.\n\nFirst, select which laser you would like to use.\n\nYou can SHIFT CLICK to select multiple lasers.","Вы также можете нацелиться на конкретные участки минералов.\n\nСначала выберите лазер, который вы хотите использовать.\n\nВы можете нажать SHIFT CLICK, чтобы выбрать несколько лазеров."
 OBSOLETE,tutorial_mininginstalldronebay,2448,Drones will collect mined resources.\n\nInstall a DRONE BAY so your drones can collect the Tilium Ore.,"Дроны будут собирать добытые ресурсы.\n\nУстановите Отсек для дронов, чтобы ваши дроны могли собирать Тилиевую руду."
-OBSOLETE,tutorial_miningfleetorders,2448,You also need to make sure that GATHER MATERIALS is enabled in FLEET ORDERS.,"Вам также нужно убедиться, что в FLEET ORDERS включена опция GATHER MATERIALS."
 OBSOLETE,tutorial_mininginstallsmelter,2448,You will need to smelt the raw Tilium Ore to crystals.\n\nInstall a SMELTER.,Вам нужно будет переплавить сырую Тилиевую руду в Тилиевые кристаллы.\n\nУстановите Плавильную печь.
 OBSOLETE,tutorial_miningsetsmelter,2448,Right click on the SMELTER and select TILIUM ORE to smelt it into Tilium Crystals.,"Щелкните правой кнопкой мыши на ПЛАВИЛЬНОЙ ПЕЧИ и выберите ТИЛИЕВАЯ РУДА, чтобы переплавить его в Тилиевые кристаллы."
 OBSOLETE,tutorial_buyshipinspect,2448,"Click on the JMC MINING STATION, an old unused industrial station for sale.","Нажмите на JMC MINING STATION, старую неиспользуемую промышленную станцию, выставленную на продажу."
