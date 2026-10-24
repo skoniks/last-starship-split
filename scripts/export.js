@@ -14,6 +14,7 @@ async function bootstrap() {
     return j && j.translation !== i.translation;
   });
   //
+  if (!data.length) return console.log('No changes found');
   const columns = Object.keys(data[0]);
   const output = stringify(data, { columns, header: true, bom: true });
   writeFileSync('./original/language.csv', output, 'utf8');
