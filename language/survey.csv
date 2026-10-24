@@ -9,6 +9,7 @@ survey_sector_award_title | SURVEY AVAILABLE | ИССЛЕДОВАНИЕ ДОСТ
 survey_sector_caption | *X scanning region | *X сканирует регион
 survey_sector_nothingtoscan | REGION FULLY SCANNED | РЕГИОН ПОЛНОСТЬЮ ОТСКАНИРОВАН
 survey_sector_title | SECTOR SCAN | СКАНИРОВАНИЕ СЕКТОРА
+survey_survey | SURVEY | 
 survey_title | UNSURVEYED *X | НЕИССЛЕДОВАННЫЙ *X
 survey_type_asteroid | Asteroid belt | Астероидный пояс
 survey_type_colony | Colony | Колония

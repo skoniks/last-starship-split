@@ -1,9 +1,11 @@
 techtree_accept | Begin Research | Начать Исследование
+techtree_alreadyunlocked | ALREADY UNLOCKED | 
 techtree_available | AVAILABLE | ДОСТУПНО
 techtree_available_title | RESEARCH AVAILABLE | ДОСТУПНО ИССЛЕДОВАНИЕ
 techtree_availablecredits | Available Credits: *X | Доступно Чипов: *X
 techtree_award_title | RESEARCH COMPLETED | ИССЛЕДОВАНИЕ ЗАВЕРШЕНО
 techtree_blueprint | Blueprint | Чертеж
+techtree_blueprintunlocked_title | BLUEPRINT UNLOCKED | 
 techtree_boosts | Performance Boosts: | Бонусы Производительности:
 techtree_busy | RESEARCHERS ARE BUSY | ИССЛЕДОВАТЕЛИ ЗАНЯТЫ
 techtree_cannot_afford | CANNOT AFFORD RESEARCH | НЕ ХВАТАЕТ НА ИССЛЕДОВАНИЕ
@@ -32,11 +34,18 @@ techtree_node_caption_dronespeed1 | Increases the top speed of Drones by 50% | �
 techtree_node_caption_dronespeed2 | Increases the top speed of Drones by 100% | Увеличивает максимальную скорость Дронов на 100%
 techtree_node_caption_dronespeedrepeatable | Spend research credits to continually increase the speed of our drones. | Тратьте чипы данных, чтобы постоянно увеличивать скорость наших дронов.
 techtree_node_caption_energytransmission | Unlocks schematic for Energy Transmitter and Receiver | Открывает чертеж для Передатчика Энергии и Приемника
+techtree_node_caption_fighterarmour1 | Increase armour damage mitigation. | 
+techtree_node_caption_fighterarmour2 | Increase armour damage mitigation. | 
+techtree_node_caption_fighterarmour3 | Increase armour damage mitigation. | 
+techtree_node_caption_fighters1 | Improve the survivability and agility of fighters. Armour mitigates damage received. | 
+techtree_node_caption_fighterspeed1 | Improve the fuel usage and speed of your fighters. | 
+techtree_node_caption_fighterspeed2 | Improve the fuel usage and speed of your fighters. | 
+techtree_node_caption_fighterspeed3 | Improve the fuel usage and speed of your fighters. | 
 techtree_node_caption_habitation | Unlocks efficiency improvements for all areas of life support and crew survival | Открывает улучшения эффективности для всех областей жизнеобеспечения и выживания экипажа
 techtree_node_caption_hydroponics1 | Improves crop yield to produce more food per cycle | Улучшает урожайность для производства большего количества еды за цикл
 techtree_node_caption_hydroponics2 | Further improves crop yield, and unlocks schematics to manufacture Hydroponics Modules | Дополнительно улучшает урожайность и открывает чертежи для производства Гидропонных Модулей
 techtree_node_caption_hydroponicsrepeatable | Spend research credits to continually increase our crop yield. | Тратьте чипы данных, чтобы постоянно увеличивать нашу урожайность.
-techtree_node_caption_logistics1 | Unlocks schematics for small logistics storage | Открывает чертежи для малого логистического хранилища
+techtree_node_caption_logistics1 | Unlocks schematics for small logistics storage. Unlocks smart drone bays allowing to filter which items are dropped off and whether drones should launch from and return to it | 
 techtree_node_caption_logistics2 | Unlocks schematics for Medium sized storage | Открывает чертежи для среднего хранилища
 techtree_node_caption_logistics3 | Unlocks schematics for Large logistics storage | Открывает чертежи для большого логистического хранилища
 techtree_node_caption_metallurgy1 | Smelters produce 50% more output | Плавильные Печи производят на 50% больше продукции
@@ -75,6 +84,13 @@ techtree_node_title_dronespeed1 | Drone Speed 1 | Скорость Дронов 
 techtree_node_title_dronespeed2 | Drone Speed 2 | Скорость Дронов 2
 techtree_node_title_dronespeedrepeatable | Drone Speed | Скорость Дронов
 techtree_node_title_energytransmission | Energy Transmission | Передача Энергии
+techtree_node_title_fighterarmour1 | Fighter Survivability 1 | 
+techtree_node_title_fighterarmour2 | Fighter Survivability 2 | 
+techtree_node_title_fighterarmour3 | Fighter Survivability 3 | 
+techtree_node_title_fighters1 | Fighters | 
+techtree_node_title_fighterspeed1 | Fighter Agility 1 | 
+techtree_node_title_fighterspeed2 | Fighter Agility 2 | 
+techtree_node_title_fighterspeed3 | Fighter Agility 3 | 
 techtree_node_title_habitation | Habitation | Выживание
 techtree_node_title_hydroponics1 | Hydroponics 1 | Гидропоника 1
 techtree_node_title_hydroponics2 | Hydroponics 2 | Гидропоника 2
@@ -109,6 +125,8 @@ techtree_node_title_zeleonenergycontainment | Zeleon Energy Containment | Хра
 techtree_node_title_zeleongasrefining | Zeleon Gas | Газ Зелеона
 techtree_queue | Queue Research | Очередь Исследований
 techtree_refining | Refining | Переработка
+techtree_repeatable_title | Repeatable Research | 
+techtree_researchall | Research All | 
 techtree_researchcredit_tooltip | Perform sector scans to find derelict ships that contain research credits. | Проводите сканирования сектора, чтобы найти заброшенные корабли, содержащие чипы данных.
 techtree_researched | RESEARCHED | ИССЛЕДОВАНО
 techtree_researchpercent | *X% Complete | *X% Завершено
@@ -119,5 +137,6 @@ techtree_spendcredits | Accelerate Research (Cost: 1 Credit ) | Ускорить
 techtree_stargate_warning | Completing Andromeda Project phases ahead of the Deep Space Industrialists storyline will bypass those episodes. | Завершение фаз Проекта Андромеда до сюжетной линии Промышленников Дальнего Космоса позволит пропустить эти эпизоды.
 techtree_title | RESEARCH | ИССЛЕДОВАНИЯ
 techtree_unavailable | REQUIREMENTS NOT MET | ТРЕБОВАНИЯ НЕ ВЫПОЛНЕНЫ
+techtree_unlock | Unlock Research | 
 techtree_unlocks | Unlocks: | Открывает:
 techtree_warning | WARNING! | ВНИМАНИЕ!

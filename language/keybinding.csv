@@ -1,5 +1,11 @@
 keybinding_alttool | Alt Editor Tool | Доп. Инструмент Редактора
+keybinding_constructioncables | Construction Cables | 
+keybinding_constructiondismantle | Construction Dismantle | 
+keybinding_constructioninstall | Construction Install | 
+keybinding_constructionpipes | Construction Pipes | 
+keybinding_constructionstorage | Construction Storage | 
 keybinding_decreasethrust | Engines - | Уменьшить Тягу
+keybinding_ftljump | FTL Jump | 
 keybinding_gamespeed0 | Half Speed | 0.5x Скорость
 keybinding_gamespeed1 | Normal Speed | 1x Скорость
 keybinding_gamespeed2 | 2x Speed | 2x Скорость
@@ -34,9 +40,23 @@ keybinding_rotateobject | Rotate Object | Повернуть Объект
 keybinding_takescreenshot | Screenshot (+ {MetaCtrl}) | Скриншот (+ {MetaCtrl})
 keybinding_title_action | Action | Действие
 keybinding_title_key | Key | Клавиша
-keybinding_togglemap | Toggle Map | Карта Сектора
+keybinding_togglebattlestations | Toggle Battle Stations | 
+keybinding_toggleconstruction | Construction | 
+keybinding_togglecontracts | Contracts | 
+keybinding_toggleeditor | Editor | 
+keybinding_toggleftl | FTL | 
+keybinding_toggleil | Interstellar Logistics | 
+keybinding_togglelogistics | Logistics | 
+keybinding_togglemap1 | Map (1) | 
+keybinding_togglemap2 | Map (2) | 
+keybinding_toggleorders | Orders | 
 keybinding_togglepause | Pause | Пауза
+keybinding_togglepowergrid | Power Grid | 
+keybinding_togglerecipes | Recipes | 
+keybinding_toggleresearch | Research | 
+keybinding_togglestargate | Stargate | 
 keybinding_toggletactical | Toggle Tactical | Тактический Режим
+keybinding_toggletrade | Trade | 
 keybinding_translatorwindow | Translator Window | Окно Переводчика
 keybinding_zoomin | Zoom In | Приблизить
 keybinding_zoomout | Zoom Out | Отдалить

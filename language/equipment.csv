@@ -1,21 +1,51 @@
 equipment_blocked | BLOCKED | ЗАБЛОКИРОВАН
+equipment_deselectall | DESELECT ALL | 
+equipment_dockingport_permitincoming | INCOMING CARGO | 
+equipment_dockingport_permitoutgoing | OUTGOING CARGO | 
+equipment_dockingport_permitpeople | CREW AND CIVILIANS | 
+equipment_dronebay_permitlaunch | PERMIT LAUNCH | 
+equipment_dronebay_permitreturn | PERMIT RETURN | 
+equipment_factory_idle | IDLE | 
 equipment_factory_make | Make *X | Произвести *X
 equipment_factory_refine | Refine *X | Обработать *X
 equipment_factory_stop | STOP | ОСТАНОВИТЬ
 equipment_factory_stopped | STOPPED | ОСТАНОВЛЕН
+equipment_multiple_fluids | MULTIPLE FLUIDS | 
+equipment_multiple_names | MULTIPLE NAMES | 
+equipment_multiple_recipes | MULTIPLE RECIPES | 
+equipment_multiple_types | MULTIPLE TYPES | 
+equipment_off | OFF | ВЫКЛ
+equipment_off_amount | OFF(*X) | 
+equipment_on | ON | ВКЛ
+equipment_on_amount | ON(*X) | 
+equipment_on_off_amount | ON(*X) OFF(*Y) | 
 equipment_output | OUTPUT | ВЫХОД
 equipment_power | POWER | ПИТАНИЕ
 equipment_robotarm_forcedrop | FORCE DROP | ПРИНУДИТЕЛЬНЫЙ СБРОС
 equipment_robotarm_nopickup | SELECT TYPE | ВЫБРАТЬ ТИП
+equipment_robotarm_numtypes | *X types | 
 equipment_robotarm_pickupnone | NONE | НЕТ
-equipment_storagecrate_capacity | CAPACITY | ВМЕСТИМОСТЬ
+equipment_selectall | SELECT ALL | 
+equipment_smelter_smeltany | SMELT ANY | 
+equipment_storagecrate_capacity | CAPACITY: *X | 
+equipment_storagecrate_capacity_mixed | CAPACITY: MIXED | 
 equipment_storagecrate_dumping | DUMPING | СБРОС
 equipment_storagecrate_permitcrewload | CREW LOADING | ЗАГРУЗКА ЭКИПАЖЕМ
 equipment_storagecrate_permitcrewunload | CREW UNLOADING | РАЗГРУЗКА ЭКИПАЖЕМ
 equipment_storagecrate_quantity | STORED: *X/*Y | ХРАНИТСЯ: *X/*Y
 equipment_storagecrate_refill_disable | PRIORITISE CRATE | ПРИОРИТЕТ ХРАНИЛИЩУ
 equipment_storagecrate_refill_enable | PRIORITISE ZONES | ПРИОРИТЕТ ЗОНАМ
+equipment_storagecrate_refill_mixed | MIXED PRIORITIES | 
+equipment_storagetank_draining | DRAINING | 
+equipment_storagetank_draining_storing | STORING(*X) DRAINING(*Y) | 
+equipment_storagetank_notconnected | NOT CONNECTED | 
+equipment_storagetank_storing | STORING | 
 equipment_temperature_short | TEMP | ТЕМПЕРАТУРА
+equipment_typefilter_all | ALL PERMITTED | 
+equipment_typefilter_extras | AND *X MORE | 
+equipment_typefilter_invert | ALL PERMITTED EXCEPT: | 
+equipment_typefilter_multiple | MULTIPLE PERMITTED | 
+equipment_typefilter_none | SELECT PERMITTED | 
 equipment_weaponsconsole_connected | Controlled by Weapons Console | Управляется Центром Управления Оружием
 equipment_weaponsconsole_deselect | NONE | НЕТ
 equipment_weaponsconsole_extradescription | *X Connected weapons | *X Подключенных орудий

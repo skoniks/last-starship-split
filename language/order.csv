@@ -3,11 +3,20 @@ order_autotradeactive | Auto Trade | Автоторговля
 order_battlestations | Battle Stations | Боевая Тревога
 order_exteriorwork | Exterior Work | Внешние Работы
 order_fleetlogistics | Fleet Logistics | Логистика Флота
-order_gather | Gather Materials | Собр Материалов
+order_gather | Gather | 
 order_mining | Mining | Шахтерские Работы
 order_none | None | Нет
 order_repairhull | Repair Hull | Ремонтные Работы
-order_salvage | Gather Salvage | Сбор Обломков
-order_shiftwork | Shift Work | Работа Посменно
 order_suitson | Suits On | Надеть Скафандры
+order_tooltip_advancedlogistics | Allow interstellar logistics to execute | 
+order_tooltip_autotradeactive | Allow auto trades to execute | 
+order_tooltip_battlestations | Battle Stations | 
+order_tooltip_dronegatherfilter | Edit which items drones from this ship should pick up or ignore | 
+order_tooltip_exteriorwork | Allow crew to perform jobs in freespace | 
+order_tooltip_fleetlogistics | Allow logistics transfers between ships | 
+order_tooltip_gather | Allow drones to gather | 
+order_tooltip_mining | Allow mining lasers to fire | 
+order_tooltip_repairhull | Allow drones to repair ship hull | 
+order_tooltip_suitson | Make crew put on spacesuits if available | 
+order_tooltip_weaponsactive | Allow weapons to fire | 
 order_weaponsactive | Weapons Free | Огонь По Противнику

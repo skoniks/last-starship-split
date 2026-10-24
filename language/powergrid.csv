@@ -3,8 +3,10 @@ powergrid_category_battery | BATTERY | БАТАРЕИ
 powergrid_category_defenses | DEFENSES | ОБОРОНА
 powergrid_category_engines | ENGINES | ДВИГАТЕЛИ
 powergrid_category_ftl | FTL | ГИПЕРДВИГАТЕЛИ
+powergrid_category_industry | INDUSTRY | 
 powergrid_category_lifesupport | LIFE SUPPORT | ЖИЗНЕОБЕСПЕЧЕНИЕ
 powergrid_category_logistics | LOGISTICS | ЛОГИСТИКА
+powergrid_category_mining | MINING | 
 powergrid_category_other | OTHER | ПРОЧЕЕ
 powergrid_category_reactor | REACTOR | РЕАКТОР
 powergrid_category_science | SCIENCE | НАУКА

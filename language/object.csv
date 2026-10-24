@@ -24,6 +24,7 @@ object_civilian | Civilian | Гражданский
 object_coilcomponent | Energy Coil | Катушка Энергии
 object_comet | Comet | Комета
 object_compost | Compost | Компост
+object_computegridcomponent | Compute Grid | 
 object_copperingot | Copper Ingot | Медный Слиток
 object_copperminerals | Copper Minerals | Медная Руда
 object_crewmember | Crew | Экипаж
@@ -52,6 +53,8 @@ object_equipment | Equipment | Оборудование
 object_explosives | Explosives | Взрывчатка
 object_fabricator | Fabricator | Фабрикатор
 object_fighter | Fighter | Истребитель
+object_fighterbay | Fighter Bay | 
+object_fighterbay_description | Install on the inside of your ship and provide materials to produce fighters. The fighter will launch from the top of the ship and return to the bay once the battle is over. If it dies, a new one can be built. | 
 object_flightrecorder | Flight Recorder | Бортовой Самописец
 object_food | Food | Еда
 object_framecomponent | Frame | Рама
@@ -112,6 +115,8 @@ object_potplant | Pot Plant | Горшочное Растение
 object_powercoil | Power Coil | Катушка Питания
 object_powercoilcharged | Charged Power Coil | Заряженная Катушка Питания
 object_powerinjector | Power Injector | Инжектор Питания
+object_powerswitch | Power Switch | 
+object_powerswitch_description | Install along a cable and toggle on and off to control power flow. Can be given a name to be easily toggled from the powergrid window. | 
 object_preciousmetals | Precious Metals | Драгоценные Металлы
 object_preciousore | Precious Ore | Драгоценная Руда
 object_processorcomponent | Processor | Процессор
@@ -129,6 +134,7 @@ object_railgunshell | Railgun Slugs | Рельсовые Пули
 object_railgunshell_description | A box of ammo for a Railgun. | Ящик боеприпасов для Рельсотрона.
 object_reactor | Reactor | Реактор
 object_reactor_description | Burns high-energy Fuel to produce power. Must be supplied with Fuel (via a pipe). Then use cables to connect to other powered equipment.\n\nGenerates a maximum power output of 100MW. | Сжигает высокоэнергетическое Топливо, чтобы получить энергию. Топливо должно поступать через трубу. Затем с помощью кабелей подключается к другому оборудованию.\n\nГенерирует максимальную мощность в 100 МВт.
+object_reactorcorecomponent | Reactor Core | 
 object_refinedmetreon | Refined Metreon | Обработанный Метреон
 object_refinedtilium | Tilium Crystals | Тилиевые Кристаллы
 object_refinery | Refinery | Химический Завод
@@ -191,11 +197,13 @@ object_storagecrate | Storage Crate | Хранилище
 object_storagecrate_description | Storage crate, stores a single type of resource but at 4x the usual amount per square | Хранилище, хранит один тип ресурса, но в 4 раза больше обычного количества на клетку
 object_supercomputer | Super Computer | Суперкомпьютер
 object_supercomputer_description | A powerful computer for number crunching and simulating important research. | Мощный компьютер для числовой обработки и моделирования важных исследований.
+object_superconductorcomponent | Superconductor | 
 object_table | Table | Стол
 object_tank | Huge Tank | Огромный Резервуар
 object_tank_description | A massive tank that can store a great deal of liquid or gas. | Массивный резервуар, который может хранить большое количество жидкости или газа.
 object_telepathicsensor | Telepathic Sensor Station | Телепатическая Сенсорная Станция
 object_telepathicsensor_description | A sensor capable of detecting telepathic waves. | Сенсор, способный обнаруживать телепатические волны.
+object_thermalstabilisercomponent | Heat Exchanger | 
 object_thruster | Thruster | Маневровый Двигатель
 object_thruster_description | Maneuvering thruster. Must be attached to the wall of the ship. Provides thrust to permit lateral and rotational movement. | Маневровый двигатель. Должен быть прикреплен к стене корабля. Обеспечивает тягу для бокового и вращательного движения.
 object_tiddlet | Tiddlet | Тиддлет

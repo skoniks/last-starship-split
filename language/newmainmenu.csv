@@ -30,6 +30,8 @@ newmainmenu_defensiveenemies | Defensive Enemies | Мирные Враги
 newmainmenu_defensiveenemiestooltip | Hostile ships will only target you once you have targeted them first. | Вражеские корабли будут атаковать вас только после того, как вы первыми выберете их целью.
 newmainmenu_deletegame | DELETE GAME | УДАЛИТЬ ИГРУ
 newmainmenu_deleteship | DELETE SHIP | УДАЛИТЬ КОРАБЛЬ
+newmainmenu_difficulty | Difficulty | 
+newmainmenu_difficultytooltip | Difficulty affects how quickly equipment and resources become scarce in later sectors.\n\n3 difficulties are available: Normal, Difficult, Hard. | 
 newmainmenu_editship | EDIT SHIP | РЕДАКТИРОВАТЬ КОРАБЛЬ
 newmainmenu_exitsaves | Auto-save on exit | Автосохранение при выходе
 newmainmenu_exportship | EXPORT SHIP | ЭКСПОРТИРОВАТЬ КОРАБЛЬ
@@ -46,12 +48,13 @@ newmainmenu_loadship | LOAD SHIP | ЗАГРУЗИТЬ КОРАБЛЬ
 newmainmenu_locked | (LOCKED) | (ЗАБЛОКИРОВАНО)
 newmainmenu_lockedindemo | LOCKED IN DEMO | ЗАБЛОКИРОВАНО В ДЕМО
 newmainmenu_mainmenu | MAIN MENU | ГЛАВНОЕ МЕНЮ
-newmainmenu_multisectorsim | Multi-System Simulation | Мультисистемная Симуляция
-newmainmenu_multisectorsimtooltip | Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously. | Включает мультисистемную симуляцию, позволяя разделить ваш флот между несколькими системами/секторами одновременно.
 newmainmenu_multisystem_simulation | Enable Multi-system Simulation | Включить Мультисистемную Симуляцию
+newmainmenu_multisystemsim | Multi-System Simulation | Мультисистемная Симуляция
+newmainmenu_multisystemsimtooltip | Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously. | Включает мультисистемную симуляцию, позволяя разделить ваш флот между несколькими системами/секторами одновременно.
 newmainmenu_newgame | NEW GAME | НОВАЯ ИГРА
 newmainmenu_newgameoptions | Game Options | Настройки Игры
-newmainmenu_parallax | Parallax effect | Использовать Эффект Параллакса
+newmainmenu_parallax | Parallax | 
+newmainmenu_parallax_description | Use a parallax effect to give an impression of depth | 
 newmainmenu_quit | QUIT | ВЫХОД
 newmainmenu_quitmessage | We hope you enjoyed playing the demo of The Last Starship. Your journey has just begun!  Unlock the full game to explore more Story Episodes, Survival Mode, Arena Mode, a full Ship Editor and more! | Мы надеемся, что вам понравилась демоверсия The Last Starship. Ваше путешествие только началось!  Разблокируйте полную версию игры, чтобы исследовать больше Сюжетных Эпизодов, Режим Выживания, Режим Арены, полноценный Редактор Кораблей и многое другое!
 newmainmenu_resume | RESUME | ПРОДОЛЖИТЬ
@@ -65,6 +68,7 @@ newmainmenu_settings | SETTINGS | НАСТРОЙКИ
 newmainmenu_shipeditor | CREATIVE MODE | ТВОРЧЕСКИЙ РЕЖИМ
 newmainmenu_showautosaves | AUTOSAVES | АВТОСОХРАНЕНИЯ
 newmainmenu_slowcombat | Slow during combat | Замедление в Бою
+newmainmenu_slowcombat_description | Switch to slow game speed after taking damage during combat. | 
 newmainmenu_steamcloud | STEAM CLOUD | STEAM CLOUD
 newmainmenu_steamworkshop | STEAM WORKSHOP | МАСТЕРСКАЯ STEAM
 newmainmenu_tests | TESTS | ТЕСТЫ

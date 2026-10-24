@@ -1,3 +1,5 @@
-orders_crew | CREW | ЭКИПАЖ
 orders_doors | DOORS | ДВЕРИ
-orders_logistics | LOGISTICS | ЛОГИСТИКА
+orders_drones_alltoggle | ALL RESOURCES | 
+orders_drones_materialstoggle | MATERIALS | 
+orders_layerscope | SHIP-SPECIFIC ORDERS | 
+orders_systemscope | SYSTEM-WIDE ORDERS | 

@@ -171,7 +171,6 @@ NEW,equipment_selectall,3708,SELECT ALL,
 NEW,equipment_deselectall,3708,DESELECT ALL,
 NEW,trade_schematics,3708,BLUEPRINTS,
 NEW,trade_schematic,3708,Blueprint,
-NEW,trade_schematic_warning,3708,This is a blueprint. Purchasing this will unlock the schematic but will not deliver any equipment.\n\nAssembly tables and fabricators are required to produce the equipment.,
 NEW,special_smartdronebays,3708,Smart Drone Bays,
 NEW,techtree_blueprintunlocked_title,3708,BLUEPRINT UNLOCKED,
 NEW,techtree_alreadyunlocked,3708,ALREADY UNLOCKED,
@@ -193,6 +192,149 @@ NEW,object_thermalstabilisercomponent,3708,Heat Exchanger,
 NEW,alert_type_noreturndronebay,3718,DRONES STUCK,
 NEW,alert_type_noreturndronebay_caption1,3718,No drone bay to return to.,
 NEW,alert_type_noreturndronebay_caption2,3718,No drone bay permits return.,
+NEW,settings_keybindings_tooltiplmb,3784,[LMB] Edit shortcut,
+NEW,settings_keybindings_tooltiprmb,3784,[RMB] Clear shortcut,
+NEW,settings_keybindings_tooltipmmb,3784,[MMB] Reset to default,
+NEW,settings_difficulty_normal,3784,Normal,
+NEW,settings_difficulty_difficult,3784,Difficult,
+NEW,settings_difficulty_hard,3784,Hard,
+NEW,settings_difficulty_normal_tooltip,3784,"Standard availability of resources, slowly becoming more scarce in later sectors.",
+NEW,settings_difficulty_difficult_tooltip,3784,Availability at trade posts drops off quickly after the first couple of sectors.,
+NEW,settings_difficulty_hard_tooltip,3784,Availability is severely limited after leaving the home sector.,
+NEW,settings_difficulty_availability_hint,3784,Availability of crew and blueprints is not affected.,
+NEW,settings_difficulty_warning,3784,WARNING: Difficulties above normal are intended for experienced players.,
+NEW,keybinding_togglebattlestations,3784,Toggle Battle Stations,
+NEW,keybinding_toggleconstruction,3784,Construction,
+NEW,keybinding_toggleeditor,3784,Editor,
+NEW,keybinding_toggletrade,3784,Trade,
+NEW,keybinding_togglecontracts,3784,Contracts,
+NEW,keybinding_togglepowergrid,3784,Power Grid,
+NEW,keybinding_togglelogistics,3784,Logistics,
+NEW,keybinding_toggleil,3784,Interstellar Logistics,
+NEW,keybinding_toggleftl,3784,FTL,
+NEW,keybinding_togglemap1,3784,Map (1),
+NEW,keybinding_togglemap2,3784,Map (2),
+NEW,keybinding_togglestargate,3784,Stargate,
+NEW,keybinding_togglerecipes,3784,Recipes,
+NEW,keybinding_toggleresearch,3784,Research,
+NEW,keybinding_toggleorders,3784,Orders,
+NEW,keybinding_ftljump,3784,FTL Jump,
+NEW,keybinding_constructioninstall,3784,Construction Install,
+NEW,keybinding_constructiondismantle,3784,Construction Dismantle,
+NEW,keybinding_constructioncables,3784,Construction Cables,
+NEW,keybinding_constructionpipes,3784,Construction Pipes,
+NEW,keybinding_constructionstorage,3784,Construction Storage,
+NEW,newmainmenu_difficulty,3784,Difficulty,
+NEW,newmainmenu_difficultytooltip,3784,"Difficulty affects how quickly equipment and resources become scarce in later sectors.\n\n3 difficulties are available: Normal, Difficult, Hard.",
+NEW,hud_gun_port_short,3784,PORT *X,
+NEW,hud_gun_forward_short,3784,FWRD *X,
+NEW,hud_gun_starboard_short,3784,STBD *X,
+NEW,hud_gun_aft_short,3784,AFT *X,
+NEW,hud_window_construction_tooltip,3784,CONSTRUCTION ({ToggleConstruction}),
+NEW,hud_window_trade_tooltip,3784,TRADE ({ToggleTrade}),
+NEW,hud_window_missions_tooltip,3784,CONTRACTS ({ToggleContracts}),
+NEW,hud_window_power_tooltip,3784,POWERGRID ({TogglePowergrid}),
+NEW,hud_window_logistics_tooltip,3784,LOGISTICS ({ToggleLogistics}),
+NEW,hud_window_interstellarlogistics_tooltip,3784,INTERSTELLAR LOGISTICS ({ToggleIL}),
+NEW,hud_window_ftl_tooltip,3784,FTL ({ToggleFTL}),
+NEW,hud_window_sectormap_tooltip,3784,SECTOR MAP ({ToggleMap1}/{ToggleMap2}),
+NEW,hud_window_editor_tooltip,3784,EDITOR ({ToggleEditor}),
+NEW,hud_window_stargate_tooltip,3784,STARGATE ({ToggleStargate}),
+NEW,hud_window_recipes_tooltip,3784,RECIPES ({ToggleRecipes}),
+NEW,hud_window_techtree_tooltip,3784,RESEARCH ({ToggleResearch}),
+NEW,hud_window_orders_tooltip,3784,ORDERS ({ToggleOrders}),
+NEW,hud_tooltip_port_permitincoming,3784,Allow shuttles to drop off cargo at this docking port.,
+NEW,hud_tooltip_port_permitoutgoing,3784,Allow shuttles to collect cargo from this docking port.,
+NEW,hud_tooltip_port_permitpeople,3784,Allow crew and civilians to use this docking port.,
+NEW,hud_drones,3784,Drones on board: *X,
+NEW,hud_installqueue_missingmaterials,3784,MISSING MATERIALS,
+NEW,equipment_dockingport_permitincoming,3784,INCOMING CARGO,
+NEW,equipment_dockingport_permitoutgoing,3784,OUTGOING CARGO,
+NEW,equipment_dockingport_permitpeople,3784,CREW AND CIVILIANS,
+NEW,equipment_storagetank_notconnected,3784,NOT CONNECTED,
+NEW,equipment_storagetank_draining,3784,DRAINING,
+NEW,equipment_storagetank_storing,3784,STORING,
+NEW,equipment_storagetank_draining_storing,3784,STORING(*X) DRAINING(*Y),
+NEW,equipment_smelter_smeltany,3784,SMELT ANY,
+NEW,shipeditor_equipment_unknownrecipe,3784,UNKNOWN RECIPE,
+NEW,shipeditor_equipment_fabricating,3784,FABRICATING,
+NEW,shipeditor_equipment_nofactory,3784,NO FACTORY,
+NEW,trade_buy_schematic,3784,BUY BLUEPRINT,
+NEW,trade_blueprint_available,3784,BLUEPRINT AVAILABLE,
+NEW,trade_cannot_afford_schematic,3784,CANNOT AFFORD BLUEPRINT,
+NEW,techtree_unlock,3784,Unlock Research,
+NEW,techtree_researchall,3784,Research All,
+NEW,logistics_stuck_transfer,3784,No valid docking ports or drones to perform transfer,
+NEW,logistics_status_transferdockingpipes,3784,Docking with L*X to transfer R*Y through pipes,
+NEW,alert_type_nodockingport,3784,NO DOCKING PORT,
+NEW,alert_type_nodockingport_caption_inc,3784,For incoming cargo,
+NEW,alert_type_nodockingport_caption_out,3784,For outgoing cargo,
+NEW,alert_type_nodockingport_caption_people,3784,For people,
+NEW,engines_engines,3784,ENGINES,
+NEW,engines_stop,3784,STOP,
+NEW,engines_full,3784,FULL,
+NEW,engines_velocity,3784,VELOCITY,
+NEW,engines_evasion,3784,EVASION,
+NEW,engines_undock,3784,UNDOCK,
+NEW,engines_detachall,3784,DETACH ALL,
+NEW,hud_shipyard_repairhull,3881,Repair Hull,
+NEW,hud_shipyard_repairarmour,3881,Repair Armour,
+NEW,hud_cutloose,3881,CUT LOOSE,
+NEW,hud_cutloosewarning,3881,You will not receive any payment,
+NEW,hud_repairhull,3881,REPAIR HULL,
+NEW,hud_repairarmour,3881,REPAIR ARMOUR,
+NEW,hud_repairinghull,3881,HULL REPAIRS : *X,
+NEW,hud_repairingarmour,3881,ARMOUR REPAIRS : *X,
+NEW,trade_tooltip_inputquantity,3881,[MMB] Input Quantity,
+NEW,techtree_repeatable_title,3881,Repeatable Research,
+NEW,tactical_wireframe,3881,WIREFRAME MODE,
+NEW,tactical_tooltip_wireframe,3881,"When enabled, all ships are shown as wireframe outlines, presenting a clearer and more abstract view of the battlefield",
+NEW,mission_requires_surveyvessel,3881,Contract requires survey equipment and science stations,
+NEW,mission_requires_research,3881,Contract requires *X to be researched,
+NEW,mission_type_sectorschematics,3881,Recover Schematics,
+NEW,mission_sectorschematics_title,3881,SECTOR OBJECTIVE: RECOVER SCHEMATICS,
+NEW,mission_sectorschematics_desc1,3881,"Science ships have been raided and destroyed in this sector, leaving behind valuable schematics and equipment.",
+NEW,mission_sectorschematics_desc2,3881,Survey the areas marked on the map to find their exact position.,
+NEW,mission_sectorschematics_desc3,3881,Recover all schematics and equipment in the sector to earn a research credit. Hostile forces may be present in some of the systems.,
+NEW,mission_sectorschematics_caption,3881,Find and recover schematics from the wreckage of destroyed science ships.,
+NEW,mission_sectorschematics_progress,3881,*X out of *Y recovered,
+NEW,mission_sectorschematics_success,3881,SCHEMATIC RECOVERED,
+NEW,mission_sectorschematics_allrecovered,3881,All schematics have been recovered.,
+NEW,mission_sectorschematics_map,3881,Recover schematics [*X/*Y],
+NEW,mission_sectorschematics_awardcaption,3881,SCHEMATIC LOCATED IN *X,
+NEW,mission_sectorschematics_surveyfound,3881,SCHEMATIC LOCATION FOUND,
+NEW,mission_sectorschematics_schematic,3881,SCHEMATIC,
+NEW,mission_sectorschematics_nosurveying,3881,RESEARCH SURVEYING,
+NEW,mission_sectorschematics_completesurvey,3881,Survey SG*X [*Y%],
+NEW,award_credit,3881,1 Research Credit,
+NEW,mission_sectorschematics_objective_collect,3881,Collect schematic from S*X,
+NEW,mission_sectorschematics_objective_destroyhostiles,3881,Recover credit from hostiles in S*X,
+NEW,mission_sectorschematics_objective_analysecredit,3881,Load schematic from S*X into a science station,
+NEW,mission_industry_descriptionindustry,3881,"Recent industrial projects of a scale never seen before have dramatically driven up the demand for R*X, which can only be found in certain asteroid belts.",
+NEW,mission_industry_descriptionsurvival,3881,"The imminent void collapse has left us little time to stock up on essential ressources like R*X, which can only be found in certain asteroid belts.",
+NEW,mission_industry_amountrequired,3881,Travel to the asteroid belt and extract *X stacks of R*Y.,
+NEW,mission_industry_descriptiondropoff,3881,Then drop the R*X off back at this trading post.,
+NEW,mission_industry_gathered2,3881,You have *X R*Y ore on this ship (We need *Z),
+NEW,mission_industry_return2,3881,Return to S*X to deliver the R*Y.,
+NEW,mission_industry_received2,3881,We have received *X R*Y out of a total of *Z.,
+NEW,mission_industry_lost2,3881,There is no more R*X on board your ship.,
+NEW,storagecrate_fill,3881,FILL CRATE,
+NEW,storagetank_fill,3881,FILL TANK,
+NEW,factions_price_reduction,3881,Price is lower than usual due to high availability in this colony,
+NEW,factions_mining_name,3881,Mining Corp,
+NEW,settings_parallelupdate,3944,Enable Parallel Simulation,
+NEW,settings_parallelupdate_tooltip,3944,Allows the game to use multithreading while simulating ships and objects. Should improve performance in most situations. Shouldn't affect behaviour.,
+NEW,hud_producingperday,3944,Produced *X in the last day,
+NEW,survey_survey,3944,SURVEY,
+NEW,mission_sectorschematics_approximate,3944,APPROXIMATE LOCATION\nSURVEY REQUIRED,
+NEW,mission_sectorschematics_usesectorsurvey,3944,FIND USING SECTOR SURVEY,
+NEW,mission_sectorschematics_searched,3944,*X% COMPLETE,
+UPDATED,mission_sectorschematics_securearea,3944,LOCATE SCHEMATIC,
+PREVIOUS,mission_sectorschematics_securearea,3881,SECURE AREA,
+UPDATED,mission_sectorschematics_objective_securearea,3944,Search the derelict science ship in S*X,
+PREVIOUS,mission_sectorschematics_objective_securearea,3881,Secure the derelict science ship in S*X,
+UPDATED,trade_schematic_warning,3784,Blueprints unlock the schematic for a piece of equipment.\n\nNo equipment will be delivered.\n\nAssembly tables and fabricators are required to produce the equipment.,
+PREVIOUS,trade_schematic_warning,3708,This is a blueprint. Purchasing this will unlock the schematic but will not deliver any equipment.\n\nAssembly tables and fabricators are required to produce the equipment.,
 UPDATED,order_tooltip_gather,3708,Allow drones to gather,
 PREVIOUS,order_tooltip_gather,3563,"Allow drones to gather raw and refined materials (ores, minerals, ingots)",
 UPDATED,shipeditor_equipment_autoproduce_tooltip,3708,"Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to ""IDLE"" will be used. They will be set back to ""IDLE"" when production has finished.",
@@ -240,6 +382,30 @@ UPDATED,techtree_node_caption_logistics1,3708,Unlocks schematics for small logis
 PREVIOUS,techtree_node_caption_logistics1,2448,Unlocks schematics for small logistics storage,Открывает чертежи для малого логистического хранилища
 UPDATED,order_gather,3708,Gather,
 PREVIOUS,order_gather,2448,Gather Materials,Собр Материалов
+UPDATED,hud_ftl_jump_tooltip,3784,[RMB] Jump ({FTLJump}),
+PREVIOUS,hud_ftl_jump_tooltip,2448,[RMB] Jump,[ПКМ] Прыжок
+UPDATED,hud_battlestations,3784,BATTLE STATIONS ({ToggleBattleStations}),
+PREVIOUS,hud_battlestations,2448,BATTLE STATIONS,БОЕВОЙ РЕЖИМ
+UPDATED,hud_drones_deployed,3784,Drones deployed: *X,
+PREVIOUS,hud_drones_deployed,2448,WARNING - DRONES DEPLOYED: *X,ВНИМАНИЕ - ДРОНЫ В КОСМОСЕ: *X
+UPDATED,tutorial_surveystartlocalsurvey,3944,All ships with supercomputers contribute towards the local survey.\n\nClick on the point of interest to begin the local survey.,
+PREVIOUS,tutorial_surveystartlocalsurvey,3881,Multiple ships can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,
+PREVIOUS,tutorial_surveystartlocalsurvey,3239,Areas of interest will expire after some time if they are not surveyed. Multiple ships can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,"Зоны интереса исчезнут через некоторое время, если их не обследовать. Несколько кораблей могут совместно проводить исследование в одной зоне.\n\nНажмите на зону интереса, чтобы начать локальное исследование."
+PREVIOUS,tutorial_surveystartlocalsurvey,3054,Areas of interest will expire after some time if they are not surveyed. Multiple layers can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,"Зоны интереса истекут через некоторое время, если они не исследованы. Несколько кораблей могут участвовать в локальном исследовании.\n\nНажмите на точку интереса, чтобы начать локальное исследование."
+UPDATED,factory_stockpileoutput_tooltip,3881,"STOCKPILE\n\nWhen ticked, produced items will unload to all suitable storage areas (including ANY CARGO storage areas). An alert will be raised if there is no suitable storage space is available.\n\nWhen unticked, the produced item will remain until it is required somewhere, or until there is specific cargo space available. This can be useful to avoid over-production when the equipment is part of an assembly-line.",
+PREVIOUS,factory_stockpileoutput_tooltip,2448,"STOCKPILE\n\nWhen ticked, the produced items will be immediately unloaded into any cargo storage area, stockpiling the item.\n\nIf unticked, the produced item will remain until it is used somewhere, or until there is specific cargo space available.","НАКАПЛИВАТЬ\n\nКогда отмечено, произведенные предметы будут немедленно выгружены в любую область хранения груза, накапливая предмет.\n\nЕсли не отмечено, произведенный предмет останется до тех пор, пока не будет где-то использован, или пока не будет доступно конкретное грузовое пространство."
+UPDATED,hud_consumingperhour,3944,Consumed *X in the last day,
+PREVIOUS,hud_consumingperhour,3239,Consuming *X per day,Потребление *X в день
+PREVIOUS,hud_consumingperhour,3149,Consuming *X per hour,Потребление *X в час
+UPDATED,tutorial_surveystartsectorsurvey,3944,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe sector scan will start automatically upon entering a new system.,
+PREVIOUS,tutorial_surveystartsectorsurvey,3239,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one ship in a system can do a sector scan.\n\nClick the button to begin a sector scan.,"Сканирование сектора ищет зоны интереса в секторе вокруг системы, в которой находится ваш корабль.\n\nСканирование остановится после завершения. Только один корабль в системе может проводить сканирование.\n\nНажмите на кнопку, чтобы начать сканирование сектора."
+PREVIOUS,tutorial_surveystartsectorsurvey,3054,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one layer in a system can do a sector scan.\n\nClick the button to begin a sector scan.,"Сканирование сектора ищет зоны интереса в секторе вокруг системы, в которой находится ваш корабль.\n\nСканирование остановится после завершения. Только один корабль в системе может выполнять сканирование сектора.\n\nНажмите на кнопку, чтобы начать сканирование сектора."
+UPDATED,hud_surveyinprogress,3944,WARNING - SECTOR SCAN WILL STOP,
+PREVIOUS,hud_surveyinprogress,3054,WARNING - SURVEY WILL BE CANCELLED,ВНИМАНИЕ - ИССЛЕДОВАНИЕ БУДЕТ ОТМЕНЕНО
+UPDATED,tutorial_surveyhighlightsectorsurveysystem,3944,Hovering the mouse over the current system will reveal the area that is being scanned.\n\nOpen the <b>SECTOR MAP</b> and click <b>NEXT</b> to speed-up the survey.,
+PREVIOUS,tutorial_surveyhighlightsectorsurveysystem,3054,Hovering the mouse over the current system will reveal the radius around the system that is being scanned and the scan's progress toward finding new points of interest.\n\nOpen the <b>SECTOR MAP</b> and click <b>NEXT</b> to speed-up the survey.,"Наведя курсор на текущую систему, вы увидите радиус вокруг сканируемой системы и прогресс сканирования в поиске новых точек интереса.\n\nОткройте <b>КАРТУ СЕКТОРА</b> и нажмите <b>ДАЛЕЕ</b>, чтобы ускорить исследование."
+UPDATED,tutorial_surveylocalsurveyintro,3944,The next step is to perform a <b>LOCAL SURVEY</b>.\n\nLocal surveys allow points of interest to be accessed via FTL.\n\nShips need to have super computers installed to participate in a local survey.,
+PREVIOUS,tutorial_surveylocalsurveyintro,3054,The next step is to perform a <b>LOCAL SURVEY</b>.\n\nLocal surveys allow points of interest to be accessed via FTL.\n\nShips need to have super computers installed and must be in the same sector to participate in a local survey.,Следующий шаг - выполнить <b>ЛОКАЛЬНОЕ ИССЛЕДОВАНИЕ</b>.\n\nЛокальные исследования позволяют получить доступ к точкам интереса через Гипердвигатель.\n\nКорабли должны иметь установленные суперкомпьютеры и должны находиться в одном секторе для участия в локальном исследовании.
 CURRENT,equipment_on,3629,ON,ВКЛ
 CURRENT,equipment_off,3629,OFF,ВЫКЛ
 CURRENT,logistics_log_transfertonosupply,3492,Transferred *X R*Y to L*Z out of the *P desired - insufficient cargo,Перенес *X R*Y на L*Z из *P в желаемое - недостаточный груз
@@ -525,13 +691,10 @@ CURRENT,thefinalstand_battleoutro_harken2,3239,"The Andromeda Navy in this secto
 CURRENT,thefinalstand_battleoutro_harken4,3239,The current leadership of the Andromeda Project will be dismantled and the new galaxy will be freed from their control.,"Нынешнее руководство Проекта Андромеда будет ликвидировано, а новая галактика освобождена от их контроля."
 CURRENT,thefinalstand_battleoutro_harken5,3239,"You've proven that you can be trusted with control of the Stargate, so I'll leave it in your hands.","Вы доказали, что вам можно доверить контроль над Звездными вратами, поэтому я оставляю их в ваших руках."
 CURRENT,thefinalstand_battleoutro_harken6,3239,"Goodbye Captain, and good luck with your new place in the galaxy.","Прощайте, Капитан, и удачи вам на новом месте в галактике."
-CURRENT,hud_consumingperhour,3239,Consuming *X per day,Потребление *X в день
 CURRENT,survey_captionmultiple,3239,*X ships surveying,*X обследование кораблей
 CURRENT,tutorial_radiationinstallinfuser,3239,Laser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area and power it.,Лазерные инфузоры используются для зарядки пустых кристаллов газом зелеона и при питании будут излучать радиацию вокруг себя.\n\nУстановите лазерный инфузор в свободной области и включите его.
 CURRENT,tutorial_radiationsetupinfuser,3239,Let's set the laser infuser to use them to produce charged crystals.,"Давайте настроим лазерный инфузор, чтобы использовать его для получения заряженных кристаллов."
 CURRENT,tutorial_radiationwaitforinputs,3239,The laser infuser is set to start making charged crystals! Laser infusers use Zeleon Energy Cells to charge the crystals.\n\nLet's wait for it to begin charging crystals.,"Лазерный инфузор готов к изготовлению заряженных кристаллов! Лазерные инфузоры используют Энергетические Ячейки Зелеона для зарядки кристаллов.\n\nДавайте подождем, пока он начнет заряжать кристаллы."
-CURRENT,tutorial_surveystartsectorsurvey,3239,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one ship in a system can do a sector scan.\n\nClick the button to begin a sector scan.,"Сканирование сектора ищет зоны интереса в секторе вокруг системы, в которой находится ваш корабль.\n\nСканирование остановится после завершения. Только один корабль в системе может проводить сканирование.\n\nНажмите на кнопку, чтобы начать сканирование сектора."
-CURRENT,tutorial_surveystartlocalsurvey,3239,Areas of interest will expire after some time if they are not surveyed. Multiple ships can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,"Зоны интереса исчезнут через некоторое время, если их не обследовать. Несколько кораблей могут совместно проводить исследование в одной зоне.\n\nНажмите на зону интереса, чтобы начать локальное исследование."
 CURRENT,bravenewsector_part2_x4,3239,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. As a safeguard against the Andromeda Project, I have installed a back-door that allows you to take control of the Stargate and any devices commanding it.","Пожалуйста, не дайте этому случиться, Капитан. Большинство проектов в моей жизни было создано исключительно ради прибыли, я не могу позволить, чтобы этот стал одним из них. В качестве защиты от Проекта Андромеда я установил черный ход, который позволит вам взять под контроль Звездные Врата и любые связанные устройства."
 CURRENT,bravenewsector_part2_x5,3239,Please use it if they restrict the use of the Stargate for their own gain.,"Пожалуйста, используйте его, если они ограничат использование Звездных Врат в своих корыстных целях."
 CURRENT,stargate_power_fraction,3239,*X / *Y MW,*X / *Y МВт
@@ -600,7 +763,6 @@ CURRENT,newmainmenu_defensiveenemiestooltip,3054,Hostile ships will only target 
 CURRENT,newmainmenu_multisystemsim,3054,Multi-System Simulation,Мультисистемная Симуляция
 CURRENT,newmainmenu_multisystemsimtooltip,3054,"Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously.","Включает мультисистемную симуляцию, позволяя разделить ваш флот между несколькими системами/секторами одновременно."
 CURRENT,hud_shipmaximumoccupancy,3054,Ship Maximum Occupancy: *X/*Y,Максимальная Вместимость Корабля: *X/*Y
-CURRENT,hud_surveyinprogress,3054,WARNING - SURVEY WILL BE CANCELLED,ВНИМАНИЕ - ИССЛЕДОВАНИЕ БУДЕТ ОТМЕНЕНО
 CURRENT,shipeditor_tooltip_painthull,3054,Toggle painting the exterior panels of the hull of your ship,Переключить окраску внешних панелей корпуса вашего корабля
 CURRENT,shipeditor_tooltip_painthabitation,3054,Toggle painting the exterior panels of the habitation quarters of your ship,Переключить окраску внешних панелей жилых помещений вашего корабля
 CURRENT,shipeditor_tooltip_paintscaffold,3054,Toggle painting the scaffolding on your ship,Переключить окраску каркасов на вашем корабле
@@ -693,8 +855,6 @@ CURRENT,tutorial_radiationsuccess,3054,"Well done, you have now learnt how radia
 CURRENT,tutorial_survey_title,3054,SECTOR SURVEYING,СКАНИРОВАНИЕ СЕКТОРА
 CURRENT,tutorial_surveyintro,3054,"We are going to learn how to survey the area around your ship.\n\nThe first step is to scan the local area of the sector surrounding you ship using a <b>SECTOR SCAN</b>.\n\nIn Boldly Go, only the new sector can be surveyed.\n\nHyperspace sensors are required to do this.","Мы собираемся узнать, как исследовать область вокруг вашего корабля.\n\nПервый шаг - просканировать локальную область сектора, окружающего ваш корабль, используя <b>СКАНИРОВАНИЕ СЕКТОРА</b>.\n\nВ Boldly Go может быть просканирован только новый сектор.\n\nДля этого требуются гиперпространственные сенсоры."
 CURRENT,tutorial_surveyinstallsensors,3054,"Install Hyperspace Sensors or Hyperspace Sensor LRs onto one of your ships.\n\nThis tutorial will resume afterwards.\n\nIf you are playing the Boldly Go game mode, your ship must also be in the new sector.","Установите Гиперпространственные Сенсоры или Гиперпространственные Сенсоры LR на один из ваших кораблей.\n\nЭто обучение возобновится после этого.\n\nЕсли вы играете в режиме Boldly Go, ваш корабль также должен находиться в новом секторе."
-CURRENT,tutorial_surveyhighlightsectorsurveysystem,3054,Hovering the mouse over the current system will reveal the radius around the system that is being scanned and the scan's progress toward finding new points of interest.\n\nOpen the <b>SECTOR MAP</b> and click <b>NEXT</b> to speed-up the survey.,"Наведя курсор на текущую систему, вы увидите радиус вокруг сканируемой системы и прогресс сканирования в поиске новых точек интереса.\n\nОткройте <b>КАРТУ СЕКТОРА</b> и нажмите <b>ДАЛЕЕ</b>, чтобы ускорить исследование."
-CURRENT,tutorial_surveylocalsurveyintro,3054,The next step is to perform a <b>LOCAL SURVEY</b>.\n\nLocal surveys allow points of interest to be accessed via FTL.\n\nShips need to have super computers installed and must be in the same sector to participate in a local survey.,Следующий шаг - выполнить <b>ЛОКАЛЬНОЕ ИССЛЕДОВАНИЕ</b>.\n\nЛокальные исследования позволяют получить доступ к точкам интереса через Гипердвигатель.\n\nКорабли должны иметь установленные суперкомпьютеры и должны находиться в одном секторе для участия в локальном исследовании.
 CURRENT,tutorial_surveyinstallcomputers,3054,Install a super-computer on one of your ships.\n\nThis tutorial will resume afterwards.,Установите суперкомпьютер на один из ваших кораблей.\n\nЭто обучение возобновится после этого.
 CURRENT,tutorial_surveyoutro,3054,Click <b>NEXT</b> to speed-up the survey.,"Нажмите <b>ДАЛЕЕ</b>, чтобы ускорить исследование."
 CURRENT,tutorial_surveysuccess,3054,"A new system on the sector map has appeared for your fleet to explore!\n\nWell done, you have now learnt how to use sector surveying to find and explore new systems.\n\nKeep an eye out for special loot on surveyed derelict ships that can be researched by your science stations.","На карте сектора появилась новая система для исследования вашим флотом!\n\nОтлично, теперь вы научились использовать сканирование сектора для поиска и исследования новых систем.\n\nСледите за особыми предметами на исследованных заброшенных кораблях, которые могут быть исследованы вашими научными станциями."
@@ -1014,7 +1174,6 @@ CURRENT,keybinding_manoeuvredown,2793,Thrust Down,Тяга Вниз
 CURRENT,keybinding_manoeuvreclockwise,2793,Thrust Clockwise,Вращение По Часовой
 CURRENT,keybinding_manoeuvrecounterclockwise,2793,Thrust C-Clockwise,Вращение Против Часовой
 CURRENT,keybinding_toggletactical,2793,Toggle Tactical,Тактический Режим
-CURRENT,keybinding_togglemap,2793,Toggle Map,Карта Сектора
 CURRENT,keybinding_increasethrust,2793,Engines +,Увеличить Тягу
 CURRENT,keybinding_decreasethrust,2793,Engines -,Уменьшить Тягу
 CURRENT,keybinding_hudscaleup,2793,Increase HUD Scale,Увеличение Масштаба
@@ -1657,7 +1816,6 @@ CURRENT,hud_window_techtree,2448,RESEARCH,ИССЛЕДОВАНИЯ
 CURRENT,hud_window_orders,2448,ORDERS,ПРИКАЗЫ
 CURRENT,hud_window_storage,2448,STORAGE ZONES,ЗОНЫ ХРАНЕНИЯ
 CURRENT,hud_open_tooltip,2448,[LMB] Open Window,[ЛКМ] Открыть Окно
-CURRENT,hud_ftl_jump_tooltip,2448,[RMB] Jump,[ПКМ] Прыжок
 CURRENT,hud_techtree_tooltip,2448,Researching:,Исследуется:
 CURRENT,hud_scoresystem_population,2448,Population,Население
 CURRENT,hud_scoresystem_sectorjump,2448,Sector Jump,Прыжок Через Сектор
@@ -1674,7 +1832,6 @@ CURRENT,hud_overlay_structure,2448,Structure,Структура
 CURRENT,hud_overlay_schematic,2448,Schematic,Схема
 CURRENT,hud_overlay_tactical,2448,Tactical,Тактика
 CURRENT,hud_overlay_creativemode,2448,- Creative Mode -,- Творческий Режим -
-CURRENT,hud_battlestations,2448,BATTLE STATIONS,БОЕВОЙ РЕЖИМ
 CURRENT,hud_orders,2448,ORDERS,ПРИКАЗЫ
 CURRENT,hud_install,2448,Install,Установить
 CURRENT,hud_uninstall,2448,Dismantle,Демонтировать
@@ -1694,14 +1851,12 @@ CURRENT,hud_shipyard_buildscaffold,2448,Build Scaffold,Построить Кар
 CURRENT,hud_shipyard_buildhabitation,2448,Add Habitation Deck,Добавить Жилой Отсек
 CURRENT,hud_shipyard_buildrepairone,2448,Repair 100 Damage,Починить 100 Повреждений
 CURRENT,hud_shipyard_buildrepairall,2448,Repair ALL Damage,Починить ВСЕ Повреждения
-CURRENT,hud_shipyard_repairship,2448,Repair Ship,Отремонтировать Корабль
 CURRENT,hud_shipyard_costofrepairs,2448,Cost of repairs,Стоимость ремонта
 CURRENT,hud_shipyard_buildbuyfromlibrary,2448,Buy ship,Купить корабль
 CURRENT,hud_shipyard_selectship,2448,Select a ship,Выберите корабль
 CURRENT,hud_shipforsale,2448,SHIP FOR SALE,КОРАБЛЬ ПРОДАЕТСЯ
 CURRENT,hud_buyship,2448,BUY,КУПИТЬ
 CURRENT,hud_sellship,2448,SELL YOUR SHIP,ПРОДАТЬ КОРАБЛЬ
-CURRENT,hud_repairship,2448,REPAIR,РЕМОНТ
 CURRENT,hud_shipyardservices,2448,SHIPYARD SERVICES,УСЛУГИ ВЕРФИ
 CURRENT,hud_fabricateship,2448,FABRICATE A SHIP,ПОСТРОИТЬ КОРАБЛЬ
 CURRENT,hud_tooltip_leftclickplace,2448,[LMB] Place,[ЛКМ] Разместить
@@ -1735,7 +1890,6 @@ CURRENT,hud_layer_unnaned_system,2448,UNNAMED,БЕЗЫМЯННЫЙ
 CURRENT,hud_trade_incoming,2448,WARNING - TRADE INCOMING,ВНИМАНИЕ - ИДЕТ ТОРГОВЛЯ
 CURRENT,hud_trade_owed,2448,WARNING - TRADE OWED,ВНИМАНИЕ - ТОРГОВЫЙ ДОЛГ
 CURRENT,hud_trade_hint,2448,You must travel to a Colony or Shipyard to trade,Вы должны прибыть в Колонию или на Верфь для торговли
-CURRENT,hud_drones_deployed,2448,WARNING - DRONES DEPLOYED: *X,ВНИМАНИЕ - ДРОНЫ В КОСМОСЕ: *X
 CURRENT,hud_spacewalking_crew,2448,WARNING - CREW IN SPACE: *X,ВНИМАНИЕ - ЭКИПАЖ В КОСМОСЕ: *X
 CURRENT,hud_last_ftl_charge,2448,WARNING - LAST FTL CHARGE\nCANNOT BUY AT DESTINATION,ВНИМАНИЕ - ПОСЛЕДНЕЕ ГИПЕРТОПЛИВО\nНЕВОЗМОЖНО КУПИТЬ В ПУНКТЕ НАЗНАЧЕНИЯ
 CURRENT,hud_invalidplacement,2448,INVALID PLACEMENT,НЕВЕРНОЕ РАЗМЕЩЕНИЕ
@@ -1775,7 +1929,6 @@ CURRENT,equipment_storagecrate_refill_disable,2448,PRIORITISE CRATE,ПРИОРИ
 CURRENT,equipment_storagecrate_permitcrewload,2448,CREW LOADING,ЗАГРУЗКА ЭКИПАЖЕМ
 CURRENT,equipment_storagecrate_permitcrewunload,2448,CREW UNLOADING,РАЗГРУЗКА ЭКИПАЖЕМ
 CURRENT,factory_stockpileoutput,2448,STOCKPILE,НАКАПЛИВАТЬ
-CURRENT,factory_stockpileoutput_tooltip,2448,"STOCKPILE\n\nWhen ticked, the produced items will be immediately unloaded into any cargo storage area, stockpiling the item.\n\nIf unticked, the produced item will remain until it is used somewhere, or until there is specific cargo space available.","НАКАПЛИВАТЬ\n\nКогда отмечено, произведенные предметы будут немедленно выгружены в любую область хранения груза, накапливая предмет.\n\nЕсли не отмечено, произведенный предмет останется до тех пор, пока не будет где-то использован, или пока не будет доступно конкретное грузовое пространство."
 CURRENT,shipeditor_commit,2448,CONFIRM,ПОДТВЕРДИТЬ
 CURRENT,shipeditor_shipyardrequired1,2448,You must visit a Shipyard,Вы должны посетить Верфь
 CURRENT,shipeditor_shipyardrequired2,2448,to apply your modifications,чтобы применить ваши изменения
@@ -3363,13 +3516,10 @@ OBSOLETE,thefinalstand_boss_harken2,3239,"The previous ships were private securi
 OBSOLETE,bravenewsector_part4_rep9,3239,Hello Captain. The newly completed Stargate has put the Andromeda Project in a powerful position to control the flow of resources and people between this galaxy the Andromeda.,"Здравствуйте, капитан. Недавно построенные Звездные врата поставили Проект Андромеда в мощное положение, позволяющее контролировать поток ресурсов и людей между этой галактикой и Андромедой."
 OBSOLETE,thefinalstand_battleprep_1,3239,"Hello Captain, it's good to see you. This is all of the ships I control in this sector, the rest are on the other side of the Stargate, unable to reach us.","Здравствуйте, капитан, рад вас видеть. Это все корабли, которые я контролирую в этом секторе, остальные находятся по ту сторону Звездных врат и не могут с нами связаться."
 OBSOLETE,thefinalstand_battle_rep1,3239,Commander Harken! I see that my first fleet failed to deal you. I suppose if I want something done properly I should do it myself.,"Командир Харкен! Я вижу, что мой первый флот не справился с тобой. Полагаю, если я хочу, чтобы что-то было сделано как следует, я должен сделать это сам."
-OBSOLETE,hud_consumingperhour,3149,Consuming *X per hour,Потребление *X в час
 OBSOLETE,survey_captionmultiple,3054,*X layers surveying,*X слоев исследуют
 OBSOLETE,tutorial_radiationinstallinfuser,3054,A laser infuser has been delivered to your ship.\n\nLaser infusers are used to charge empty crystals with zeleon gas and will emit radiation to the surrounding area while powered.\n\nInstall the laser infuser in a clear area.,Лазерный инфузор был доставлен на ваш корабль.\n\nЛазерные инфузоры используются для зарядки пустых кристаллов газом зелеона и будут излучать радиацию в окружающую область при работе.\n\nУстановите лазерный инфузор в свободной области.
 OBSOLETE,tutorial_radiationsetupinfuser,3054,An empty crystal and some zeleon energy cells have been delivered to your ship too.\n\nLet's set the laser infuser to use them to produce charged crystals.,Пустой кристалл и несколько энергетических ячеек зелеона также были доставлены на ваш корабль.\n\nДавайте настроим лазерный инфузор на использование их для производства заряженных кристаллов.
 OBSOLETE,tutorial_radiationwaitforinputs,3054,The laser infuser is set to start making charged crystals!\n\nLet's wait for it to begin charging crystals.\n\nDon't forget to power the Laser Infuser.,"Лазерный инфузор настроен на начало производства заряженных кристаллов!\n\nДавайте подождем, пока он начнет заряжать кристаллы.\n\nНе забудьте запитать Лазерный Инфузор."
-OBSOLETE,tutorial_surveystartsectorsurvey,3054,Sector scans search for areas of interest in the sector around the system your ship is located in.\n\nThe scan will stop after it has completed. Only one layer in a system can do a sector scan.\n\nClick the button to begin a sector scan.,"Сканирование сектора ищет зоны интереса в секторе вокруг системы, в которой находится ваш корабль.\n\nСканирование остановится после завершения. Только один корабль в системе может выполнять сканирование сектора.\n\nНажмите на кнопку, чтобы начать сканирование сектора."
-OBSOLETE,tutorial_surveystartlocalsurvey,3054,Areas of interest will expire after some time if they are not surveyed. Multiple layers can contribute towards a local survey.\n\nClick on the point of interest to begin the local survey.,"Зоны интереса истекут через некоторое время, если они не исследованы. Несколько кораблей могут участвовать в локальном исследовании.\n\nНажмите на точку интереса, чтобы начать локальное исследование."
 OBSOLETE,bravenewsector_part2_x4,3054,"Please don't let that happen Captain. So much of my life and so many of my projects have been done purely for profit, I can't let this become one of them. The Stargate is too important and valuable for our species to be under their control.","Пожалуйста, не позволяйте этому случиться, Капитан. Так много в моей жизни и так много моих проектов было сделано исключительно ради прибыли, я не могу позволить этому стать одним из них. Звездные Врата слишком важны и ценны для нашего вида, чтобы быть под их контролем."
 OBSOLETE,bravenewsector_part2_x5,3054,I have installed a back-door that will cause the Stargate to self-destruct if you command it to. You must trigger it if the rumours are true.,"Я установил бэкдор, который заставит Звездные Врата самоуничтожиться, если вы прикажете. Вы должны активировать его, если слухи окажутся правдой."
 OBSOLETE,stargate_power_fraction,2624,SUPPLIED:\n*X MW / *Y MW,ПОДАНО:\n*X МВт / *Y МВт

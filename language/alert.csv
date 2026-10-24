@@ -39,8 +39,17 @@ alert_type_lowoxygen | LOW OXYGEN | МАЛО КИСЛОРОДА
 alert_type_lowresource_caption | *X | *X
 alert_type_lowwater | LOW WATER | МАЛО ВОДЫ
 alert_type_meteorshower | METEOR SHOWER | МЕТЕОРИТНЫЙ ДОЖДЬ
+alert_type_nodockingport | NO DOCKING PORT | 
+alert_type_nodockingport_caption_inc | For incoming cargo | 
+alert_type_nodockingport_caption_out | For outgoing cargo | 
+alert_type_nodockingport_caption_people | For people | 
 alert_type_none | NO ALERT | НЕТ ОПОВЕЩЕНИЙ
+alert_type_noreturndronebay | DRONES STUCK | 
+alert_type_noreturndronebay_caption1 | No drone bay to return to. | 
+alert_type_noreturndronebay_caption2 | No drone bay permits return. | 
 alert_type_nostorage | NO STORAGE | НЕТ МЕСТА ДЛЯ ХРАНЕНИЯ
+alert_type_novalidfactory | NO VALID FACTORY | 
+alert_type_novalidfactory_tooltip | Your ship is trying to produce something, but there are no valid factories.\n\nThis could be due to missing pipe inputs or because a particular factory is missing (e.g. a fabricator).\n\nCheck the recipe using the recipe window and check what equipment is needed or if there are any pipe inputs. | 
 alert_type_oxygen | Oxygen must be at 50% to be breathable. | Кислорода должно быть не менее 50%, чтобы воздух был пригоден для дыхания.
 alert_type_powercut | POWER CUT | ОТКЛЮЧЕНИЕ ПИТАНИЯ
 alert_type_powercut_nofuel | Fuel supply interrupted | Подача топлива прервана

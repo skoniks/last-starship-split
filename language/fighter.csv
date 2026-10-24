@@ -1,0 +1,14 @@
+fighter_ammo | BULLETS: *X | 
+fighter_ammo_text | BULLETS | 
+fighter_create | CREATE FIGHTER | 
+fighter_fuel | FUEL: *X% | 
+fighter_fuel_text | FUEL | 
+fighter_health_text | HULL | 
+fighter_lowfuel | LOW FUEL | 
+fighter_noammo | NO AMMO | 
+fighter_quantity | *X / *Y | 
+fighter_refuelling_text | REFUELLING... | 
+fighter_state_attackingfighter | ATTACKING ENEMY FIGHTER | 
+fighter_state_attackinglayer | ATTACKING *X | 
+fighter_state_idleinfreespace | SEARCHING FOR BAY | 
+fighter_state_returningtobay | RETURNING TO BAY | 

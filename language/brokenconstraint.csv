@@ -1,0 +1,9 @@
+brokenconstraint_exterior | NOT ENOUGH EXTERIOR SPACE | 
+brokenconstraint_habitationontop | NO HABITATION ABOVE | 
+brokenconstraint_interior | NOT ENOUGH INTERIOR SPACE | 
+brokenconstraint_none | INVALID PLACEMENT | 
+brokenconstraint_nowall | OBSTRUCTED BY A WALL | 
+brokenconstraint_unobstructed | AREA NOT CLEAR | 
+brokenconstraint_unobstructedontop | TOP OF SHIP NOT CLEAR | 
+brokenconstraint_wall | REQUIRES WALL | 
+brokenconstraint_wallscaffold | REQUIRES WALL OR SCAFFOLDING | 

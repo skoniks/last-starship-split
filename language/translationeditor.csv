@@ -1,16 +1,41 @@
+translationeditor_copytoclipboard | Copy | 
+translationeditor_empty | No Manually Approved Translation Yet | 
+translationeditor_empty_original_tooltip1 | Unformatted Approved translation | 
+translationeditor_empty_original_tooltip2 | Formatted Approved translation | 
+translationeditor_empty_original_tooltip3 | As there is no currently approved translation, the game is using the suggested translation above.\n\nIf you think the suggested translation is good, you should copy it into your changes with the "Use This Translation" button.\n\nAfter you submit your changes to us, your translation will then appear as approved in the next game update. | 
+translationeditor_english | English | 
 translationeditor_english_tooltip1 | Unformatted English phrase | Неформатированная английская фраза
 translationeditor_english_tooltip2 | Formatted English phrase | Форматированная английская фраза
 translationeditor_english_tooltip3 | This is what you are translating. | Это то, что вы переводите.
 translationeditor_english_tooltip4 | You cannot change the English phrases. | Вы не можете изменить английские фразы.
+translationeditor_fallback | Suggestion | 
+translationeditor_fallback_tooltip1 | Suggested Translation | 
+translationeditor_fallback_tooltip2 | Formatted Suggested Translation | 
+translationeditor_fallback_tooltip3 | This suggestion needs to be checked that it correctly matches the context of the game.\n\nIt will only be used if there is no "approved" translation. | 
 translationeditor_folder | Open Folder | Открыть Папку
 translationeditor_folder_tooltip | Opens the folder in which your modified translations are saved.\n\n"language.csv" is the file containing your modified translations. | Открывает папку, в которой сохранены ваши измененные переводы.\n\n"language.csv" - это файл, содержащий ваши измененные переводы.
-translationeditor_modified | Modified Phrases | Измененные Фразы
-translationeditor_new_tooltip1 | Unformatted new translation | Неформатированный новый перевод
-translationeditor_new_tooltip2 | Formatted new translation | Форматированный новый перевод
+translationeditor_nenglish | New English | 
+translationeditor_new | New | 
+translationeditor_new_tooltip1 | Unformatted New Translation | 
+translationeditor_new_tooltip2 | Formatted New Translation | 
 translationeditor_new_tooltip3 | This is where you can change the translation.\n\nThis will affect your game only, unless you submit your updated translations to Introversion. | Здесь вы можете изменить перевод.\n\nЭто повлияет только на вашу игру, если вы не отправите обновленные переводы в Introversion.
-translationeditor_original_tooltip1 | Unformatted original translation | Неформатированный оригинальный перевод
-translationeditor_original_tooltip2 | Formatted original translation | Форматированный оригинальный перевод
-translationeditor_original_tooltip3 | This is what is currently used in the game. | Это то, что в настоящее время используется в игре.
+translationeditor_none | None | 
+translationeditor_original | Approved | 
+translationeditor_original_tooltip1 | Unformatted Approved Translation | 
+translationeditor_original_tooltip2 | Formatted Approved Translation | 
+translationeditor_original_tooltip3 | This is what is currently used in the game. Even though the translation is "Approved" you can still submit changes to improve it further. | 
+translationeditor_previous | Previous | 
+translationeditor_previousenglish_tooltip1 | Previous English Phrase | 
+translationeditor_previousenglish_tooltip2 | Formatted Previous English phrase | 
+translationeditor_previousenglish_tooltip3 | The English phrase that was used in the previous version of the game. | 
+translationeditor_previoustranslation_tooltip1 | Previous Translation Phrase | 
+translationeditor_previoustranslation_tooltip2 | Formatted Previous Translation phrase | 
+translationeditor_previoustranslation_tooltip3 | Translation of the English phrase that was used in the previous version of the game. | 
 translationeditor_reset | Revert | Вернуть
 translationeditor_reset_tooltip | Resets your modified translation back to the original translation. | Сбрасывает ваш измененный перевод обратно к оригинальному переводу.
-translationeditor_unmodified | Unmodified Phrases | Неизмененные Фразы
+translationeditor_showpreview | Show Preview | 
+translationeditor_unmodified | Unmodified | 
+translationeditor_updated | Updated | 
+translationeditor_usethistranslation | Use This Translation | 
+translationeditor_yourchanges | Your Changes | 
+translationeditor_youredit | Your Change | 

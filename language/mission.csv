@@ -85,22 +85,30 @@ mission_fortress_success | The fortress assault was successful. | Штурм к�
 mission_fortress_title | Destroy a hostile fortress | Уничтожить вражескую крепость
 mission_illegal | ILLEGAL ACTIVITY | НЕЗАКОННАЯ ДЕЯТЕЛЬНОСТЬ
 mission_industry_accepted1 | We've marked the asteroid belt location on your map. | Мы отметили местоположение пояса астероидов на вашей карте.
+mission_industry_amountrequired | Travel to the asteroid belt and extract *X stacks of R*Y. | 
 mission_industry_description | There is huge demand for FTL fuel cells, to power the evacuation ships. | Существует огромный спрос на элементы Гипертоплива для питания эвакуационных кораблей.
 mission_industry_description2 | We can manufacture FTL Fuel, but we need Tilium ore that can only be found in certain asteroid belts. | Мы можем производить Гипертопливо, но нам нужна Тилиевая Руда, которую можно найти только в определенных поясах астероидов.
 mission_industry_description3 | Luckily there is just such an asteroid belt nearby, within this sector, in system S*X. | К счастью, такой пояс астероидов находится поблизости, в этом секторе, в системе S*X.
 mission_industry_description3b | The nearest asteroid belt is in the next sector. | Ближайший пояс астероидов находится в следующем секторе.
 mission_industry_description4 | Then drop the Ore off at any trading post to collect payment. | Затем сдайте Руду на любом торговом посту для получения оплаты.
+mission_industry_descriptiondropoff | Then drop the R*X off back at this trading post. | 
+mission_industry_descriptionindustry | Recent industrial projects of a scale never seen before have dramatically driven up the demand for R*X, which can only be found in certain asteroid belts. | 
+mission_industry_descriptionsurvival | The imminent void collapse has left us little time to stock up on essential ressources like R*X, which can only be found in certain asteroid belts. | 
 mission_industry_gathered | You have *X Tilium ore on this ship (We need *Y) | У вас есть *X Тилиевой Руды на этом корабле (Нам нужно *Y)
+mission_industry_gathered2 | You have *X R*Y ore on this ship (We need *Z) | 
 mission_industry_hostiles | WARNING: There are hostile forces camped out near the asteroid belt. (+50% pay) | ПРЕДУПРЕЖДЕНИЕ: Вражеские силы расположились лагерем рядом с поясом астероидов. (+50% оплата)
 mission_industry_location | Travel to the asteroid belt | Отправиться к поясу астероидов
 mission_industry_lost | There is no more Tilium on board your ship. | На борту вашего корабля больше нет Тилиевой Руды.
+mission_industry_lost2 | There is no more R*X on board your ship. | 
 mission_industry_meteorshower | WARNING: There are reports of a meteor shower in that system. (+50% pay). | ПРЕДУПРЕЖДЕНИЕ: Есть сообщения о метеоритном дожде в этой системе. (+50% оплата).
 mission_industry_received | We have received *X Tilium out of a total of *Y. Total payment due $*Z. | Мы получили *X Тилиевой Руды из общего количества *Y. Общая причитающаяся оплата $*Z.
+mission_industry_received2 | We have received *X R*Y out of a total of *Z. | 
 mission_industry_refined |  ==> The Tilium must first be refined in a Smelter prior to delivery. <== |  ==> Тилиевую Руду необходимо сначала переработать в Плавильной Печи перед доставкой. <==
 mission_industry_refined_title | Extract and refine critical resources | Добыть и переработать критические ресурсы
 mission_industry_refinedrequired | Then refine the mined ore in a Smelter. | Затем переработать добытую руду в Плавильной Печи.
 mission_industry_requirements | This contract requires a suitable mining vessel, equipped with Mining Lasers and Logistics Drones. | Этот контракт требует подходящего шахтерского корабля, оснащенного Шахтерскими Лазерами и Логистическими Дронами.
 mission_industry_return | Return to a colony or shipyard system to deliver the Tilium. | Вернуться в систему с колонией или верфью для доставки Тилиевой Руды.
+mission_industry_return2 | Return to S*X to deliver the R*Y. | 
 mission_industry_shuttle | We've dispatched a shuttle to collect the Tilium Ore. | Мы отправили челнок для сбора Тилиевой Руды.
 mission_industry_success | Extracted *X/*Y Ore | Добыто *X/*Y Руды
 mission_industry_tiliumrequired | Travel to the asteroid belt and extract *X Tilium ore. | Отправиться к поясу астероидов и добыть *X Тилиевой Руды.
@@ -156,8 +164,10 @@ mission_requires_humanitarianrating | You require a Humanitarian Rating of at le
 mission_requires_industryrating | You require an Industry Rating of at least *X | Вам требуется Промышленный Рейтинг как минимум *X
 mission_requires_logisticsrating | You require a Logistics Rating of at least *X | Вам требуется Логистический Рейтинг как минимум *X
 mission_requires_notindemo | Unavailable to demo players | Недоступно для демо-игроков
+mission_requires_research | Contract requires *X to be researched | 
 mission_requires_stock | Contract requires *X | Контракт требует *X
 mission_requires_stock_count | Contract requires *Y *X | Контракт требует *Y *X
+mission_requires_surveyvessel | Contract requires survey equipment and science stations | 
 mission_rescue_accepted | We've marked the location of the wrecked ship on your map. Please hurry! | Мы отметили местоположение разбитого корабля на вашей карте. Пожалуйста, поторопитесь!
 mission_rescue_allrescued | All crew have been rescued from the ship! Drop them off at the nearest starbase or colony. | Весь экипаж спасен с корабля! Высадите их на ближайшей звездной базе или колонии.
 mission_rescue_description1 | A ship has become stranded with engine troubles, and the crew need an immediate rescue. | Корабль застрял с проблемами двигателя, и экипажу требуется немедленное спасение.
@@ -255,6 +265,28 @@ mission_sectorrescue_thrusters | NB. YOU WILL NEED AT LEAST FOUR THRUSTERS TO MA
 mission_sectorrescue_timed | The ship engines will explode very soon. (+25% pay). | Двигатели корабля скоро взорвутся. (+25% оплата).
 mission_sectorrescue_timer | The ship engine core will explode in just *X seconds!! | Ядро двигателя корабля взорвется всего через *X секунд!!
 mission_sectorrescue_title | SECTOR OBJECTIVE: Rescue civilians from wrecked ship | ЗАДАЧА СЕКТОРА: Спасти гражданских с разбитого корабля
+mission_sectorschematics_allrecovered | All schematics have been recovered. | 
+mission_sectorschematics_approximate | APPROXIMATE LOCATION\nSURVEY REQUIRED | 
+mission_sectorschematics_awardcaption | SCHEMATIC LOCATED IN *X | 
+mission_sectorschematics_caption | Find and recover schematics from the wreckage of destroyed science ships. | 
+mission_sectorschematics_completesurvey | Survey SG*X [*Y%] | 
+mission_sectorschematics_desc1 | Science ships have been raided and destroyed in this sector, leaving behind valuable schematics and equipment. | 
+mission_sectorschematics_desc2 | Survey the areas marked on the map to find their exact position. | 
+mission_sectorschematics_desc3 | Recover all schematics and equipment in the sector to earn a research credit. Hostile forces may be present in some of the systems. | 
+mission_sectorschematics_map | Recover schematics [*X/*Y] | 
+mission_sectorschematics_nosurveying | RESEARCH SURVEYING | 
+mission_sectorschematics_objective_analysecredit | Load schematic from S*X into a science station | 
+mission_sectorschematics_objective_collect | Collect schematic from S*X | 
+mission_sectorschematics_objective_destroyhostiles | Recover credit from hostiles in S*X | 
+mission_sectorschematics_objective_securearea | Search the derelict science ship in S*X | 
+mission_sectorschematics_progress | *X out of *Y recovered | 
+mission_sectorschematics_schematic | SCHEMATIC | 
+mission_sectorschematics_searched | *X% COMPLETE | 
+mission_sectorschematics_securearea | LOCATE SCHEMATIC | 
+mission_sectorschematics_success | SCHEMATIC RECOVERED | 
+mission_sectorschematics_surveyfound | SCHEMATIC LOCATION FOUND | 
+mission_sectorschematics_title | SECTOR OBJECTIVE: RECOVER SCHEMATICS | 
+mission_sectorschematics_usesectorsurvey | FIND USING SECTOR SURVEY | 
 mission_show_completed | SHOW COMPLETED | ПОКАЗАТЬ ЗАВЕРШЕННЫЕ
 mission_showonmap | SHOW ON MAP | ПОКАЗАТЬ НА КАРТЕ
 mission_special | Special Mission | Особая Миссия
@@ -316,5 +348,6 @@ mission_type_sectorevacuate | Evacuate Sector | Эвакуировать Сек�
 mission_type_sectorjumpgate | Jumpgate (Sector) | Прыжковые Врата (Сектор)
 mission_type_sectorprotect | Protect (Sector) | Защитить (Сектор)
 mission_type_sectorrescue | Rescue (Sector) | Спасти (Сектор)
+mission_type_sectorschematics | Recover Schematics | 
 mission_type_tutorialflightready | DESTINATION | МЕСТО НАЗНАЧЕНИЯ
 mission_youarehere | YOU ARE HERE | ВЫ ЗДЕСЬ

@@ -1,4 +1,6 @@
 loader_auto | AUTO | АВТО
+loader_auto_multiple_fluids | AUTO (MULTIPLE FLUIDS) | 
+loader_auto_resource | AUTO (R*X) | 
 loader_mode_load | Load | Загрузить
 loader_mode_stop | Stop | Стоп
 loader_mode_unload | Unload | Выгрузить

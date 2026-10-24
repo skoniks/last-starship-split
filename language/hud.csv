@@ -1,20 +1,24 @@
 hud_abortjump | Abort Jump | Отменить Прыжок
 hud_aligning | Aligning... | Выравнивание...
-hud_battlestations | BATTLE STATIONS | БОЕВОЙ РЕЖИМ
+hud_atmosphere_no_oxygen | NO OXYGEN | 
+hud_battlestations | BATTLE STATIONS ({ToggleBattleStations}) | 
 hud_buyship | BUY | КУПИТЬ
 hud_byauthor | BY *X | ОТ *X
 hud_cabins | Cabins: *X/*Y | Каюты: *X/*Y
 hud_camerattracking | Camera Tracking | Слежение Камеры
 hud_collector_tooltip_gathering | Gathering *X *Y per second | Сбор *X *Y в секунду
 hud_collector_tooltip_totalgathered | TOTAL GATHERED | ВСЕГО СОБРАНО
-hud_consumingperhour | Consuming *X per day | Потребление *X в день
+hud_consumingperhour | Consumed *X in the last day | 
 hud_convertsplittertotrack | [CTRL + RMB] Convert to track | [CTRL + ПКМ] Преобразовать в конвейер
 hud_converttracktosplitter | [CTRL + RMB] Convert to splitter | [CTRL + ПКМ] Преобразовать в разделитель
+hud_cutloose | CUT LOOSE | 
+hud_cutloosewarning | You will not receive any payment | 
 hud_debugbuild | Debug | Отладка
 hud_dehydrationperperson | Dehydration *X per person | Обезвоживание *X на человека
 hud_deselectlayer | DESELECT SHIP | СНЯТЬ ВЫБОР КОРАБЛЯ
 hud_disabled | Disabled | Отключено
-hud_drones_deployed | WARNING - DRONES DEPLOYED: *X | ВНИМАНИЕ - ДРОНЫ В КОСМОСЕ: *X
+hud_drones | Drones on board: *X | 
+hud_drones_deployed | Drones deployed: *X | 
 hud_editor | EDITOR | РЕДАКТОР
 hud_enabled | Enabled | Включено
 hud_endcreativemode | Creative Mode will end | Творческий Режим завершится
@@ -23,7 +27,7 @@ hud_endcreativemodefull | Creative Mode will end when you jump to hyperspace | �
 hud_endcreativemodewarning | LEAVING CREATIVE MODE | ВЫХОД ИЗ ТВОРЧЕСКОГО РЕЖИМА
 hud_fabricateship | FABRICATE A SHIP | ПОСТРОИТЬ КОРАБЛЬ
 hud_ftl | FTL Drive | Гипердвигатель
-hud_ftl_jump_tooltip | [RMB] Jump | [ПКМ] Прыжок
+hud_ftl_jump_tooltip | [RMB] Jump ({FTLJump}) | 
 hud_ftlcharging | Charging... | Зарядка...
 hud_ftlcooldown | Cooldown... | Перезарядка...
 hud_ftlexcluded | Stay | Остаться
@@ -35,16 +39,26 @@ hud_ftlshipcontrolledbylogistics | Ship is controlled by interstellar logistics 
 hud_ftlshipnotviablewarning | Ship needs either hull or scaffolding to be brought into hyperspace | Кораблю нужен корпус или каркас для перехода в гиперпространство
 hud_ftlwaiting | Waiting... | Ожидание...
 hud_gun_aft | Aft *X | *X на Корме
+hud_gun_aft_short | AFT *X | 
 hud_gun_forward | Forward *X | *X на Носу
+hud_gun_forward_short | FWRD *X | 
 hud_gun_gattling | PDC | ПУЛЕМЕТ
 hud_gun_port | Port *X | *X по Левому Борту
+hud_gun_port_short | PORT *X | 
 hud_gun_starboard | Starboard *X | *X по Правому Борту
+hud_gun_starboard_short | STBD *X | 
+hud_habitation_info_cabins | *X / *Y CABINS | 
+hud_habitation_info_sewage | *X SEWAGE | 
+hud_habitation_info_title | HABITATION | 
 hud_hull_integrity | HULL | КОРПУС
 hud_hungerperperson | Hunger *X per person | Голод *X на человека
 hud_hyperspace | HYPERSPACE | ГИПЕРПРОСТРАНСТВО
 hud_idle | Idle | Ожидание
 hud_idlecrew | Idle Crew | Без Работы
 hud_install | Install | Установить
+hud_installqueue_inproduction | QUEUED FOR PRODUCTION | 
+hud_installqueue_missingmaterials | MISSING MATERIALS | 
+hud_installqueue_waitingforbox | NONE AVAILABLE | 
 hud_invalidplacement | INVALID PLACEMENT | НЕВЕРНОЕ РАЗМЕЩЕНИЕ
 hud_invalidplacement_tooltip | This equipment can not function properly when installed in this position. | Это оборудование не может правильно функционировать при установке в этой позиции.
 hud_jump | JUMP | ПРЫЖОК
@@ -93,13 +107,17 @@ hud_power_battery | BATTERY | БАТАРЕЯ
 hud_power_powershortage | POWER SHORTAGE | МАЛО ЭНЕРГИИ
 hud_preparejump | Prepare Jump | Подготовить Прыжок
 hud_preparingjump | Preparing Jump | Подготовка Прыжка
+hud_producingperday | Produced *X in the last day | 
 hud_ready | READY | ГОТОВ
 hud_readytojump | Ready to Jump | Готов к Прыжку
 hud_recipes_chooseequipment | CHOOSE EQUIPMENT | ВЫБРАТЬ ОБОРУДОВАНИЕ
 hud_recipes_chooseinput | CHOOSE INPUT | ВЫБРАТЬ ИСТОЧНИК
 hud_recipes_goback | GO BACK | ВЕРНУТЬСЯ
 hud_removefromtrack | [RMB] Remove from track | [ПКМ] Убрать с конвейера
-hud_repairship | REPAIR | РЕМОНТ
+hud_repairarmour | REPAIR ARMOUR | 
+hud_repairhull | REPAIR HULL | 
+hud_repairingarmour | ARMOUR REPAIRS : *X | 
+hud_repairinghull | HULL REPAIRS : *X | 
 hud_repairyourship | You should repair the damage to your ship at a SHIPYARD. | Вам следует отремонтировать повреждения вашего корабля на ВЕРФИ.
 hud_scoresystem_population | Population | Население
 hud_scoresystem_sectorjump | Sector Jump | Прыжок Через Сектор
@@ -116,7 +134,8 @@ hud_shipyard_buildrepairall | Repair ALL Damage | Починить ВСЕ Пов
 hud_shipyard_buildrepairone | Repair 100 Damage | Починить 100 Повреждений
 hud_shipyard_buildscaffold | Build Scaffold | Построить Каркас
 hud_shipyard_costofrepairs | Cost of repairs | Стоимость ремонта
-hud_shipyard_repairship | Repair Ship | Отремонтировать Корабль
+hud_shipyard_repairarmour | Repair Armour | 
+hud_shipyard_repairhull | Repair Hull | 
 hud_shipyard_selectship | Select a ship | Выберите корабль
 hud_shipyardservices | SHIPYARD SERVICES | УСЛУГИ ВЕРФИ
 hud_spacewalking_crew | WARNING - CREW IN SPACE: *X | ВНИМАНИЕ - ЭКИПАЖ В КОСМОСЕ: *X
@@ -131,15 +150,21 @@ hud_storagecrate_tooltip_dumping | Dumping *X | Выгрузка *X
 hud_storagecrate_tooltip_quantity | Quantity: *X | Количество: *X
 hud_storagecrate_tooltip_remaining | Quantity Remaining: *X | Осталось Количество: *X
 hud_storagecrate_tooltip_storing | Storing *X | Хранение *X
-hud_surveyinprogress | WARNING - SURVEY WILL BE CANCELLED | ВНИМАНИЕ - ИССЛЕДОВАНИЕ БУДЕТ ОТМЕНЕНО
+hud_surveyinprogress | WARNING - SECTOR SCAN WILL STOP | 
 hud_tactical | TACTICAL ({ToggleTactical}) | ТАКТИКА ({ToggleTactical})
 hud_techtree_tooltip | Researching: | Исследуется:
 hud_toandromeda | TO ANDROMEDA GALAXY | В ГАЛАКТИКУ АНДРОМЕДЫ
 hud_tooltip_boxed | [BOXED] | [УПАКОВАНО]
 hud_tooltip_charge | Charge | Зарядить
 hud_tooltip_currentflooring | Current style: *X | Текущий стиль: *X
+hud_tooltip_drone_filterwarning | WARNING: This type is excluded in the ship-wide gather filter. | 
+hud_tooltip_drone_permitlaunch | Allow drones to launch from this drone bay. \n\nIf disabled, will prevent drones from being loaded. | 
+hud_tooltip_drone_permitreturn | Allow drones to return to this drone bay. \n\nIf disabled, will allow drones to drop items off but not dock at this bay. | 
+hud_tooltip_drone_selecttype | The types that can be dropped off. | 
 hud_tooltip_gratedflooring | Grated | Рельефный
 hud_tooltip_joinpipes | [LMB] Join Pipes | [ЛКМ] Соединить Трубы
+hud_tooltip_leftclickboxdismantle | [SHIFT + LMB Drag] Box dismantle | 
+hud_tooltip_leftclickboxplace | [SHIFT + LMB Drag] Box place | 
 hud_tooltip_leftclickbuild | [LMB] Build | [ЛКМ] Построить
 hud_tooltip_leftclickchangerecipe | [LMB] Cycle recipe | [ЛКМ] Сменить рецепт
 hud_tooltip_leftclickdismantle | [LMB] Dismantle | [ЛКМ] Демонтировать
@@ -147,12 +172,20 @@ hud_tooltip_leftclickerase | [LMB] Erase | [ЛКМ] Стереть
 hud_tooltip_leftclickplace | [LMB] Place | [ЛКМ] Разместить
 hud_tooltip_leftclickresearch | [LMB] Research | [ЛКМ] Исследовать
 hud_tooltip_normalflooring | Normal | Нормальный
+hud_tooltip_port_permitincoming | Allow shuttles to drop off cargo at this docking port. | 
+hud_tooltip_port_permitoutgoing | Allow shuttles to collect cargo from this docking port. | 
+hud_tooltip_port_permitpeople | Allow crew and civilians to use this docking port. | 
+hud_tooltip_rightclickboxdelete | [SHIFT + RMB Drag] Box delete | 
 hud_tooltip_rightclickcancel | [RMB] Cancel | [ПКМ] Отменить
 hud_tooltip_rightclickclear | [RMB] Clear | [ПКМ] Очистить
-hud_tooltip_rightclickconfigure | [RMB] Configure | [ПКМ] Настроить
 hud_tooltip_rightclickdelete | [RMB] Delete | [ПКМ] Удалить
 hud_tooltip_rightclickpurge | [RMB] Purge | [ПКМ] Очистить
+hud_tooltip_robotarm_selecttype | The types that can be picked up. | 
 hud_tooltip_rotate | [{RotateObject}] Rotate | [{RotateObject}] Повернуть
+hud_tooltip_selectequipment | [LMB/RMB] Select | 
+hud_tooltip_selectequipmentadd | [SHIFT + LMB/RMB] Toggle select | 
+hud_tooltip_selectequipmentdrag | [LMB Drag] Box select | 
+hud_tooltip_selectequipmentnearby | [LMB x2] Select all nearby | 
 hud_tooltip_separatepipes | [LMB] Separate Pipes | [ЛКМ] Разделить Трубы
 hud_tooltip_switchflooring | [{RotateObject}] Switch flooring style | [{RotateObject}] Переключить стиль напольного покрытия
 hud_totalconsumption | TOTAL CONSUMPTION | ОБЩЕЕ ПОТРЕБЛЕНИЕ
@@ -163,20 +196,35 @@ hud_trade_incoming | WARNING - TRADE INCOMING | ВНИМАНИЕ - ИДЕТ ТО
 hud_trade_owed | WARNING - TRADE OWED | ВНИМАНИЕ - ТОРГОВЫЙ ДОЛГ
 hud_uninstall | Dismantle | Демонтировать
 hud_window_construction | CONSTRUCTION | СТРОИТЕЛЬСТВО
+hud_window_construction_tooltip | CONSTRUCTION ({ToggleConstruction}) | 
 hud_window_designation | DESIGNATION | НАЗНАЧЕНИЕ
 hud_window_editor | EDITOR | РЕДАКТОР
+hud_window_editor_tooltip | EDITOR ({ToggleEditor}) | 
 hud_window_ftl | FTL | ГИПЕРПРЫЖОК
+hud_window_ftl_tooltip | FTL ({ToggleFTL}) | 
 hud_window_interstellarlogistics | INTERSTELLAR LOGISTICS | МЕЖЗВЕЗДНАЯ ЛОГИСТИКА
+hud_window_interstellarlogistics_tooltip | INTERSTELLAR LOGISTICS ({ToggleIL}) | 
 hud_window_logistics | LOGISTICS | ЛОГИСТИКА
+hud_window_logistics_tooltip | LOGISTICS ({ToggleLogistics}) | 
 hud_window_missions | CONTRACTS | КОНТРАКТЫ
+hud_window_missions_tooltip | CONTRACTS ({ToggleContracts}) | 
 hud_window_orders | ORDERS | ПРИКАЗЫ
+hud_window_orders_tooltip | ORDERS ({ToggleOrders}) | 
 hud_window_power | POWERGRID | ЭНЕРГОСЕТЬ
+hud_window_power_tooltip | POWERGRID ({TogglePowergrid}) | 
 hud_window_recipes | RECIPES | РЕЦЕПТЫ
+hud_window_recipes_tooltip | RECIPES ({ToggleRecipes}) | 
 hud_window_score | SCORE | СЧЕТ
 hud_window_sectormap | SECTOR MAP ({ToggleMap}) | КАРТА СЕКТОРА ({ToggleMap})
+hud_window_sectormap_tooltip | SECTOR MAP ({ToggleMap1}/{ToggleMap2}) | 
 hud_window_shipyard | SHIPYARD | ВЕРФЬ
 hud_window_stargate | STARGATE | ЗВЕЗДНЫЕ ВРАТА
+hud_window_stargate_tooltip | STARGATE ({ToggleStargate}) | 
 hud_window_storage | STORAGE ZONES | ЗОНЫ ХРАНЕНИЯ
 hud_window_techtree | RESEARCH | ИССЛЕДОВАНИЯ
+hud_window_techtree_tooltip | RESEARCH ({ToggleResearch}) | 
 hud_window_trade | TRADE | ТОРГОВЛЯ
+hud_window_trade_tooltip | TRADE ({ToggleTrade}) | 
+hud_workqueue_installinprogress | INSTALL IN PROGRESS | 
+hud_workqueue_waitingforcrew | WAITING FOR CREW | 
 hud_zones | Zones | Зоны

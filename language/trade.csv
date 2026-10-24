@@ -11,14 +11,18 @@ trade_autosellat | SELL ABOVE | ПРОДАВАТЬ БОЛЬШЕ
 trade_autotrade | AUTO-TRADE | АВТОТОРГОВЛЯ
 trade_autotradecancelled | LAST ORDER CANCELLED | ПОСЛЕДНИЙ ЗАКАЗ ОТМЕНЕН
 trade_autotradedisabled | DISABLED IN ORDER MENU | ОТКЛЮЧЕНО В МЕНЮ ЗАКАЗОВ
+trade_blueprint_available | BLUEPRINT AVAILABLE | 
 trade_boxed | Boxed | Упаковано
 trade_buy | BUY | КУПИТЬ
+trade_buy_quantity | BUY *X | 
+trade_buy_schematic | BUY BLUEPRINT | 
 trade_buying | Buying *X | Покупка *X
 trade_cancelautotrade | CANCEL AUTO-TRADE | ОТМЕНИТЬ АВТОТОРГОВЛЮ
 trade_cancellationcost | CANCELLATION COST | СТОИМОСТЬ ОТМЕНЫ
 trade_canceltrade | CANCEL TRADE AND REFUND | ОТМЕНА СДЕЛКИ И ВОЗВРАТ
 trade_cannot | CANNOT | НЕВОЗМОЖНО
 trade_cannot_afford | CANNOT AFFORD | НЕ ХВАТАЕТ СРЕДСТВ
+trade_cannot_afford_schematic | CANNOT AFFORD BLUEPRINT | 
 trade_cash | Cash | Средства
 trade_category_equipment | Equipment | Оборудование
 trade_category_reagent | Reagent | Реагент
@@ -65,6 +69,9 @@ trade_removeincomplete | REMOVE INCOMPLETE | УБРАТЬ НЕЗАВЕРШЕНН
 trade_removepartiallyfilled | REMOVE PARTIALLY FILLED | УБРАТЬ ЧАСТИЧНО ЗАПОЛНЕННОЕ
 trade_sack | SACK | УВОЛИТЬ
 trade_sacking | Sacking *X | Увольнение *X
+trade_schematic | Blueprint | 
+trade_schematic_warning | Blueprints unlock the schematic for a piece of equipment.\n\nNo equipment will be delivered.\n\nAssembly tables and fabricators are required to produce the equipment. | 
+trade_schematics | BLUEPRINTS | 
 trade_sell | SELL | ПРОДАТЬ
 trade_sell_ship | SELL SHIP | ПРОДАТЬ КОРАБЛЬ
 trade_selling | Selling *X | Продажа *X
@@ -78,11 +85,14 @@ trade_tooltip_cancel | [RMB] Cancel | [ПКМ] Отменить
 trade_tooltip_cancelalltrade | [RMB] Cancel All | [ПКМ] Отменить Все
 trade_tooltip_canceltrade | [LMB] Cancel | [ЛКМ] Отменить
 trade_tooltip_clear | [RMB] Clear | [ПКМ] Очистить
+trade_tooltip_collapseautotrade | [LMB] Hide Auto Trade Options | 
 trade_tooltip_control | [CTRL] All | [CTRL] Все
 trade_tooltip_disableorder | [CTRL + RMB] Disable | [CTRL + ПКМ] Отключить
 trade_tooltip_disembark | [LMB] Disembark | [LMB] Высадить
 trade_tooltip_embark | [LMB] Embark | [LMB] Посадить
+trade_tooltip_expandautotrade | [LMB] Show Auto Trade Options | 
 trade_tooltip_hire | [LMB] Hire | [LMB] Нанять
+trade_tooltip_inputquantity | [MMB] Input Quantity | 
 trade_tooltip_remove | [RMB] Remove | [ПКМ] Убрать
 trade_tooltip_remove_rmb | [RMB] Remove | [ПКМ] Убрать
 trade_tooltip_reset | [RMB] Reset | [ПКМ] Сбросить

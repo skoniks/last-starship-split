@@ -3,19 +3,31 @@ shipeditor_brush_freehand | FREEHAND | КИСТЬ
 shipeditor_brush_oval | OVAL TOOL | КРУГ
 shipeditor_commit | CONFIRM | ПОДТВЕРДИТЬ
 shipeditor_draw | DRAW | РИСОВАТЬ
-shipeditor_equipment_autobuy | Enable Auto Buy | Включить Автопокупку
+shipeditor_equipment_autobuy | AUTO BUY | 
 shipeditor_equipment_autobuyconfirm | Confirm Auto Buy Changes | Подтвердить Изменения Автопокупки
 shipeditor_equipment_autobuyenable | Auto Buy *X | Автопокупка *X
+shipeditor_equipment_autoproduce | AUTO-PRODUCE | 
+shipeditor_equipment_autoproduce_tooltip | Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to "IDLE" will be used. They will be set back to "IDLE" when production has finished. | 
 shipeditor_equipment_available | Trading Post has *X available | Торговый Пост имеет *X в наличии
+shipeditor_equipment_availablecount | *X AVAILABLE TO BUY | 
+shipeditor_equipment_buymissing | AUTO-BUY MATERIALS | 
+shipeditor_equipment_buymissing_tooltip | Automatically buy missing materials for production.\nThis includes ingots as well as components such as frames. | 
 shipeditor_equipment_expected | You will be missing *X when ongoing deliveries/logistics complete | Вам будет не хватать *X, когда текущие поставки/логистика завершатся
 shipeditor_equipment_expectedcost | Expected Future Cost: *X | Ожидаемая Будущая Стоимость: *X
+shipeditor_equipment_fabricating | FABRICATING | 
 shipeditor_equipment_immediatecost | Immediate Cost: *X | Немедленная Стоимость: *X
+shipeditor_equipment_inboundonshuttle | *X INBOUND ON SHUTTLE | 
 shipeditor_equipment_incoming | You have *X incoming | У вас *X входящих
+shipeditor_equipment_inproduction | *X IN PRODUCTION (*Y MORE QUEUED) | 
 shipeditor_equipment_manualbuy | Buy All Available | Купить Все Доступное
 shipeditor_equipment_missing | You require *X | Вам требуется *X
+shipeditor_equipment_nofactory | NO FACTORY | 
 shipeditor_equipment_outgoing | You have *X outgoing | У вас *X исходящих
+shipeditor_equipment_queuedforproduction | *X QUEUED FOR PRODUCTION | 
 shipeditor_equipment_title | Missing Equipment | Отсутствующее Оборудование
 shipeditor_equipment_totalcost | Total Cost | Общая Стоимость
+shipeditor_equipment_unknownrecipe | UNKNOWN RECIPE | 
+shipeditor_equipment_waitingforstock | WAITING FOR STOCK | 
 shipeditor_erase | ERASE | СТЕРЕТЬ
 shipeditor_mode_armour | Armour | Броня
 shipeditor_mode_createship | Create Ship | Создать Корабль

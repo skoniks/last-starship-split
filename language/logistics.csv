@@ -5,9 +5,12 @@ logistics_condition_none | Amount | Сумма
 logistics_condition_quantity | Quantity | Количество
 logistics_condition_stacks | Stacks | Стаки
 logistics_condition_time | Minutes | Минуты
-logistics_condition_untilstorage | Quantity on board | Количество на борту
+logistics_condition_untilstorage | Until on board | 
 logistics_create_order | Create Order | Создайте заказ
-logistics_extras_anycargo | USE ANY CARGO STORAGE | ИСПОЛЬЗОВАТЬ ЛЮБОЙ СКЛАД
+logistics_extras_anycargo | INCLUDE GENERAL STORAGE ZONES | 
+logistics_extras_anycargo_tooltip | If this is checked, general storage zones will be considered alongside type specific storage zones when determining whether storage is full. | 
+logistics_extras_preventdocking | PREVENT DOCKING | 
+logistics_extras_preventdocking_tooltip | If this is checked, the two ships won't dock. Otherwise, this ship will try to dock if the transfer is large or not enough drones are available. | 
 logistics_hidelog | HIDE LOG | СКРЫТЬ ЖУРНАЛ
 logistics_item_none | SELECT ITEM | ВЫБЕРИТЕ ПРЕДМЕТ
 logistics_log_jumped | Travelled to system S*X | Отправился в систему S*X
@@ -16,9 +19,11 @@ logistics_log_skipped | Skipped order | Пропущенный заказ
 logistics_log_transferfrom | Transferred *X R*Y from L*Z | Переправлено *X R*Y из L*Z
 logistics_log_transferfromfull | Transferred *X R*Y from L*Z - destination storage full | Перенесено *X R*Y с L*Z - хранилище назначения заполнено
 logistics_log_transferfromfull1 | Transferred *X R*Y from L*Z out of the *P desired - destination storage full | Перенес *X R*Y с L*Z на *P - хранилище назначения заполнено
+logistics_log_transferfromnosupply | Transferred *X R*Y from L*Z out of the *P desired - insufficient cargo | Перенес *X R*Y с L*Z из *P желаемое - недостаточный груз
 logistics_log_transferto | Transferred *X R*Y to L*Z | Перенесено *X R*Y на L*Z
 logistics_log_transfertofull | Transferred *X R*Y to L*Z - destination storage full | Перенес *X R*Y на L*Z - хранилище назначения заполнено
 logistics_log_transfertofull1 | Transferred *X R*Y to L*Z out of the *P desired - destination storage full | Перенес *X R*Y на L*Z из *P - хранилище назначения заполнено
+logistics_log_transfertonosupply | Transferred *X R*Y to L*Z out of the *P desired - insufficient cargo | Перенес *X R*Y на L*Z из *P в желаемое - недостаточный груз
 logistics_log_waited | Waited for T*X | Дождался T*X
 logistics_loop | Loop | Зациклить
 logistics_order_buy | Buy | Купить
@@ -54,7 +59,7 @@ logistics_status_miningratio | Mined *X R*Y (*Z/*P stacks) | Добыто *X R*Y
 logistics_status_miningratiofull | Mined *X R*Y (*Z/*P stacks) - storage full | Добыто *X R*Y (*Z/*P стопки) - хранилище заполнено
 logistics_status_miningstacks | Mined *X R*Y (*Z stacks) | Добыто *X R*Y (*Z стак)
 logistics_status_miningstacksfull | Mined *X R*Y (*Z stacks) - storage full | Добыто *X R*Y (*Z стопки) - хранилище заполнено
-logistics_status_miningstackstime | Mined *X R*Y (*Z stacks) in T*P | Добыто *X R*Y (*Z стопки) в Т*P
+logistics_status_miningstackstime | Mined *X R*Y (*Z stacks) in T*P | Добыто *X R*Y (*Z стопки) в T*P
 logistics_status_miningstackstimefull | Mined *X R*Y (*Z stacks) in T*P - storage full | Добыто *X R*Y (*Z стопки) в T*P - хранилище заполнено
 logistics_status_notlooping | Finished execution (not looping) | Законченное выполнение (не зацикленное)
 logistics_status_notrunning | No order currently running | Ни один заказ в данный момент не выполняется
@@ -62,11 +67,16 @@ logistics_status_sell | Sold *X R*Y for $*Z | Продается *X R*Y для $
 logistics_status_sellnosupply | Sold *X R*Y for $*Z out of the *P desired - insufficient cargo | Продается *X R*Y за $*Z из *P желаемого - недостаточный груз
 logistics_status_sellzero | Sold *X R*Y | Продается *X R*Y
 logistics_status_sellzeronosupply | Sold *X R*Y out of the *P desired - insufficient cargo | Продается *X R*Y из *P желаемого - недостаточный груз
+logistics_status_transferdocking | Docking with L*X to transfer R*Y through docking port | 
+logistics_status_transferdockingpipes | Docking with L*X to transfer R*Y through pipes | 
 logistics_status_transferfrom | Transferring *X R*Y from L*Z | Перемещение *X R*Y из L*Z
 logistics_status_transferfromnosupply | Transferring *X R*Y from L*Z out of the *P desired - insufficient cargo | Перенос *X R*Y с L*Z на *P нежелателен - недостаточно груза
 logistics_status_transferto | Transferring *X R*Y to L*Z | Перемещение *X R*Y в L*Z
 logistics_status_transfertonosupply | Transferring *X R*Y to L*Z out of the *P desired - insufficient cargo | Перенос *X R*Y на L*Z из *P желаемого - недостаточный груз
 logistics_status_travelling | Travelling to system S*X | Путешествие в систему S*X
+logistics_status_travellingaligning | Aligning for jump | 
+logistics_status_travellingdrones | Waiting for *X deployed drones | 
+logistics_status_travellingtrade | Waiting for trade to complete | 
 logistics_status_waiting | Waiting T*X | Ожидание T*X
 logistics_status_warning | Warning | Внимание
 logistics_stuck_default | Orders stuck | Заказы застряли
@@ -79,6 +89,7 @@ logistics_stuck_patches | System S*X does not have any R*Y to mine | В сист
 logistics_stuck_resources | L*X does not have any R*Ys | L*X не имеет ни одного R*Ys
 logistics_stuck_stargate | Stargate is not ready for jump | Звездные Врата не готовы к прыжку
 logistics_stuck_tradingpost | System S*X does not have a trading post | В системе S*X нет торгового поста
+logistics_stuck_transfer | No valid docking ports or drones to perform transfer | 
 logistics_system_select | LOCATION | ЛОКАЦИЯ
 logistics_tooltip_add | [LMB] Add | [LMB] Добавить
 logistics_tooltip_cancel | [RMB] Cancel | [RMB] Отмена
@@ -89,7 +100,7 @@ logistics_tooltip_controlfull | [CTRL] FULL | [CTRL] FULL
 logistics_tooltip_extrastogglehide | Hide extra options for this order | Скрыть дополнительные опции для этого заказа
 logistics_tooltip_extrastogglenone | No extra options available | Никаких дополнительных опций не предусмотрено
 logistics_tooltip_extrastoggleshow | Show extra options for this order | Покажи дополнительные опции для этого заказа
-logistics_tooltip_loop | Loop execution | Зациклить выполнение
+logistics_tooltip_loop | Loop execution. If off, will stop after completing the last order. | 
 logistics_tooltip_modifiers | Modifiers: | Модификаторы:
 logistics_tooltip_noitemrequired | This order does not require an item | Этот заказ не требует наличия предмета
 logistics_tooltip_remove_rmb | [RMB] Remove | [RMB] Убрать
@@ -98,3 +109,4 @@ logistics_tooltip_skiporder | Skip currently executing order | Пропусти�
 logistics_tooltip_transfer | [LMB] Transfer 1 from *X | [ЛКМ] Передать 1 из *X
 logistics_transferfrom_none | SOURCE SHIP | КОРАБЛЬ ИСТОЧНИК
 logistics_transferto_none | DESTINATION SHIP | КОРАБЛЬ НАЗНАЧЕНИЯ
+logistics_window_tanks | [STORED IN TANKS] | 

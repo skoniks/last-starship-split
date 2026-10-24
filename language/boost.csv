@@ -1,5 +1,8 @@
 boost_airrecyclingefficiency | Air Recycling Efficiency +*X% | Эффективность Переработки Воздуха +*X%
 boost_dronespeed | Drone Top Speed +*X% | Максимальная Скорость Дронов +*X%
+boost_fighterarmour | Fighter Armour +*X% | 
+boost_fighterfuel | Fighter Fuel Efficiency +*X% | 
+boost_fighterspeed | Fighter Speed +*X% | 
 boost_harvestingyield | Crop Yield +*X% | Урожайность +*X%
 boost_reactorefficiency | Reactor Efficiency +*X% | Эффективность Реактора +*X%
 boost_recyclingefficiency | Recycling Efficiency *X% | Эффективность Переработки *X%

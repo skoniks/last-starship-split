@@ -2,32 +2,65 @@ settings_accentinsensitivesearch | Accent Insensitive Search | Поиск Без
 settings_accentinsensitivesearch_description | When searching in lists, ignore accented characters, e.g. "é" will match "e" | При поиске в списках игнорировать символы с диакритическими знаками, например "é" будет соответствовать "e"
 settings_analytics | Analytics | Отправка Статистики
 settings_analytics_tooltip | We need to collect usage data to help us to better understand how people are playing and to help us to improve the game. \n\nWe do not collect any personally identifiable information.\n\nTo find out more visit Legal Information (bottom of the screen) | Нам необходимо собирать данные об использовании, чтобы лучше понимать, как люди играют, и помочь нам улучшить игру. \n\nМы не собираем никакой личной информации.\n\nЧтобы узнать больше, посетите Правовую Информацию (внизу экрана)
-settings_appearance | APPEARANCE | ИНТЕРФЕЙС
-settings_arraytextures | Use Array Textures | Использовать Массивы Текстур
+settings_arraytextures | Smooth Tiles | 
 settings_autosaveinterval | Auto-save Interval | Интервал Автосохранения
 settings_autosaveonftl | Auto-save when leaving FTL | Автосохранение при выходе из гиперпрыжка
 settings_autosaveontimeinterval | Auto-save on time interval | Автосохранение по интервалу времени
 settings_autosaves | AUTOSAVES | СОХРАНЕНИЯ
+settings_camerapan_speed | Camera pan speed | 
+settings_communicator_speed | Character text speed | 
+settings_communicator_speed_description | The speed at which character dialogue text is revealed in the communicator. | 
 settings_credit_tooltip | With thanks to: | С благодарностью:
 settings_credits | CREDITS | ТИТРЫ
-settings_dynamiclighting | Use Dynamic Lighting | Использовать Динамическое Освещение
+settings_difficulty_availability_hint | Availability of crew and blueprints is not affected. | 
+settings_difficulty_difficult | Difficult | 
+settings_difficulty_difficult_tooltip | Availability at trade posts drops off quickly after the first couple of sectors. | 
+settings_difficulty_hard | Hard | 
+settings_difficulty_hard_tooltip | Availability is severely limited after leaving the home sector. | 
+settings_difficulty_normal | Normal | 
+settings_difficulty_normal_tooltip | Standard availability of resources, slowly becoming more scarce in later sectors. | 
+settings_difficulty_warning | WARNING: Difficulties above normal are intended for experienced players. | 
+settings_dynamiclighting | Dynamic Lighting | 
 settings_effectsvolume | Effects Volume | Громкость Эффектов
 settings_exitsaves_tooltip | When enabled, the current game will create an auto-save when abandoned or when the game is quit. | Когда включено, текущая игра создаст автосохранение при выходе или завершении игры.
+settings_fast | Fast | 
+settings_fastest | Fastest | 
 settings_fullscreen | Fullscreen | На Весь Экран
+settings_graphics | GRAPHICS | 
 settings_hud | Show HUD | Показать Интерфейс
 settings_hudscale | UI Scale | Масштаб Интерфейса
-settings_instantshipswitch_description | When switching between ships, skip the transition | Пропустить анимацию при переключении между кораблями
+settings_instantshipswitch_description | Skip rotation and panning effect when switching between ships. | 
 settings_keybindings | KEYBOARD | УПРАВЛЕНИЕ
+settings_keybindings_tooltiplmb | [LMB] Edit shortcut | 
+settings_keybindings_tooltipmmb | [MMB] Reset to default | 
+settings_keybindings_tooltiprmb | [RMB] Clear shortcut | 
 settings_language | Language | Язык Интерфейса
+settings_language_category | LANGUAGE | 
 settings_mastervolume | Master Volume | Общая Громкость
 settings_minutes_shortened | Mins. | Мин.
 settings_motionsicknessmode | Motion Sickness Mode | Режим защиты от укачивания
 settings_motionsicknessmode_description | Background rotation is removed, which should help if you experience motion sickness in-game. | Вращение фона отключено, это должно помочь, если вас укачивает в игре.
+settings_mousesize_huge | Huge | 
+settings_mousesize_large | Large | 
+settings_mousesize_medium | Medium | 
+settings_mousesize_small | Small | 
 settings_music | Music | Музыка
 settings_musicvolume | Music Volume | Громкость Музыки
+settings_normal | Normal | 
+settings_opengamefolder | OPEN GAME FOLDER | 
+settings_opentranslationeditor | TRANSLATION EDITOR ({TranslatorWindow}) | 
 settings_other | OTHER | ПРОЧЕЕ
+settings_parallelupdate | Enable Parallel Simulation | 
+settings_parallelupdate_tooltip | Allows the game to use multithreading while simulating ships and objects. Should improve performance in most situations. Shouldn't affect behaviour. | 
 settings_resolution | Resolution | Разрешение Экрана
+settings_slow | Slow | 
+settings_slowest | Slowest | 
+settings_softwarecursor | Software Mouse Cursor | 
+settings_softwarecursor_tooltip | The game renders the mouse cursor instead of the operating system. | 
+settings_softwarecursorsize | Software Mouse Size | 
 settings_sound | SOUND | ГРОМКОСТЬ
 settings_translatorassist | Translator Assist (Ctrl, Alt) | Помощник Переводчика (Ctrl, Alt)
 settings_translatorassist_description | Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key. Enables the translation editing window ({TranslatorWindow}). | Включить функции для помощи переводчикам, такие как Alt для отображения английского текста и Ctrl для отображения ключа фразы. Включает окно редактирования перевода ({TranslatorWindow}).
 settings_uibounce | UI Highlight Bounce | Подсветка с Эффектом Отскока
+settings_uibounce_description | Enlarges GUI elements such as buttons on mouse over. | 
+settings_userinterface | UI & GAME | 
