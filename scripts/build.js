@@ -1,10 +1,12 @@
 const { parse, stringify } = require('csv/sync');
 const { readFileSync, readdirSync, writeFileSync } = require('node:fs');
+const { ask, isYes } = require('./utils');
 
 async function bootstrap() {
   const filter = ['OBSOLETE', 'PREVIOUS'];
+  const refactor = await ask('Refactor mode? (y/N) ', 'n').then(isYes);
   const translate = await ask('Translate mode? (y/N) ', 'n').then(isYes);
-  const dir = './' + (translate ? 'translate' : 'language');
+  const dir = './' + (translate ? 'translate' : refactor ? 'refactor' : 'language');
   const file = readFileSync('./language.csv', 'utf8');
   const data = parse(file, { columns: true, bom: true });
   //

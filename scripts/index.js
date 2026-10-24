@@ -5,7 +5,8 @@ const { ask, isYes } = require('./utils');
 async function bootstrap() {
   const filter = ['OBSOLETE', 'PREVIOUS'];
   const shorten = await ask('Combine unusual mode? (y/N) ', 'n').then(isYes);
-  const translate = await ask('Translate mode? (y/N) ', 'n').then(isYes);
+  const refactor = await ask('Refactor mode (only filled)? (y/N) ', 'n').then(isYes);
+  const translate = await ask('Translate mode (only empty)? (y/N) ', 'n').then(isYes);
   const file = readFileSync('./language.csv', 'utf8');
   const data = parse(file, { columns: true, bom: true });
   //
@@ -14,13 +15,14 @@ async function bootstrap() {
   data.forEach(({ state, key, english, translation }) => {
     if (filter.includes(state)) return;
     const [name] = key.split('_');
+    if (refactor && !translation) return;
     if (translate && translation) return;
     const value = [key, english, translation].join(' | ');
     if (!blocks[name]) blocks[name] = [];
     blocks[name].push(value);
   });
   //
-  const dir = './' + (translate ? 'translate' : 'language');
+  const dir = './' + (translate ? 'translate' : refactor ? 'refactor' : 'language');
   rmSync(dir, { recursive: true, force: true });
   mkdirSync(dir, { recursive: true });
   for (let [name, lines] of Object.entries(blocks)) {
@@ -28,7 +30,6 @@ async function bootstrap() {
     const path = dir + '/' + name + '.csv';
     writeFileSync(path, lines.join('\n') + '\n', {
       encoding: 'utf8',
-      flag: 'a',
     });
   }
 }

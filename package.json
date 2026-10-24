@@ -2,7 +2,6 @@
   "scripts": {
     "index": "node scripts/index.js",
     "build": "node scripts/build.js",
-    "double": "node scripts/double.js",
     "export": "node scripts/export.js",
     "watch": "nodemon --watch language.csv --exec 'npm run export'"
   },
