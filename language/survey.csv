@@ -1,18 +1,19 @@
-survey_captionmultiple | *X ships surveying | *X обследование кораблей
-survey_captionnone | No survey in progress | Исследование не ведется
-survey_captionsingle | Surveyed by *X | Исследуется *X
-survey_completed | SURVEY COMPLETED | ИССЛЕДОВАНИЕ ЗАВЕРШЕНО
-survey_local_award_caption | *X *Y Unlocked | *X *Y Разблокировано
-survey_local_noequipment | NO SUPERCOMPUTERS INSTALLED | НЕ УСТАНОВЛЕНЫ СУПЕРКОМПЬЮТЕРЫ
-survey_sector_award_caption | *X available to survey | *X доступно для исследования
-survey_sector_award_title | SURVEY AVAILABLE | ИССЛЕДОВАНИЕ ДОСТУПНО
-survey_sector_caption | *X scanning region | *X сканирует регион
-survey_sector_nothingtoscan | REGION FULLY SCANNED | РЕГИОН ПОЛНОСТЬЮ ОТСКАНИРОВАН
-survey_sector_title | SECTOR SCAN | СКАНИРОВАНИЕ СЕКТОРА
-survey_survey | SURVEY | 
-survey_title | UNSURVEYED *X | НЕИССЛЕДОВАННЫЙ *X
-survey_type_asteroid | Asteroid belt | Астероидный пояс
-survey_type_colony | Colony | Колония
-survey_type_derelict | Derelict | Заброшенный объект
-survey_type_nebula | Nebula | Туманность
-survey_type_storm | Storm | Шторм
+{"key":"survey_captionmultiple","english":"*X ships surveying","translation":"*X обследование кораблей"}
+{"key":"survey_captionmultiple","english":"*X layers surveying","translation":"*X слоев исследуют"}
+{"key":"survey_captionnone","english":"No survey in progress","translation":"Исследование не ведется"}
+{"key":"survey_captionsingle","english":"Surveyed by *X","translation":"Исследуется *X"}
+{"key":"survey_completed","english":"SURVEY COMPLETED","translation":"ИССЛЕДОВАНИЕ ЗАВЕРШЕНО"}
+{"key":"survey_local_award_caption","english":"*X *Y Unlocked","translation":"*X *Y Разблокировано"}
+{"key":"survey_local_noequipment","english":"NO SUPERCOMPUTERS INSTALLED","translation":"НЕ УСТАНОВЛЕНЫ СУПЕРКОМПЬЮТЕРЫ"}
+{"key":"survey_sector_award_caption","english":"*X available to survey","translation":"*X доступно для исследования"}
+{"key":"survey_sector_award_title","english":"SURVEY AVAILABLE","translation":"ИССЛЕДОВАНИЕ ДОСТУПНО"}
+{"key":"survey_sector_caption","english":"*X scanning region","translation":"*X сканирует регион"}
+{"key":"survey_sector_nothingtoscan","english":"REGION FULLY SCANNED","translation":"РЕГИОН ПОЛНОСТЬЮ ОТСКАНИРОВАН"}
+{"key":"survey_sector_title","english":"SECTOR SCAN","translation":"СКАНИРОВАНИЕ СЕКТОРА"}
+{"key":"survey_survey","english":"SURVEY","translation":""}
+{"key":"survey_title","english":"UNSURVEYED *X","translation":"НЕИССЛЕДОВАННЫЙ *X"}
+{"key":"survey_type_asteroid","english":"Asteroid belt","translation":"Астероидный пояс"}
+{"key":"survey_type_colony","english":"Colony","translation":"Колония"}
+{"key":"survey_type_derelict","english":"Derelict","translation":"Заброшенный объект"}
+{"key":"survey_type_nebula","english":"Nebula","translation":"Туманность"}
+{"key":"survey_type_storm","english":"Storm","translation":"Шторм"}

@@ -1,15 +1,15 @@
-dialogcomponent_button | Button | Кнопка
-dialogcomponent_canvas | Canvas | Холст
-dialogcomponent_caption | Caption | Заголовок
-dialogcomponent_checkbox | Checkbox | Флажок
-dialogcomponent_container | Container | Контейнер
-dialogcomponent_custom | Custom | Пользовательский
-dialogcomponent_dropdownmenu | DropDownMenu | Выпадающее Меню
-dialogcomponent_iconbox | IconBox | Окно Иконки
-dialogcomponent_inputfield | InputField | Поле Ввода
-dialogcomponent_inputslider | InputSlider | Ползунок Ввода
-dialogcomponent_progressbar | ProgressBar | Полоса Прогресса
-dialogcomponent_scrollbar | Scrollbar | Полоса Прокрутки
-dialogcomponent_selectionlist | SelectionList | Список Выбора
-dialogcomponent_selectionlistitem | SelectionListItem | Элемент Списка Выбора
-dialogcomponent_titlecaption | TitleCaption | Заголовок Окна
+{"key":"dialogcomponent_button","english":"Button","translation":"Кнопка"}
+{"key":"dialogcomponent_canvas","english":"Canvas","translation":"Холст"}
+{"key":"dialogcomponent_caption","english":"Caption","translation":"Заголовок"}
+{"key":"dialogcomponent_checkbox","english":"Checkbox","translation":"Флажок"}
+{"key":"dialogcomponent_container","english":"Container","translation":"Контейнер"}
+{"key":"dialogcomponent_custom","english":"Custom","translation":"Пользовательский"}
+{"key":"dialogcomponent_dropdownmenu","english":"DropDownMenu","translation":"Выпадающее Меню"}
+{"key":"dialogcomponent_iconbox","english":"IconBox","translation":"Окно Иконки"}
+{"key":"dialogcomponent_inputfield","english":"InputField","translation":"Поле Ввода"}
+{"key":"dialogcomponent_inputslider","english":"InputSlider","translation":"Ползунок Ввода"}
+{"key":"dialogcomponent_progressbar","english":"ProgressBar","translation":"Полоса Прогресса"}
+{"key":"dialogcomponent_scrollbar","english":"Scrollbar","translation":"Полоса Прокрутки"}
+{"key":"dialogcomponent_selectionlist","english":"SelectionList","translation":"Список Выбора"}
+{"key":"dialogcomponent_selectionlistitem","english":"SelectionListItem","translation":"Элемент Списка Выбора"}
+{"key":"dialogcomponent_titlecaption","english":"TitleCaption","translation":"Заголовок Окна"}

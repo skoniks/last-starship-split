@@ -1,113 +1,116 @@
-trade_afford | AFFORD | ДОСТУПНО
-trade_all | ALL | ВСЕ
-trade_allitems | ALL ITEMS | ВСЕ ПРЕДМЕТЫ
-trade_autobuyat | BUY BELOW | ПОКУПАТЬ МЕНЬШЕ
-trade_autodisembarkat | DISEMBARK ABOVE | ВЫСАЖИВАТЬ БОЛЬШЕ
-trade_autoembarkat | EMBARK BELOW | ПРИНИМАТЬ МЕНЬШЕ
-trade_autohireat | HIRE BELOW | НАНИМАТЬ МЕНЬШЕ
-trade_automatic | AUTO TRADE | АВТОТОРГОВЛЯ
-trade_autosackat | SACK ABOVE | УВОЛЬНЯТЬ БОЛЬШЕ
-trade_autosellat | SELL ABOVE | ПРОДАВАТЬ БОЛЬШЕ
-trade_autotrade | AUTO-TRADE | АВТОТОРГОВЛЯ
-trade_autotradecancelled | LAST ORDER CANCELLED | ПОСЛЕДНИЙ ЗАКАЗ ОТМЕНЕН
-trade_autotradedisabled | DISABLED IN ORDER MENU | ОТКЛЮЧЕНО В МЕНЮ ЗАКАЗОВ
-trade_blueprint_available | BLUEPRINT AVAILABLE | 
-trade_boxed | Boxed | Упаковано
-trade_buy | BUY | КУПИТЬ
-trade_buy_quantity | BUY *X | 
-trade_buy_schematic | BUY BLUEPRINT | 
-trade_buying | Buying *X | Покупка *X
-trade_cancelautotrade | CANCEL AUTO-TRADE | ОТМЕНИТЬ АВТОТОРГОВЛЮ
-trade_cancellationcost | CANCELLATION COST | СТОИМОСТЬ ОТМЕНЫ
-trade_canceltrade | CANCEL TRADE AND REFUND | ОТМЕНА СДЕЛКИ И ВОЗВРАТ
-trade_cannot | CANNOT | НЕВОЗМОЖНО
-trade_cannot_afford | CANNOT AFFORD | НЕ ХВАТАЕТ СРЕДСТВ
-trade_cannot_afford_schematic | CANNOT AFFORD BLUEPRINT | 
-trade_cash | Cash | Средства
-trade_category_equipment | Equipment | Оборудование
-trade_category_reagent | Reagent | Реагент
-trade_category_resource | Resource | Ресурс
-trade_component | Component | Компонент
-trade_confirm | CONFIRM | ПОДТВЕРДИТЬ
-trade_cost | Cost | Стоимость
-trade_dangercivilians | Civilians are offering larger sums than normal for safe transit out of the sector | Гражданские предлагают большие суммы, чем обычно, за безопасный транзит из сектора
-trade_dangerdeflation | Prices for hardware and crew are lower than normal, due to panic | Цены на оборудование и экипаж ниже обычных из-за паники
-trade_dangerproximity | Shortages of critical resources have made prices higher than normal | Нехватка критических ресурсов привела к росту цен выше обычного
-trade_disembark | DISEMBARK | ВЫСАДКА
-trade_disembarking | Disembarking *X | Высадка *X
-trade_embark | EMBARK | ПОСАДКА
-trade_embarking | Embarking *X | Посадка *X
-trade_enabled | ENABLED | ВКЛЮЧЕНО
-trade_equipment_charge | - Charge (per use) : *X MW | - Заряд (на использование) : *X МВт
-trade_equipment_powered | - Powered | - С питанием
-trade_equipment_rotatable | - Rotatable | - Вращается
-trade_equipment_size | - Size *X x *Y | - Размер *X x *Y
-trade_estimatedvalue | ESTIMATED VALUE: | РАСЧЕТНОЕ ЗНАЧЕНИЕ:
-trade_hire | HIRE | НАЙМИ
-trade_hiring | Hiring *X | Найм *X
-trade_incompletecomponent | INCOMPLETE COMPONENT | НЕЗАВЕРШЕННЫЙ КОМПОНЕНТ
-trade_neworder | NEW ORDER | НОВЫЙ ЗАКАЗ
-trade_nextcollection | NEXT SHUTTLE IN *Xs | СЛЕДУЮЩИЙ ЧЕЛНОК ЧЕРЕЗ *Xс
-trade_order_buy_on_sell_screen | (BUY *X) | (КУПИТЬ *X)
-trade_order_disembark_on_buy_screen | (DISEMBARK *X) | (ВЫСАДИТЬ *X)
-trade_order_embark_on_sell_screen | (EMBARK *X) | (ПОСАДИТЬ *X)
-trade_order_hire_on_sell_screen | (HIRE *X) | (НАНЯТЬ *X)
-trade_order_normal | (*X) | (*X)
-trade_order_sack_on_buy_screen | (SACK *X) | (УВОЛИТЬ *X)
-trade_order_sell_on_buy_screen | (SELL *X) | (ПРОДАТЬ *X)
-trade_ourstock | You have *X on-board | У вас на борту *X
-trade_overlay_boxed | [boxed] | [упаковано]
-trade_overlay_price | PRICE | ЦЕНА
-trade_overlay_them | THEM | ОНИ
-trade_overlay_you | YOU | ВЫ
-trade_partiallyfilled | PARTIALLY FILLED | ЧАСТИЧНО ЗАПОЛНЕННО
-trade_paymentperjump | *X (+*Y) per sector jump | *X (+*Y) на один секторный прыжок
-trade_profit | Profit | Прибыль
-trade_refundvalue | REFUND VALUE | СТОИМОСТЬ ОТМЕНЫ
-trade_remove | REMOVE | УБРАТЬ
-trade_removeincomplete | REMOVE INCOMPLETE | УБРАТЬ НЕЗАВЕРШЕННОЕ
-trade_removepartiallyfilled | REMOVE PARTIALLY FILLED | УБРАТЬ ЧАСТИЧНО ЗАПОЛНЕННОЕ
-trade_sack | SACK | УВОЛИТЬ
-trade_sacking | Sacking *X | Увольнение *X
-trade_schematic | Blueprint | 
-trade_schematic_warning | Blueprints unlock the schematic for a piece of equipment.\n\nNo equipment will be delivered.\n\nAssembly tables and fabricators are required to produce the equipment. | 
-trade_schematics | BLUEPRINTS | 
-trade_sell | SELL | ПРОДАТЬ
-trade_sell_ship | SELL SHIP | ПРОДАТЬ КОРАБЛЬ
-trade_selling | Selling *X | Продажа *X
-trade_showoutofstock | Show out of stock | Показать Отсутствующие
-trade_shuttleinbound | SHUTTLE INBOUND | ЧЕЛНОК В ПУТИ
-trade_stack | Stack of *X | Стопка *X
-trade_title | TRADE | ТОРГОВЛЯ
-trade_tooltip_add | [LMB] Add | [ЛКМ] Добавить
-trade_tooltip_buy | [LMB] Buy | [ЛКМ] Купить
-trade_tooltip_cancel | [RMB] Cancel | [ПКМ] Отменить
-trade_tooltip_cancelalltrade | [RMB] Cancel All | [ПКМ] Отменить Все
-trade_tooltip_canceltrade | [LMB] Cancel | [ЛКМ] Отменить
-trade_tooltip_clear | [RMB] Clear | [ПКМ] Очистить
-trade_tooltip_collapseautotrade | [LMB] Hide Auto Trade Options | 
-trade_tooltip_control | [CTRL] All | [CTRL] Все
-trade_tooltip_disableorder | [CTRL + RMB] Disable | [CTRL + ПКМ] Отключить
-trade_tooltip_disembark | [LMB] Disembark | [LMB] Высадить
-trade_tooltip_embark | [LMB] Embark | [LMB] Посадить
-trade_tooltip_expandautotrade | [LMB] Show Auto Trade Options | 
-trade_tooltip_hire | [LMB] Hire | [LMB] Нанять
-trade_tooltip_inputquantity | [MMB] Input Quantity | 
-trade_tooltip_remove | [RMB] Remove | [ПКМ] Убрать
-trade_tooltip_remove_rmb | [RMB] Remove | [ПКМ] Убрать
-trade_tooltip_reset | [RMB] Reset | [ПКМ] Сбросить
-trade_tooltip_sack | [LMB] Sack | [ЛКМ] Уволить
-trade_tooltip_sell | [LMB] Sell | [ЛКМ] Продать
-trade_tooltip_shift | [SHIFT] x5 | [SHIFT] x5
-trade_transaction | *X: *Y | *X: *Y
-trade_waitingfor | Waiting for *X x *Y | Ожидание *X x *Y
-trade_window_components | Components | Компоненты
-trade_window_crew | Crew | Экипаж
-trade_window_defense | Defense | Оборона
-trade_window_energy | Energy | Энергия
-trade_window_habitation | Habitation | Выживание
-trade_window_industry | Industry | Производство
-trade_window_logistics | Logistics | Логистика
-trade_window_propulsion | Propulsion | Движение
-trade_window_resources | Resources | Ресурсы
-trade_window_science | Science | Наука
+{"key":"trade_afford","english":"AFFORD","translation":"ДОСТУПНО"}
+{"key":"trade_all","english":"ALL","translation":"ВСЕ"}
+{"key":"trade_allitems","english":"ALL ITEMS","translation":"ВСЕ ПРЕДМЕТЫ"}
+{"key":"trade_autobuyat","english":"BUY BELOW","translation":"ПОКУПАТЬ МЕНЬШЕ"}
+{"key":"trade_autodisembarkat","english":"DISEMBARK ABOVE","translation":"ВЫСАЖИВАТЬ БОЛЬШЕ"}
+{"key":"trade_autodisembarkat","english":"DISEMBARK BELOW","translation":"ВЫСАЖИВАТЬ БОЛЬШЕ"}
+{"key":"trade_autoembarkat","english":"EMBARK BELOW","translation":"ПРИНИМАТЬ МЕНЬШЕ"}
+{"key":"trade_autohireat","english":"HIRE BELOW","translation":"НАНИМАТЬ МЕНЬШЕ"}
+{"key":"trade_automatic","english":"AUTO TRADE","translation":"АВТОТОРГОВЛЯ"}
+{"key":"trade_autosackat","english":"SACK ABOVE","translation":"УВОЛЬНЯТЬ БОЛЬШЕ"}
+{"key":"trade_autosellat","english":"SELL ABOVE","translation":"ПРОДАВАТЬ БОЛЬШЕ"}
+{"key":"trade_autotrade","english":"AUTO-TRADE","translation":"АВТОТОРГОВЛЯ"}
+{"key":"trade_autotradecancelled","english":"LAST ORDER CANCELLED","translation":"ПОСЛЕДНИЙ ЗАКАЗ ОТМЕНЕН"}
+{"key":"trade_autotradecancelled","english":"CANCELLED","translation":"ОТМЕНЕН"}
+{"key":"trade_autotradedisabled","english":"DISABLED IN ORDER MENU","translation":"ОТКЛЮЧЕНО В МЕНЮ ЗАКАЗОВ"}
+{"key":"trade_blueprint_available","english":"BLUEPRINT AVAILABLE","translation":""}
+{"key":"trade_boxed","english":"Boxed","translation":"Упаковано"}
+{"key":"trade_buy","english":"BUY","translation":"КУПИТЬ"}
+{"key":"trade_buy_quantity","english":"BUY *X","translation":""}
+{"key":"trade_buy_schematic","english":"BUY BLUEPRINT","translation":""}
+{"key":"trade_buying","english":"Buying *X","translation":"Покупка *X"}
+{"key":"trade_cancelautotrade","english":"CANCEL AUTO-TRADE","translation":"ОТМЕНИТЬ АВТОТОРГОВЛЮ"}
+{"key":"trade_cancellationcost","english":"CANCELLATION COST","translation":"СТОИМОСТЬ ОТМЕНЫ"}
+{"key":"trade_canceltrade","english":"CANCEL TRADE AND REFUND","translation":"ОТМЕНА СДЕЛКИ И ВОЗВРАТ"}
+{"key":"trade_cannot","english":"CANNOT","translation":"НЕВОЗМОЖНО"}
+{"key":"trade_cannot_afford","english":"CANNOT AFFORD","translation":"НЕ ХВАТАЕТ СРЕДСТВ"}
+{"key":"trade_cannot_afford_schematic","english":"CANNOT AFFORD BLUEPRINT","translation":""}
+{"key":"trade_cash","english":"Cash","translation":"Средства"}
+{"key":"trade_category_equipment","english":"Equipment","translation":"Оборудование"}
+{"key":"trade_category_reagent","english":"Reagent","translation":"Реагент"}
+{"key":"trade_category_resource","english":"Resource","translation":"Ресурс"}
+{"key":"trade_component","english":"Component","translation":"Компонент"}
+{"key":"trade_confirm","english":"CONFIRM","translation":"ПОДТВЕРДИТЬ"}
+{"key":"trade_cost","english":"Cost","translation":"Стоимость"}
+{"key":"trade_dangercivilians","english":"Civilians are offering larger sums than normal for safe transit out of the sector","translation":"Гражданские предлагают большие суммы, чем обычно, за безопасный транзит из сектора"}
+{"key":"trade_dangerdeflation","english":"Prices for hardware and crew are lower than normal, due to panic","translation":"Цены на оборудование и экипаж ниже обычных из-за паники"}
+{"key":"trade_dangerproximity","english":"Shortages of critical resources have made prices higher than normal","translation":"Нехватка критических ресурсов привела к росту цен выше обычного"}
+{"key":"trade_disembark","english":"DISEMBARK","translation":"ВЫСАДКА"}
+{"key":"trade_disembarking","english":"Disembarking *X","translation":"Высадка *X"}
+{"key":"trade_embark","english":"EMBARK","translation":"ПОСАДКА"}
+{"key":"trade_embarking","english":"Embarking *X","translation":"Посадка *X"}
+{"key":"trade_enabled","english":"ENABLED","translation":"ВКЛЮЧЕНО"}
+{"key":"trade_equipment_charge","english":"- Charge (per use) : *X MW","translation":"- Заряд (на использование) : *X МВт"}
+{"key":"trade_equipment_powered","english":"- Powered","translation":"- С питанием"}
+{"key":"trade_equipment_rotatable","english":"- Rotatable","translation":"- Вращается"}
+{"key":"trade_equipment_size","english":"- Size *X x *Y","translation":"- Размер *X x *Y"}
+{"key":"trade_estimatedvalue","english":"ESTIMATED VALUE:","translation":"РАСЧЕТНОЕ ЗНАЧЕНИЕ:"}
+{"key":"trade_hire","english":"HIRE","translation":"НАЙМИ"}
+{"key":"trade_hiring","english":"Hiring *X","translation":"Найм *X"}
+{"key":"trade_incompletecomponent","english":"INCOMPLETE COMPONENT","translation":"НЕЗАВЕРШЕННЫЙ КОМПОНЕНТ"}
+{"key":"trade_neworder","english":"NEW ORDER","translation":"НОВЫЙ ЗАКАЗ"}
+{"key":"trade_nextcollection","english":"NEXT SHUTTLE IN *Xs","translation":"СЛЕДУЮЩИЙ ЧЕЛНОК ЧЕРЕЗ *Xс"}
+{"key":"trade_order_buy_on_sell_screen","english":"(BUY *X)","translation":"(КУПИТЬ *X)"}
+{"key":"trade_order_disembark_on_buy_screen","english":"(DISEMBARK *X)","translation":"(ВЫСАДИТЬ *X)"}
+{"key":"trade_order_embark_on_sell_screen","english":"(EMBARK *X)","translation":"(ПОСАДИТЬ *X)"}
+{"key":"trade_order_hire_on_sell_screen","english":"(HIRE *X)","translation":"(НАНЯТЬ *X)"}
+{"key":"trade_order_normal","english":"(*X)","translation":"(*X)"}
+{"key":"trade_order_sack_on_buy_screen","english":"(SACK *X)","translation":"(УВОЛИТЬ *X)"}
+{"key":"trade_order_sell_on_buy_screen","english":"(SELL *X)","translation":"(ПРОДАТЬ *X)"}
+{"key":"trade_ourstock","english":"You have *X on-board","translation":"У вас на борту *X"}
+{"key":"trade_overlay_boxed","english":"[boxed]","translation":"[упаковано]"}
+{"key":"trade_overlay_price","english":"PRICE","translation":"ЦЕНА"}
+{"key":"trade_overlay_them","english":"THEM","translation":"ОНИ"}
+{"key":"trade_overlay_you","english":"YOU","translation":"ВЫ"}
+{"key":"trade_partiallyfilled","english":"PARTIALLY FILLED","translation":"ЧАСТИЧНО ЗАПОЛНЕННО"}
+{"key":"trade_paymentperjump","english":"*X (+*Y) per sector jump","translation":"*X (+*Y) на один секторный прыжок"}
+{"key":"trade_profit","english":"Profit","translation":"Прибыль"}
+{"key":"trade_refundvalue","english":"REFUND VALUE","translation":"СТОИМОСТЬ ОТМЕНЫ"}
+{"key":"trade_remove","english":"REMOVE","translation":"УБРАТЬ"}
+{"key":"trade_removeincomplete","english":"REMOVE INCOMPLETE","translation":"УБРАТЬ НЕЗАВЕРШЕННОЕ"}
+{"key":"trade_removepartiallyfilled","english":"REMOVE PARTIALLY FILLED","translation":"УБРАТЬ ЧАСТИЧНО ЗАПОЛНЕННОЕ"}
+{"key":"trade_sack","english":"SACK","translation":"УВОЛИТЬ"}
+{"key":"trade_sacking","english":"Sacking *X","translation":"Увольнение *X"}
+{"key":"trade_schematic","english":"Blueprint","translation":""}
+{"key":"trade_schematic_warning","english":"Blueprints unlock the schematic for a piece of equipment.\\n\\nNo equipment will be delivered.\\n\\nAssembly tables and fabricators are required to produce the equipment.","translation":""}
+{"key":"trade_schematic_warning","english":"This is a blueprint. Purchasing this will unlock the schematic but will not deliver any equipment.\\n\\nAssembly tables and fabricators are required to produce the equipment.","translation":""}
+{"key":"trade_schematics","english":"BLUEPRINTS","translation":""}
+{"key":"trade_sell","english":"SELL","translation":"ПРОДАТЬ"}
+{"key":"trade_sell_ship","english":"SELL SHIP","translation":"ПРОДАТЬ КОРАБЛЬ"}
+{"key":"trade_selling","english":"Selling *X","translation":"Продажа *X"}
+{"key":"trade_showoutofstock","english":"Show out of stock","translation":"Показать Отсутствующие"}
+{"key":"trade_shuttleinbound","english":"SHUTTLE INBOUND","translation":"ЧЕЛНОК В ПУТИ"}
+{"key":"trade_stack","english":"Stack of *X","translation":"Стопка *X"}
+{"key":"trade_title","english":"TRADE","translation":"ТОРГОВЛЯ"}
+{"key":"trade_tooltip_add","english":"[LMB] Add","translation":"[ЛКМ] Добавить"}
+{"key":"trade_tooltip_buy","english":"[LMB] Buy","translation":"[ЛКМ] Купить"}
+{"key":"trade_tooltip_cancel","english":"[RMB] Cancel","translation":"[ПКМ] Отменить"}
+{"key":"trade_tooltip_cancelalltrade","english":"[RMB] Cancel All","translation":"[ПКМ] Отменить Все"}
+{"key":"trade_tooltip_canceltrade","english":"[LMB] Cancel","translation":"[ЛКМ] Отменить"}
+{"key":"trade_tooltip_clear","english":"[RMB] Clear","translation":"[ПКМ] Очистить"}
+{"key":"trade_tooltip_collapseautotrade","english":"[LMB] Hide Auto Trade Options","translation":""}
+{"key":"trade_tooltip_control","english":"[CTRL] All","translation":"[CTRL] Все"}
+{"key":"trade_tooltip_disableorder","english":"[CTRL + RMB] Disable","translation":"[CTRL + ПКМ] Отключить"}
+{"key":"trade_tooltip_disembark","english":"[LMB] Disembark","translation":"[LMB] Высадить"}
+{"key":"trade_tooltip_embark","english":"[LMB] Embark","translation":"[LMB] Посадить"}
+{"key":"trade_tooltip_expandautotrade","english":"[LMB] Show Auto Trade Options","translation":""}
+{"key":"trade_tooltip_hire","english":"[LMB] Hire","translation":"[LMB] Нанять"}
+{"key":"trade_tooltip_inputquantity","english":"[MMB] Input Quantity","translation":""}
+{"key":"trade_tooltip_remove","english":"[RMB] Remove","translation":"[ПКМ] Убрать"}
+{"key":"trade_tooltip_remove_rmb","english":"[RMB] Remove","translation":"[ПКМ] Убрать"}
+{"key":"trade_tooltip_reset","english":"[RMB] Reset","translation":"[ПКМ] Сбросить"}
+{"key":"trade_tooltip_sack","english":"[LMB] Sack","translation":"[ЛКМ] Уволить"}
+{"key":"trade_tooltip_sell","english":"[LMB] Sell","translation":"[ЛКМ] Продать"}
+{"key":"trade_tooltip_shift","english":"[SHIFT] x5","translation":"[SHIFT] x5"}
+{"key":"trade_transaction","english":"*X: *Y","translation":"*X: *Y"}
+{"key":"trade_waitingfor","english":"Waiting for *X x *Y","translation":"Ожидание *X x *Y"}
+{"key":"trade_window_components","english":"Components","translation":"Компоненты"}
+{"key":"trade_window_crew","english":"Crew","translation":"Экипаж"}
+{"key":"trade_window_defense","english":"Defense","translation":"Оборона"}
+{"key":"trade_window_energy","english":"Energy","translation":"Энергия"}
+{"key":"trade_window_habitation","english":"Habitation","translation":"Выживание"}
+{"key":"trade_window_industry","english":"Industry","translation":"Производство"}
+{"key":"trade_window_logistics","english":"Logistics","translation":"Логистика"}
+{"key":"trade_window_propulsion","english":"Propulsion","translation":"Движение"}
+{"key":"trade_window_resources","english":"Resources","translation":"Ресурсы"}
+{"key":"trade_window_science","english":"Science","translation":"Наука"}

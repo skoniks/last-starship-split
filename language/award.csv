@@ -1,4 +1,4 @@
-award_civilianpayment | CIVILIAN PAYMENT | ГРАЖДАНСКИЙ ПЛАТЕЖ
-award_civilianpayment_caption | *X permanent residents in your fleet | *X постоянных жителей в вашем флоте
-award_credit | 1 Research Credit | 
-award_rewards | Rewards | Награды
+{"key":"award_civilianpayment","english":"CIVILIAN PAYMENT","translation":"ГРАЖДАНСКИЙ ПЛАТЕЖ"}
+{"key":"award_civilianpayment_caption","english":"*X permanent residents in your fleet","translation":"*X постоянных жителей в вашем флоте"}
+{"key":"award_credit","english":"1 Research Credit","translation":""}
+{"key":"award_rewards","english":"Rewards","translation":"Награды"}

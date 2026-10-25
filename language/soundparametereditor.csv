@@ -1,6 +1,6 @@
-soundparametereditor_chaintitle | Chain | Цепь
-soundparametereditor_linktitle | Linked To | Связано С
-soundparametereditor_smoothing | Smoothing | Сглаживание
-soundparametereditor_title | Sound Parameter | Параметр Звука
-soundparametereditor_typetitle | Type | Тип
-soundparametereditor_updatetitle | Update Type | Тип Обновления
+{"key":"soundparametereditor_chaintitle","english":"Chain","translation":"Цепь"}
+{"key":"soundparametereditor_linktitle","english":"Linked To","translation":"Связано С"}
+{"key":"soundparametereditor_smoothing","english":"Smoothing","translation":"Сглаживание"}
+{"key":"soundparametereditor_title","english":"Sound Parameter","translation":"Параметр Звука"}
+{"key":"soundparametereditor_typetitle","english":"Type","translation":"Тип"}
+{"key":"soundparametereditor_updatetitle","english":"Update Type","translation":"Тип Обновления"}

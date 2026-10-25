@@ -1,2 +1,2 @@
-speed_paused | PAUSED | ПАУЗА
-speed_slow | SLOW | МЕДЛЕННО
+{"key":"speed_paused","english":"PAUSED","translation":"ПАУЗА"}
+{"key":"speed_slow","english":"SLOW","translation":"МЕДЛЕННО"}

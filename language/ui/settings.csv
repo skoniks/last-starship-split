@@ -1,0 +1,71 @@
+{"key":"settings_accentinsensitivesearch","english":"Accent Insensitive Search","translation":"Поиск Без Учета Акцентов"}
+{"key":"settings_accentinsensitivesearch_description","english":"When searching in lists, ignore accented characters, e.g. \"é\" will match \"e\"","translation":"При поиске в списках игнорировать символы с диакритическими знаками, например \"é\" будет соответствовать \"e\""}
+{"key":"settings_analytics","english":"Analytics","translation":"Отправка Статистики"}
+{"key":"settings_analytics_tooltip","english":"We need to collect usage data to help us to better understand how people are playing and to help us to improve the game. \\n\\nWe do not collect any personally identifiable information.\\n\\nTo find out more visit Legal Information (bottom of the screen)","translation":"Нам необходимо собирать данные об использовании, чтобы лучше понимать, как люди играют, и помочь нам улучшить игру. \\n\\nМы не собираем никакой личной информации.\\n\\nЧтобы узнать больше, посетите Правовую Информацию (внизу экрана)"}
+{"key":"settings_arraytextures","english":"Smooth Tiles","translation":""}
+{"key":"settings_arraytextures","english":"Use Array Textures","translation":"Использовать Массивы Текстур"}
+{"key":"settings_autosaveinterval","english":"Auto-save Interval","translation":"Интервал Автосохранения"}
+{"key":"settings_autosaveonftl","english":"Auto-save when leaving FTL","translation":"Автосохранение при выходе из гиперпрыжка"}
+{"key":"settings_autosaveontimeinterval","english":"Auto-save on time interval","translation":"Автосохранение по интервалу времени"}
+{"key":"settings_autosaves","english":"AUTOSAVES","translation":"СОХРАНЕНИЯ"}
+{"key":"settings_camerapan_speed","english":"Camera pan speed","translation":""}
+{"key":"settings_communicator_speed","english":"Character text speed","translation":""}
+{"key":"settings_communicator_speed_description","english":"The speed at which character dialogue text is revealed in the communicator.","translation":""}
+{"key":"settings_credit_tooltip","english":"With thanks to:","translation":"С благодарностью:"}
+{"key":"settings_credits","english":"CREDITS","translation":"ТИТРЫ"}
+{"key":"settings_difficulty_availability_hint","english":"Availability of crew and blueprints is not affected.","translation":""}
+{"key":"settings_difficulty_difficult","english":"Difficult","translation":""}
+{"key":"settings_difficulty_difficult_tooltip","english":"Availability at trade posts drops off quickly after the first couple of sectors.","translation":""}
+{"key":"settings_difficulty_hard","english":"Hard","translation":""}
+{"key":"settings_difficulty_hard_tooltip","english":"Availability is severely limited after leaving the home sector.","translation":""}
+{"key":"settings_difficulty_normal","english":"Normal","translation":""}
+{"key":"settings_difficulty_normal_tooltip","english":"Standard availability of resources, slowly becoming more scarce in later sectors.","translation":""}
+{"key":"settings_difficulty_warning","english":"WARNING: Difficulties above normal are intended for experienced players.","translation":""}
+{"key":"settings_dynamiclighting","english":"Dynamic Lighting","translation":""}
+{"key":"settings_dynamiclighting","english":"Use Dynamic Lighting","translation":"Использовать Динамическое Освещение"}
+{"key":"settings_effectsvolume","english":"Effects Volume","translation":"Громкость Эффектов"}
+{"key":"settings_exitsaves_tooltip","english":"When enabled, the current game will create an auto-save when abandoned or when the game is quit.","translation":"Когда включено, текущая игра создаст автосохранение при выходе или завершении игры."}
+{"key":"settings_exitsaves_tooltip","english":"When enabled, the current game will be saved when abandoned or when the game is quit in a file called exitsave.\\n\\nCAUTION: This file will be overwritten on every exit.","translation":"Если эта функция включена, то текущая игра будет сохраняться при выходе из нее или при завершении игры в файл под названием exitsave.\\n\\n ВНИМАНИЕ: Этот файл будет перезаписываться при каждом выходе."}
+{"key":"settings_fast","english":"Fast","translation":""}
+{"key":"settings_fastest","english":"Fastest","translation":""}
+{"key":"settings_fullscreen","english":"Fullscreen","translation":"На Весь Экран"}
+{"key":"settings_graphics","english":"GRAPHICS","translation":""}
+{"key":"settings_hud","english":"Show HUD","translation":"Показать Интерфейс"}
+{"key":"settings_hudscale","english":"UI Scale","translation":"Масштаб Интерфейса"}
+{"key":"settings_instantshipswitch_description","english":"Skip rotation and panning effect when switching between ships.","translation":""}
+{"key":"settings_instantshipswitch_description","english":"When switching between ships, skip the transition","translation":"Пропустить анимацию при переключении между кораблями"}
+{"key":"settings_keybindings","english":"KEYBOARD","translation":"УПРАВЛЕНИЕ"}
+{"key":"settings_keybindings_tooltiplmb","english":"[LMB] Edit shortcut","translation":""}
+{"key":"settings_keybindings_tooltipmmb","english":"[MMB] Reset to default","translation":""}
+{"key":"settings_keybindings_tooltiprmb","english":"[RMB] Clear shortcut","translation":""}
+{"key":"settings_language","english":"Language","translation":"Язык Интерфейса"}
+{"key":"settings_language_category","english":"LANGUAGE","translation":""}
+{"key":"settings_mastervolume","english":"Master Volume","translation":"Общая Громкость"}
+{"key":"settings_minutes_shortened","english":"Mins.","translation":"Мин."}
+{"key":"settings_motionsicknessmode","english":"Motion Sickness Mode","translation":"Режим защиты от укачивания"}
+{"key":"settings_motionsicknessmode_description","english":"Background rotation is removed, which should help if you experience motion sickness in-game.","translation":"Вращение фона отключено, это должно помочь, если вас укачивает в игре."}
+{"key":"settings_mousesize_huge","english":"Huge","translation":""}
+{"key":"settings_mousesize_large","english":"Large","translation":""}
+{"key":"settings_mousesize_medium","english":"Medium","translation":""}
+{"key":"settings_mousesize_small","english":"Small","translation":""}
+{"key":"settings_music","english":"Music","translation":"Музыка"}
+{"key":"settings_musicvolume","english":"Music Volume","translation":"Громкость Музыки"}
+{"key":"settings_normal","english":"Normal","translation":""}
+{"key":"settings_opengamefolder","english":"OPEN GAME FOLDER","translation":""}
+{"key":"settings_opentranslationeditor","english":"TRANSLATION EDITOR ({TranslatorWindow})","translation":""}
+{"key":"settings_other","english":"OTHER","translation":"ПРОЧЕЕ"}
+{"key":"settings_parallelupdate","english":"Enable Parallel Simulation","translation":""}
+{"key":"settings_parallelupdate_tooltip","english":"Allows the game to use multithreading while simulating ships and objects. Should improve performance in most situations. Shouldn't affect behaviour.","translation":""}
+{"key":"settings_resolution","english":"Resolution","translation":"Разрешение Экрана"}
+{"key":"settings_slow","english":"Slow","translation":""}
+{"key":"settings_slowest","english":"Slowest","translation":""}
+{"key":"settings_softwarecursor","english":"Software Mouse Cursor","translation":""}
+{"key":"settings_softwarecursor_tooltip","english":"The game renders the mouse cursor instead of the operating system.","translation":""}
+{"key":"settings_softwarecursorsize","english":"Software Mouse Size","translation":""}
+{"key":"settings_sound","english":"SOUND","translation":"ГРОМКОСТЬ"}
+{"key":"settings_translatorassist","english":"Translator Assist (Ctrl, Alt)","translation":"Помощник Переводчика (Ctrl, Alt)"}
+{"key":"settings_translatorassist_description","english":"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key. Enables the translation editing window ({TranslatorWindow}).","translation":"Включить функции для помощи переводчикам, такие как Alt для отображения английского текста и Ctrl для отображения ключа фразы. Включает окно редактирования перевода ({TranslatorWindow})."}
+{"key":"settings_translatorassist_description","english":"Enable features to help translators, such as Alt to reveal English and Ctrl to reveal the phrase key.","translation":"Включает функции, помогающие переводчикам, например Alt для раскрытия английского языка и Ctrl для раскрытия ключа фразы."}
+{"key":"settings_uibounce","english":"UI Highlight Bounce","translation":"Подсветка с Эффектом Отскока"}
+{"key":"settings_uibounce_description","english":"Enlarges GUI elements such as buttons on mouse over.","translation":""}
+{"key":"settings_userinterface","english":"UI & GAME","translation":""}

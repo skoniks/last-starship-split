@@ -1,14 +1,14 @@
-fighter_ammo | BULLETS: *X | 
-fighter_ammo_text | BULLETS | 
-fighter_create | CREATE FIGHTER | 
-fighter_fuel | FUEL: *X% | 
-fighter_fuel_text | FUEL | 
-fighter_health_text | HULL | 
-fighter_lowfuel | LOW FUEL | 
-fighter_noammo | NO AMMO | 
-fighter_quantity | *X / *Y | 
-fighter_refuelling_text | REFUELLING... | 
-fighter_state_attackingfighter | ATTACKING ENEMY FIGHTER | 
-fighter_state_attackinglayer | ATTACKING *X | 
-fighter_state_idleinfreespace | SEARCHING FOR BAY | 
-fighter_state_returningtobay | RETURNING TO BAY | 
+{"key":"fighter_ammo","english":"BULLETS: *X","translation":""}
+{"key":"fighter_ammo_text","english":"BULLETS","translation":""}
+{"key":"fighter_create","english":"CREATE FIGHTER","translation":""}
+{"key":"fighter_fuel","english":"FUEL: *X%","translation":""}
+{"key":"fighter_fuel_text","english":"FUEL","translation":""}
+{"key":"fighter_health_text","english":"HULL","translation":""}
+{"key":"fighter_lowfuel","english":"LOW FUEL","translation":""}
+{"key":"fighter_noammo","english":"NO AMMO","translation":""}
+{"key":"fighter_quantity","english":"*X / *Y","translation":""}
+{"key":"fighter_refuelling_text","english":"REFUELLING...","translation":""}
+{"key":"fighter_state_attackingfighter","english":"ATTACKING ENEMY FIGHTER","translation":""}
+{"key":"fighter_state_attackinglayer","english":"ATTACKING *X","translation":""}
+{"key":"fighter_state_idleinfreespace","english":"SEARCHING FOR BAY","translation":""}
+{"key":"fighter_state_returningtobay","english":"RETURNING TO BAY","translation":""}

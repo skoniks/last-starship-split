@@ -1,13 +1,13 @@
-debugbuildpanel_armour | Armour | Броня
-debugbuildpanel_cable | Cable | Кабель
-debugbuildpanel_damage | Damage | Повреждение
-debugbuildpanel_entity | Entity | Сущность
-debugbuildpanel_equipment | Equipment | Оборудование
-debugbuildpanel_floor | Floor | Пол
-debugbuildpanel_frame | Frame | Рама
-debugbuildpanel_habitation | Habitation | Жилье
-debugbuildpanel_hull | Hull | Корпус
-debugbuildpanel_interior | Interior | Интерьер
-debugbuildpanel_pipe | Pipe | Труба
-debugbuildpanel_scaffold | Scaffold | Каркас
-debugbuildpanel_wall | Wall | Стена
+{"key":"debugbuildpanel_armour","english":"Armour","translation":"Броня"}
+{"key":"debugbuildpanel_cable","english":"Cable","translation":"Кабель"}
+{"key":"debugbuildpanel_damage","english":"Damage","translation":"Повреждение"}
+{"key":"debugbuildpanel_entity","english":"Entity","translation":"Сущность"}
+{"key":"debugbuildpanel_equipment","english":"Equipment","translation":"Оборудование"}
+{"key":"debugbuildpanel_floor","english":"Floor","translation":"Пол"}
+{"key":"debugbuildpanel_frame","english":"Frame","translation":"Рама"}
+{"key":"debugbuildpanel_habitation","english":"Habitation","translation":"Жилье"}
+{"key":"debugbuildpanel_hull","english":"Hull","translation":"Корпус"}
+{"key":"debugbuildpanel_interior","english":"Interior","translation":"Интерьер"}
+{"key":"debugbuildpanel_pipe","english":"Pipe","translation":"Труба"}
+{"key":"debugbuildpanel_scaffold","english":"Scaffold","translation":"Каркас"}
+{"key":"debugbuildpanel_wall","english":"Wall","translation":"Стена"}

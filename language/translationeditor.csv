@@ -1,41 +1,48 @@
-translationeditor_copytoclipboard | Copy | 
-translationeditor_empty | No Manually Approved Translation Yet | 
-translationeditor_empty_original_tooltip1 | Unformatted Approved translation | 
-translationeditor_empty_original_tooltip2 | Formatted Approved translation | 
-translationeditor_empty_original_tooltip3 | As there is no currently approved translation, the game is using the suggested translation above.\n\nIf you think the suggested translation is good, you should copy it into your changes with the "Use This Translation" button.\n\nAfter you submit your changes to us, your translation will then appear as approved in the next game update. | 
-translationeditor_english | English | 
-translationeditor_english_tooltip1 | Unformatted English phrase | Неформатированная английская фраза
-translationeditor_english_tooltip2 | Formatted English phrase | Форматированная английская фраза
-translationeditor_english_tooltip3 | This is what you are translating. | Это то, что вы переводите.
-translationeditor_english_tooltip4 | You cannot change the English phrases. | Вы не можете изменить английские фразы.
-translationeditor_fallback | Suggestion | 
-translationeditor_fallback_tooltip1 | Suggested Translation | 
-translationeditor_fallback_tooltip2 | Formatted Suggested Translation | 
-translationeditor_fallback_tooltip3 | This suggestion needs to be checked that it correctly matches the context of the game.\n\nIt will only be used if there is no "approved" translation. | 
-translationeditor_folder | Open Folder | Открыть Папку
-translationeditor_folder_tooltip | Opens the folder in which your modified translations are saved.\n\n"language.csv" is the file containing your modified translations. | Открывает папку, в которой сохранены ваши измененные переводы.\n\n"language.csv" - это файл, содержащий ваши измененные переводы.
-translationeditor_nenglish | New English | 
-translationeditor_new | New | 
-translationeditor_new_tooltip1 | Unformatted New Translation | 
-translationeditor_new_tooltip2 | Formatted New Translation | 
-translationeditor_new_tooltip3 | This is where you can change the translation.\n\nThis will affect your game only, unless you submit your updated translations to Introversion. | Здесь вы можете изменить перевод.\n\nЭто повлияет только на вашу игру, если вы не отправите обновленные переводы в Introversion.
-translationeditor_none | None | 
-translationeditor_original | Approved | 
-translationeditor_original_tooltip1 | Unformatted Approved Translation | 
-translationeditor_original_tooltip2 | Formatted Approved Translation | 
-translationeditor_original_tooltip3 | This is what is currently used in the game. Even though the translation is "Approved" you can still submit changes to improve it further. | 
-translationeditor_previous | Previous | 
-translationeditor_previousenglish_tooltip1 | Previous English Phrase | 
-translationeditor_previousenglish_tooltip2 | Formatted Previous English phrase | 
-translationeditor_previousenglish_tooltip3 | The English phrase that was used in the previous version of the game. | 
-translationeditor_previoustranslation_tooltip1 | Previous Translation Phrase | 
-translationeditor_previoustranslation_tooltip2 | Formatted Previous Translation phrase | 
-translationeditor_previoustranslation_tooltip3 | Translation of the English phrase that was used in the previous version of the game. | 
-translationeditor_reset | Revert | Вернуть
-translationeditor_reset_tooltip | Resets your modified translation back to the original translation. | Сбрасывает ваш измененный перевод обратно к оригинальному переводу.
-translationeditor_showpreview | Show Preview | 
-translationeditor_unmodified | Unmodified | 
-translationeditor_updated | Updated | 
-translationeditor_usethistranslation | Use This Translation | 
-translationeditor_yourchanges | Your Changes | 
-translationeditor_youredit | Your Change | 
+{"key":"translationeditor_copytoclipboard","english":"Copy","translation":""}
+{"key":"translationeditor_copytoclipboard","english":"Copy To Clipboard","translation":""}
+{"key":"translationeditor_empty","english":"No Manually Approved Translation Yet","translation":""}
+{"key":"translationeditor_empty_original_tooltip1","english":"Unformatted Approved translation","translation":""}
+{"key":"translationeditor_empty_original_tooltip2","english":"Formatted Approved translation","translation":""}
+{"key":"translationeditor_empty_original_tooltip3","english":"As there is no currently approved translation, the game is using the suggested translation above.\\n\\nIf you think the suggested translation is good, you should copy it into your changes with the \"Use This Translation\" button.\\n\\nAfter you submit your changes to us, your translation will then appear as approved in the next game update.","translation":""}
+{"key":"translationeditor_english","english":"English","translation":""}
+{"key":"translationeditor_english_tooltip1","english":"Unformatted English phrase","translation":"Неформатированная английская фраза"}
+{"key":"translationeditor_english_tooltip2","english":"Formatted English phrase","translation":"Форматированная английская фраза"}
+{"key":"translationeditor_english_tooltip3","english":"This is what you are translating.","translation":"Это то, что вы переводите."}
+{"key":"translationeditor_english_tooltip4","english":"You cannot change the English phrases.","translation":"Вы не можете изменить английские фразы."}
+{"key":"translationeditor_fallback","english":"Suggestion","translation":""}
+{"key":"translationeditor_fallback_tooltip1","english":"Suggested Translation","translation":""}
+{"key":"translationeditor_fallback_tooltip2","english":"Formatted Suggested Translation","translation":""}
+{"key":"translationeditor_fallback_tooltip3","english":"This suggestion needs to be checked that it correctly matches the context of the game.\\n\\nIt will only be used if there is no \"approved\" translation.","translation":""}
+{"key":"translationeditor_folder","english":"Open Folder","translation":"Открыть Папку"}
+{"key":"translationeditor_folder_tooltip","english":"Opens the folder in which your modified translations are saved.\\n\\n\"language.csv\" is the file containing your modified translations.","translation":"Открывает папку, в которой сохранены ваши измененные переводы.\\n\\n\"language.csv\" - это файл, содержащий ваши измененные переводы."}
+{"key":"translationeditor_nenglish","english":"New English","translation":""}
+{"key":"translationeditor_new","english":"New","translation":""}
+{"key":"translationeditor_new_tooltip1","english":"Unformatted New Translation","translation":""}
+{"key":"translationeditor_new_tooltip1","english":"Unformatted new translation","translation":"Неформатированный новый перевод"}
+{"key":"translationeditor_new_tooltip2","english":"Formatted New Translation","translation":""}
+{"key":"translationeditor_new_tooltip2","english":"Formatted new translation","translation":"Форматированный новый перевод"}
+{"key":"translationeditor_new_tooltip3","english":"This is where you can change the translation.\\n\\nThis will affect your game only, unless you submit your updated translations to Introversion.","translation":"Здесь вы можете изменить перевод.\\n\\nЭто повлияет только на вашу игру, если вы не отправите обновленные переводы в Introversion."}
+{"key":"translationeditor_none","english":"None","translation":""}
+{"key":"translationeditor_original","english":"Approved","translation":""}
+{"key":"translationeditor_original_tooltip1","english":"Unformatted Approved Translation","translation":""}
+{"key":"translationeditor_original_tooltip1","english":"Unformatted original translation","translation":"Неформатированный оригинальный перевод"}
+{"key":"translationeditor_original_tooltip2","english":"Formatted Approved Translation","translation":""}
+{"key":"translationeditor_original_tooltip2","english":"Formatted original translation","translation":"Форматированный оригинальный перевод"}
+{"key":"translationeditor_original_tooltip3","english":"This is what is currently used in the game. Even though the translation is \"Approved\" you can still submit changes to improve it further.","translation":""}
+{"key":"translationeditor_original_tooltip3","english":"This is what is currently used in the game.","translation":"Это то, что в настоящее время используется в игре."}
+{"key":"translationeditor_previous","english":"Previous","translation":""}
+{"key":"translationeditor_previousenglish_tooltip1","english":"Previous English Phrase","translation":""}
+{"key":"translationeditor_previousenglish_tooltip2","english":"Formatted Previous English phrase","translation":""}
+{"key":"translationeditor_previousenglish_tooltip3","english":"The English phrase that was used in the previous version of the game.","translation":""}
+{"key":"translationeditor_previoustranslation_tooltip1","english":"Previous Translation Phrase","translation":""}
+{"key":"translationeditor_previoustranslation_tooltip2","english":"Formatted Previous Translation phrase","translation":""}
+{"key":"translationeditor_previoustranslation_tooltip3","english":"Translation of the English phrase that was used in the previous version of the game.","translation":""}
+{"key":"translationeditor_reset","english":"Revert","translation":"Вернуть"}
+{"key":"translationeditor_reset_tooltip","english":"Resets your modified translation back to the original translation.","translation":"Сбрасывает ваш измененный перевод обратно к оригинальному переводу."}
+{"key":"translationeditor_showpreview","english":"Show Preview","translation":""}
+{"key":"translationeditor_unmodified","english":"Unmodified","translation":""}
+{"key":"translationeditor_unmodified","english":"Unmodified Phrases","translation":"Неизмененные Фразы"}
+{"key":"translationeditor_updated","english":"Updated","translation":""}
+{"key":"translationeditor_usethistranslation","english":"Use This Translation","translation":""}
+{"key":"translationeditor_yourchanges","english":"Your Changes","translation":""}
+{"key":"translationeditor_youredit","english":"Your Change","translation":""}

@@ -1,6 +1,6 @@
-loader_auto | AUTO | АВТО
-loader_auto_multiple_fluids | AUTO (MULTIPLE FLUIDS) | 
-loader_auto_resource | AUTO (R*X) | 
-loader_mode_load | Load | Загрузить
-loader_mode_stop | Stop | Стоп
-loader_mode_unload | Unload | Выгрузить
+{"key":"loader_auto","english":"AUTO","translation":"АВТО"}
+{"key":"loader_auto_multiple_fluids","english":"AUTO (MULTIPLE FLUIDS)","translation":""}
+{"key":"loader_auto_resource","english":"AUTO (R*X)","translation":""}
+{"key":"loader_mode_load","english":"Load","translation":"Загрузить"}
+{"key":"loader_mode_stop","english":"Stop","translation":"Стоп"}
+{"key":"loader_mode_unload","english":"Unload","translation":"Выгрузить"}

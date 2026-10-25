@@ -1,5 +1,5 @@
-shipai_closerangeaggressive | AI Controlled - Close Orbit | ИИ Управление - Близкая Орбита
-shipai_fastmovingjet | AI Controlled - Strafing Runs | ИИ Управление - Штурмовые Заходы
-shipai_longrangesniper | AI Controlled - Long-range | ИИ Управление - Дальняя Дистанция
-shipai_mediumrangeorbit | AI Controlled - Medium-range | ИИ Управление - Средняя Дистанция
-shipai_strategyverycloseorbit | AI Controlled - Very Close Orbit | ИИ Управление - Очень Близкая Орбита
+{"key":"shipai_closerangeaggressive","english":"AI Controlled - Close Orbit","translation":"ИИ Управление - Близкая Орбита"}
+{"key":"shipai_fastmovingjet","english":"AI Controlled - Strafing Runs","translation":"ИИ Управление - Штурмовые Заходы"}
+{"key":"shipai_longrangesniper","english":"AI Controlled - Long-range","translation":"ИИ Управление - Дальняя Дистанция"}
+{"key":"shipai_mediumrangeorbit","english":"AI Controlled - Medium-range","translation":"ИИ Управление - Средняя Дистанция"}
+{"key":"shipai_strategyverycloseorbit","english":"AI Controlled - Very Close Orbit","translation":"ИИ Управление - Очень Близкая Орбита"}

@@ -1,23 +1,23 @@
-credits_0 | The Last Starship | The Last Starship
-credits_1 | Created by\nIntroversion Software | Разработано\nIntroversion Software
-credits_10 | Programming\nJim Buck | Программист\nJim Buck
-credits_11 | Programming\nToby O’Donoghue | Программист\nToby O'Donoghue
-credits_12 | Programming\nRaphael Tasseel | Программист\nRaphael Tasseel
-credits_13 | Programming\nThomas White | Программист\nThomas White
-credits_14 | Programming\nJacob Hill | Программист\nJacob Hill
-credits_15 | Marketing\nOliver Arundel | Маркетинг\nOliver Arundel
-credits_16 | Ship Builders\nJohnny Struggles | Создание Кораблей\nJohnny Struggles
-credits_17 | Ship Builders\nJoseph Abboud | Создание Кораблей\nJoseph Abboud
-credits_18 | Ship Builders\nLindsay Fleay (DRx) | Создание Кораблей\nLindsay Fleay (DRx)
-credits_19 | Thanks to everyone\nwho contributed ship designs | Благодарность всем,\nкто внес вклад в дизайн кораблей
-credits_2 | Creative Director\nChris Delay | Креативный Директор\nChris Delay
-credits_20 | Thank you for playing! | Благодарим за игру!
-credits_3 | Managing Director\nMARK MORRIS | Управляющий Директор\nMARK MORRIS
-credits_4 | Technical Director\nJOHN KNOTTENBELT | Технический Директор\nJOHN KNOTTENBELT
-credits_5 | Financial Director\nTHOMAS ARUNDEL | Финансовый Директор\nTHOMAS ARUNDEL
-credits_6 | Art\nJesse Riggle | Художник\nJesse Riggle
-credits_7 | Audio\nAlistair Lindsay | Звук\nAlistair Lindsay
-credits_8 | Programming\nLouis Aldous | Программист\nLouis Aldous
-credits_9 | Programming\nAlfie Chenery | Программист\nAlfie Chenery
-credits_playtime | Playtime | Время Игры
-credits_survivors | Survivors | Выжившие
+{"key":"credits_0","english":"The Last Starship","translation":"The Last Starship"}
+{"key":"credits_1","english":"Created by\\nIntroversion Software","translation":"Разработано\\nIntroversion Software"}
+{"key":"credits_10","english":"Programming\\nJim Buck","translation":"Программист\\nJim Buck"}
+{"key":"credits_11","english":"Programming\\nToby O’Donoghue","translation":"Программист\\nToby O'Donoghue"}
+{"key":"credits_12","english":"Programming\\nRaphael Tasseel","translation":"Программист\\nRaphael Tasseel"}
+{"key":"credits_13","english":"Programming\\nThomas White","translation":"Программист\\nThomas White"}
+{"key":"credits_14","english":"Programming\\nJacob Hill","translation":"Программист\\nJacob Hill"}
+{"key":"credits_15","english":"Marketing\\nOliver Arundel","translation":"Маркетинг\\nOliver Arundel"}
+{"key":"credits_16","english":"Ship Builders\\nJohnny Struggles","translation":"Создание Кораблей\\nJohnny Struggles"}
+{"key":"credits_17","english":"Ship Builders\\nJoseph Abboud","translation":"Создание Кораблей\\nJoseph Abboud"}
+{"key":"credits_18","english":"Ship Builders\\nLindsay Fleay (DRx)","translation":"Создание Кораблей\\nLindsay Fleay (DRx)"}
+{"key":"credits_19","english":"Thanks to everyone\\nwho contributed ship designs","translation":"Благодарность всем,\\nкто внес вклад в дизайн кораблей"}
+{"key":"credits_2","english":"Creative Director\\nChris Delay","translation":"Креативный Директор\\nChris Delay"}
+{"key":"credits_20","english":"Thank you for playing!","translation":"Благодарим за игру!"}
+{"key":"credits_3","english":"Managing Director\\nMARK MORRIS","translation":"Управляющий Директор\\nMARK MORRIS"}
+{"key":"credits_4","english":"Technical Director\\nJOHN KNOTTENBELT","translation":"Технический Директор\\nJOHN KNOTTENBELT"}
+{"key":"credits_5","english":"Financial Director\\nTHOMAS ARUNDEL","translation":"Финансовый Директор\\nTHOMAS ARUNDEL"}
+{"key":"credits_6","english":"Art\\nJesse Riggle","translation":"Художник\\nJesse Riggle"}
+{"key":"credits_7","english":"Audio\\nAlistair Lindsay","translation":"Звук\\nAlistair Lindsay"}
+{"key":"credits_8","english":"Programming\\nLouis Aldous","translation":"Программист\\nLouis Aldous"}
+{"key":"credits_9","english":"Programming\\nAlfie Chenery","translation":"Программист\\nAlfie Chenery"}
+{"key":"credits_playtime","english":"Playtime","translation":"Время Игры"}
+{"key":"credits_survivors","english":"Survivors","translation":"Выжившие"}

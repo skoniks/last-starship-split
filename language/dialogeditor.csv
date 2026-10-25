@@ -1,13 +1,13 @@
-dialogeditor_back | Back | Назад
-dialogeditor_background | BG img | Фоновое Изображение
-dialogeditor_caption | Caption | Заголовок
-dialogeditor_component | Component | Компонент
-dialogeditor_create | Create | Создать
-dialogeditor_front | Front | Передний
-dialogeditor_grid | Grid | Сетка
-dialogeditor_panel | Panel | Панель
-dialogeditor_reloadlanguage | Reload Language | Перезагрузить Язык
-dialogeditor_select | Select | Выбрать
-dialogeditor_test | Test | Тест
-dialogeditor_title | Dialog Editor | Редактор Диалогов
-dialogeditor_window | Window | Окно
+{"key":"dialogeditor_back","english":"Back","translation":"Назад"}
+{"key":"dialogeditor_background","english":"BG img","translation":"Фоновое Изображение"}
+{"key":"dialogeditor_caption","english":"Caption","translation":"Заголовок"}
+{"key":"dialogeditor_component","english":"Component","translation":"Компонент"}
+{"key":"dialogeditor_create","english":"Create","translation":"Создать"}
+{"key":"dialogeditor_front","english":"Front","translation":"Передний"}
+{"key":"dialogeditor_grid","english":"Grid","translation":"Сетка"}
+{"key":"dialogeditor_panel","english":"Panel","translation":"Панель"}
+{"key":"dialogeditor_reloadlanguage","english":"Reload Language","translation":"Перезагрузить Язык"}
+{"key":"dialogeditor_select","english":"Select","translation":"Выбрать"}
+{"key":"dialogeditor_test","english":"Test","translation":"Тест"}
+{"key":"dialogeditor_title","english":"Dialog Editor","translation":"Редактор Диалогов"}
+{"key":"dialogeditor_window","english":"Window","translation":"Окно"}

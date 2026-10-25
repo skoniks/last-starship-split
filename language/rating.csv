@@ -1,15 +1,15 @@
-rating_combat | Combat | Боевой
-rating_criminal | Criminal | Криминальный
-rating_hostilesdestroyed | HOSTILES DESTROYED | ВРАГИ УНИЧТОЖЕНЫ
-rating_humanitarian | Humanitarian | Гуманитарный
-rating_industry | Industry | Промышленный
-rating_logistics | Logistics | Логистический
-rating_rank | RANK *X | РАНГ *X
-rating_rankincreased | RANK INCREASED | РАНГ ПОВЫШЕН
-rating_title_combat | Combat Rating | Боевой Рейтинг
-rating_title_criminal | Criminal Rating | Криминальный Рейтинг
-rating_title_humanitarian | Humanitarian Rating | Гуманитарный Рейтинг
-rating_title_industry | Industry Rating | Промышленный Рейтинг
-rating_title_logistics | Logistics Rating | Логистический Рейтинг
-rating_trade | Trade | Торговля
-rating_word | rating | рейтинг
+{"key":"rating_combat","english":"Combat","translation":"Боевой"}
+{"key":"rating_criminal","english":"Criminal","translation":"Криминальный"}
+{"key":"rating_hostilesdestroyed","english":"HOSTILES DESTROYED","translation":"ВРАГИ УНИЧТОЖЕНЫ"}
+{"key":"rating_humanitarian","english":"Humanitarian","translation":"Гуманитарный"}
+{"key":"rating_industry","english":"Industry","translation":"Промышленный"}
+{"key":"rating_logistics","english":"Logistics","translation":"Логистический"}
+{"key":"rating_rank","english":"RANK *X","translation":"РАНГ *X"}
+{"key":"rating_rankincreased","english":"RANK INCREASED","translation":"РАНГ ПОВЫШЕН"}
+{"key":"rating_title_combat","english":"Combat Rating","translation":"Боевой Рейтинг"}
+{"key":"rating_title_criminal","english":"Criminal Rating","translation":"Криминальный Рейтинг"}
+{"key":"rating_title_humanitarian","english":"Humanitarian Rating","translation":"Гуманитарный Рейтинг"}
+{"key":"rating_title_industry","english":"Industry Rating","translation":"Промышленный Рейтинг"}
+{"key":"rating_title_logistics","english":"Logistics Rating","translation":"Логистический Рейтинг"}
+{"key":"rating_trade","english":"Trade","translation":"Торговля"}
+{"key":"rating_word","english":"rating","translation":"рейтинг"}

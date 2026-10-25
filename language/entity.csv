@@ -1,14 +1,14 @@
-entity_dead | DEAD | МЕРТВ
-entity_death_co2poisoning | Carbon Dioxide | Углекислый Газ
-entity_death_dehydration | Dehydration | Обезвоживание
-entity_death_injury | Fatal Injury | Смертельная Травма
-entity_death_radiation | Radiation | Радиация
-entity_death_starvation | Starvation | Голод
-entity_death_suffocation | Suffocation | Удушье
-entity_dehydrated | DEHYDRATED | ОБЕЗВОЖЕН
-entity_fainted | FAINTED | В ОБМОРОКЕ
-entity_radiation | IRRADIATED | ОБЛУЧЕН
-entity_stunned | STUNNED | ОГЛУШЕН
-entity_suffocating | SUFFOCATING | ЗАДЫХАЕТСЯ
-entity_suitrequired | SUIT REQUIRED | ТРЕБУЕТСЯ СКАФАНДР
-entity_unconscious | UNCONSCIOUS | БЕЗ СОЗНАНИЯ
+{"key":"entity_dead","english":"DEAD","translation":"МЕРТВ"}
+{"key":"entity_death_co2poisoning","english":"Carbon Dioxide","translation":"Углекислый Газ"}
+{"key":"entity_death_dehydration","english":"Dehydration","translation":"Обезвоживание"}
+{"key":"entity_death_injury","english":"Fatal Injury","translation":"Смертельная Травма"}
+{"key":"entity_death_radiation","english":"Radiation","translation":"Радиация"}
+{"key":"entity_death_starvation","english":"Starvation","translation":"Голод"}
+{"key":"entity_death_suffocation","english":"Suffocation","translation":"Удушье"}
+{"key":"entity_dehydrated","english":"DEHYDRATED","translation":"ОБЕЗВОЖЕН"}
+{"key":"entity_fainted","english":"FAINTED","translation":"В ОБМОРОКЕ"}
+{"key":"entity_radiation","english":"IRRADIATED","translation":"ОБЛУЧЕН"}
+{"key":"entity_stunned","english":"STUNNED","translation":"ОГЛУШЕН"}
+{"key":"entity_suffocating","english":"SUFFOCATING","translation":"ЗАДЫХАЕТСЯ"}
+{"key":"entity_suitrequired","english":"SUIT REQUIRED","translation":"ТРЕБУЕТСЯ СКАФАНДР"}
+{"key":"entity_unconscious","english":"UNCONSCIOUS","translation":"БЕЗ СОЗНАНИЯ"}

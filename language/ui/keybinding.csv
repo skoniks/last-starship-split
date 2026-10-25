@@ -1,0 +1,62 @@
+{"key":"keybinding_alttool","english":"Alt Editor Tool","translation":"Доп. Инструмент Редактора"}
+{"key":"keybinding_constructioncables","english":"Construction Cables","translation":""}
+{"key":"keybinding_constructiondismantle","english":"Construction Dismantle","translation":""}
+{"key":"keybinding_constructioninstall","english":"Construction Install","translation":""}
+{"key":"keybinding_constructionpipes","english":"Construction Pipes","translation":""}
+{"key":"keybinding_constructionstorage","english":"Construction Storage","translation":""}
+{"key":"keybinding_decreasethrust","english":"Engines -","translation":"Уменьшить Тягу"}
+{"key":"keybinding_ftljump","english":"FTL Jump","translation":""}
+{"key":"keybinding_gamespeed0","english":"Half Speed","translation":"0.5x Скорость"}
+{"key":"keybinding_gamespeed1","english":"Normal Speed","translation":"1x Скорость"}
+{"key":"keybinding_gamespeed2","english":"2x Speed","translation":"2x Скорость"}
+{"key":"keybinding_gamespeed3","english":"3x Speed","translation":"3x Скорость"}
+{"key":"keybinding_gamespeed4","english":"4x Speed","translation":"4x Скорость"}
+{"key":"keybinding_gamespeed5","english":"5x Speed","translation":"5x Скорость"}
+{"key":"keybinding_gamespeed6","english":"6x Speed","translation":"6x Скорость"}
+{"key":"keybinding_gamespeed7","english":"7x Speed","translation":"7x Скорость"}
+{"key":"keybinding_gamespeed8","english":"8x Speed","translation":"8x Скорость"}
+{"key":"keybinding_gamespeed9","english":"9x Speed","translation":"9x Скорость"}
+{"key":"keybinding_hudscaledown","english":"Decrease HUD Scale","translation":"Уменьшение Масштаба"}
+{"key":"keybinding_hudscaleup","english":"Increase HUD Scale","translation":"Увеличение Масштаба"}
+{"key":"keybinding_increasethrust","english":"Engines +","translation":"Увеличить Тягу"}
+{"key":"keybinding_manoeuvreclockwise","english":"Thrust Clockwise","translation":"Вращение По Часовой"}
+{"key":"keybinding_manoeuvrecounterclockwise","english":"Thrust C-Clockwise","translation":"Вращение Против Часовой"}
+{"key":"keybinding_manoeuvredown","english":"Thrust Down","translation":"Тяга Вниз"}
+{"key":"keybinding_manoeuvreleft","english":"Thrust Left","translation":"Тяга Влево"}
+{"key":"keybinding_manoeuvreright","english":"Thrust Right","translation":"Тяга Вправо"}
+{"key":"keybinding_manoeuvreup","english":"Thrust Up","translation":"Тяга Вверх"}
+{"key":"keybinding_pandown1","english":"Pan Down (1)","translation":"Камера Вниз (1)"}
+{"key":"keybinding_pandown2","english":"Pan Down (2)","translation":"Камера Вниз (2)"}
+{"key":"keybinding_panleft1","english":"Pan Left (1)","translation":"Камера Влево (1)"}
+{"key":"keybinding_panleft2","english":"Pan Left (2)","translation":"Камера Влево (2)"}
+{"key":"keybinding_panright1","english":"Pan Right (1)","translation":"Камера Вправо (1)"}
+{"key":"keybinding_panright2","english":"Pan Right (2)","translation":"Камера Вправо (2)"}
+{"key":"keybinding_panup1","english":"Pan Up (1)","translation":"Камера Вверх (1)"}
+{"key":"keybinding_panup2","english":"Pan Up (2)","translation":"Камера Вверх (2)"}
+{"key":"keybinding_press_a_key","english":"PRESS A KEY","translation":"НАЖМИТЕ КЛАВИШУ"}
+{"key":"keybinding_recentrehome","english":"Recentre Ship","translation":"Центрировать Корабль"}
+{"key":"keybinding_revert","english":"RESET","translation":"СБРОС"}
+{"key":"keybinding_rotateobject","english":"Rotate Object","translation":"Повернуть Объект"}
+{"key":"keybinding_takescreenshot","english":"Screenshot (+ {MetaCtrl})","translation":"Скриншот (+ {MetaCtrl})"}
+{"key":"keybinding_title_action","english":"Action","translation":"Действие"}
+{"key":"keybinding_title_key","english":"Key","translation":"Клавиша"}
+{"key":"keybinding_togglebattlestations","english":"Toggle Battle Stations","translation":""}
+{"key":"keybinding_toggleconstruction","english":"Construction","translation":""}
+{"key":"keybinding_togglecontracts","english":"Contracts","translation":""}
+{"key":"keybinding_toggleeditor","english":"Editor","translation":""}
+{"key":"keybinding_toggleftl","english":"FTL","translation":""}
+{"key":"keybinding_toggleil","english":"Interstellar Logistics","translation":""}
+{"key":"keybinding_togglelogistics","english":"Logistics","translation":""}
+{"key":"keybinding_togglemap1","english":"Map (1)","translation":""}
+{"key":"keybinding_togglemap2","english":"Map (2)","translation":""}
+{"key":"keybinding_toggleorders","english":"Orders","translation":""}
+{"key":"keybinding_togglepause","english":"Pause","translation":"Пауза"}
+{"key":"keybinding_togglepowergrid","english":"Power Grid","translation":""}
+{"key":"keybinding_togglerecipes","english":"Recipes","translation":""}
+{"key":"keybinding_toggleresearch","english":"Research","translation":""}
+{"key":"keybinding_togglestargate","english":"Stargate","translation":""}
+{"key":"keybinding_toggletactical","english":"Toggle Tactical","translation":"Тактический Режим"}
+{"key":"keybinding_toggletrade","english":"Trade","translation":""}
+{"key":"keybinding_translatorwindow","english":"Translator Window","translation":"Окно Переводчика"}
+{"key":"keybinding_zoomin","english":"Zoom In","translation":"Приблизить"}
+{"key":"keybinding_zoomout","english":"Zoom Out","translation":"Отдалить"}

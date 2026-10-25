@@ -1,0 +1,245 @@
+{"key":"hud_abortjump","english":"Abort Jump","translation":"Отменить Прыжок"}
+{"key":"hud_aligning","english":"Aligning...","translation":"Выравнивание..."}
+{"key":"hud_atmosphere_no_oxygen","english":"NO OXYGEN","translation":""}
+{"key":"hud_battlestations","english":"BATTLE STATIONS ({ToggleBattleStations})","translation":""}
+{"key":"hud_battlestations","english":"BATTLE STATIONS","translation":"БОЕВОЙ РЕЖИМ"}
+{"key":"hud_buyship","english":"BUY","translation":"КУПИТЬ"}
+{"key":"hud_byauthor","english":"BY *X","translation":"ОТ *X"}
+{"key":"hud_cabins","english":"Cabins: *X/*Y","translation":"Каюты: *X/*Y"}
+{"key":"hud_camerattracking","english":"Camera Tracking","translation":"Слежение Камеры"}
+{"key":"hud_collector_tooltip_gathering","english":"Gathering *X *Y per second","translation":"Сбор *X *Y в секунду"}
+{"key":"hud_collector_tooltip_totalgathered","english":"TOTAL GATHERED","translation":"ВСЕГО СОБРАНО"}
+{"key":"hud_collector_tooltip_totalgathered","english":"TOTAL GATHERED:","translation":"ВСЕГО СОБРАНО:"}
+{"key":"hud_consumingperhour","english":"Consumed *X in the last day","translation":""}
+{"key":"hud_consumingperhour","english":"Consuming *X per day","translation":"Потребление *X в день"}
+{"key":"hud_consumingperhour","english":"Consuming *X per hour","translation":"Потребление *X в час"}
+{"key":"hud_convertsplittertotrack","english":"[CTRL + RMB] Convert to track","translation":"[CTRL + ПКМ] Преобразовать в конвейер"}
+{"key":"hud_convertsplittertotrack","english":"[RMB] Convert to track","translation":"[ПКМ] Преобразовать в конвейер"}
+{"key":"hud_converttracktosplitter","english":"[CTRL + RMB] Convert to splitter","translation":"[CTRL + ПКМ] Преобразовать в разделитель"}
+{"key":"hud_converttracktosplitter","english":"[RMB] Convert to splitter","translation":"[ПКМ] Преобразовать в разделитель"}
+{"key":"hud_cutloose","english":"CUT LOOSE","translation":""}
+{"key":"hud_cutloosewarning","english":"You will not receive any payment","translation":""}
+{"key":"hud_debugbuild","english":"Debug","translation":"Отладка"}
+{"key":"hud_dehydrationperperson","english":"Dehydration *X per person","translation":"Обезвоживание *X на человека"}
+{"key":"hud_deselectlayer","english":"DESELECT SHIP","translation":"СНЯТЬ ВЫБОР КОРАБЛЯ"}
+{"key":"hud_disabled","english":"Disabled","translation":"Отключено"}
+{"key":"hud_drones","english":"Drones on board: *X","translation":""}
+{"key":"hud_drones_deployed","english":"Drones deployed: *X","translation":""}
+{"key":"hud_drones_deployed","english":"WARNING - DRONES DEPLOYED: *X","translation":"ВНИМАНИЕ - ДРОНЫ В КОСМОСЕ: *X"}
+{"key":"hud_editor","english":"EDITOR","translation":"РЕДАКТОР"}
+{"key":"hud_enabled","english":"Enabled","translation":"Включено"}
+{"key":"hud_endcreativemode","english":"Creative Mode will end","translation":"Творческий Режим завершится"}
+{"key":"hud_endcreativemode2","english":"When you jump to hyperspace","translation":"Когда вы прыгнете в гиперпространство"}
+{"key":"hud_endcreativemodefull","english":"Creative Mode will end when you jump to hyperspace","translation":"Творческий Режим завершится, когда вы прыгнете в гиперпространство"}
+{"key":"hud_endcreativemodewarning","english":"LEAVING CREATIVE MODE","translation":"ВЫХОД ИЗ ТВОРЧЕСКОГО РЕЖИМА"}
+{"key":"hud_fabricateship","english":"FABRICATE A SHIP","translation":"ПОСТРОИТЬ КОРАБЛЬ"}
+{"key":"hud_ftl","english":"FTL Drive","translation":"Гипердвигатель"}
+{"key":"hud_ftl_jump_tooltip","english":"[RMB] Jump ({FTLJump})","translation":""}
+{"key":"hud_ftl_jump_tooltip","english":"[RMB] Jump","translation":"[ПКМ] Прыжок"}
+{"key":"hud_ftlcharging","english":"Charging...","translation":"Зарядка..."}
+{"key":"hud_ftlcooldown","english":"Cooldown...","translation":"Перезарядка..."}
+{"key":"hud_ftlexcluded","english":"Stay","translation":"Остаться"}
+{"key":"hud_ftlincluded","english":"Jump","translation":"Прыгнуть"}
+{"key":"hud_ftlloading","english":"Loading...","translation":"Загрузка..."}
+{"key":"hud_ftlnodestination","english":"NO DESTINATION","translation":"НЕТ ПУНКТА НАЗНАЧЕНИЯ"}
+{"key":"hud_ftlshipblockedfromftl","english":"Ship cannot enter hyperspace with your fleet","translation":"Корабль не может войти в гиперпространство вместе с вашим флотом"}
+{"key":"hud_ftlshipcontrolledbylogistics","english":"Ship is controlled by interstellar logistics","translation":"Корабль управляется межзвездной логистикой"}
+{"key":"hud_ftlshipnotviablewarning","english":"Ship needs either hull or scaffolding to be brought into hyperspace","translation":"Кораблю нужен корпус или каркас для перехода в гиперпространство"}
+{"key":"hud_ftlwaiting","english":"Waiting...","translation":"Ожидание..."}
+{"key":"hud_gun_aft","english":"Aft *X","translation":"*X на Корме"}
+{"key":"hud_gun_aft_short","english":"AFT *X","translation":""}
+{"key":"hud_gun_forward","english":"Forward *X","translation":"*X на Носу"}
+{"key":"hud_gun_forward_short","english":"FWRD *X","translation":""}
+{"key":"hud_gun_gattling","english":"PDC","translation":"ПУЛЕМЕТ"}
+{"key":"hud_gun_port","english":"Port *X","translation":"*X по Левому Борту"}
+{"key":"hud_gun_port_short","english":"PORT *X","translation":""}
+{"key":"hud_gun_starboard","english":"Starboard *X","translation":"*X по Правому Борту"}
+{"key":"hud_gun_starboard_short","english":"STBD *X","translation":""}
+{"key":"hud_habitation_info_cabins","english":"*X / *Y CABINS","translation":""}
+{"key":"hud_habitation_info_sewage","english":"*X SEWAGE","translation":""}
+{"key":"hud_habitation_info_title","english":"HABITATION","translation":""}
+{"key":"hud_hull_integrity","english":"HULL","translation":"КОРПУС"}
+{"key":"hud_hungerperperson","english":"Hunger *X per person","translation":"Голод *X на человека"}
+{"key":"hud_hyperspace","english":"HYPERSPACE","translation":"ГИПЕРПРОСТРАНСТВО"}
+{"key":"hud_idle","english":"Idle","translation":"Ожидание"}
+{"key":"hud_idlecrew","english":"Idle Crew","translation":"Без Работы"}
+{"key":"hud_install","english":"Install","translation":"Установить"}
+{"key":"hud_installqueue_inproduction","english":"QUEUED FOR PRODUCTION","translation":""}
+{"key":"hud_installqueue_missingmaterials","english":"MISSING MATERIALS","translation":""}
+{"key":"hud_installqueue_waitingforbox","english":"NONE AVAILABLE","translation":""}
+{"key":"hud_invalidplacement","english":"INVALID PLACEMENT","translation":"НЕВЕРНОЕ РАЗМЕЩЕНИЕ"}
+{"key":"hud_invalidplacement_tooltip","english":"This equipment can not function properly when installed in this position.","translation":"Это оборудование не может правильно функционировать при установке в этой позиции."}
+{"key":"hud_jump","english":"JUMP","translation":"ПРЫЖОК"}
+{"key":"hud_jumpgalaxies","english":"ESCAPE THE GALAXY","translation":"ПОКИНУТЬ ГАЛАКТИКУ"}
+{"key":"hud_jumpgatedamage","english":"JUMPGATE OFFLINE DUE TO DAMAGE","translation":"ПРЫЖКОВЫЕ ВРАТА ОТКЛЮЧЕНЫ ИЗ-ЗА ПОВРЕЖДЕНИЙ"}
+{"key":"hud_jumpgatedistance","english":"ALL SHIPS MUST ENTER JUMPGATE","translation":"ВСЕ КОРАБЛИ ДОЛЖНЫ ВОЙТИ В ПРЫЖКОВЫЕ ВРАТА"}
+{"key":"hud_jumpgaterequires","english":"JUMPGATE UNAVAILABLE","translation":"ПРЫЖКОВЫЕ ВРАТА НЕДОСТУПНЫ"}
+{"key":"hud_jumpnextsector","english":"JUMP TO NEXT SECTOR","translation":"ПРЫГНУТЬ В СЛЕДУЮЩИЙ СЕКТОР"}
+{"key":"hud_jumpthroughstargate","english":"JUMP THROUGH STARGATE","translation":"ПРЫГНУТЬ ЧЕРЕЗ ЗВЕЗДНЫЕ ВРАТА"}
+{"key":"hud_last_ftl_charge","english":"WARNING - LAST FTL CHARGE\\nCANNOT BUY AT DESTINATION","translation":"ВНИМАНИЕ - ПОСЛЕДНЕЕ ГИПЕРТОПЛИВО\\nНЕВОЗМОЖНО КУПИТЬ В ПУНКТЕ НАЗНАЧЕНИЯ"}
+{"key":"hud_layer_derelict","english":"DERELICT *X","translation":"ЗАБРОШЕННЫЙ *X"}
+{"key":"hud_layer_derelict","english":"DERELICT","translation":"ЗАБРОШЕННЫЙ ОБЪЕКТ"}
+{"key":"hud_layer_forsale","english":"[FOR SALE] *X","translation":"[ПРОДАЕТСЯ] *X"}
+{"key":"hud_layer_forsale","english":"[FOR SALE]","translation":"[ПРОДАЕТСЯ]"}
+{"key":"hud_layer_hostile","english":"HOSTILE *X","translation":"ВРАЖДЕБНЫЙ *X"}
+{"key":"hud_layer_hostile","english":"HOSTILE","translation":"ВРАЖДЕБНЫЕ СИЛЫ"}
+{"key":"hud_layer_neutralexpand","english":"*X NEUTRAL SHIPS","translation":"*X НЕЙТРАЛЬНЫЕ КОРАБЛИ"}
+{"key":"hud_layer_neutralexpandtooltip","english":"Show neutral ships","translation":"Показать нейтральные корабли"}
+{"key":"hud_layer_unnaned_system","english":"UNNAMED","translation":"БЕЗЫМЯННЫЙ"}
+{"key":"hud_maximumoccupancy","english":"Maximum Occupancy: *X/*Y","translation":"Максимальная Вместимость: *X/*Y"}
+{"key":"hud_mission_collection","english":"WARNING - MISSION COLLECTION UNDERWAY","translation":"ВНИМАНИЕ - ВЫПОЛНЯЕТСЯ СБОР ПО МИССИИ"}
+{"key":"hud_noftl","english":"NO FTL FOUND","translation":"ГИПЕРДВИГАТЕЛЬ НЕ НАЙДЕН"}
+{"key":"hud_noships","english":"NO SHIPS SELECTED","translation":"НЕТ ВЫБРАННЫХ КОРАБЛЕЙ"}
+{"key":"hud_open_tooltip","english":"[LMB] Open Window","translation":"[ЛКМ] Открыть Окно"}
+{"key":"hud_orders","english":"ORDERS","translation":"ПРИКАЗЫ"}
+{"key":"hud_outofalignment","english":"Misaligned...","translation":"Не выровнен..."}
+{"key":"hud_overlay_atmosphere","english":"Atmosphere","translation":"Атмосфера"}
+{"key":"hud_overlay_cables","english":"Cables","translation":"Кабели"}
+{"key":"hud_overlay_creativemode","english":"- Creative Mode -","translation":"- Творческий Режим -"}
+{"key":"hud_overlay_exterior","english":"Exterior","translation":"Внешний вид"}
+{"key":"hud_overlay_habitation","english":"Habitation","translation":"Каюты"}
+{"key":"hud_overlay_jobs","english":"Jobs","translation":"Задачи"}
+{"key":"hud_overlay_pipes","english":"Pipes","translation":"Трубы"}
+{"key":"hud_overlay_radiation","english":"Radiation","translation":"Радиация"}
+{"key":"hud_overlay_schematic","english":"Schematic","translation":"Схема"}
+{"key":"hud_overlay_show","english":"Show","translation":"Показать"}
+{"key":"hud_overlay_structure","english":"Structure","translation":"Структура"}
+{"key":"hud_overlay_tactical","english":"Tactical","translation":"Тактика"}
+{"key":"hud_overlay_walls","english":"Walls","translation":"Стены"}
+{"key":"hud_overlays","english":"OVERLAYS","translation":"НАЛОЖЕНИЯ"}
+{"key":"hud_panel_storagecrate_ctrlclick","english":"[CTRL] x9999 Containers","translation":"[CTRL] x9999 Контейнеров"}
+{"key":"hud_panel_storagecrate_leftclick","english":"[LMB] x1 Container","translation":"[ЛКМ] x1 Контейнер"}
+{"key":"hud_panel_storagecrate_permitload","english":"Allow crew members to load this crate.\\n\\nIf disabled then only robot arms can load.","translation":"Разрешить членам экипажа загружать это хранилище.\\n\\nЕсли отключено, загружать могут только руки робота."}
+{"key":"hud_panel_storagecrate_permitunload","english":"Allow crew members to unload from this crate.\\n\\nIf disabled then only robot arms can unload.","translation":"Разрешить членам экипажа разгружать это хранилище.\\n\\nЕсли отключено, разгружать могут только руки робота."}
+{"key":"hud_panel_storagecrate_quantity","english":"The number of items or stacks of the chosen type that is being stored.","translation":"Количество предметов или стопок выбранного типа, которые хранятся."}
+{"key":"hud_panel_storagecrate_selecttype","english":"The type that the storage crate will be storing.","translation":"Тип, который будет хранить хранилище."}
+{"key":"hud_panel_storagecrate_shiftclick","english":"[SHIFT] x5 Containers","translation":"[SHIFT] x5 Контейнеров"}
+{"key":"hud_power_battery","english":"BATTERY","translation":"БАТАРЕЯ"}
+{"key":"hud_power_powershortage","english":"POWER SHORTAGE","translation":"МАЛО ЭНЕРГИИ"}
+{"key":"hud_preparejump","english":"Prepare Jump","translation":"Подготовить Прыжок"}
+{"key":"hud_preparingjump","english":"Preparing Jump","translation":"Подготовка Прыжка"}
+{"key":"hud_producingperday","english":"Produced *X in the last day","translation":""}
+{"key":"hud_ready","english":"READY","translation":"ГОТОВ"}
+{"key":"hud_readytojump","english":"Ready to Jump","translation":"Готов к Прыжку"}
+{"key":"hud_recipes_chooseequipment","english":"CHOOSE EQUIPMENT","translation":"ВЫБРАТЬ ОБОРУДОВАНИЕ"}
+{"key":"hud_recipes_chooseinput","english":"CHOOSE INPUT","translation":"ВЫБРАТЬ ИСТОЧНИК"}
+{"key":"hud_recipes_goback","english":"GO BACK","translation":"ВЕРНУТЬСЯ"}
+{"key":"hud_removefromtrack","english":"[RMB] Remove from track","translation":"[ПКМ] Убрать с конвейера"}
+{"key":"hud_repairarmour","english":"REPAIR ARMOUR","translation":""}
+{"key":"hud_repairhull","english":"REPAIR HULL","translation":""}
+{"key":"hud_repairingarmour","english":"ARMOUR REPAIRS : *X","translation":""}
+{"key":"hud_repairinghull","english":"HULL REPAIRS : *X","translation":""}
+{"key":"hud_repairyourship","english":"You should repair the damage to your ship at a SHIPYARD.","translation":"Вам следует отремонтировать повреждения вашего корабля на ВЕРФИ."}
+{"key":"hud_scoresystem_population","english":"Population","translation":"Население"}
+{"key":"hud_scoresystem_sectorjump","english":"Sector Jump","translation":"Прыжок Через Сектор"}
+{"key":"hud_sellship","english":"SELL YOUR SHIP","translation":"ПРОДАТЬ КОРАБЛЬ"}
+{"key":"hud_shipforsale","english":"SHIP FOR SALE","translation":"КОРАБЛЬ ПРОДАЕТСЯ"}
+{"key":"hud_shipmaximumoccupancy","english":"Ship Maximum Occupancy: *X/*Y","translation":"Максимальная Вместимость Корабля: *X/*Y"}
+{"key":"hud_shipyard","english":"Shipyard","translation":"Верфь"}
+{"key":"hud_shipyard_buildarmour","english":"Install Armour","translation":"Установить Броню"}
+{"key":"hud_shipyard_buildbuyfromlibrary","english":"Buy ship","translation":"Купить корабль"}
+{"key":"hud_shipyard_buildhabitation","english":"Add Habitation Deck","translation":"Добавить Жилой Отсек"}
+{"key":"hud_shipyard_buildhull","english":"Build Hull","translation":"Построить Корпус"}
+{"key":"hud_shipyard_buildinterior","english":"Build Interior","translation":"Построить Интерьер"}
+{"key":"hud_shipyard_buildrepairall","english":"Repair ALL Damage","translation":"Починить ВСЕ Повреждения"}
+{"key":"hud_shipyard_buildrepairone","english":"Repair 100 Damage","translation":"Починить 100 Повреждений"}
+{"key":"hud_shipyard_buildscaffold","english":"Build Scaffold","translation":"Построить Каркас"}
+{"key":"hud_shipyard_costofrepairs","english":"Cost of repairs","translation":"Стоимость ремонта"}
+{"key":"hud_shipyard_repairarmour","english":"Repair Armour","translation":""}
+{"key":"hud_shipyard_repairhull","english":"Repair Hull","translation":""}
+{"key":"hud_shipyard_selectship","english":"Select a ship","translation":"Выберите корабль"}
+{"key":"hud_shipyardservices","english":"SHIPYARD SERVICES","translation":"УСЛУГИ ВЕРФИ"}
+{"key":"hud_spacewalking_crew","english":"WARNING - CREW IN SPACE: *X","translation":"ВНИМАНИЕ - ЭКИПАЖ В КОСМОСЕ: *X"}
+{"key":"hud_status_allocated","english":"Allocated","translation":"Назначено"}
+{"key":"hud_status_inprogress","english":"In Progress","translation":"В Процессе"}
+{"key":"hud_storage","english":"Storage","translation":"Хранилище"}
+{"key":"hud_storage_cargo","english":"ANY CARGO","translation":"ЛЮБОЙ ГРУЗ"}
+{"key":"hud_storage_component","english":"Any Components","translation":"Любые Компоненты"}
+{"key":"hud_storage_equipment","english":"ANY EQUIPMENT","translation":"ОБОРУДОВАНИЕ"}
+{"key":"hud_storagecrate_tooltip_capacity","english":"Capacity: *X","translation":"Вместимость: *X"}
+{"key":"hud_storagecrate_tooltip_dumping","english":"Dumping *X","translation":"Выгрузка *X"}
+{"key":"hud_storagecrate_tooltip_quantity","english":"Quantity: *X","translation":"Количество: *X"}
+{"key":"hud_storagecrate_tooltip_remaining","english":"Quantity Remaining: *X","translation":"Осталось Количество: *X"}
+{"key":"hud_storagecrate_tooltip_storing","english":"Storing *X","translation":"Хранение *X"}
+{"key":"hud_surveyinprogress","english":"WARNING - SECTOR SCAN WILL STOP","translation":""}
+{"key":"hud_surveyinprogress","english":"WARNING - SURVEY WILL BE CANCELLED","translation":"ВНИМАНИЕ - ИССЛЕДОВАНИЕ БУДЕТ ОТМЕНЕНО"}
+{"key":"hud_tactical","english":"TACTICAL ({ToggleTactical})","translation":"ТАКТИКА ({ToggleTactical})"}
+{"key":"hud_tactical","english":"TACTICAL (T)","translation":"ТАКТИКА (T)"}
+{"key":"hud_techtree_tooltip","english":"Researching:","translation":"Исследуется:"}
+{"key":"hud_toandromeda","english":"TO ANDROMEDA GALAXY","translation":"В ГАЛАКТИКУ АНДРОМЕДЫ"}
+{"key":"hud_tooltip_boxed","english":"[BOXED]","translation":"[УПАКОВАНО]"}
+{"key":"hud_tooltip_charge","english":"Charge","translation":"Зарядить"}
+{"key":"hud_tooltip_currentflooring","english":"Current style: *X","translation":"Текущий стиль: *X"}
+{"key":"hud_tooltip_drone_filterwarning","english":"WARNING: This type is excluded in the ship-wide gather filter.","translation":""}
+{"key":"hud_tooltip_drone_permitlaunch","english":"Allow drones to launch from this drone bay. \\n\\nIf disabled, will prevent drones from being loaded.","translation":""}
+{"key":"hud_tooltip_drone_permitreturn","english":"Allow drones to return to this drone bay. \\n\\nIf disabled, will allow drones to drop items off but not dock at this bay.","translation":""}
+{"key":"hud_tooltip_drone_selecttype","english":"The types that can be dropped off.","translation":""}
+{"key":"hud_tooltip_gratedflooring","english":"Grated","translation":"Рельефный"}
+{"key":"hud_tooltip_joinpipes","english":"[LMB] Join Pipes","translation":"[ЛКМ] Соединить Трубы"}
+{"key":"hud_tooltip_leftclickboxdismantle","english":"[SHIFT + LMB Drag] Box dismantle","translation":""}
+{"key":"hud_tooltip_leftclickboxplace","english":"[SHIFT + LMB Drag] Box place","translation":""}
+{"key":"hud_tooltip_leftclickbuild","english":"[LMB] Build","translation":"[ЛКМ] Построить"}
+{"key":"hud_tooltip_leftclickchangerecipe","english":"[LMB] Cycle recipe","translation":"[ЛКМ] Сменить рецепт"}
+{"key":"hud_tooltip_leftclickdismantle","english":"[LMB] Dismantle","translation":"[ЛКМ] Демонтировать"}
+{"key":"hud_tooltip_leftclickerase","english":"[LMB] Erase","translation":"[ЛКМ] Стереть"}
+{"key":"hud_tooltip_leftclickplace","english":"[LMB] Place","translation":"[ЛКМ] Разместить"}
+{"key":"hud_tooltip_leftclickresearch","english":"[LMB] Research","translation":"[ЛКМ] Исследовать"}
+{"key":"hud_tooltip_normalflooring","english":"Normal","translation":"Нормальный"}
+{"key":"hud_tooltip_port_permitincoming","english":"Allow shuttles to drop off cargo at this docking port.","translation":""}
+{"key":"hud_tooltip_port_permitoutgoing","english":"Allow shuttles to collect cargo from this docking port.","translation":""}
+{"key":"hud_tooltip_port_permitpeople","english":"Allow crew and civilians to use this docking port.","translation":""}
+{"key":"hud_tooltip_rightclickboxdelete","english":"[SHIFT + RMB Drag] Box delete","translation":""}
+{"key":"hud_tooltip_rightclickcancel","english":"[RMB] Cancel","translation":"[ПКМ] Отменить"}
+{"key":"hud_tooltip_rightclickclear","english":"[RMB] Clear","translation":"[ПКМ] Очистить"}
+{"key":"hud_tooltip_rightclickdelete","english":"[RMB] Delete","translation":"[ПКМ] Удалить"}
+{"key":"hud_tooltip_rightclickpurge","english":"[RMB] Purge","translation":"[ПКМ] Очистить"}
+{"key":"hud_tooltip_robotarm_selecttype","english":"The types that can be picked up.","translation":""}
+{"key":"hud_tooltip_rotate","english":"[{RotateObject}] Rotate","translation":"[{RotateObject}] Повернуть"}
+{"key":"hud_tooltip_rotate","english":"[R] Rotate","translation":"[R] Поворот"}
+{"key":"hud_tooltip_selectequipment","english":"[LMB/RMB] Select","translation":""}
+{"key":"hud_tooltip_selectequipmentadd","english":"[SHIFT + LMB/RMB] Toggle select","translation":""}
+{"key":"hud_tooltip_selectequipmentdrag","english":"[LMB Drag] Box select","translation":""}
+{"key":"hud_tooltip_selectequipmentnearby","english":"[LMB x2] Select all nearby","translation":""}
+{"key":"hud_tooltip_separatepipes","english":"[LMB] Separate Pipes","translation":"[ЛКМ] Разделить Трубы"}
+{"key":"hud_tooltip_switchflooring","english":"[{RotateObject}] Switch flooring style","translation":"[{RotateObject}] Переключить стиль напольного покрытия"}
+{"key":"hud_totalconsumption","english":"TOTAL CONSUMPTION","translation":"ОБЩЕЕ ПОТРЕБЛЕНИЕ"}
+{"key":"hud_totalproduction","english":"TOTAL PRODUCTION","translation":"ОБЩЕЕ ПРОИЗВОДСТВО"}
+{"key":"hud_trade","english":"Trade","translation":"Торговля"}
+{"key":"hud_trade_hint","english":"You must travel to a Colony or Shipyard to trade","translation":"Вы должны прибыть в Колонию или на Верфь для торговли"}
+{"key":"hud_trade_incoming","english":"WARNING - TRADE INCOMING","translation":"ВНИМАНИЕ - ИДЕТ ТОРГОВЛЯ"}
+{"key":"hud_trade_owed","english":"WARNING - TRADE OWED","translation":"ВНИМАНИЕ - ТОРГОВЫЙ ДОЛГ"}
+{"key":"hud_uninstall","english":"Dismantle","translation":"Демонтировать"}
+{"key":"hud_window_construction","english":"CONSTRUCTION","translation":"СТРОИТЕЛЬСТВО"}
+{"key":"hud_window_construction_tooltip","english":"CONSTRUCTION ({ToggleConstruction})","translation":""}
+{"key":"hud_window_designation","english":"DESIGNATION","translation":"НАЗНАЧЕНИЕ"}
+{"key":"hud_window_editor","english":"EDITOR","translation":"РЕДАКТОР"}
+{"key":"hud_window_editor_tooltip","english":"EDITOR ({ToggleEditor})","translation":""}
+{"key":"hud_window_ftl","english":"FTL","translation":"ГИПЕРПРЫЖОК"}
+{"key":"hud_window_ftl_tooltip","english":"FTL ({ToggleFTL})","translation":""}
+{"key":"hud_window_interstellarlogistics","english":"INTERSTELLAR LOGISTICS","translation":"МЕЖЗВЕЗДНАЯ ЛОГИСТИКА"}
+{"key":"hud_window_interstellarlogistics_tooltip","english":"INTERSTELLAR LOGISTICS ({ToggleIL})","translation":""}
+{"key":"hud_window_logistics","english":"LOGISTICS","translation":"ЛОГИСТИКА"}
+{"key":"hud_window_logistics_tooltip","english":"LOGISTICS ({ToggleLogistics})","translation":""}
+{"key":"hud_window_missions","english":"CONTRACTS","translation":"КОНТРАКТЫ"}
+{"key":"hud_window_missions_tooltip","english":"CONTRACTS ({ToggleContracts})","translation":""}
+{"key":"hud_window_orders","english":"ORDERS","translation":"ПРИКАЗЫ"}
+{"key":"hud_window_orders_tooltip","english":"ORDERS ({ToggleOrders})","translation":""}
+{"key":"hud_window_power","english":"POWERGRID","translation":"ЭНЕРГОСЕТЬ"}
+{"key":"hud_window_power_tooltip","english":"POWERGRID ({TogglePowergrid})","translation":""}
+{"key":"hud_window_recipes","english":"RECIPES","translation":"РЕЦЕПТЫ"}
+{"key":"hud_window_recipes_tooltip","english":"RECIPES ({ToggleRecipes})","translation":""}
+{"key":"hud_window_score","english":"SCORE","translation":"СЧЕТ"}
+{"key":"hud_window_sectormap","english":"SECTOR MAP ({ToggleMap})","translation":"КАРТА СЕКТОРА ({ToggleMap})"}
+{"key":"hud_window_sectormap","english":"SECTOR MAP","translation":"КАРТА СЕКТОРА"}
+{"key":"hud_window_sectormap_tooltip","english":"SECTOR MAP ({ToggleMap1}/{ToggleMap2})","translation":""}
+{"key":"hud_window_shipyard","english":"SHIPYARD","translation":"ВЕРФЬ"}
+{"key":"hud_window_stargate","english":"STARGATE","translation":"ЗВЕЗДНЫЕ ВРАТА"}
+{"key":"hud_window_stargate_tooltip","english":"STARGATE ({ToggleStargate})","translation":""}
+{"key":"hud_window_storage","english":"STORAGE ZONES","translation":"ЗОНЫ ХРАНЕНИЯ"}
+{"key":"hud_window_techtree","english":"RESEARCH","translation":"ИССЛЕДОВАНИЯ"}
+{"key":"hud_window_techtree_tooltip","english":"RESEARCH ({ToggleResearch})","translation":""}
+{"key":"hud_window_trade","english":"TRADE","translation":"ТОРГОВЛЯ"}
+{"key":"hud_window_trade_tooltip","english":"TRADE ({ToggleTrade})","translation":""}
+{"key":"hud_workqueue_installinprogress","english":"INSTALL IN PROGRESS","translation":""}
+{"key":"hud_workqueue_waitingforcrew","english":"WAITING FOR CREW","translation":""}
+{"key":"hud_zones","english":"Zones","translation":"Зоны"}

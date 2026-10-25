@@ -1,2 +1,2 @@
-format_currency | $*X | $*X
-format_per_square | *X / sq | *X / кв
+{"key":"format_currency","english":"$*X","translation":"$*X"}
+{"key":"format_per_square","english":"*X / sq","translation":"*X / кв"}

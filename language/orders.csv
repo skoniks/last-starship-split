@@ -1,5 +1,5 @@
-orders_doors | DOORS | ДВЕРИ
-orders_drones_alltoggle | ALL RESOURCES | 
-orders_drones_materialstoggle | MATERIALS | 
-orders_layerscope | SHIP-SPECIFIC ORDERS | 
-orders_systemscope | SYSTEM-WIDE ORDERS | 
+{"key":"orders_doors","english":"DOORS","translation":"ДВЕРИ"}
+{"key":"orders_drones_alltoggle","english":"ALL RESOURCES","translation":""}
+{"key":"orders_drones_materialstoggle","english":"MATERIALS","translation":""}
+{"key":"orders_layerscope","english":"SHIP-SPECIFIC ORDERS","translation":""}
+{"key":"orders_systemscope","english":"SYSTEM-WIDE ORDERS","translation":""}

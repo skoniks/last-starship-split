@@ -1,24 +1,27 @@
-powergrid_batteryhint | Install some Batteries to store reserve power from your Reactor. | Установите несколько Батарей, чтобы запастись энергией из Реактора.
-powergrid_category_battery | BATTERY | БАТАРЕИ
-powergrid_category_defenses | DEFENSES | ОБОРОНА
-powergrid_category_engines | ENGINES | ДВИГАТЕЛИ
-powergrid_category_ftl | FTL | ГИПЕРДВИГАТЕЛИ
-powergrid_category_industry | INDUSTRY | 
-powergrid_category_lifesupport | LIFE SUPPORT | ЖИЗНЕОБЕСПЕЧЕНИЕ
-powergrid_category_logistics | LOGISTICS | ЛОГИСТИКА
-powergrid_category_mining | MINING | 
-powergrid_category_other | OTHER | ПРОЧЕЕ
-powergrid_category_reactor | REACTOR | РЕАКТОР
-powergrid_category_science | SCIENCE | НАУКА
-powergrid_category_stargate | STARGATE | ЗВЕЗДНЫЕ ВРАТА
-powergrid_category_weapons | WEAPONS | ОРУЖИЕ
-powergrid_controls_decrease | [RMB] Decrease | [ПКМ] Уменьшить
-powergrid_controls_increase | [LMB] Increase | [ЛКМ] Увеличить
-powergrid_controls_shift | [Shift] All | [Shift] Все
-powergrid_controls_title | Power Grid Controls | Управление Энергией
-powergrid_demand | DEMAND: *X MW | ПОТРЕБЛЕНИЕ: *X МВт
-powergrid_output | OUTPUT: *X MW | ВЫРАБОТКА: *X МВт
-powergrid_power | POWER | ПИТАНИЕ
-powergrid_powershortagehint | Your ship cannot generate enough power. Consider installing more Reactors. | Ваш корабль не может вырабатывать достаточно энергии. Рассмотрите возможность установки дополнительных Реакторов.
-powergrid_stored | STORED: *X MJ | НАКОПЛЕНО: *X МДж
-powergrid_title | POWER GRID | ЭНЕРГОСЕТЬ
+{"key":"powergrid_batteryhint","english":"Install some Batteries to store reserve power from your Reactor.","translation":"Установите несколько Батарей, чтобы запастись энергией из Реактора."}
+{"key":"powergrid_category_battery","english":"BATTERY","translation":"БАТАРЕИ"}
+{"key":"powergrid_category_defenses","english":"DEFENSES","translation":"ОБОРОНА"}
+{"key":"powergrid_category_engines","english":"ENGINES","translation":"ДВИГАТЕЛИ"}
+{"key":"powergrid_category_ftl","english":"FTL","translation":"ГИПЕРДВИГАТЕЛИ"}
+{"key":"powergrid_category_industry","english":"INDUSTRY","translation":""}
+{"key":"powergrid_category_lifesupport","english":"LIFE SUPPORT","translation":"ЖИЗНЕОБЕСПЕЧЕНИЕ"}
+{"key":"powergrid_category_logistics","english":"LOGISTICS","translation":"ЛОГИСТИКА"}
+{"key":"powergrid_category_mining","english":"MINING","translation":""}
+{"key":"powergrid_category_other","english":"OTHER","translation":"ПРОЧЕЕ"}
+{"key":"powergrid_category_reactor","english":"REACTOR","translation":"РЕАКТОР"}
+{"key":"powergrid_category_science","english":"SCIENCE","translation":"НАУКА"}
+{"key":"powergrid_category_stargate","english":"STARGATE","translation":"ЗВЕЗДНЫЕ ВРАТА"}
+{"key":"powergrid_category_weapons","english":"WEAPONS","translation":"ОРУЖИЕ"}
+{"key":"powergrid_controls_decrease","english":"[RMB] Decrease","translation":"[ПКМ] Уменьшить"}
+{"key":"powergrid_controls_increase","english":"[LMB] Increase","translation":"[ЛКМ] Увеличить"}
+{"key":"powergrid_controls_shift","english":"[Shift] All","translation":"[Shift] Все"}
+{"key":"powergrid_controls_title","english":"Power Grid Controls","translation":"Управление Энергией"}
+{"key":"powergrid_demand","english":"DEMAND: *X MW","translation":"ПОТРЕБЛЕНИЕ: *X МВт"}
+{"key":"powergrid_demand","english":"DEMAND *X Mw","translation":"ПОТРЕБЛЕНИЕ *X МВт"}
+{"key":"powergrid_output","english":"OUTPUT: *X MW","translation":"ВЫРАБОТКА: *X МВт"}
+{"key":"powergrid_output","english":"OUTPUT *X Mw","translation":"ВЫРАБОТКА *X МВт"}
+{"key":"powergrid_power","english":"POWER","translation":"ПИТАНИЕ"}
+{"key":"powergrid_powershortagehint","english":"Your ship cannot generate enough power. Consider installing more Reactors.","translation":"Ваш корабль не может вырабатывать достаточно энергии. Рассмотрите возможность установки дополнительных Реакторов."}
+{"key":"powergrid_stored","english":"STORED: *X MJ","translation":"НАКОПЛЕНО: *X МДж"}
+{"key":"powergrid_stored","english":"STORED *X Mw","translation":"НАКОПЛЕНО *X МВт"}
+{"key":"powergrid_title","english":"POWER GRID","translation":"ЭНЕРГОСЕТЬ"}

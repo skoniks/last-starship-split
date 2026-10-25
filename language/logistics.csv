@@ -1,112 +1,126 @@
-logistics_condition_all | All Available | Все доступные
-logistics_condition_allbut | All But | Все кроме
-logistics_condition_containers | Containers | Контейнеры
-logistics_condition_none | Amount | Сумма
-logistics_condition_quantity | Quantity | Количество
-logistics_condition_stacks | Stacks | Стаки
-logistics_condition_time | Minutes | Минуты
-logistics_condition_untilstorage | Until on board | 
-logistics_create_order | Create Order | Создайте заказ
-logistics_extras_anycargo | INCLUDE GENERAL STORAGE ZONES | 
-logistics_extras_anycargo_tooltip | If this is checked, general storage zones will be considered alongside type specific storage zones when determining whether storage is full. | 
-logistics_extras_preventdocking | PREVENT DOCKING | 
-logistics_extras_preventdocking_tooltip | If this is checked, the two ships won't dock. Otherwise, this ship will try to dock if the transfer is large or not enough drones are available. | 
-logistics_hidelog | HIDE LOG | СКРЫТЬ ЖУРНАЛ
-logistics_item_none | SELECT ITEM | ВЫБЕРИТЕ ПРЕДМЕТ
-logistics_log_jumped | Travelled to system S*X | Отправился в систему S*X
-logistics_log_jumpedstargate | Travelled to system S*X through Stargate | Переместился в систему S*X через Звездные Врата
-logistics_log_skipped | Skipped order | Пропущенный заказ
-logistics_log_transferfrom | Transferred *X R*Y from L*Z | Переправлено *X R*Y из L*Z
-logistics_log_transferfromfull | Transferred *X R*Y from L*Z - destination storage full | Перенесено *X R*Y с L*Z - хранилище назначения заполнено
-logistics_log_transferfromfull1 | Transferred *X R*Y from L*Z out of the *P desired - destination storage full | Перенес *X R*Y с L*Z на *P - хранилище назначения заполнено
-logistics_log_transferfromnosupply | Transferred *X R*Y from L*Z out of the *P desired - insufficient cargo | Перенес *X R*Y с L*Z из *P желаемое - недостаточный груз
-logistics_log_transferto | Transferred *X R*Y to L*Z | Перенесено *X R*Y на L*Z
-logistics_log_transfertofull | Transferred *X R*Y to L*Z - destination storage full | Перенес *X R*Y на L*Z - хранилище назначения заполнено
-logistics_log_transfertofull1 | Transferred *X R*Y to L*Z out of the *P desired - destination storage full | Перенес *X R*Y на L*Z из *P - хранилище назначения заполнено
-logistics_log_transfertonosupply | Transferred *X R*Y to L*Z out of the *P desired - insufficient cargo | Перенес *X R*Y на L*Z из *P в желаемое - недостаточный груз
-logistics_log_waited | Waited for T*X | Дождался T*X
-logistics_loop | Loop | Зациклить
-logistics_order_buy | Buy | Купить
-logistics_order_collect | Collect Gas | Собрать газ
-logistics_order_goandwait | Go and Wait | Идти и Ждать
-logistics_order_mine | Mine | Добыть
-logistics_order_none | Order Type | Тип заказа
-logistics_order_sell | Sell | Продать
-logistics_order_transferfrom | Transfer From | Передача из
-logistics_order_transferto | Transfer To | Передача в
-logistics_quantity_all | ALL | ВСЕ
-logistics_quantity_full | FULL | ПОЛНЫЙ
-logistics_showlog | SHOW LOG | ПОКАЗАТЬ ЖУРНАЛ
-logistics_status_alert | Alert | Оповещение
-logistics_status_buy | Bought *X R*Y for $*Z | Купил *X R*Y для $*Z
-logistics_status_buynomoney | Bought *X R*Y for $*Z out of the *P desired - insufficient funds | Купил *X R*Y за $*Z из желаемого *P - недостаточно средств
-logistics_status_buynosupply | Bought *X R*Y for $*Z out of the *P desired - insufficient supply | Купил *X R*Y за $*Z из *P желаемого - недостаточное предложение
-logistics_status_buyzero | Bought *X R*Y | Купил *X R*Y
-logistics_status_buyzeronomoney | Bought *X R*Y out of the *Z desired - insufficient funds | Купил *X R*Y из желаемого *Z - недостаточно средств
-logistics_status_buyzeronosupply | Bought *X R*Y out of the *Z desired - insufficient supply | Купил *X R*Y из желаемого *Z - недостаточное предложение
-logistics_status_collect | Collected *X R*Y | Собрано *X R*Y
-logistics_status_collectcontainers | Collected *X R*Y (*Z containers) | Собрано *X R*Y (*Z контейнеры)
-logistics_status_collectcontainersfull | Collected *X R*Y (*Z containers) - storage full | Собранные *X R*Y (*Z контейнеры) - хранилище заполнено
-logistics_status_collectcontainerstime | Collected *X R*Y (*Z containers) in T*P | Собранные *X R*Y (*Z контейнеры) в T*P
-logistics_status_collectcontainerstimefull | Collected *X R*Y (*Z containers) in T*P - storage full | Собранные *X R*Y (*Z контейнеры) в T*P - хранилище заполнено
-logistics_status_collectonboard | Collected *X R*Y (*Z containers on board, *P desired) - storage full | Собрано *X R*Y (*Z контейнеры на борту, *P желательно) - хранилище заполнено
-logistics_status_collectratio | Collected *X R*Y (*Z/*P containers) | Собрано *X R*Y (*Z/*P контейнеры)
-logistics_status_collectratiofull | Collected *X R*Y (*Z/*P containers) - storage full | Собранные *X R*Y (*Z/*P контейнеры) - хранилище заполнено
-logistics_status_default | Order running | Заказ выполняется
-logistics_status_mining | Mined *X R*Y | Добыто *X R*Y
-logistics_status_miningonboard | Mined *X R*Y (*Z stacks on board, *P desired) - storage full | Добыто *X R*Y (*Z стак на борту, *P желателен) - хранилище заполнено
-logistics_status_miningratio | Mined *X R*Y (*Z/*P stacks) | Добыто *X R*Y (*Z/*P стопки)
-logistics_status_miningratiofull | Mined *X R*Y (*Z/*P stacks) - storage full | Добыто *X R*Y (*Z/*P стопки) - хранилище заполнено
-logistics_status_miningstacks | Mined *X R*Y (*Z stacks) | Добыто *X R*Y (*Z стак)
-logistics_status_miningstacksfull | Mined *X R*Y (*Z stacks) - storage full | Добыто *X R*Y (*Z стопки) - хранилище заполнено
-logistics_status_miningstackstime | Mined *X R*Y (*Z stacks) in T*P | Добыто *X R*Y (*Z стопки) в T*P
-logistics_status_miningstackstimefull | Mined *X R*Y (*Z stacks) in T*P - storage full | Добыто *X R*Y (*Z стопки) в T*P - хранилище заполнено
-logistics_status_notlooping | Finished execution (not looping) | Законченное выполнение (не зацикленное)
-logistics_status_notrunning | No order currently running | Ни один заказ в данный момент не выполняется
-logistics_status_sell | Sold *X R*Y for $*Z | Продается *X R*Y для $*Z
-logistics_status_sellnosupply | Sold *X R*Y for $*Z out of the *P desired - insufficient cargo | Продается *X R*Y за $*Z из *P желаемого - недостаточный груз
-logistics_status_sellzero | Sold *X R*Y | Продается *X R*Y
-logistics_status_sellzeronosupply | Sold *X R*Y out of the *P desired - insufficient cargo | Продается *X R*Y из *P желаемого - недостаточный груз
-logistics_status_transferdocking | Docking with L*X to transfer R*Y through docking port | 
-logistics_status_transferdockingpipes | Docking with L*X to transfer R*Y through pipes | 
-logistics_status_transferfrom | Transferring *X R*Y from L*Z | Перемещение *X R*Y из L*Z
-logistics_status_transferfromnosupply | Transferring *X R*Y from L*Z out of the *P desired - insufficient cargo | Перенос *X R*Y с L*Z на *P нежелателен - недостаточно груза
-logistics_status_transferto | Transferring *X R*Y to L*Z | Перемещение *X R*Y в L*Z
-logistics_status_transfertonosupply | Transferring *X R*Y to L*Z out of the *P desired - insufficient cargo | Перенос *X R*Y на L*Z из *P желаемого - недостаточный груз
-logistics_status_travelling | Travelling to system S*X | Путешествие в систему S*X
-logistics_status_travellingaligning | Aligning for jump | 
-logistics_status_travellingdrones | Waiting for *X deployed drones | 
-logistics_status_travellingtrade | Waiting for trade to complete | 
-logistics_status_waiting | Waiting T*X | Ожидание T*X
-logistics_status_warning | Warning | Внимание
-logistics_stuck_default | Orders stuck | Заказы застряли
-logistics_stuck_equipment | L*X does not have a working R*Y | L*X не работает R*Y
-logistics_stuck_gas | System S*X does not have any R*Y to collect | В системе S*X нет ни одного R*Y, который можно было бы собрать
-logistics_stuck_invalidlayer | Ship L*X does not exist | Корабль L*X не существует
-logistics_stuck_invalidsystem | System S*X does not exist | Система S*X не существует
-logistics_stuck_layernotours | Ship L*X is not friendly | Корабль L*X не отличается дружелюбием
-logistics_stuck_patches | System S*X does not have any R*Y to mine | В системе S*X нет ни одного R*Y для Добычи
-logistics_stuck_resources | L*X does not have any R*Ys | L*X не имеет ни одного R*Ys
-logistics_stuck_stargate | Stargate is not ready for jump | Звездные Врата не готовы к прыжку
-logistics_stuck_tradingpost | System S*X does not have a trading post | В системе S*X нет торгового поста
-logistics_stuck_transfer | No valid docking ports or drones to perform transfer | 
-logistics_system_select | LOCATION | ЛОКАЦИЯ
-logistics_tooltip_add | [LMB] Add | [LMB] Добавить
-logistics_tooltip_cancel | [RMB] Cancel | [RMB] Отмена
-logistics_tooltip_cancel_transfer | [RMB] Cancel 1 from *X | [ПКМ] Отменить 1 из *X
-logistics_tooltip_control | [CTRL] x50 | [CTRL] x50
-logistics_tooltip_controlall | [CTRL] ALL | [CTRL] ALL
-logistics_tooltip_controlfull | [CTRL] FULL | [CTRL] FULL
-logistics_tooltip_extrastogglehide | Hide extra options for this order | Скрыть дополнительные опции для этого заказа
-logistics_tooltip_extrastogglenone | No extra options available | Никаких дополнительных опций не предусмотрено
-logistics_tooltip_extrastoggleshow | Show extra options for this order | Покажи дополнительные опции для этого заказа
-logistics_tooltip_loop | Loop execution. If off, will stop after completing the last order. | 
-logistics_tooltip_modifiers | Modifiers: | Модификаторы:
-logistics_tooltip_noitemrequired | This order does not require an item | Этот заказ не требует наличия предмета
-logistics_tooltip_remove_rmb | [RMB] Remove | [RMB] Убрать
-logistics_tooltip_shift | [SHIFT] x5 | [SHIFT] x5
-logistics_tooltip_skiporder | Skip currently executing order | Пропустить текущий заказ
-logistics_tooltip_transfer | [LMB] Transfer 1 from *X | [ЛКМ] Передать 1 из *X
-logistics_transferfrom_none | SOURCE SHIP | КОРАБЛЬ ИСТОЧНИК
-logistics_transferto_none | DESTINATION SHIP | КОРАБЛЬ НАЗНАЧЕНИЯ
-logistics_window_tanks | [STORED IN TANKS] | 
+{"key":"logistics_condition_all","english":"All Available","translation":"Все доступные"}
+{"key":"logistics_condition_allbut","english":"All But","translation":"Все кроме"}
+{"key":"logistics_condition_containers","english":"Containers","translation":"Контейнеры"}
+{"key":"logistics_condition_none","english":"Amount","translation":"Сумма"}
+{"key":"logistics_condition_quantity","english":"Quantity","translation":"Количество"}
+{"key":"logistics_condition_stacks","english":"Stacks","translation":"Стаки"}
+{"key":"logistics_condition_time","english":"Minutes","translation":"Минуты"}
+{"key":"logistics_condition_untilstorage","english":"Until on board","translation":""}
+{"key":"logistics_condition_untilstorage","english":"Quantity on board","translation":"Количество на борту"}
+{"key":"logistics_create_order","english":"Create Order","translation":"Создайте заказ"}
+{"key":"logistics_extras_anycargo","english":"INCLUDE GENERAL STORAGE ZONES","translation":""}
+{"key":"logistics_extras_anycargo","english":"USE ANY CARGO STORAGE","translation":"ИСПОЛЬЗОВАТЬ ЛЮБОЙ СКЛАД"}
+{"key":"logistics_extras_anycargo_tooltip","english":"If this is checked, general storage zones will be considered alongside type specific storage zones when determining whether storage is full.","translation":""}
+{"key":"logistics_extras_preventdocking","english":"PREVENT DOCKING","translation":""}
+{"key":"logistics_extras_preventdocking_tooltip","english":"If this is checked, the two ships won't dock. Otherwise, this ship will try to dock if the transfer is large or not enough drones are available.","translation":""}
+{"key":"logistics_hidelog","english":"HIDE LOG","translation":"СКРЫТЬ ЖУРНАЛ"}
+{"key":"logistics_item_none","english":"SELECT ITEM","translation":"ВЫБЕРИТЕ ПРЕДМЕТ"}
+{"key":"logistics_item_none","english":"Select Item","translation":"Выберите предмет"}
+{"key":"logistics_log_jumped","english":"Travelled to system S*X","translation":"Отправился в систему S*X"}
+{"key":"logistics_log_jumpedstargate","english":"Travelled to system S*X through Stargate","translation":"Переместился в систему S*X через Звездные Врата"}
+{"key":"logistics_log_skipped","english":"Skipped order","translation":"Пропущенный заказ"}
+{"key":"logistics_log_transferfrom","english":"Transferred *X R*Y from L*Z","translation":"Переправлено *X R*Y из L*Z"}
+{"key":"logistics_log_transferfromfull","english":"Transferred *X R*Y from L*Z - destination storage full","translation":"Перенесено *X R*Y с L*Z - хранилище назначения заполнено"}
+{"key":"logistics_log_transferfromfull1","english":"Transferred *X R*Y from L*Z out of the *P desired - destination storage full","translation":"Перенес *X R*Y с L*Z на *P - хранилище назначения заполнено"}
+{"key":"logistics_log_transferfromnosupply","english":"Transferred *X R*Y from L*Z out of the *P desired - insufficient cargo","translation":"Перенес *X R*Y с L*Z из *P желаемое - недостаточный груз"}
+{"key":"logistics_log_transferto","english":"Transferred *X R*Y to L*Z","translation":"Перенесено *X R*Y на L*Z"}
+{"key":"logistics_log_transfertofull","english":"Transferred *X R*Y to L*Z - destination storage full","translation":"Перенес *X R*Y на L*Z - хранилище назначения заполнено"}
+{"key":"logistics_log_transfertofull1","english":"Transferred *X R*Y to L*Z out of the *P desired - destination storage full","translation":"Перенес *X R*Y на L*Z из *P - хранилище назначения заполнено"}
+{"key":"logistics_log_transfertonosupply","english":"Transferred *X R*Y to L*Z out of the *P desired - insufficient cargo","translation":"Перенес *X R*Y на L*Z из *P в желаемое - недостаточный груз"}
+{"key":"logistics_log_waited","english":"Waited for T*X","translation":"Дождался T*X"}
+{"key":"logistics_loop","english":"Loop","translation":"Зациклить"}
+{"key":"logistics_order_buy","english":"Buy","translation":"Купить"}
+{"key":"logistics_order_collect","english":"Collect Gas","translation":"Собрать газ"}
+{"key":"logistics_order_goandwait","english":"Go and Wait","translation":"Идти и Ждать"}
+{"key":"logistics_order_mine","english":"Mine","translation":"Добыть"}
+{"key":"logistics_order_none","english":"Order Type","translation":"Тип заказа"}
+{"key":"logistics_order_sell","english":"Sell","translation":"Продать"}
+{"key":"logistics_order_transferfrom","english":"Transfer From","translation":"Передача из"}
+{"key":"logistics_order_transferto","english":"Transfer To","translation":"Передача в"}
+{"key":"logistics_quantity_all","english":"ALL","translation":"ВСЕ"}
+{"key":"logistics_quantity_full","english":"FULL","translation":"ПОЛНЫЙ"}
+{"key":"logistics_showlog","english":"SHOW LOG","translation":"ПОКАЗАТЬ ЖУРНАЛ"}
+{"key":"logistics_status_alert","english":"Alert","translation":"Оповещение"}
+{"key":"logistics_status_buy","english":"Bought *X R*Y for $*Z","translation":"Купил *X R*Y для $*Z"}
+{"key":"logistics_status_buynomoney","english":"Bought *X R*Y for $*Z out of the *P desired - insufficient funds","translation":"Купил *X R*Y за $*Z из желаемого *P - недостаточно средств"}
+{"key":"logistics_status_buynomoney","english":"out of the *X desired (not enough money)","translation":"из *X желаемого (недостаточно денег)"}
+{"key":"logistics_status_buynomoney","english":"out of the *X ordered (not enough money)","translation":"из заказанных на *X (не хватает денег)"}
+{"key":"logistics_status_buynosupply","english":"Bought *X R*Y for $*Z out of the *P desired - insufficient supply","translation":"Купил *X R*Y за $*Z из *P желаемого - недостаточное предложение"}
+{"key":"logistics_status_buynosupply","english":"out of the *X desired (not enough available)","translation":"из *X желаемого (недостаточно доступного)"}
+{"key":"logistics_status_buynosupply","english":"out of the *X ordered (not enough available)","translation":"из заказанных на *X (не хватает в наличии)"}
+{"key":"logistics_status_buyzero","english":"Bought *X R*Y","translation":"Купил *X R*Y"}
+{"key":"logistics_status_buyzeronomoney","english":"Bought *X R*Y out of the *Z desired - insufficient funds","translation":"Купил *X R*Y из желаемого *Z - недостаточно средств"}
+{"key":"logistics_status_buyzeronosupply","english":"Bought *X R*Y out of the *Z desired - insufficient supply","translation":"Купил *X R*Y из желаемого *Z - недостаточное предложение"}
+{"key":"logistics_status_collect","english":"Collected *X R*Y","translation":"Собрано *X R*Y"}
+{"key":"logistics_status_collectcontainers","english":"Collected *X R*Y (*Z containers)","translation":"Собрано *X R*Y (*Z контейнеры)"}
+{"key":"logistics_status_collectcontainers","english":"(*X/*Y containers)","translation":"(*X/*Y контейнеры)"}
+{"key":"logistics_status_collectcontainersfull","english":"Collected *X R*Y (*Z containers) - storage full","translation":"Собранные *X R*Y (*Z контейнеры) - хранилище заполнено"}
+{"key":"logistics_status_collectcontainerstime","english":"Collected *X R*Y (*Z containers) in T*P","translation":"Собранные *X R*Y (*Z контейнеры) в T*P"}
+{"key":"logistics_status_collectcontainerstimefull","english":"Collected *X R*Y (*Z containers) in T*P - storage full","translation":"Собранные *X R*Y (*Z контейнеры) в T*P - хранилище заполнено"}
+{"key":"logistics_status_collectonboard","english":"Collected *X R*Y (*Z containers on board, *P desired) - storage full","translation":"Собрано *X R*Y (*Z контейнеры на борту, *P желательно) - хранилище заполнено"}
+{"key":"logistics_status_collectratio","english":"Collected *X R*Y (*Z/*P containers)","translation":"Собрано *X R*Y (*Z/*P контейнеры)"}
+{"key":"logistics_status_collectratiofull","english":"Collected *X R*Y (*Z/*P containers) - storage full","translation":"Собранные *X R*Y (*Z/*P контейнеры) - хранилище заполнено"}
+{"key":"logistics_status_default","english":"Order running","translation":"Заказ выполняется"}
+{"key":"logistics_status_mining","english":"Mined *X R*Y","translation":"Добыто *X R*Y"}
+{"key":"logistics_status_miningonboard","english":"Mined *X R*Y (*Z stacks on board, *P desired) - storage full","translation":"Добыто *X R*Y (*Z стак на борту, *P желателен) - хранилище заполнено"}
+{"key":"logistics_status_miningratio","english":"Mined *X R*Y (*Z/*P stacks)","translation":"Добыто *X R*Y (*Z/*P стопки)"}
+{"key":"logistics_status_miningratiofull","english":"Mined *X R*Y (*Z/*P stacks) - storage full","translation":"Добыто *X R*Y (*Z/*P стопки) - хранилище заполнено"}
+{"key":"logistics_status_miningstacks","english":"Mined *X R*Y (*Z stacks)","translation":"Добыто *X R*Y (*Z стак)"}
+{"key":"logistics_status_miningstacks","english":"(*X/*Y stacks)","translation":"(*X/*Y стопки)"}
+{"key":"logistics_status_miningstacksfull","english":"Mined *X R*Y (*Z stacks) - storage full","translation":"Добыто *X R*Y (*Z стопки) - хранилище заполнено"}
+{"key":"logistics_status_miningstackstime","english":"Mined *X R*Y (*Z stacks) in T*P","translation":"Добыто *X R*Y (*Z стопки) в T*P"}
+{"key":"logistics_status_miningstackstimefull","english":"Mined *X R*Y (*Z stacks) in T*P - storage full","translation":"Добыто *X R*Y (*Z стопки) в T*P - хранилище заполнено"}
+{"key":"logistics_status_notlooping","english":"Finished execution (not looping)","translation":"Законченное выполнение (не зацикленное)"}
+{"key":"logistics_status_notrunning","english":"No order currently running","translation":"Ни один заказ в данный момент не выполняется"}
+{"key":"logistics_status_sell","english":"Sold *X R*Y for $*Z","translation":"Продается *X R*Y для $*Z"}
+{"key":"logistics_status_sellnosupply","english":"Sold *X R*Y for $*Z out of the *P desired - insufficient cargo","translation":"Продается *X R*Y за $*Z из *P желаемого - недостаточный груз"}
+{"key":"logistics_status_sellnosupply","english":"out of the *X desired (not enough available)","translation":"из *X желаемого (недостаточно доступного)"}
+{"key":"logistics_status_sellnosupply","english":"out of the *X ordered (not enough available)","translation":"из заказанных на *X (не хватает в наличии)"}
+{"key":"logistics_status_sellzero","english":"Sold *X R*Y","translation":"Продается *X R*Y"}
+{"key":"logistics_status_sellzeronosupply","english":"Sold *X R*Y out of the *P desired - insufficient cargo","translation":"Продается *X R*Y из *P желаемого - недостаточный груз"}
+{"key":"logistics_status_transferdocking","english":"Docking with L*X to transfer R*Y through docking port","translation":""}
+{"key":"logistics_status_transferdockingpipes","english":"Docking with L*X to transfer R*Y through pipes","translation":""}
+{"key":"logistics_status_transferfrom","english":"Transferring *X R*Y from L*Z","translation":"Перемещение *X R*Y из L*Z"}
+{"key":"logistics_status_transferfrom","english":"Transfering *X R*Y from L*Z","translation":"Передача *X R*Y из L*Z"}
+{"key":"logistics_status_transferfromnosupply","english":"Transferring *X R*Y from L*Z out of the *P desired - insufficient cargo","translation":"Перенос *X R*Y с L*Z на *P нежелателен - недостаточно груза"}
+{"key":"logistics_status_transferto","english":"Transferring *X R*Y to L*Z","translation":"Перемещение *X R*Y в L*Z"}
+{"key":"logistics_status_transferto","english":"Transfering *X R*Y to L*Z","translation":"Передача *X R*Y в L*Z"}
+{"key":"logistics_status_transfertonosupply","english":"Transferring *X R*Y to L*Z out of the *P desired - insufficient cargo","translation":"Перенос *X R*Y на L*Z из *P желаемого - недостаточный груз"}
+{"key":"logistics_status_travelling","english":"Travelling to system S*X","translation":"Путешествие в систему S*X"}
+{"key":"logistics_status_travellingaligning","english":"Aligning for jump","translation":""}
+{"key":"logistics_status_travellingdrones","english":"Waiting for *X deployed drones","translation":""}
+{"key":"logistics_status_travellingtrade","english":"Waiting for trade to complete","translation":""}
+{"key":"logistics_status_waiting","english":"Waiting T*X","translation":"Ожидание T*X"}
+{"key":"logistics_status_warning","english":"Warning","translation":"Внимание"}
+{"key":"logistics_stuck_default","english":"Orders stuck","translation":"Заказы застряли"}
+{"key":"logistics_stuck_equipment","english":"L*X does not have a working R*Y","translation":"L*X не работает R*Y"}
+{"key":"logistics_stuck_gas","english":"System S*X does not have any R*Y to collect","translation":"В системе S*X нет ни одного R*Y, который можно было бы собрать"}
+{"key":"logistics_stuck_invalidlayer","english":"Ship L*X does not exist","translation":"Корабль L*X не существует"}
+{"key":"logistics_stuck_invalidsystem","english":"System S*X does not exist","translation":"Система S*X не существует"}
+{"key":"logistics_stuck_layernotours","english":"Ship L*X is not friendly","translation":"Корабль L*X не отличается дружелюбием"}
+{"key":"logistics_stuck_patches","english":"System S*X does not have any R*Y to mine","translation":"В системе S*X нет ни одного R*Y для Добычи"}
+{"key":"logistics_stuck_resources","english":"L*X does not have any R*Ys","translation":"L*X не имеет ни одного R*Ys"}
+{"key":"logistics_stuck_stargate","english":"Stargate is not ready for jump","translation":"Звездные Врата не готовы к прыжку"}
+{"key":"logistics_stuck_tradingpost","english":"System S*X does not have a trading post","translation":"В системе S*X нет торгового поста"}
+{"key":"logistics_stuck_transfer","english":"No valid docking ports or drones to perform transfer","translation":""}
+{"key":"logistics_system_select","english":"LOCATION","translation":"ЛОКАЦИЯ"}
+{"key":"logistics_tooltip_add","english":"[LMB] Add","translation":"[LMB] Добавить"}
+{"key":"logistics_tooltip_cancel","english":"[RMB] Cancel","translation":"[RMB] Отмена"}
+{"key":"logistics_tooltip_cancel_transfer","english":"[RMB] Cancel 1 from *X","translation":"[ПКМ] Отменить 1 из *X"}
+{"key":"logistics_tooltip_control","english":"[CTRL] x50","translation":"[CTRL] x50"}
+{"key":"logistics_tooltip_controlall","english":"[CTRL] ALL","translation":"[CTRL] ALL"}
+{"key":"logistics_tooltip_controlfull","english":"[CTRL] FULL","translation":"[CTRL] FULL"}
+{"key":"logistics_tooltip_extrastogglehide","english":"Hide extra options for this order","translation":"Скрыть дополнительные опции для этого заказа"}
+{"key":"logistics_tooltip_extrastogglenone","english":"No extra options available","translation":"Никаких дополнительных опций не предусмотрено"}
+{"key":"logistics_tooltip_extrastoggleshow","english":"Show extra options for this order","translation":"Покажи дополнительные опции для этого заказа"}
+{"key":"logistics_tooltip_loop","english":"Loop execution. If off, will stop after completing the last order.","translation":""}
+{"key":"logistics_tooltip_loop","english":"Loop execution","translation":"Зациклить выполнение"}
+{"key":"logistics_tooltip_modifiers","english":"Modifiers:","translation":"Модификаторы:"}
+{"key":"logistics_tooltip_noitemrequired","english":"This order does not require an item","translation":"Этот заказ не требует наличия предмета"}
+{"key":"logistics_tooltip_remove_rmb","english":"[RMB] Remove","translation":"[RMB] Убрать"}
+{"key":"logistics_tooltip_shift","english":"[SHIFT] x5","translation":"[SHIFT] x5"}
+{"key":"logistics_tooltip_skiporder","english":"Skip currently executing order","translation":"Пропустить текущий заказ"}
+{"key":"logistics_tooltip_transfer","english":"[LMB] Transfer 1 from *X","translation":"[ЛКМ] Передать 1 из *X"}
+{"key":"logistics_transferfrom_none","english":"SOURCE SHIP","translation":"КОРАБЛЬ ИСТОЧНИК"}
+{"key":"logistics_transferto_none","english":"DESTINATION SHIP","translation":"КОРАБЛЬ НАЗНАЧЕНИЯ"}
+{"key":"logistics_window_tanks","english":"[STORED IN TANKS]","translation":""}

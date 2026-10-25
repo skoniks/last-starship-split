@@ -1,30 +1,30 @@
-dialog_add | Add | Добавить
-dialog_cancel | Cancel | Отмена
-dialog_close | Close | Закрыть
-dialog_closed | Closed | Закрыто
-dialog_delete | Delete | Удалить
-dialog_down | Down | Вниз
-dialog_exit | Exit | Выход
-dialog_h | H | H
-dialog_height | Height | Высота
-dialog_high | High | Высокий
-dialog_load | Load | Загрузить
-dialog_loading | Loading... | Загрузка...
-dialog_low | Low | Низкий
-dialog_medium | Medium | Средний
-dialog_name | Name | Название
-dialog_new | New | Новый
-dialog_no | No | Нет
-dialog_none | None | Нет
-dialog_ok | Ok | Ок
-dialog_open | Open | Открыть
-dialog_save | Save | Сохранить
-dialog_saveas | Save As | Сохранить Как
-dialog_type | Type | Тип
-dialog_up | Up | Вверх
-dialog_w | W | W
-dialog_width | Width | Ширина
-dialog_x | X | X
-dialog_y | Y | Y
-dialog_yes | Yes | Да
-dialog_z | Z | Z
+{"key":"dialog_add","english":"Add","translation":"Добавить"}
+{"key":"dialog_cancel","english":"Cancel","translation":"Отмена"}
+{"key":"dialog_close","english":"Close","translation":"Закрыть"}
+{"key":"dialog_closed","english":"Closed","translation":"Закрыто"}
+{"key":"dialog_delete","english":"Delete","translation":"Удалить"}
+{"key":"dialog_down","english":"Down","translation":"Вниз"}
+{"key":"dialog_exit","english":"Exit","translation":"Выход"}
+{"key":"dialog_h","english":"H","translation":"H"}
+{"key":"dialog_height","english":"Height","translation":"Высота"}
+{"key":"dialog_high","english":"High","translation":"Высокий"}
+{"key":"dialog_load","english":"Load","translation":"Загрузить"}
+{"key":"dialog_loading","english":"Loading...","translation":"Загрузка..."}
+{"key":"dialog_low","english":"Low","translation":"Низкий"}
+{"key":"dialog_medium","english":"Medium","translation":"Средний"}
+{"key":"dialog_name","english":"Name","translation":"Название"}
+{"key":"dialog_new","english":"New","translation":"Новый"}
+{"key":"dialog_no","english":"No","translation":"Нет"}
+{"key":"dialog_none","english":"None","translation":"Нет"}
+{"key":"dialog_ok","english":"Ok","translation":"Ок"}
+{"key":"dialog_open","english":"Open","translation":"Открыть"}
+{"key":"dialog_save","english":"Save","translation":"Сохранить"}
+{"key":"dialog_saveas","english":"Save As","translation":"Сохранить Как"}
+{"key":"dialog_type","english":"Type","translation":"Тип"}
+{"key":"dialog_up","english":"Up","translation":"Вверх"}
+{"key":"dialog_w","english":"W","translation":"W"}
+{"key":"dialog_width","english":"Width","translation":"Ширина"}
+{"key":"dialog_x","english":"X","translation":"X"}
+{"key":"dialog_y","english":"Y","translation":"Y"}
+{"key":"dialog_yes","english":"Yes","translation":"Да"}
+{"key":"dialog_z","english":"Z","translation":"Z"}

@@ -1,27 +1,27 @@
-galaxymap_civilians | CIVILIANS | ГРАЖДАНСКИЕ
-galaxymap_colony | COLONY | КОЛОНИЯ
-galaxymap_comet | COMET | КОМЕТА
-galaxymap_darkmode | Dark Mode | Темный режим
-galaxymap_demo | DEMO | ДЕМО
-galaxymap_derelict | DERELICT | ОБЛОМКИ
-galaxymap_distresscall | DISTRESS CALL | СИГНАЛ БЕДСТВИЯ
-galaxymap_endof | END OF | КОНЕЦ
-galaxymap_entrysystem | Arrival | Прибытие
-galaxymap_exitsystem | To Next Sector | В Следующий Сектор
-galaxymap_fleet | YOU ARE HERE | ВЫ ЗДЕСЬ
-galaxymap_fortress | FORTRESS | КРЕПОСТЬ
-galaxymap_hostile | HOSTILES | ВРАГИ
-galaxymap_jumpgate | JUMPGATE | ПРЫЖКОВЫЕ ВРАТА
-galaxymap_lightmode | Light Mode | Светлый режим
-galaxymap_noescape | NO ESCAPE | НЕТ ВЫХОДА
-galaxymap_objectives | SECTOR CONTRACTS | КОНТРАКТЫ СЕКТОРА
-galaxymap_playtest | PLAYTEST | ТЕСТИРОВАНИЕ
-galaxymap_sectorgone | LOST TO THE ANOMALY | ПОГЛОЩЕНО АНОМАЛИЕЙ
-galaxymap_sectornumber | SECTOR *X | СЕКТОР *X
-galaxymap_shipyard | SHIPYARD | ВЕРФЬ
-galaxymap_starbase | STARBASE | ЗВЕЗДНАЯ БАЗА
-galaxymap_stargate | STARGATE | ЗВЕЗДНЫЕ ВРАТА
-galaxymap_survivalexit | Reach the STARGATE! | Доберитесь до ЗВЕЗДНЫХ ВРАТ!
-galaxymap_switchsector | Switch Sector View | Переключить Вид Сектора
-galaxymap_title | SECTOR MAP | КАРТА СЕКТОРА
-galaxymap_unreachable | UNREACHABLE | НЕДОСТУПНО
+{"key":"galaxymap_civilians","english":"CIVILIANS","translation":"ГРАЖДАНСКИЕ"}
+{"key":"galaxymap_colony","english":"COLONY","translation":"КОЛОНИЯ"}
+{"key":"galaxymap_comet","english":"COMET","translation":"КОМЕТА"}
+{"key":"galaxymap_darkmode","english":"Dark Mode","translation":"Темный режим"}
+{"key":"galaxymap_demo","english":"DEMO","translation":"ДЕМО"}
+{"key":"galaxymap_derelict","english":"DERELICT","translation":"ОБЛОМКИ"}
+{"key":"galaxymap_distresscall","english":"DISTRESS CALL","translation":"СИГНАЛ БЕДСТВИЯ"}
+{"key":"galaxymap_endof","english":"END OF","translation":"КОНЕЦ"}
+{"key":"galaxymap_entrysystem","english":"Arrival","translation":"Прибытие"}
+{"key":"galaxymap_exitsystem","english":"To Next Sector","translation":"В Следующий Сектор"}
+{"key":"galaxymap_fleet","english":"YOU ARE HERE","translation":"ВЫ ЗДЕСЬ"}
+{"key":"galaxymap_fortress","english":"FORTRESS","translation":"КРЕПОСТЬ"}
+{"key":"galaxymap_hostile","english":"HOSTILES","translation":"ВРАГИ"}
+{"key":"galaxymap_jumpgate","english":"JUMPGATE","translation":"ПРЫЖКОВЫЕ ВРАТА"}
+{"key":"galaxymap_lightmode","english":"Light Mode","translation":"Светлый режим"}
+{"key":"galaxymap_noescape","english":"NO ESCAPE","translation":"НЕТ ВЫХОДА"}
+{"key":"galaxymap_objectives","english":"SECTOR CONTRACTS","translation":"КОНТРАКТЫ СЕКТОРА"}
+{"key":"galaxymap_playtest","english":"PLAYTEST","translation":"ТЕСТИРОВАНИЕ"}
+{"key":"galaxymap_sectorgone","english":"LOST TO THE ANOMALY","translation":"ПОГЛОЩЕНО АНОМАЛИЕЙ"}
+{"key":"galaxymap_sectornumber","english":"SECTOR *X","translation":"СЕКТОР *X"}
+{"key":"galaxymap_shipyard","english":"SHIPYARD","translation":"ВЕРФЬ"}
+{"key":"galaxymap_starbase","english":"STARBASE","translation":"ЗВЕЗДНАЯ БАЗА"}
+{"key":"galaxymap_stargate","english":"STARGATE","translation":"ЗВЕЗДНЫЕ ВРАТА"}
+{"key":"galaxymap_survivalexit","english":"Reach the STARGATE!","translation":"Доберитесь до ЗВЕЗДНЫХ ВРАТ!"}
+{"key":"galaxymap_switchsector","english":"Switch Sector View","translation":"Переключить Вид Сектора"}
+{"key":"galaxymap_title","english":"SECTOR MAP","translation":"КАРТА СЕКТОРА"}
+{"key":"galaxymap_unreachable","english":"UNREACHABLE","translation":"НЕДОСТУПНО"}

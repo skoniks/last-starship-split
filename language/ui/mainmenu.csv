@@ -1,0 +1,43 @@
+{"key":"mainmenu_abandongame","english":"Abandon Game","translation":"Покинуть Игру"}
+{"key":"mainmenu_arena_caption","english":"Create epic space battles between fleets of ships and watch the carnage unfold.","translation":"Создавайте эпические космические сражения между флотами кораблей и наблюдайте за разворачивающейся бойней."}
+{"key":"mainmenu_createship","english":"DEVELOPER Create Ship","translation":"РАЗРАБОТЧИК Создать Корабль"}
+{"key":"mainmenu_exportship","english":"Export Ship","translation":"Экспортировать Корабль"}
+{"key":"mainmenu_gamemode_arena","english":"Arena","translation":"Арена"}
+{"key":"mainmenu_gamemode_arena_tooltip","english":"Create epic space battles between fleets of ships and watch the carnage unfold.","translation":"Создавайте эпические космические сражения между флотами кораблей и наблюдайте за разворачивающейся бойней."}
+{"key":"mainmenu_gamemode_creative","english":"Creative","translation":"Творческий Режим"}
+{"key":"mainmenu_gamemode_creative_tooltip","english":"You have unlimited resources to build any ship you want","translation":"У вас есть неограниченные ресурсы для постройки любого корабля, какого захотите"}
+{"key":"mainmenu_gamemode_freeroam","english":"Free Roam","translation":"Свободная Игра"}
+{"key":"mainmenu_gamemode_freeroam_locked","english":"Build a flight-ready ship in Creative Mode to unlock","translation":"Постройте готовый к полету корабль в Творческом Режиме для разблокировки"}
+{"key":"mainmenu_gamemode_freeroam_tooltip","english":"You are free to pursue any career at your own pace. No anomaly, no stargate.","translation":""}
+{"key":"mainmenu_gamemode_freeroam_tooltip","english":"You are free to persue any career at your own pace. No anomaly, no stargate.","translation":"Вы свободны выбирать любую карьеру в своем темпе. Никаких аномалий, никаких звездных врат."}
+{"key":"mainmenu_gamemode_industry","english":"BOLDLY GO","translation":"СМЕЛО ВПЕРЕД"}
+{"key":"mainmenu_gamemode_industry_old","english":"STARGATE","translation":"ЗВЕЗДНЫЕ ВРАТА"}
+{"key":"mainmenu_gamemode_industry_tooltip","english":"Embark on a new journey through our story-driven sci-fi episodes","translation":"Отправьтесь в новое путешествие по нашим сюжетным научно-фантастическим эпизодам"}
+{"key":"mainmenu_gamemode_industry_tooltip_old","english":"Your aim is to research and build a stargate to Andromeda","translation":"Ваша цель — исследовать и построить звездные врата, ведущие в Андромеду"}
+{"key":"mainmenu_gamemode_survival","english":"Survival","translation":"Выживание"}
+{"key":"mainmenu_gamemode_survival_locked","english":"Complete any story episode in 'Boldly Go' to unlock","translation":"Завершите любой сюжетный эпизод в 'Смело Вперед' для разблокировки"}
+{"key":"mainmenu_gamemode_survival_locked","english":"Complete Phase 2 of the Stargate to unlock","translation":"Завершите вторую фазу Звездных врат, чтобы разблокировать"}
+{"key":"mainmenu_gamemode_survival_tooltip","english":"Stay one step ahead of a devastating anomaly, for as long as you can","translation":"Оставайтесь на шаг впереди разрушительной аномалии так долго, как сможете"}
+{"key":"mainmenu_gamemode_unlocked","english":"UNLOCKED","translation":"РАЗБЛОКИРОВАНО"}
+{"key":"mainmenu_gamemode_unlocked_freeroam","english":"Game Mode: Free Roam","translation":"Режим Игры: Свободная Игра"}
+{"key":"mainmenu_gamemode_unlocked_survival","english":"Game Mode: Survival","translation":"Режим Игры: Выживание"}
+{"key":"mainmenu_importfriendly","english":"Import Friendly Ship","translation":"Импортировать Дружественный Корабль"}
+{"key":"mainmenu_importhostile","english":"Import Hostile Ship","translation":"Импортировать Вражеский Корабль"}
+{"key":"mainmenu_importship","english":"Import Ship","translation":"Импортировать Корабль"}
+{"key":"mainmenu_legal","english":"Privacy / Legal","translation":"Конфиденциальность / Правовая Информация"}
+{"key":"mainmenu_loadgame","english":"Load Game","translation":"Загрузить Игру"}
+{"key":"mainmenu_loadgamedev","english":"DEVELOPER Load Test Game","translation":"РАЗРАБОТЧИК Загрузить Тестовую Игру"}
+{"key":"mainmenu_loadship","english":"DEVELOPER Load Ship","translation":"РАЗРАБОТЧИК Загрузить Корабль"}
+{"key":"mainmenu_newgamea","english":"New Game - Praxis","translation":"Новая Игра - Praxis"}
+{"key":"mainmenu_newgameb","english":"New Game - Sleek","translation":"Новая Игра - Sleek"}
+{"key":"mainmenu_newgamec","english":"New Game - Inner Shapes","translation":"Новая Игра - Inner Shapes"}
+{"key":"mainmenu_newgamed","english":"New Game - Shipyard","translation":"Новая Игра - Shipyard"}
+{"key":"mainmenu_newgamee","english":"New Game - Large Logistics","translation":"Новая Игра - Large Logistics"}
+{"key":"mainmenu_quit","english":"Quit","translation":"Выход"}
+{"key":"mainmenu_savegame","english":"Save Game","translation":"Сохранить Игру"}
+{"key":"mainmenu_stargate_caption","english":"Forge your own path through story driven episodes all around the sector, and take part in the construction of a galactic mega project","translation":"Прокладывайте свой путь через сюжетные эпизоды по всему сектору и примите участие в строительстве галактического мегапроекта"}
+{"key":"mainmenu_stargate_caption_old","english":"Take part in the construction of a galactic megaproject - a STARGATE with enough range to reach our nearest neighbouring galaxy ANDROMEDA","translation":"Примите участие в строительстве галактического мегапроекта - ЗВЕЗДНЫХ ВРАТ с достаточной дальностью, чтобы достичь нашей ближайшей соседней галактики АНДРОМЕДЫ"}
+{"key":"mainmenu_steamworkshop","english":"Steam Workshop","translation":"Мастерская Steam"}
+{"key":"mainmenu_survival_caption","english":"Stay one step ahead of a devastating anomaly that consumes everything in its path, and save as many as you can before it's too late","translation":"Оставайтесь на шаг впереди разрушительной аномалии, поглощающей все на своем пути, и спасите как можно больше, пока не стало слишком поздно"}
+{"key":"mainmenu_title","english":"Main Menu","translation":"Главное Меню"}
+{"key":"mainmenu_tools","english":"Developer Tools","translation":"Инструменты Разработчика"}

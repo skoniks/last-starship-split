@@ -1,4 +1,4 @@
-warning_deliveryblocked | DELIVERY BLOCKED | ДОСТАВКА ЗАБЛОКИРОВАНА
-warning_storagerequired | CREATE STORAGE ZONES | СОЗДАЙТЕ ЗОНЫ ХРАНЕНИЯ
-warning_suitsrequired | SPACESUITS REQUIRED | ТРЕБУЮТСЯ КОСМИЧЕСКИЕ СКАФАНДРЫ
-warning_unbreathable | UNBREATHABLE | НЕПРИГОДНО ДЛЯ ДЫХАНИЯ
+{"key":"warning_deliveryblocked","english":"DELIVERY BLOCKED","translation":"ДОСТАВКА ЗАБЛОКИРОВАНА"}
+{"key":"warning_storagerequired","english":"CREATE STORAGE ZONES","translation":"СОЗДАЙТЕ ЗОНЫ ХРАНЕНИЯ"}
+{"key":"warning_suitsrequired","english":"SPACESUITS REQUIRED","translation":"ТРЕБУЮТСЯ КОСМИЧЕСКИЕ СКАФАНДРЫ"}
+{"key":"warning_unbreathable","english":"UNBREATHABLE","translation":"НЕПРИГОДНО ДЛЯ ДЫХАНИЯ"}

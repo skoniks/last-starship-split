@@ -1,34 +1,59 @@
 const { parse } = require('csv/sync');
-const { readFileSync, writeFileSync, rmSync, mkdirSync } = require('node:fs');
-const { ask, isYes } = require('./utils');
+const { readFileSync, rmSync, mkdirSync, writeFileSync } = require('fs');
+
+const filter = ['OBSOLETE', 'PREVIOUS'];
+const groups = {
+  story: [
+    'wolf',
+    'calltoarms',
+    'rise',
+    'bravenewsector',
+    'thefinalstand',
+    'opentextcrawl',
+    'opentextcrawlindustry',
+    'opentextcrawlstory',
+  ],
+  ui: [
+    'hud',
+    'settings',
+    'mainmenu',
+    'newmainmenu',
+    'keybinding',
+    'toolsmenu',
+    'filedialog',
+  ],
+  // objects: [],
+  // systems: [],
+  // missions: [],
+};
+
+// story/ — ,
+// ui/ — , , , , , ,
+// objects/ — object, equipment, recipe, boost
+// systems/ — logistics, order*, trade, tactical, powergrid, engines, factory, techtree
+// missions/ — mission, missions, objective, scenario
 
 async function bootstrap() {
-  const filter = ['OBSOLETE', 'PREVIOUS'];
-  const shorten = await ask('Combine unusual mode? (y/N) ', 'n').then(isYes);
-  const refactor = await ask('Refactor mode (only filled)? (y/N) ', 'n').then(isYes);
-  const translate = await ask('Translate mode (only empty)? (y/N) ', 'n').then(isYes);
+  const blocks = {};
   const file = readFileSync('./language.csv', 'utf8');
   const data = parse(file, { columns: true, bom: true });
-  //
-  const blocks = {};
   data.sort((a, b) => a.key.localeCompare(b.key));
-  data.forEach(({ state, key, english, translation }) => {
-    if (filter.includes(state)) return;
+  data.filter(({ state }) => filter.includes(state));
+  data.forEach(({ key, english, translation }) => {
     const [name] = key.split('_');
-    if (refactor && !translation) return;
-    if (translate && translation) return;
-    const value = [key, english, translation].join(' | ');
     if (!blocks[name]) blocks[name] = [];
-    blocks[name].push(value);
+    const value = { key, english, translation };
+    blocks[name].push(JSON.stringify(value));
   });
-  //
-  const dir = './' + (translate ? 'translate' : refactor ? 'refactor' : 'language');
+
+  const dir = './language';
   rmSync(dir, { recursive: true, force: true });
-  mkdirSync(dir, { recursive: true });
   for (let [name, lines] of Object.entries(blocks)) {
-    if (shorten && lines.length < 20) name = '_short';
-    const path = dir + '/' + name + '.csv';
-    writeFileSync(path, lines.join('\n') + '\n', {
+    const group = Object.entries(groups) //
+      .find(([, values]) => values.includes(name));
+    const path = dir + (group ? '/' + group[0] : '');
+    mkdirSync(path, { recursive: true });
+    writeFileSync(path + '/' + name + '.csv', lines.join('\n') + '\n', {
       encoding: 'utf8',
     });
   }

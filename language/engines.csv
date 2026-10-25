@@ -1,7 +1,7 @@
-engines_detachall | DETACH ALL | 
-engines_engines | ENGINES | 
-engines_evasion | EVASION | 
-engines_full | FULL | 
-engines_stop | STOP | 
-engines_undock | UNDOCK | 
-engines_velocity | VELOCITY | 
+{"key":"engines_detachall","english":"DETACH ALL","translation":""}
+{"key":"engines_engines","english":"ENGINES","translation":""}
+{"key":"engines_evasion","english":"EVASION","translation":""}
+{"key":"engines_full","english":"FULL","translation":""}
+{"key":"engines_stop","english":"STOP","translation":""}
+{"key":"engines_undock","english":"UNDOCK","translation":""}
+{"key":"engines_velocity","english":"VELOCITY","translation":""}

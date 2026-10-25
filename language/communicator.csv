@@ -1,3 +1,3 @@
-communicator_incomingcall | INCOMING HAIL... | ВХОДЯЩИЙ ВЫЗОВ...
-communicator_newobjective | NEW OBJECTIVE | НОВАЯ МИССИЯ
-communicator_outgoingcall | CALLING... | ВЫЗОВ...
+{"key":"communicator_incomingcall","english":"INCOMING HAIL...","translation":"ВХОДЯЩИЙ ВЫЗОВ..."}
+{"key":"communicator_newobjective","english":"NEW OBJECTIVE","translation":"НОВАЯ МИССИЯ"}
+{"key":"communicator_outgoingcall","english":"CALLING...","translation":"ВЫЗОВ..."}

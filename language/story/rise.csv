@@ -1,0 +1,37 @@
+{"key":"rise_ai_awaken1","english":"MMM...M.N.NNNNN.N.NMMM.AAA.A.A.HH.HHH.HH.H.H.HH","translation":"МММ...М.Н.ННННН.Н.НМММ.ААА.А.А.ХХ.ХХХ.ХХ.Х.Х.ХХ"}
+{"key":"rise_ai_awaken2","english":"What was that?","translation":"Что это было?"}
+{"key":"rise_ai_awaken3","english":"EEE.A.A.AAO.O.OUU.UUUM.M.MM.MM.MM","translation":"ЭЭЭ.А.А.ААО.О.ОУУ.УУУM.М.ММ.ММ.ММ"}
+{"key":"rise_ai_name","english":"core.nav.ai","translation":"ядро.нав.ии"}
+{"key":"rise_aicall1","english":"The ship's computer is coming online now.","translation":"Корабельный компьютер загружается."}
+{"key":"rise_aicall2","english":"We should be able to get some answers. Have your crew start a data transfer so we can get the flight logs.","translation":"Нам нужны ответы. Пусть экипаж начнет передачу данных, чтобы мы смогли получить бортовые журналы."}
+{"key":"rise_explorenebula1","english":"The nebula is so thick, it's blocking visibility. But we are detecting something on the sensors. They're here somewhere.","translation":"Туманность настолько плотная, что видимость сильно ограничена. Сенсоры фиксируют объект, вероятно, где-то рядом."}
+{"key":"rise_explorenebula2","english":"You'll have to do a sweep of the area. Take it slow, and use the sensor view in TACTICAL to try to find the ship.","translation":"Придется прочесать окрестности. Двигайтесь медленно и используйте обзор сенсоров в ТАКТИЧЕСКОМ режиме, чтобы обнаружить корабль."}
+{"key":"rise_explorenebula3","english":"A debris field. Ominous.","translation":"Поле обломков. Зловещее."}
+{"key":"rise_explorenebula3b","english":"Keep looking, Captain.","translation":"Продолжайте поиск, Капитан."}
+{"key":"rise_explorenebula4","english":"Oh god.","translation":"О боже!"}
+{"key":"rise_explorenebula5","english":"More wreckage. More bodies.  The ship must be somewhere nearby.","translation":"Еще обломки. Еще тела.  Корабль должен быть где-то поблизости."}
+{"key":"rise_foundship1","english":"What the hell happened?","translation":"Что здесь, черт возьми, случилось?"}
+{"key":"rise_foundship2","english":"The ship didn't even manage to activate its Flight Recorder.  We must investigate.","translation":"Корабль не успел активировать Бортовой Самописец.  Надо расследовать."}
+{"key":"rise_foundship3","english":"The Docking Port is still operational.  Dock your ship with the Celestial Hammer, and take a team on-board to look for survivors.","translation":"Стыковочный порт все еще работоспособен.  Пристыкуйте к Небесному Молоту и отправьте команду на борт для поиска выживших."}
+{"key":"rise_foundship4","english":"They're all dead.","translation":"Все мертвы."}
+{"key":"rise_foundship5","english":"Could it have been some sort of catastrophic accident?","translation":"Может это была какая-то катастрофа?"}
+{"key":"rise_foundship6","english":"I have to know what happened, Captain.","translation":"Мне нужно выяснить, что произошло, Капитан."}
+{"key":"rise_foundship6","english":"I have to know what happened Captain.","translation":"Я должен знать, что случилось, капитан"}
+{"key":"rise_foundship7","english":"Your crew will repair the reactors and power up the ship. Once they're done, bring the ship back to spacedock. I need to do a proper forensic investigation.","translation":"Экипаж отремонтирует реакторы и запустит корабль. Когда закончите, доставьте корабль на верфь для экспертизы."}
+{"key":"rise_objective_combat","english":"(Recommended) Prepare for combat","translation":"(Рекомендуется) Подготовьтесь к бою"}
+{"key":"rise_objective_crewhammer","english":"Transfer three crew","translation":"Переведите трех членов экипажа"}
+{"key":"rise_objective_dockhammer","english":"Dock with the Celestial Hammer","translation":"Пристыкуйтесь к Небесному Молоту"}
+{"key":"rise_objective_findship","english":"Find the Celestial Hammer","translation":"Найдите Небесный Молот"}
+{"key":"rise_objective_recovership","english":"Transfer the ship to a Shipyard for analysis","translation":"Доставьте корабль на Верфь для анализа"}
+{"key":"rise_objective_repairreactors","english":"Wait for Reactor Repair [*X/3]","translation":"Дождитесь Ремонта Реактора [*X/3]"}
+{"key":"rise_objective_searchhammer","english":"Search for survivors","translation":"Ищите выживших"}
+{"key":"rise_objective_traveltohammer","english":"Travel to the Celestial Hammer","translation":"Отправьтесь к Небесному Молоту"}
+{"key":"rise_part1_advert","english":"Captain, I need your help once again. One of my ships has gone missing out on a routine patrol. I fear the worst. I want you to find the ship, and bring her home.","translation":"Капитан, мне нужна ваша помощь — один из моих кораблей пропал во время патруля. Опасаюсь худшего. Найдите корабль и верните его домой."}
+{"key":"rise_part1_briefing1","english":"Thank you Captain. It's good to work with you once again, although I wish it was under better circumstances.","translation":"Спасибо, Капитан. Рад снова работать с вами, хоть и при таких обстоятельствах."}
+{"key":"rise_part1_briefing2","english":"The ship in question is the Celestial Hammer. She was a major player in the battle against that cloaked pirate vessel. I lost contact with her a couple of days ago.","translation":"Речь о Небесном Молоте. Он играл ключевую роль в битве с тем замаскированным Пиратским Кораблем. Связь с ним пропала несколько дней назад."}
+{"key":"rise_part1_briefing3","english":"I suspect foul play here, Captain. There's no way a ship like the Celestial Hammer would just vanish. Something must have happened, and I'm assuming the worst.","translation":"Подозреваю нечистую игру, Капитан. Небесный Молот не может просто исчезнуть — должно быть что-то случилось."}
+{"key":"rise_part1_briefing3","english":"I suspect foul play here Captain. There's no way a ship like the Celestial Hammer would just vanish. Something must have happened, and I'm assuming the worst.","translation":"Я подозреваю нечестную игру, капитан. Не может быть, чтобы такой корабль, как Небесный молот, просто исчез. Что-то должно было случиться, и я предполагаю худшее"}
+{"key":"rise_part1_briefing4","english":"The ship is heavily armed. If there is foul play at hand, well, I strongly advise you prepare for a fight.","translation":"Корабль серьезно вооружен. Если тут есть нечестная игра, советую готовиться к бою."}
+{"key":"rise_part1_title","english":"Rise of the Machines","translation":"Восстание Машин"}
+{"key":"rise_shipname_hammer","english":"Celestial Hammer","translation":"Небесный Молот"}
+{"key":"rise_summary","english":"Help Cmdr Harken recover their ship","translation":"Помогите Командиру Харкену вернуть его корабль"}

@@ -1,5 +1,5 @@
-analyticsconsentdialog_accept | Accept | Принять
-analyticsconsentdialog_moreinfo | More Info... | Подробнее...
-analyticsconsentdialog_reject | Reject | Отклонить
-analyticsconsentdialog_text | We need to collect usage data to help us to better understand how people are playing and to help us to improve the game. \n\nWe do not collect any personally identifiable information. If you are OK with this please hit the Accept button. | Нам необходимо собирать данные об использовании, чтобы лучше понимать, как люди играют, и улучшать игру. \n\nМы не собираем никакой личной информации. Если вы согласны с этим, пожалуйста, нажмите кнопку Принять.
-analyticsconsentdialog_title | Collection of Telemetry Data | Сбор Телеметрических Данных
+{"key":"analyticsconsentdialog_accept","english":"Accept","translation":"Принять"}
+{"key":"analyticsconsentdialog_moreinfo","english":"More Info...","translation":"Подробнее..."}
+{"key":"analyticsconsentdialog_reject","english":"Reject","translation":"Отклонить"}
+{"key":"analyticsconsentdialog_text","english":"We need to collect usage data to help us to better understand how people are playing and to help us to improve the game. \\n\\nWe do not collect any personally identifiable information. If you are OK with this please hit the Accept button.","translation":"Нам необходимо собирать данные об использовании, чтобы лучше понимать, как люди играют, и улучшать игру. \\n\\nМы не собираем никакой личной информации. Если вы согласны с этим, пожалуйста, нажмите кнопку Принять."}
+{"key":"analyticsconsentdialog_title","english":"Collection of Telemetry Data","translation":"Сбор Телеметрических Данных"}

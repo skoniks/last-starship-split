@@ -1,2 +1,2 @@
-action_closedoors | Close All Doors | Закрыть Все Двери
-action_opendoors | Open All Doors | Открыть Все Двери
+{"key":"action_closedoors","english":"Close All Doors","translation":"Закрыть Все Двери"}
+{"key":"action_opendoors","english":"Open All Doors","translation":"Открыть Все Двери"}

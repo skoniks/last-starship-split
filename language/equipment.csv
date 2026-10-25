@@ -1,53 +1,54 @@
-equipment_blocked | BLOCKED | ЗАБЛОКИРОВАН
-equipment_deselectall | DESELECT ALL | 
-equipment_dockingport_permitincoming | INCOMING CARGO | 
-equipment_dockingport_permitoutgoing | OUTGOING CARGO | 
-equipment_dockingport_permitpeople | CREW AND CIVILIANS | 
-equipment_dronebay_permitlaunch | PERMIT LAUNCH | 
-equipment_dronebay_permitreturn | PERMIT RETURN | 
-equipment_factory_idle | IDLE | 
-equipment_factory_make | Make *X | Произвести *X
-equipment_factory_refine | Refine *X | Обработать *X
-equipment_factory_stop | STOP | ОСТАНОВИТЬ
-equipment_factory_stopped | STOPPED | ОСТАНОВЛЕН
-equipment_multiple_fluids | MULTIPLE FLUIDS | 
-equipment_multiple_names | MULTIPLE NAMES | 
-equipment_multiple_recipes | MULTIPLE RECIPES | 
-equipment_multiple_types | MULTIPLE TYPES | 
-equipment_off | OFF | ВЫКЛ
-equipment_off_amount | OFF(*X) | 
-equipment_on | ON | ВКЛ
-equipment_on_amount | ON(*X) | 
-equipment_on_off_amount | ON(*X) OFF(*Y) | 
-equipment_output | OUTPUT | ВЫХОД
-equipment_power | POWER | ПИТАНИЕ
-equipment_robotarm_forcedrop | FORCE DROP | ПРИНУДИТЕЛЬНЫЙ СБРОС
-equipment_robotarm_nopickup | SELECT TYPE | ВЫБРАТЬ ТИП
-equipment_robotarm_numtypes | *X types | 
-equipment_robotarm_pickupnone | NONE | НЕТ
-equipment_selectall | SELECT ALL | 
-equipment_smelter_smeltany | SMELT ANY | 
-equipment_storagecrate_capacity | CAPACITY: *X | 
-equipment_storagecrate_capacity_mixed | CAPACITY: MIXED | 
-equipment_storagecrate_dumping | DUMPING | СБРОС
-equipment_storagecrate_permitcrewload | CREW LOADING | ЗАГРУЗКА ЭКИПАЖЕМ
-equipment_storagecrate_permitcrewunload | CREW UNLOADING | РАЗГРУЗКА ЭКИПАЖЕМ
-equipment_storagecrate_quantity | STORED: *X/*Y | ХРАНИТСЯ: *X/*Y
-equipment_storagecrate_refill_disable | PRIORITISE CRATE | ПРИОРИТЕТ ХРАНИЛИЩУ
-equipment_storagecrate_refill_enable | PRIORITISE ZONES | ПРИОРИТЕТ ЗОНАМ
-equipment_storagecrate_refill_mixed | MIXED PRIORITIES | 
-equipment_storagetank_draining | DRAINING | 
-equipment_storagetank_draining_storing | STORING(*X) DRAINING(*Y) | 
-equipment_storagetank_notconnected | NOT CONNECTED | 
-equipment_storagetank_storing | STORING | 
-equipment_temperature_short | TEMP | ТЕМПЕРАТУРА
-equipment_typefilter_all | ALL PERMITTED | 
-equipment_typefilter_extras | AND *X MORE | 
-equipment_typefilter_invert | ALL PERMITTED EXCEPT: | 
-equipment_typefilter_multiple | MULTIPLE PERMITTED | 
-equipment_typefilter_none | SELECT PERMITTED | 
-equipment_weaponsconsole_connected | Controlled by Weapons Console | Управляется Центром Управления Оружием
-equipment_weaponsconsole_deselect | NONE | НЕТ
-equipment_weaponsconsole_extradescription | *X Connected weapons | *X Подключенных орудий
-equipment_weaponsconsole_locked | SLOT *X LOCKED | СЛОТ *X ЗАБЛОКИРОВАН
-equipment_weaponsconsole_noselection | SELECT WEAPON | ВЫБРАТЬ ОРУЖИЕ
+{"key":"equipment_blocked","english":"BLOCKED","translation":"ЗАБЛОКИРОВАН"}
+{"key":"equipment_deselectall","english":"DESELECT ALL","translation":""}
+{"key":"equipment_dockingport_permitincoming","english":"INCOMING CARGO","translation":""}
+{"key":"equipment_dockingport_permitoutgoing","english":"OUTGOING CARGO","translation":""}
+{"key":"equipment_dockingport_permitpeople","english":"CREW AND CIVILIANS","translation":""}
+{"key":"equipment_dronebay_permitlaunch","english":"PERMIT LAUNCH","translation":""}
+{"key":"equipment_dronebay_permitreturn","english":"PERMIT RETURN","translation":""}
+{"key":"equipment_factory_idle","english":"IDLE","translation":""}
+{"key":"equipment_factory_make","english":"Make *X","translation":"Произвести *X"}
+{"key":"equipment_factory_refine","english":"Refine *X","translation":"Обработать *X"}
+{"key":"equipment_factory_stop","english":"STOP","translation":"ОСТАНОВИТЬ"}
+{"key":"equipment_factory_stopped","english":"STOPPED","translation":"ОСТАНОВЛЕН"}
+{"key":"equipment_multiple_fluids","english":"MULTIPLE FLUIDS","translation":""}
+{"key":"equipment_multiple_names","english":"MULTIPLE NAMES","translation":""}
+{"key":"equipment_multiple_recipes","english":"MULTIPLE RECIPES","translation":""}
+{"key":"equipment_multiple_types","english":"MULTIPLE TYPES","translation":""}
+{"key":"equipment_off","english":"OFF","translation":"ВЫКЛ"}
+{"key":"equipment_off_amount","english":"OFF(*X)","translation":""}
+{"key":"equipment_on","english":"ON","translation":"ВКЛ"}
+{"key":"equipment_on_amount","english":"ON(*X)","translation":""}
+{"key":"equipment_on_off_amount","english":"ON(*X) OFF(*Y)","translation":""}
+{"key":"equipment_output","english":"OUTPUT","translation":"ВЫХОД"}
+{"key":"equipment_power","english":"POWER","translation":"ПИТАНИЕ"}
+{"key":"equipment_robotarm_forcedrop","english":"FORCE DROP","translation":"ПРИНУДИТЕЛЬНЫЙ СБРОС"}
+{"key":"equipment_robotarm_nopickup","english":"SELECT TYPE","translation":"ВЫБРАТЬ ТИП"}
+{"key":"equipment_robotarm_numtypes","english":"*X types","translation":""}
+{"key":"equipment_robotarm_pickupnone","english":"NONE","translation":"НЕТ"}
+{"key":"equipment_selectall","english":"SELECT ALL","translation":""}
+{"key":"equipment_smelter_smeltany","english":"SMELT ANY","translation":""}
+{"key":"equipment_storagecrate_capacity","english":"CAPACITY: *X","translation":""}
+{"key":"equipment_storagecrate_capacity","english":"CAPACITY","translation":"ВМЕСТИМОСТЬ"}
+{"key":"equipment_storagecrate_capacity_mixed","english":"CAPACITY: MIXED","translation":""}
+{"key":"equipment_storagecrate_dumping","english":"DUMPING","translation":"СБРОС"}
+{"key":"equipment_storagecrate_permitcrewload","english":"CREW LOADING","translation":"ЗАГРУЗКА ЭКИПАЖЕМ"}
+{"key":"equipment_storagecrate_permitcrewunload","english":"CREW UNLOADING","translation":"РАЗГРУЗКА ЭКИПАЖЕМ"}
+{"key":"equipment_storagecrate_quantity","english":"STORED: *X/*Y","translation":"ХРАНИТСЯ: *X/*Y"}
+{"key":"equipment_storagecrate_refill_disable","english":"PRIORITISE CRATE","translation":"ПРИОРИТЕТ ХРАНИЛИЩУ"}
+{"key":"equipment_storagecrate_refill_enable","english":"PRIORITISE ZONES","translation":"ПРИОРИТЕТ ЗОНАМ"}
+{"key":"equipment_storagecrate_refill_mixed","english":"MIXED PRIORITIES","translation":""}
+{"key":"equipment_storagetank_draining","english":"DRAINING","translation":""}
+{"key":"equipment_storagetank_draining_storing","english":"STORING(*X) DRAINING(*Y)","translation":""}
+{"key":"equipment_storagetank_notconnected","english":"NOT CONNECTED","translation":""}
+{"key":"equipment_storagetank_storing","english":"STORING","translation":""}
+{"key":"equipment_temperature_short","english":"TEMP","translation":"ТЕМПЕРАТУРА"}
+{"key":"equipment_typefilter_all","english":"ALL PERMITTED","translation":""}
+{"key":"equipment_typefilter_extras","english":"AND *X MORE","translation":""}
+{"key":"equipment_typefilter_invert","english":"ALL PERMITTED EXCEPT:","translation":""}
+{"key":"equipment_typefilter_multiple","english":"MULTIPLE PERMITTED","translation":""}
+{"key":"equipment_typefilter_none","english":"SELECT PERMITTED","translation":""}
+{"key":"equipment_weaponsconsole_connected","english":"Controlled by Weapons Console","translation":"Управляется Центром Управления Оружием"}
+{"key":"equipment_weaponsconsole_deselect","english":"NONE","translation":"НЕТ"}
+{"key":"equipment_weaponsconsole_extradescription","english":"*X Connected weapons","translation":"*X Подключенных орудий"}
+{"key":"equipment_weaponsconsole_locked","english":"SLOT *X LOCKED","translation":"СЛОТ *X ЗАБЛОКИРОВАН"}
+{"key":"equipment_weaponsconsole_noselection","english":"SELECT WEAPON","translation":"ВЫБРАТЬ ОРУЖИЕ"}

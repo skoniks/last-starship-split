@@ -1,7 +1,7 @@
-episode_awardreceived | AWARD RECEIVED | НАГРАДА ПОЛУЧЕНА
-episode_episodecompleted | EPISODE COMPLETED | ЭПИЗОД ЗАВЕРШЕН
-episode_part1 | PART 1 | ЧАСТЬ 1
-episode_part2 | PART 2 | ЧАСТЬ 2
-episode_part3 | PART 3 | ЧАСТЬ 3
-episode_part4 | PART 4 | ЧАСТЬ 4
-episode_part5 | PART 5 | ЧАСТЬ 5
+{"key":"episode_awardreceived","english":"AWARD RECEIVED","translation":"НАГРАДА ПОЛУЧЕНА"}
+{"key":"episode_episodecompleted","english":"EPISODE COMPLETED","translation":"ЭПИЗОД ЗАВЕРШЕН"}
+{"key":"episode_part1","english":"PART 1","translation":"ЧАСТЬ 1"}
+{"key":"episode_part2","english":"PART 2","translation":"ЧАСТЬ 2"}
+{"key":"episode_part3","english":"PART 3","translation":"ЧАСТЬ 3"}
+{"key":"episode_part4","english":"PART 4","translation":"ЧАСТЬ 4"}
+{"key":"episode_part5","english":"PART 5","translation":"ЧАСТЬ 5"}

@@ -1,18 +1,18 @@
-soundeditor_attacktitle | Attack | Атака
-soundeditor_dsptitle | DSP | DSP
-soundeditor_frequencytitle | Frequency | Частота
-soundeditor_instancetitle | Instance Type | Тип Экземпляра
-soundeditor_loopdelaytitle | Loop Delay | Задержка Цикла
-soundeditor_looptitle | Loop Type | Тип Цикла
-soundeditor_mindistancetitle | Min Distance | Мин. Дистанция
-soundeditor_newdsp | Add DSP | Добавить DSP
-soundeditor_nexteventtitle | Next Event | Следующее Событие
-soundeditor_play | Play | Воспроизвести
-soundeditor_positiontitle | Position Type | Тип Позиции
-soundeditor_releasetitle | Release | Освобождение
-soundeditor_soundnametitle | Sound Name | Название Звука
-soundeditor_sourcetypetitle | Sound Type | Тип Звука
-soundeditor_stop | Stop | Стоп
-soundeditor_sustaintitle | Sustain | Поддержка
-soundeditor_title | Sound Editor | Редактор Звука
-soundeditor_volumetitle | Volume | Громкость
+{"key":"soundeditor_attacktitle","english":"Attack","translation":"Атака"}
+{"key":"soundeditor_dsptitle","english":"DSP","translation":"DSP"}
+{"key":"soundeditor_frequencytitle","english":"Frequency","translation":"Частота"}
+{"key":"soundeditor_instancetitle","english":"Instance Type","translation":"Тип Экземпляра"}
+{"key":"soundeditor_loopdelaytitle","english":"Loop Delay","translation":"Задержка Цикла"}
+{"key":"soundeditor_looptitle","english":"Loop Type","translation":"Тип Цикла"}
+{"key":"soundeditor_mindistancetitle","english":"Min Distance","translation":"Мин. Дистанция"}
+{"key":"soundeditor_newdsp","english":"Add DSP","translation":"Добавить DSP"}
+{"key":"soundeditor_nexteventtitle","english":"Next Event","translation":"Следующее Событие"}
+{"key":"soundeditor_play","english":"Play","translation":"Воспроизвести"}
+{"key":"soundeditor_positiontitle","english":"Position Type","translation":"Тип Позиции"}
+{"key":"soundeditor_releasetitle","english":"Release","translation":"Освобождение"}
+{"key":"soundeditor_soundnametitle","english":"Sound Name","translation":"Название Звука"}
+{"key":"soundeditor_sourcetypetitle","english":"Sound Type","translation":"Тип Звука"}
+{"key":"soundeditor_stop","english":"Stop","translation":"Стоп"}
+{"key":"soundeditor_sustaintitle","english":"Sustain","translation":"Поддержка"}
+{"key":"soundeditor_title","english":"Sound Editor","translation":"Редактор Звука"}
+{"key":"soundeditor_volumetitle","english":"Volume","translation":"Громкость"}

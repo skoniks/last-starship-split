@@ -1,0 +1,84 @@
+{"key":"newmainmenu_abandon","english":"ABANDON GAME","translation":"ПОКИНУТЬ ИГРУ"}
+{"key":"newmainmenu_aiselection_auto","english":"AI Controlled - Auto-select","translation":"Управляется ИИ - Автовыбор"}
+{"key":"newmainmenu_aiselection_none","english":"Player Controlled","translation":"Управляется Игроком"}
+{"key":"newmainmenu_arena","english":"ARENA MODE","translation":"РЕЖИМ АРЕНЫ"}
+{"key":"newmainmenu_arena_collapsestats","english":"HIDE INFO","translation":"СКРЫТЬ ИНФОРМАЦИЮ"}
+{"key":"newmainmenu_arena_combatratings","english":"COMBAT RATINGS","translation":"БОЕВОЙ РЕЙТИНГ"}
+{"key":"newmainmenu_arena_expandstats","english":"SHOW INFO","translation":"ПОКАЗАТЬ ИНФОРМАЦИЮ"}
+{"key":"newmainmenu_arena_generateenemyfleet","english":"GENERATE","translation":"СОЗДАТЬ"}
+{"key":"newmainmenu_arena_greenteamtitle","english":"GREEN TEAM","translation":"ЗЕЛЕНАЯ КОМАНДА"}
+{"key":"newmainmenu_arena_redteamtitle","english":"RED TEAM","translation":"КРАСНАЯ КОМАНДА"}
+{"key":"newmainmenu_arena_selectship","english":"SELECT A SHIP","translation":"ВЫБЕРИТЕ КОРАБЛЬ"}
+{"key":"newmainmenu_arena_shipquantity","english":"Quantity","translation":"Количество"}
+{"key":"newmainmenu_arena_tradevalues","english":"SHIP VALUES","translation":"СТОИМОСТЬ КОРАБЛЕЙ"}
+{"key":"newmainmenu_autosavenameinvalid_caption","english":"Save name reserved for autosaves.","translation":"Название сохранения, зарезервированное для автосохранений."}
+{"key":"newmainmenu_autosavewarning","english":"Auto-save load warning","translation":"Предупреждение о загрузке автосохранения"}
+{"key":"newmainmenu_battle","english":"BATTLE","translation":"БИТВА"}
+{"key":"newmainmenu_begingame","english":"BEGIN GAME","translation":"НАЧАТЬ ИГРУ"}
+{"key":"newmainmenu_cancel","english":"CANCEL","translation":"ОТМЕНА"}
+{"key":"newmainmenu_chooseship","english":"CHOOSE STARTING SHIP","translation":"ВЫБЕРИТЕ СТАРТОВЫЙ КОРАБЛЬ"}
+{"key":"newmainmenu_cloudquotaremaining","english":"Used: *X / *Y (*Z% remaining)","translation":"Использовано: *X / *Y (осталось *Z%)"}
+{"key":"newmainmenu_confirm","english":"CONFIRM","translation":"ПОДТВЕРДИТЬ"}
+{"key":"newmainmenu_continue","english":"CONTINUE GAME","translation":"ПРОДОЛЖИТЬ ИГРУ"}
+{"key":"newmainmenu_createnewexport","english":"CREATE NEW EXPORT","translation":"СОЗДАТЬ НОВЫЙ ЭКСПОРТ"}
+{"key":"newmainmenu_createnewsave","english":"CREATE NEW SAVE","translation":"СОЗДАТЬ НОВОЕ СОХРАНЕНИЕ"}
+{"key":"newmainmenu_createnewupload","english":"CREATE NEW WORKSHOP ITEM","translation":"СОЗДАТЬ НОВЫЙ ЭЛЕМЕНТ МАСТЕРСКОЙ"}
+{"key":"newmainmenu_createship","english":"CREATE NEW SHIP","translation":"СОЗДАТЬ НОВЫЙ КОРАБЛЬ"}
+{"key":"newmainmenu_darkmode","english":"Galaxy Map Dark Mode","translation":"Темный Режим Карты Галактики"}
+{"key":"newmainmenu_debug_freespace","english":"Enable FreeSpace Debugging","translation":"Включить Отладку FreeSpace"}
+{"key":"newmainmenu_defensiveenemies","english":"Defensive Enemies","translation":"Мирные Враги"}
+{"key":"newmainmenu_defensiveenemiestooltip","english":"Hostile ships will only target you once you have targeted them first.","translation":"Вражеские корабли будут атаковать вас только после того, как вы первыми выберете их целью."}
+{"key":"newmainmenu_deletegame","english":"DELETE GAME","translation":"УДАЛИТЬ ИГРУ"}
+{"key":"newmainmenu_deleteship","english":"DELETE SHIP","translation":"УДАЛИТЬ КОРАБЛЬ"}
+{"key":"newmainmenu_difficulty","english":"Difficulty","translation":""}
+{"key":"newmainmenu_difficultytooltip","english":"Difficulty affects how quickly equipment and resources become scarce in later sectors.\\n\\n3 difficulties are available: Normal, Difficult, Hard.","translation":""}
+{"key":"newmainmenu_editship","english":"EDIT SHIP","translation":"РЕДАКТИРОВАТЬ КОРАБЛЬ"}
+{"key":"newmainmenu_exitsaves","english":"Auto-save on exit","translation":"Автосохранение при выходе"}
+{"key":"newmainmenu_exitsaves","english":"Exit-saves","translation":"Сохранения при выходе"}
+{"key":"newmainmenu_exportship","english":"EXPORT SHIP","translation":"ЭКСПОРТИРОВАТЬ КОРАБЛЬ"}
+{"key":"newmainmenu_filter","english":"SEARCH...","translation":"ПОИСК..."}
+{"key":"newmainmenu_importfriendly","english":"IMPORT FRIENDLY","translation":"ИМПОРТИРОВАТЬ ДРУЖЕСТВЕННЫЙ"}
+{"key":"newmainmenu_importhostile","english":"IMPORT HOSTILE","translation":"ИМПОРТИРОВАТЬ ВРАЖЕСКИЙ"}
+{"key":"newmainmenu_includedocked","english":"INCLUDE DOCKED SHIPS","translation":"ВКЛЮЧИТЬ ПРИСТЫКОВАННЫЕ КОРАБЛИ"}
+{"key":"newmainmenu_includedocked","english":"INCLUDE DOCKED SHIPS IN EXPORT","translation":"ВКЛЮЧИТЬ ПРИСТЫКОВАННЫЕ КОРАБЛИ В ЭКСПОРТ"}
+{"key":"newmainmenu_instantshipswitch","english":"Switch instantly between ships","translation":"Мгновенное переключение между кораблями"}
+{"key":"newmainmenu_invalidcharacters_caption","english":"Save name contains invalid characters.","translation":"Название сохранения содержит недопустимые символы."}
+{"key":"newmainmenu_invalidsavename","english":"Invalid Save Name","translation":"Неверное название сохранения"}
+{"key":"newmainmenu_loadgame","english":"LOAD GAME","translation":"ЗАГРУЗИТЬ ИГРУ"}
+{"key":"newmainmenu_loadgamedev","english":"LOAD GAME (DEV)","translation":"ЗАГРУЗИТЬ ИГРУ (DEV)"}
+{"key":"newmainmenu_loadship","english":"LOAD SHIP","translation":"ЗАГРУЗИТЬ КОРАБЛЬ"}
+{"key":"newmainmenu_locked","english":"(LOCKED)","translation":"(ЗАБЛОКИРОВАНО)"}
+{"key":"newmainmenu_lockedindemo","english":"LOCKED IN DEMO","translation":"ЗАБЛОКИРОВАНО В ДЕМО"}
+{"key":"newmainmenu_mainmenu","english":"MAIN MENU","translation":"ГЛАВНОЕ МЕНЮ"}
+{"key":"newmainmenu_multisystem_simulation","english":"Enable Multi-system Simulation","translation":"Включить Мультисистемную Симуляцию"}
+{"key":"newmainmenu_multisystemsim","english":"Multi-System Simulation","translation":"Мультисистемная Симуляция"}
+{"key":"newmainmenu_multisystemsimtooltip","english":"Enables multi-system simulation, allowing you to split up your fleet among multiple systems/sectors simultaneously.","translation":"Включает мультисистемную симуляцию, позволяя разделить ваш флот между несколькими системами/секторами одновременно."}
+{"key":"newmainmenu_newgame","english":"NEW GAME","translation":"НОВАЯ ИГРА"}
+{"key":"newmainmenu_newgameoptions","english":"Game Options","translation":"Настройки Игры"}
+{"key":"newmainmenu_parallax","english":"Parallax","translation":""}
+{"key":"newmainmenu_parallax","english":"Parallax effect","translation":"Использовать Эффект Параллакса"}
+{"key":"newmainmenu_parallax_description","english":"Use a parallax effect to give an impression of depth","translation":""}
+{"key":"newmainmenu_quit","english":"QUIT","translation":"ВЫХОД"}
+{"key":"newmainmenu_quitmessage","english":"We hope you enjoyed playing the demo of The Last Starship. Your journey has just begun!  Unlock the full game to explore more Story Episodes, Survival Mode, Arena Mode, a full Ship Editor and more!","translation":"Мы надеемся, что вам понравилась демоверсия The Last Starship. Ваше путешествие только началось!  Разблокируйте полную версию игры, чтобы исследовать больше Сюжетных Эпизодов, Режим Выживания, Режим Арены, полноценный Редактор Кораблей и многое другое!"}
+{"key":"newmainmenu_quitmessage","english":"We hope you enjoyed playing the demo of The Last Starship.\\n\\nBuy it Now and Continue your Adventure!","translation":"Мы надеемся, что вам понравилась демо-версия The Last Starship.\\n\\nКупите ее сейчас и продолжите свое приключение!"}
+{"key":"newmainmenu_resume","english":"RESUME","translation":"ПРОДОЛЖИТЬ"}
+{"key":"newmainmenu_returntomainmenu","english":"RETURN TO MAIN MENU","translation":"ВЕРНУТЬСЯ В ГЛАВНОЕ МЕНЮ"}
+{"key":"newmainmenu_savegame","english":"SAVE GAME","translation":"СОХРАНИТЬ ИГРУ"}
+{"key":"newmainmenu_saveoptions","english":"Save Options","translation":"Параметры сохранения"}
+{"key":"newmainmenu_savetosteamcloud","english":"SAVE TO STEAM CLOUD","translation":"STEAM CLOUD"}
+{"key":"newmainmenu_savetosteamcloud_tooltip","english":"The game will be saved to Steam Cloud when enabled. A warning will show if the save fails.","translation":"Игра будет сохраняться в Облаке Steam, если включить эту функцию. При неудачном сохранении появится предупреждение."}
+{"key":"newmainmenu_setshipname","english":"SET SHIP NAME","translation":"ЗАДАТЬ ИМЯ КОРАБЛЯ"}
+{"key":"newmainmenu_settings","english":"SETTINGS","translation":"НАСТРОЙКИ"}
+{"key":"newmainmenu_shipeditor","english":"CREATIVE MODE","translation":"ТВОРЧЕСКИЙ РЕЖИМ"}
+{"key":"newmainmenu_showautosaves","english":"AUTOSAVES","translation":"АВТОСОХРАНЕНИЯ"}
+{"key":"newmainmenu_slowcombat","english":"Slow during combat","translation":"Замедление в Бою"}
+{"key":"newmainmenu_slowcombat_description","english":"Switch to slow game speed after taking damage during combat.","translation":""}
+{"key":"newmainmenu_steamcloud","english":"STEAM CLOUD","translation":"STEAM CLOUD"}
+{"key":"newmainmenu_steamworkshop","english":"STEAM WORKSHOP","translation":"МАСТЕРСКАЯ STEAM"}
+{"key":"newmainmenu_tests","english":"TESTS","translation":"ТЕСТЫ"}
+{"key":"newmainmenu_tooltip_changeship","english":"[LMB] Change ship","translation":"[ЛКМ] Сменить корабль"}
+{"key":"newmainmenu_tooltip_removeship","english":"[RMB] Remove ship","translation":"[ПКМ] Убрать корабль"}
+{"key":"newmainmenu_updateexistingupload","english":"UPDATE EXISTING WORKSHOP ITEM","translation":"ОБНОВИТЬ СУЩЕСТВУЮЩИЙ ЭЛЕМЕНТ МАСТЕРСКОЙ"}
+{"key":"newmainmenu_uploadprogress","english":"UPLOAD PROGRESS: *P %","translation":"ПРОГРЕСС ЗАГРУЗКИ: *P %"}
+{"key":"newmainmenu_uploadship","english":"UPLOAD TO STEAM","translation":"ЗАГРУЗИТЬ В STEAM"}
+{"key":"newmainmenu_vsync","english":"V-Sync","translation":"V-Sync"}

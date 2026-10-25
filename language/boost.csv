@@ -1,13 +1,13 @@
-boost_airrecyclingefficiency | Air Recycling Efficiency +*X% | Эффективность Переработки Воздуха +*X%
-boost_dronespeed | Drone Top Speed +*X% | Максимальная Скорость Дронов +*X%
-boost_fighterarmour | Fighter Armour +*X% | 
-boost_fighterfuel | Fighter Fuel Efficiency +*X% | 
-boost_fighterspeed | Fighter Speed +*X% | 
-boost_harvestingyield | Crop Yield +*X% | Урожайность +*X%
-boost_reactorefficiency | Reactor Efficiency +*X% | Эффективность Реактора +*X%
-boost_recyclingefficiency | Recycling Efficiency *X% | Эффективность Переработки *X%
-boost_robotarmspeed | Robot Arm Speed +*X% | Скорость Руки Робота +*X%
-boost_smelterefficiency | Smelter Efficiency +*X% | Эффективность Плавильной Печи +*X%
-boost_trackspeed | Track Speed +*X% | Скорость Конвейера +*X%
-boost_wasterecyclingefficiency | Waste Recycling Efficiency +*X% | Эффективность Переработки Отходов +*X%
-boost_waterrecyclingefficiency | Water Recycling Efficiency +*X% | Эффективность Переработки Воды +*X%
+{"key":"boost_airrecyclingefficiency","english":"Air Recycling Efficiency +*X%","translation":"Эффективность Переработки Воздуха +*X%"}
+{"key":"boost_dronespeed","english":"Drone Top Speed +*X%","translation":"Максимальная Скорость Дронов +*X%"}
+{"key":"boost_fighterarmour","english":"Fighter Armour +*X%","translation":""}
+{"key":"boost_fighterfuel","english":"Fighter Fuel Efficiency +*X%","translation":""}
+{"key":"boost_fighterspeed","english":"Fighter Speed +*X%","translation":""}
+{"key":"boost_harvestingyield","english":"Crop Yield +*X%","translation":"Урожайность +*X%"}
+{"key":"boost_reactorefficiency","english":"Reactor Efficiency +*X%","translation":"Эффективность Реактора +*X%"}
+{"key":"boost_recyclingefficiency","english":"Recycling Efficiency *X%","translation":"Эффективность Переработки *X%"}
+{"key":"boost_robotarmspeed","english":"Robot Arm Speed +*X%","translation":"Скорость Руки Робота +*X%"}
+{"key":"boost_smelterefficiency","english":"Smelter Efficiency +*X%","translation":"Эффективность Плавильной Печи +*X%"}
+{"key":"boost_trackspeed","english":"Track Speed +*X%","translation":"Скорость Конвейера +*X%"}
+{"key":"boost_wasterecyclingefficiency","english":"Waste Recycling Efficiency +*X%","translation":"Эффективность Переработки Отходов +*X%"}
+{"key":"boost_waterrecyclingefficiency","english":"Water Recycling Efficiency +*X%","translation":"Эффективность Переработки Воды +*X%"}

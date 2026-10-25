@@ -1,28 +1,28 @@
-steamworkshopmenu_close | Close | Закрыть
-steamworkshopmenu_loadselectedsavegame | Load | Загрузить
-steamworkshopmenu_loadselectedship | Load | Загрузить
-steamworkshopmenu_publishedsavegamelistlabel | Published Save Games | Опубликованные Сохранения
-steamworkshopmenu_publishedshiplistlabel | Published Ships | Опубликованные Корабли
-steamworkshopmenu_refreshpublishedsavegamelist | Refresh List | Обновить Список
-steamworkshopmenu_refreshpublishedshiplist | Refresh List | Обновить Список
-steamworkshopmenu_refreshsubscribedsavegamelist | Refresh List | Обновить Список
-steamworkshopmenu_refreshsubscribedshiplist | Refresh List | Обновить Список
-steamworkshopmenu_savegamelegalagreementbutton | workshop terms of service | условия использования мастерской
-steamworkshopmenu_savegamelegalagreementtext | By submitting this item, you agree to the | Публикуя это, вы принимаете
-steamworkshopmenu_savegamesectionlabel |  ========================== Save Games ========================== |  ========================== Сохранения ==========================
-steamworkshopmenu_shiplegalagreementbutton | workshop terms of service | условия использования мастерской
-steamworkshopmenu_shiplegalagreementtext | By submitting this item, you agree to the | Публикуя это, вы принимаете
-steamworkshopmenu_shipsectionlabel |  =============================== Ships =============================== |  =============================== Корабли ===============================
-steamworkshopmenu_subscribedsavegamelistlabel | Subscribed Save Games | Загруженные Сохранения
-steamworkshopmenu_subscribedshiplistlabel | Subscribed Ships | Загруженные Корабли
-steamworkshopmenu_title | Steam Workshop Menu | Меню Мастерской Steam
-steamworkshopmenu_updateselectedsavegame | Update Selected | Обновить Выбранное
-steamworkshopmenu_updateselectedship | Update Selected | Обновить Выбранное
-steamworkshopmenu_uploadsavegame | Upload | Опубликовать
-steamworkshopmenu_uploadsavegamedesclabel | Description | Описание
-steamworkshopmenu_uploadsavegameprogress |  = |  =
-steamworkshopmenu_uploadsavegametitlelabel | Title | Название
-steamworkshopmenu_uploadship | Upload | Опубликовать
-steamworkshopmenu_uploadshipdesclabel | Description | Описание
-steamworkshopmenu_uploadshipprogress |  = |  =
-steamworkshopmenu_uploadshiptitlelabel | Title | Название
+{"key":"steamworkshopmenu_close","english":"Close","translation":"Закрыть"}
+{"key":"steamworkshopmenu_loadselectedsavegame","english":"Load","translation":"Загрузить"}
+{"key":"steamworkshopmenu_loadselectedship","english":"Load","translation":"Загрузить"}
+{"key":"steamworkshopmenu_publishedsavegamelistlabel","english":"Published Save Games","translation":"Опубликованные Сохранения"}
+{"key":"steamworkshopmenu_publishedshiplistlabel","english":"Published Ships","translation":"Опубликованные Корабли"}
+{"key":"steamworkshopmenu_refreshpublishedsavegamelist","english":"Refresh List","translation":"Обновить Список"}
+{"key":"steamworkshopmenu_refreshpublishedshiplist","english":"Refresh List","translation":"Обновить Список"}
+{"key":"steamworkshopmenu_refreshsubscribedsavegamelist","english":"Refresh List","translation":"Обновить Список"}
+{"key":"steamworkshopmenu_refreshsubscribedshiplist","english":"Refresh List","translation":"Обновить Список"}
+{"key":"steamworkshopmenu_savegamelegalagreementbutton","english":"workshop terms of service","translation":"условия использования мастерской"}
+{"key":"steamworkshopmenu_savegamelegalagreementtext","english":"By submitting this item, you agree to the","translation":"Публикуя это, вы принимаете"}
+{"key":"steamworkshopmenu_savegamesectionlabel","english":" ========================== Save Games ==========================","translation":" ========================== Сохранения =========================="}
+{"key":"steamworkshopmenu_shiplegalagreementbutton","english":"workshop terms of service","translation":"условия использования мастерской"}
+{"key":"steamworkshopmenu_shiplegalagreementtext","english":"By submitting this item, you agree to the","translation":"Публикуя это, вы принимаете"}
+{"key":"steamworkshopmenu_shipsectionlabel","english":" =============================== Ships ===============================","translation":" =============================== Корабли ==============================="}
+{"key":"steamworkshopmenu_subscribedsavegamelistlabel","english":"Subscribed Save Games","translation":"Загруженные Сохранения"}
+{"key":"steamworkshopmenu_subscribedshiplistlabel","english":"Subscribed Ships","translation":"Загруженные Корабли"}
+{"key":"steamworkshopmenu_title","english":"Steam Workshop Menu","translation":"Меню Мастерской Steam"}
+{"key":"steamworkshopmenu_updateselectedsavegame","english":"Update Selected","translation":"Обновить Выбранное"}
+{"key":"steamworkshopmenu_updateselectedship","english":"Update Selected","translation":"Обновить Выбранное"}
+{"key":"steamworkshopmenu_uploadsavegame","english":"Upload","translation":"Опубликовать"}
+{"key":"steamworkshopmenu_uploadsavegamedesclabel","english":"Description","translation":"Описание"}
+{"key":"steamworkshopmenu_uploadsavegameprogress","english":" =","translation":" ="}
+{"key":"steamworkshopmenu_uploadsavegametitlelabel","english":"Title","translation":"Название"}
+{"key":"steamworkshopmenu_uploadship","english":"Upload","translation":"Опубликовать"}
+{"key":"steamworkshopmenu_uploadshipdesclabel","english":"Description","translation":"Описание"}
+{"key":"steamworkshopmenu_uploadshipprogress","english":" =","translation":" ="}
+{"key":"steamworkshopmenu_uploadshiptitlelabel","english":"Title","translation":"Название"}

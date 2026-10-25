@@ -1,2 +1,2 @@
-tooltip_activating | Activating +*X% | Активация +*X%
-tooltip_efficiency | Efficiency +*X% | Эффективность +*X%
+{"key":"tooltip_activating","english":"Activating +*X%","translation":"Активация +*X%"}
+{"key":"tooltip_efficiency","english":"Efficiency +*X%","translation":"Эффективность +*X%"}

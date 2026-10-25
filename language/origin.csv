@@ -1,10 +1,15 @@
-origin_community | COMMUNITY | СООБЩЕСТВО
-origin_official | OFFICIAL | ОФИЦИАЛЬНЫЙ
-origin_shipcommunity | COMMUNITY SHIPS | КОРАБЛИ СООБЩЕСТВА
-origin_shipofficial | OFFICIAL SHIPS | ОФИЦИАЛЬНЫЕ КОРАБЛИ
-origin_shipsteam | SUBSCRIBED SHIPS ON STEAM WORKSHOP | ПОДПИСАННЫЕ КОРАБЛИ ИЗ МАСТЕРСКОЙ STEAM
-origin_shipsteamuser | SHIPS UPLOADED TO STEAM WORKSHOP | КОРАБЛИ ЗАГРУЖЕННЫЕ В МАСТЕРСКУЮ STEAM
-origin_shipuser | PLAYER-MADE SHIPS | ПОЛЬЗОВАТЕЛЬСКИЕ КОРАБЛИ
-origin_steam | SUBSCRIBED ON STEAM WORKSHOP | ПОДПИСКА ИЗ МАСТЕРСКОЙ STEAM
-origin_steamuser | UPLOADED TO STEAM WORKSHOP | ЗАГРУЖЕНО В МАСТЕРСКУЮ STEAM
-origin_user | PLAYER-MADE | ПОЛЬЗОВАТЕЛЬСКИЙ
+{"key":"origin_community","english":"COMMUNITY","translation":"СООБЩЕСТВО"}
+{"key":"origin_community","english":"Community","translation":"Сообщество"}
+{"key":"origin_official","english":"OFFICIAL","translation":"ОФИЦИАЛЬНЫЙ"}
+{"key":"origin_official","english":"Official","translation":"Официальный сайт"}
+{"key":"origin_shipcommunity","english":"COMMUNITY SHIPS","translation":"КОРАБЛИ СООБЩЕСТВА"}
+{"key":"origin_shipofficial","english":"OFFICIAL SHIPS","translation":"ОФИЦИАЛЬНЫЕ КОРАБЛИ"}
+{"key":"origin_shipsteam","english":"SUBSCRIBED SHIPS ON STEAM WORKSHOP","translation":"ПОДПИСАННЫЕ КОРАБЛИ ИЗ МАСТЕРСКОЙ STEAM"}
+{"key":"origin_shipsteamuser","english":"SHIPS UPLOADED TO STEAM WORKSHOP","translation":"КОРАБЛИ ЗАГРУЖЕННЫЕ В МАСТЕРСКУЮ STEAM"}
+{"key":"origin_shipuser","english":"PLAYER-MADE SHIPS","translation":"ПОЛЬЗОВАТЕЛЬСКИЕ КОРАБЛИ"}
+{"key":"origin_steam","english":"SUBSCRIBED ON STEAM WORKSHOP","translation":"ПОДПИСКА ИЗ МАСТЕРСКОЙ STEAM"}
+{"key":"origin_steam","english":"Subscribed on Steam Workshop","translation":"Подписан на Steam Workshop"}
+{"key":"origin_steamuser","english":"UPLOADED TO STEAM WORKSHOP","translation":"ЗАГРУЖЕНО В МАСТЕРСКУЮ STEAM"}
+{"key":"origin_steamuser","english":"Uploaded to Steam Workshop","translation":"Загружено в Мастерскую Steam"}
+{"key":"origin_user","english":"PLAYER-MADE","translation":"ПОЛЬЗОВАТЕЛЬСКИЙ"}
+{"key":"origin_user","english":"Player-made","translation":"Создано игроками"}

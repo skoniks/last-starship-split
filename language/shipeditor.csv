@@ -1,100 +1,103 @@
-shipeditor_brush_box | BOX TOOL | КВАДРАТ
-shipeditor_brush_freehand | FREEHAND | КИСТЬ
-shipeditor_brush_oval | OVAL TOOL | КРУГ
-shipeditor_commit | CONFIRM | ПОДТВЕРДИТЬ
-shipeditor_draw | DRAW | РИСОВАТЬ
-shipeditor_equipment_autobuy | AUTO BUY | 
-shipeditor_equipment_autobuyconfirm | Confirm Auto Buy Changes | Подтвердить Изменения Автопокупки
-shipeditor_equipment_autobuyenable | Auto Buy *X | Автопокупка *X
-shipeditor_equipment_autoproduce | AUTO-PRODUCE | 
-shipeditor_equipment_autoproduce_tooltip | Automatically produce missing equipment using available assembly tables and fabricators.\nAny assembly table or fabricator that is set to "IDLE" will be used. They will be set back to "IDLE" when production has finished. | 
-shipeditor_equipment_available | Trading Post has *X available | Торговый Пост имеет *X в наличии
-shipeditor_equipment_availablecount | *X AVAILABLE TO BUY | 
-shipeditor_equipment_buymissing | AUTO-BUY MATERIALS | 
-shipeditor_equipment_buymissing_tooltip | Automatically buy missing materials for production.\nThis includes ingots as well as components such as frames. | 
-shipeditor_equipment_expected | You will be missing *X when ongoing deliveries/logistics complete | Вам будет не хватать *X, когда текущие поставки/логистика завершатся
-shipeditor_equipment_expectedcost | Expected Future Cost: *X | Ожидаемая Будущая Стоимость: *X
-shipeditor_equipment_fabricating | FABRICATING | 
-shipeditor_equipment_immediatecost | Immediate Cost: *X | Немедленная Стоимость: *X
-shipeditor_equipment_inboundonshuttle | *X INBOUND ON SHUTTLE | 
-shipeditor_equipment_incoming | You have *X incoming | У вас *X входящих
-shipeditor_equipment_inproduction | *X IN PRODUCTION (*Y MORE QUEUED) | 
-shipeditor_equipment_manualbuy | Buy All Available | Купить Все Доступное
-shipeditor_equipment_missing | You require *X | Вам требуется *X
-shipeditor_equipment_nofactory | NO FACTORY | 
-shipeditor_equipment_outgoing | You have *X outgoing | У вас *X исходящих
-shipeditor_equipment_queuedforproduction | *X QUEUED FOR PRODUCTION | 
-shipeditor_equipment_title | Missing Equipment | Отсутствующее Оборудование
-shipeditor_equipment_totalcost | Total Cost | Общая Стоимость
-shipeditor_equipment_unknownrecipe | UNKNOWN RECIPE | 
-shipeditor_equipment_waitingforstock | WAITING FOR STOCK | 
-shipeditor_erase | ERASE | СТЕРЕТЬ
-shipeditor_mode_armour | Armour | Броня
-shipeditor_mode_createship | Create Ship | Создать Корабль
-shipeditor_mode_deconstruct | Destroy | Разрушить
-shipeditor_mode_dock | Dock | Стыковка
-shipeditor_mode_equipment | Equipment | Оборудование
-shipeditor_mode_eyedropper | Eyedropper | Пипетка
-shipeditor_mode_habitation | Habitation | Каюты
-shipeditor_mode_hull | Hull | Корпус
-shipeditor_mode_interior | Floors | Полы
-shipeditor_mode_paintstencils | Repaint Walls | Перекрасить Стены
-shipeditor_mode_scaffold | Scaffold | Каркас
-shipeditor_mode_spawn | Spawn | Объекты
-shipeditor_mode_stencils | Walls | Стены
-shipeditor_mode_walls | Walls | Стены
-shipeditor_paint | PAINT | КРАСИТЬ
-shipeditor_paint_custom | Custom Paint | Пользовательская Краска
-shipeditor_paint_detailprimary | Detail Primary | Детали Первичные
-shipeditor_paint_detailsecondary | Detail Secondary | Детали Вторичные
-shipeditor_paint_detailtertiary | Detail Tertiary | Детали Третичные
-shipeditor_paint_erase | Background Paint | Задний План
-shipeditor_paint_name | Paint Name | Название Краски
-shipeditor_paint_paint | Foreground Paint | Передний План
-shipeditor_paint_primary | Base Primary | Основная База
-shipeditor_paint_secondary | Base Secondary | Вторичная База
-shipeditor_paint_standard | Standard Paint | Стандартная Краска
-shipeditor_palettelibrary_cancel | CANCEL | ОТМЕНА
-shipeditor_palettelibrary_confirm | CONFIRM | ПОДТВЕРДИТЬ
-shipeditor_palettelibrary_createname | CREATE NEW PALETTE | СОЗДАТЬ НОВУЮ ПАЛИТРУ
-shipeditor_palettelibrary_delete | DELETE | УДАЛИТЬ
-shipeditor_palettelibrary_export | EXPORT | ЭКСПОРТ
-shipeditor_palettelibrary_import | IMPORT | ИМПОРТ
-shipeditor_palettelibrary_title_export | EXPORT PALETTES | ЭКСПОРТ ПАЛИТР
-shipeditor_palettelibrary_title_import | IMPORT PALETTES | ИМПОРТ ПАЛИТР
-shipeditor_palettelibrary_upload | UPLOAD | ЗАГРУЗИТЬ
-shipeditor_price_button | Cost | Стоимость
-shipeditor_shipyardrequired1 | You must visit a Shipyard | Вы должны посетить Верфь
-shipeditor_shipyardrequired2 | to apply your modifications | чтобы применить ваши изменения
-shipeditor_stat_capacity | Cabins | Каюты
-shipeditor_stat_damage | Damage | Урон
-shipeditor_stat_mass | Mass | Масса
-shipeditor_stat_toughness | Toughness | Прочность
-shipeditor_stat_value | Value | Стоимость
-shipeditor_stencil | DECALS | НАКЛЕЙКИ
-shipeditor_stencils_paint | Paints | Краски
-shipeditor_stencils_selectedpaint | Selected Paint | Выбранная Краска
-shipeditor_stencils_stencil | Decals | Наклейки
-shipeditor_symmetry | SYMMETRY | СИММЕТРИЯ
-shipeditor_symmetry_leftclickdrag | [LMB] Drag | [ЛКМ] Перетащить
-shipeditor_symmetry_rightclicktoggle | [RMB] Toggle | [ПКМ] Переключить
-shipeditor_symmetry_short | S | С
-shipeditor_tooltip_armour | Upgrade your hull with armour panels to absorb damage | Улучшите свой корпус броневыми панелями для поглощения урона
-shipeditor_tooltip_createship | Create an entirely new ship from scratch | Создайте совершенно новый корабль с нуля
-shipeditor_tooltip_deconstruct | Deconstruct your ship square by square | Разберите свой корабль клетка за клеткой
-shipeditor_tooltip_dock | Install a docking port. Every ship needs at least one functioning docking port. | Установите стыковочный порт. Каждому кораблю нужен хотя бы один работающий стыковочный порт.
-shipeditor_tooltip_equipment | Queue the installation of equipment inside your ship. | Поставьте в очередь установку оборудования внутри вашего корабля.
-shipeditor_tooltip_eyedropper | Lets you select a paint from the exterior of your ship (can also be used by pressing the "{AltTool}" key) | Позволяет выбрать краску с внешней стороны вашего корабля (также можно использовать, нажав клавишу "{AltTool}")
-shipeditor_tooltip_habitation | Expand your habitation deck to support more crew and passengers | Расширьте свой жилой отсек для поддержки большего количества экипажа и пассажиров
-shipeditor_tooltip_hull | Modify the shape of your spaceship hull | Измените форму корпуса вашего звездолета
-shipeditor_tooltip_interior | Open up the interior of your spaceship to create cabins | Откройте внутреннее пространство вашего звездолета для создания кают
-shipeditor_tooltip_paintfloor | Toggle painting the floor tiles of your ship | Переключить окраску напольных плиток вашего корабля
-shipeditor_tooltip_painthabitation | Toggle painting the exterior panels of the habitation quarters of your ship | Переключить окраску внешних панелей жилых помещений вашего корабля
-shipeditor_tooltip_painthull | Toggle painting the exterior panels of the hull of your ship | Переключить окраску внешних панелей корпуса вашего корабля
-shipeditor_tooltip_paintscaffold | Toggle painting the scaffolding on your ship | Переключить окраску каркасов на вашем корабле
-shipeditor_tooltip_paintstencils | Change the colour of decals applied to the walls of your ship | Измените цвет наклеек, нанесенных на стены вашего корабля
-shipeditor_tooltip_paintwalls | Toggle painting the base colour of the walls of your ship | Переключить окраску базового цвета стен вашего корабля
-shipeditor_tooltip_scaffold | Add scaffolding to support equipment on the exterior of your ship | Добавьте каркасы для поддержки оборудования на внешней стороне вашего корабля
-shipeditor_tooltip_spawn | Spawn equipment and resources inside your ship. (Creative Mode only) | Создайте оборудование и ресурсы внутри вашего корабля. (Только в Творческом Режиме)
-shipeditor_tooltip_stencils | Apply or remove decals on the walls of your ship | Примените или удалите наклейки на стенах вашего корабля
-shipeditor_tooltip_walls | Build walls inside your spaceship to partition the interior space | Постройте стены внутри вашего звездолета, чтобы разделить внутреннее пространство
+{"key":"shipeditor_brush_box","english":"BOX TOOL","translation":"КВАДРАТ"}
+{"key":"shipeditor_brush_freehand","english":"FREEHAND","translation":"КИСТЬ"}
+{"key":"shipeditor_brush_oval","english":"OVAL TOOL","translation":"КРУГ"}
+{"key":"shipeditor_commit","english":"CONFIRM","translation":"ПОДТВЕРДИТЬ"}
+{"key":"shipeditor_draw","english":"DRAW","translation":"РИСОВАТЬ"}
+{"key":"shipeditor_equipment_autobuy","english":"AUTO BUY","translation":""}
+{"key":"shipeditor_equipment_autobuy","english":"Enable Auto Buy","translation":"Включить Автопокупку"}
+{"key":"shipeditor_equipment_autobuyconfirm","english":"Confirm Auto Buy Changes","translation":"Подтвердить Изменения Автопокупки"}
+{"key":"shipeditor_equipment_autobuyenable","english":"Auto Buy *X","translation":"Автопокупка *X"}
+{"key":"shipeditor_equipment_autoproduce","english":"AUTO-PRODUCE","translation":""}
+{"key":"shipeditor_equipment_autoproduce_tooltip","english":"Automatically produce missing equipment using available assembly tables and fabricators.\\nAny assembly table or fabricator that is set to \"IDLE\" will be used. They will be set back to \"IDLE\" when production has finished.","translation":""}
+{"key":"shipeditor_equipment_autoproduce_tooltip","english":"Automatically produce missing equipment using available assembly tables and fabricators.\\nAny assembly table or fabricator that is set to \"STOP\" will be used. They will be set back to \"STOP\" when production has finished.","translation":""}
+{"key":"shipeditor_equipment_available","english":"Trading Post has *X available","translation":"Торговый Пост имеет *X в наличии"}
+{"key":"shipeditor_equipment_availablecount","english":"*X AVAILABLE TO BUY","translation":""}
+{"key":"shipeditor_equipment_buymissing","english":"AUTO-BUY MATERIALS","translation":""}
+{"key":"shipeditor_equipment_buymissing_tooltip","english":"Automatically buy missing materials for production.\\nThis includes ingots as well as components such as frames.","translation":""}
+{"key":"shipeditor_equipment_expected","english":"You will be missing *X when ongoing deliveries/logistics complete","translation":"Вам будет не хватать *X, когда текущие поставки/логистика завершатся"}
+{"key":"shipeditor_equipment_expectedcost","english":"Expected Future Cost: *X","translation":"Ожидаемая Будущая Стоимость: *X"}
+{"key":"shipeditor_equipment_fabricating","english":"FABRICATING","translation":""}
+{"key":"shipeditor_equipment_immediatecost","english":"Immediate Cost: *X","translation":"Немедленная Стоимость: *X"}
+{"key":"shipeditor_equipment_inboundonshuttle","english":"*X INBOUND ON SHUTTLE","translation":""}
+{"key":"shipeditor_equipment_incoming","english":"You have *X incoming","translation":"У вас *X входящих"}
+{"key":"shipeditor_equipment_inproduction","english":"*X IN PRODUCTION (*Y MORE QUEUED)","translation":""}
+{"key":"shipeditor_equipment_manualbuy","english":"Buy All Available","translation":"Купить Все Доступное"}
+{"key":"shipeditor_equipment_missing","english":"You require *X","translation":"Вам требуется *X"}
+{"key":"shipeditor_equipment_nofactory","english":"NO FACTORY","translation":""}
+{"key":"shipeditor_equipment_outgoing","english":"You have *X outgoing","translation":"У вас *X исходящих"}
+{"key":"shipeditor_equipment_queuedforproduction","english":"*X QUEUED FOR PRODUCTION","translation":""}
+{"key":"shipeditor_equipment_title","english":"Missing Equipment","translation":"Отсутствующее Оборудование"}
+{"key":"shipeditor_equipment_totalcost","english":"Total Cost","translation":"Общая Стоимость"}
+{"key":"shipeditor_equipment_unknownrecipe","english":"UNKNOWN RECIPE","translation":""}
+{"key":"shipeditor_equipment_waitingforstock","english":"WAITING FOR STOCK","translation":""}
+{"key":"shipeditor_erase","english":"ERASE","translation":"СТЕРЕТЬ"}
+{"key":"shipeditor_mode_armour","english":"Armour","translation":"Броня"}
+{"key":"shipeditor_mode_createship","english":"Create Ship","translation":"Создать Корабль"}
+{"key":"shipeditor_mode_deconstruct","english":"Destroy","translation":"Разрушить"}
+{"key":"shipeditor_mode_dock","english":"Dock","translation":"Стыковка"}
+{"key":"shipeditor_mode_equipment","english":"Equipment","translation":"Оборудование"}
+{"key":"shipeditor_mode_eyedropper","english":"Eyedropper","translation":"Пипетка"}
+{"key":"shipeditor_mode_habitation","english":"Habitation","translation":"Каюты"}
+{"key":"shipeditor_mode_hull","english":"Hull","translation":"Корпус"}
+{"key":"shipeditor_mode_interior","english":"Floors","translation":"Полы"}
+{"key":"shipeditor_mode_paintstencils","english":"Repaint Walls","translation":"Перекрасить Стены"}
+{"key":"shipeditor_mode_scaffold","english":"Scaffold","translation":"Каркас"}
+{"key":"shipeditor_mode_spawn","english":"Spawn","translation":"Объекты"}
+{"key":"shipeditor_mode_stencils","english":"Walls","translation":"Стены"}
+{"key":"shipeditor_mode_walls","english":"Walls","translation":"Стены"}
+{"key":"shipeditor_paint","english":"PAINT","translation":"КРАСИТЬ"}
+{"key":"shipeditor_paint_custom","english":"Custom Paint","translation":"Пользовательская Краска"}
+{"key":"shipeditor_paint_detailprimary","english":"Detail Primary","translation":"Детали Первичные"}
+{"key":"shipeditor_paint_detailsecondary","english":"Detail Secondary","translation":"Детали Вторичные"}
+{"key":"shipeditor_paint_detailtertiary","english":"Detail Tertiary","translation":"Детали Третичные"}
+{"key":"shipeditor_paint_erase","english":"Background Paint","translation":"Задний План"}
+{"key":"shipeditor_paint_name","english":"Paint Name","translation":"Название Краски"}
+{"key":"shipeditor_paint_paint","english":"Foreground Paint","translation":"Передний План"}
+{"key":"shipeditor_paint_primary","english":"Base Primary","translation":"Основная База"}
+{"key":"shipeditor_paint_secondary","english":"Base Secondary","translation":"Вторичная База"}
+{"key":"shipeditor_paint_standard","english":"Standard Paint","translation":"Стандартная Краска"}
+{"key":"shipeditor_palettelibrary_cancel","english":"CANCEL","translation":"ОТМЕНА"}
+{"key":"shipeditor_palettelibrary_confirm","english":"CONFIRM","translation":"ПОДТВЕРДИТЬ"}
+{"key":"shipeditor_palettelibrary_createname","english":"CREATE NEW PALETTE","translation":"СОЗДАТЬ НОВУЮ ПАЛИТРУ"}
+{"key":"shipeditor_palettelibrary_delete","english":"DELETE","translation":"УДАЛИТЬ"}
+{"key":"shipeditor_palettelibrary_export","english":"EXPORT","translation":"ЭКСПОРТ"}
+{"key":"shipeditor_palettelibrary_import","english":"IMPORT","translation":"ИМПОРТ"}
+{"key":"shipeditor_palettelibrary_title_export","english":"EXPORT PALETTES","translation":"ЭКСПОРТ ПАЛИТР"}
+{"key":"shipeditor_palettelibrary_title_import","english":"IMPORT PALETTES","translation":"ИМПОРТ ПАЛИТР"}
+{"key":"shipeditor_palettelibrary_upload","english":"UPLOAD","translation":"ЗАГРУЗИТЬ"}
+{"key":"shipeditor_price_button","english":"Cost","translation":"Стоимость"}
+{"key":"shipeditor_shipyardrequired1","english":"You must visit a Shipyard","translation":"Вы должны посетить Верфь"}
+{"key":"shipeditor_shipyardrequired2","english":"to apply your modifications","translation":"чтобы применить ваши изменения"}
+{"key":"shipeditor_stat_capacity","english":"Cabins","translation":"Каюты"}
+{"key":"shipeditor_stat_damage","english":"Damage","translation":"Урон"}
+{"key":"shipeditor_stat_mass","english":"Mass","translation":"Масса"}
+{"key":"shipeditor_stat_toughness","english":"Toughness","translation":"Прочность"}
+{"key":"shipeditor_stat_value","english":"Value","translation":"Стоимость"}
+{"key":"shipeditor_stencil","english":"DECALS","translation":"НАКЛЕЙКИ"}
+{"key":"shipeditor_stencils_paint","english":"Paints","translation":"Краски"}
+{"key":"shipeditor_stencils_selectedpaint","english":"Selected Paint","translation":"Выбранная Краска"}
+{"key":"shipeditor_stencils_stencil","english":"Decals","translation":"Наклейки"}
+{"key":"shipeditor_symmetry","english":"SYMMETRY","translation":"СИММЕТРИЯ"}
+{"key":"shipeditor_symmetry_leftclickdrag","english":"[LMB] Drag","translation":"[ЛКМ] Перетащить"}
+{"key":"shipeditor_symmetry_rightclicktoggle","english":"[RMB] Toggle","translation":"[ПКМ] Переключить"}
+{"key":"shipeditor_symmetry_short","english":"S","translation":"С"}
+{"key":"shipeditor_tooltip_armour","english":"Upgrade your hull with armour panels to absorb damage","translation":"Улучшите свой корпус броневыми панелями для поглощения урона"}
+{"key":"shipeditor_tooltip_createship","english":"Create an entirely new ship from scratch","translation":"Создайте совершенно новый корабль с нуля"}
+{"key":"shipeditor_tooltip_deconstruct","english":"Deconstruct your ship square by square","translation":"Разберите свой корабль клетка за клеткой"}
+{"key":"shipeditor_tooltip_dock","english":"Install a docking port. Every ship needs at least one functioning docking port.","translation":"Установите стыковочный порт. Каждому кораблю нужен хотя бы один работающий стыковочный порт."}
+{"key":"shipeditor_tooltip_equipment","english":"Queue the installation of equipment inside your ship.","translation":"Поставьте в очередь установку оборудования внутри вашего корабля."}
+{"key":"shipeditor_tooltip_eyedropper","english":"Lets you select a paint from the exterior of your ship (can also be used by pressing the \"{AltTool}\" key)","translation":"Позволяет выбрать краску с внешней стороны вашего корабля (также можно использовать, нажав клавишу \"{AltTool}\")"}
+{"key":"shipeditor_tooltip_eyedropper","english":"Lets you select a paint from the exterior of your ship (can also be used by pressing the \"Shift\" key)","translation":"Позволяет выбрать краску с внешней стороны вашего корабля (также можно использовать, зажав клавишу \"Shift\")"}
+{"key":"shipeditor_tooltip_habitation","english":"Expand your habitation deck to support more crew and passengers","translation":"Расширьте свой жилой отсек для поддержки большего количества экипажа и пассажиров"}
+{"key":"shipeditor_tooltip_hull","english":"Modify the shape of your spaceship hull","translation":"Измените форму корпуса вашего звездолета"}
+{"key":"shipeditor_tooltip_interior","english":"Open up the interior of your spaceship to create cabins","translation":"Откройте внутреннее пространство вашего звездолета для создания кают"}
+{"key":"shipeditor_tooltip_paintfloor","english":"Toggle painting the floor tiles of your ship","translation":"Переключить окраску напольных плиток вашего корабля"}
+{"key":"shipeditor_tooltip_painthabitation","english":"Toggle painting the exterior panels of the habitation quarters of your ship","translation":"Переключить окраску внешних панелей жилых помещений вашего корабля"}
+{"key":"shipeditor_tooltip_painthull","english":"Toggle painting the exterior panels of the hull of your ship","translation":"Переключить окраску внешних панелей корпуса вашего корабля"}
+{"key":"shipeditor_tooltip_paintscaffold","english":"Toggle painting the scaffolding on your ship","translation":"Переключить окраску каркасов на вашем корабле"}
+{"key":"shipeditor_tooltip_paintstencils","english":"Change the colour of decals applied to the walls of your ship","translation":"Измените цвет наклеек, нанесенных на стены вашего корабля"}
+{"key":"shipeditor_tooltip_paintwalls","english":"Toggle painting the base colour of the walls of your ship","translation":"Переключить окраску базового цвета стен вашего корабля"}
+{"key":"shipeditor_tooltip_scaffold","english":"Add scaffolding to support equipment on the exterior of your ship","translation":"Добавьте каркасы для поддержки оборудования на внешней стороне вашего корабля"}
+{"key":"shipeditor_tooltip_spawn","english":"Spawn equipment and resources inside your ship. (Creative Mode only)","translation":"Создайте оборудование и ресурсы внутри вашего корабля. (Только в Творческом Режиме)"}
+{"key":"shipeditor_tooltip_stencils","english":"Apply or remove decals on the walls of your ship","translation":"Примените или удалите наклейки на стенах вашего корабля"}
+{"key":"shipeditor_tooltip_walls","english":"Build walls inside your spaceship to partition the interior space","translation":"Постройте стены внутри вашего звездолета, чтобы разделить внутреннее пространство"}
