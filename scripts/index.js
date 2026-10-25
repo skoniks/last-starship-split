@@ -3,6 +3,7 @@ const { readFileSync, rmSync, mkdirSync, writeFileSync } = require('fs');
 
 const filter = ['OBSOLETE', 'PREVIOUS'];
 const groups = {
+  objects: ['object', 'equipment', 'recipe'],
   story: [
     'wolf',
     'calltoarms',
@@ -22,14 +23,11 @@ const groups = {
     'toolsmenu',
     'filedialog',
   ],
-  // objects: [],
-  // systems: [],
-  // missions: [],
 };
 
 // story/ — ,
 // ui/ — , , , , , ,
-// objects/ — object, equipment, recipe, boost
+// objects/ — , , , boost
 // systems/ — logistics, order*, trade, tactical, powergrid, engines, factory, techtree
 // missions/ — mission, missions, objective, scenario
 
@@ -52,10 +50,10 @@ async function bootstrap() {
     const group = Object.entries(groups) //
       .find(([, values]) => values.includes(name));
     const path = dir + (group ? '/' + group[0] : '');
+    const file = path + '/' + name + '.jsonl';
+    const data = lines.join('\n') + '\n';
     mkdirSync(path, { recursive: true });
-    writeFileSync(path + '/' + name + '.csv', lines.join('\n') + '\n', {
-      encoding: 'utf8',
-    });
+    writeFileSync(file, data, 'utf8');
   }
 }
 
