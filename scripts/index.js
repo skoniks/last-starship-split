@@ -3,33 +3,144 @@ const { readFileSync, rmSync, mkdirSync, writeFileSync } = require('fs');
 
 const filter = ['OBSOLETE', 'PREVIOUS'];
 const groups = {
-  objects: ['object', 'equipment', 'recipe'],
   story: [
     'wolf',
     'calltoarms',
     'rise',
     'bravenewsector',
     'thefinalstand',
+    'blackhole',
+    'dsi',
+    'tiddlets',
+    'tiddlets3',
     'opentextcrawl',
     'opentextcrawlindustry',
     'opentextcrawlstory',
+    'industryend',
+    'survivalend',
+    'stargatesectorwarning',
+    'episode',
   ],
+
+  missions: [
+    'mission',
+    'missions',
+    'objective',
+    'evacuationobjective',
+    'nomadobjective',
+    'scienceobjective',
+  ],
+
+  tutorial: ['tutorial', 'newplayerhelp'],
+
   ui: [
     'hud',
+    'hudmode',
+    'scenario',
     'settings',
     'mainmenu',
     'newmainmenu',
     'keybinding',
-    'toolsmenu',
     'filedialog',
+    'dialog',
+    'analyticsconsentdialog',
+    'language',
+    'save',
+    'speed',
+    'tooltip',
+    'format',
+    'ellipsis',
+    'pressanykey',
+    'buynow',
+    'feedback',
+    'legal',
+    'steamstore',
+    'wishlist',
+    'tagline',
+    'credits',
+    'creditstitle',
+  ],
+
+  ship: [
+    'action',
+    'order',
+    'orders',
+    'engine',
+    'engines',
+    'entity',
+    'welfare',
+    'designation',
+    'fighter',
+    'battle',
+    'tactical',
+    'shipai',
+    'alert',
+    'warning',
+    'brokenconstraint',
+  ],
+
+  construction: [
+    'object',
+    'equipment',
+    'shipeditor',
+    'shiplibrary',
+    'origin',
+    'factory',
+    'loader',
+    'storagecrate',
+    'storagetank',
+    'recipe',
+    'smelt',
+    'tiddlet',
+  ],
+
+  economy: [
+    'trade',
+    'factions',
+    'logistics',
+    'logisticswindow',
+    'advancedlogisticswindow',
+    'award',
+    'rating',
+    'ratings',
+  ],
+
+  research: ['techtree', 'boost', 'special', 'researchcredit'],
+
+  navigation: [
+    'galaxymap',
+    'survey',
+    'stargate',
+    'ftl',
+    'andromeda',
+    'intergalactic',
+    'interstellar',
+    'sector',
+    'stations',
+    'communicator',
+    'phase',
+  ],
+
+  power: ['power', 'powergrid'],
+
+  developer: [
+    'debugbuildpanel',
+    'dialogcomponent',
+    'dialogeditor',
+    'dialogposition',
+    'profiler',
+    'samplebank',
+    'samplebankeditor',
+    'soundchannelviewer',
+    'sounddspeditor',
+    'soundeditor',
+    'soundinstanceeditor',
+    'soundparametereditor',
+    'toolsmenu',
+    'translationeditor',
+    'steamworkshopmenu',
   ],
 };
-
-// story/ — ,
-// ui/ — , , , , , ,
-// objects/ — , , , boost
-// systems/ — logistics, order*, trade, tactical, powergrid, engines, factory, techtree
-// missions/ — mission, missions, objective, scenario
 
 async function bootstrap() {
   const blocks = {};
